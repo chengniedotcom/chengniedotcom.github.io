@@ -10,11 +10,10 @@ Journal Publications
 <!-- Use APA 7th edition format -->
 <!-- [ ] todo: add new link and new pdf -->
 
-1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar. (2021) [A Strategic Group Analysis of Competitor Behavior in Search Advertising.](https://aisel.aisnet.org/jais_preprints/7/) _Journal of the Association for Information Systems_, Forthcoming. [![Download](https://img.shields.io/badge/Download%20Paper-green.svg)](/files/sponsored_search.pdf)
+1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar. (2021) [A Strategic Group Analysis of Competitor Behavior in Search Advertising.](https://aisel.aisnet.org/jais_preprints/7/) _Journal of the Association for Information Systems_, Forthcoming. [![Paper](https://img.shields.io/badge/Paper-green.svg)](/files/sponsored_search.pdf)
 
-<!-- [ ] todo: add new link and new pdf -->
-1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar. (2021) [Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy.]() _MIS Quarterly_, Forthcoming. [![Download](https://img.shields.io/badge/Download%20Paper-green.svg)](/files/review_manipulation.pdf)
-    
+1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar. (2021) [Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy.]() _MIS Quarterly_, Forthcoming. [![Paper](https://img.shields.io/badge/Paper-green.svg)](/files/review_manipulation.pdf) [![Video](https://img.shields.io/badge/Video-orange.svg)](https://youtu.be/4LRscKwr4Fw)
+
 Journal Papers Under Review
 ---------------------------
 

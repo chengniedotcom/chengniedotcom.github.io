@@ -7,7 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- <embed src="https://username.github.io/files/cv.pdf" type="application/pdf" width="600px" height="500px" /> -->
+<embed src="https://chengnie.com/files/review_manipulation.pdf" type="application/pdf" width="600px" height="5000px" />
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
