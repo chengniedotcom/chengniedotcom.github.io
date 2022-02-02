@@ -18,6 +18,22 @@ author_profile: true
 | Course Number and Title | Semester | Enrollment | Response Rate(%) | Class GPA | Teaching Evaluation |
 |------------------------------------------------ |------------- |------------ |------------------ |-----------
 |--------------------- |
+| MIS 301: Introduction to MIS - Section C | Fall 2021 | 53 | pending | 3.21 | pending |
+| MIS 301: Introduction to MIS - Section G | Fall 2021 | 67 | pending | 3.21 | pending |
+| MIS 301: Introduction to MIS - Section G | Spring 2021 | 66 | 30.30 | 3.38 | 4.00 |
+| MIS 301: Introduction to MIS - Section L | Spring 2021 | 66 | 31.82 | 3.38 | 4.00 |
+| MIS 301: Introduction to MIS - Section A | Fall 2020 | 90 | 32.98 | 3.10 | 3.68 |
+| MIS 301: Introduction to MIS - Section B | Fall 2020 | 94 | 32.22 | 3.10 | 3.93 |
+| MIS 301: Introduction to MIS - Section J | Spring 2020 | 45 | 33.33 | 3.71 | 4.20 |
+| MIS 301: Introduction to MIS - Section M | Spring 2020 | 69 | 52.31 | 3.83 | 4.09 |
+| MIS 301: Introduction to MIS - Section E | Spring 2019 | 56 | 66.07 | 3.92 | 4.54 |
+| MIS 532: Advanced Business Program Development | Fall 2018 | 3 | 66.67 | 5.00 | 5.00 |
+| MIS 301: Introduction to MIS- Section M | Fall 2018 | 62 | 74.19 | 3.83 | 4.14 |
+
+
+| Course Number and Title | Semester | Enrollment | Response Rate(%) | Class GPA | Teaching Evaluation |
+|------------------------------------------------ |------------- |------------ |------------------ |-----------
+|--------------------- |
 | MIS 301: Introduction to MIS - Section C | Fall 2021 | 53 | 41.51 | 3.21 | 4.32 |
 | MIS 301: Introduction to MIS - Section G | Fall 2021 | 67 | 28.36 | 3.21 | 4.32 |
 | MIS 301: Introduction to MIS - Section G | Spring 2021 | 66 | 30.30 | 3.38 | 4.00 |
