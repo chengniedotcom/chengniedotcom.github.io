@@ -8,11 +8,11 @@ Journal Publications
 --------------------
 
 <!-- Use APA 7th edition format -->
+
 <!-- [ ] todo: add new link and new pdf -->
+1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar. (2021) [Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy.]() _MIS Quarterly_, Forthcoming. [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/review_manipulation.pdf) [![Video](https://img.shields.io/badge/Video-orange.svg)](https://youtu.be/4LRscKwr4Fw)
 
-1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar. (2021) [A Strategic Group Analysis of Competitor Behavior in Search Advertising.](https://aisel.aisnet.org/jais_preprints/7/) _Journal of the Association for Information Systems_, Forthcoming. [![Paper](https://img.shields.io/badge/Paper-green.svg)](/files/sponsored_search.pdf)
-
-1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar. (2021) [Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy.]() _MIS Quarterly_, Forthcoming. [![Paper](https://img.shields.io/badge/Paper-green.svg)](/files/review_manipulation.pdf) [![Video](https://img.shields.io/badge/Video-orange.svg)](https://youtu.be/4LRscKwr4Fw)
+1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar. (2021) [A Strategic Group Analysis of Competitor Behavior in Search Advertising.](https://aisel.aisnet.org/jais/vol22/iss6/5/) _Journal of the Association for Information Systems_, Forthcoming. [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/sponsored_search.pdf)
 
 Journal Papers Under Review
 ---------------------------
@@ -22,7 +22,8 @@ Journal Papers Under Review
 Work in Progress
 ----------------
 
-1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar (2020)  Not All Strategies Are Created Equal: Evidence from Hotels' Response to Counter the Competition from Airbnb. 
+1. Tao Zhu, Xiangpei Hu, Zhengrui Jiang, Cheng Nie (2022) When Do Consumers Buy during Online Promotions! A Theoretical and Empirical Investigation
+1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar (2022)  Not All Strategies Are Created Equal: Evidence from Hotels' Response to Counter the Competition from Airbnb. 
     
 
 Refereed Conference Papers:
