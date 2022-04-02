@@ -12,8 +12,7 @@ Read: 2022-02-23
 
 Recommend: 10/10
 
-This book has covered a lot of aspects of our daily lives: transportation, food, GDP growth, etc. I enjoyed how Vaclav visualized those numbers through his verbal descriptions. They helped me understand the current status of electric vehicles, fossil fuel consumptions, and food waste. The immediate changes it bring to my own life are: 1) I feel less anxious about air travel; 2) I will waste less food; 3) I won't buy a electric car in the near future. 
-
+This book has covered a lot of aspects of our daily lives: transportation, food, GDP growth, etc. I enjoyed how Vaclav visualized those numbers through his verbal description. They helped me understand the current status of electric vehicles, fossil fuel consumption, and food waste. The immediate changes it brings to my own life are: 1) I feel less anxious about air travel; 2) I will waste less food; and 3) I won’t buy an electric car in the near future.
 
 ## Notes
 

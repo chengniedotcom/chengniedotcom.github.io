@@ -12,7 +12,7 @@ Read: 2022-02-18
 
 Recommend: 10/10
 
-Many of the thought experiments are eye-opening for me. I can see my own struggle between old brain and new brain when I face many temptations: social network, over-training, workaholism, etc. I need a constant reminder to choose knowledge over gene. 
+Many of the thought experiments were eye-opening for me. I can see my own struggle between the old brain and new brain when I face many temptations: social networking, over-training, workaholism, etc. I need a constant reminder to choose knowledge over genes.
 
 ## Notes
 

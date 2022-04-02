@@ -17,7 +17,7 @@ Journal Publications
 Journal Papers Under Review
 ---------------------------
 
-1. Zhengrui Jiang, Hua Sun, Arun Rai, Cheng Nie, Yuheng Hu. (2021) How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms. Under revision for 2nd round review at _Information Systems Research_  
+1. Zhengrui Jiang, Arun Rai, Hua Sun, Cheng Nie, Yuheng Hu. (2022) How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms. Under revision for 2nd round review at _Information Systems Research_  
 
 1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar. (2022) Firm Competitive Structure and Consumer Reaction in Search Advertising. Submitted for review at _Journal of the Association for Information Systems_
     

@@ -1,7 +1,7 @@
 ---
 title: *Four Thousand Weeks* - by Oliver Burkeman
 date: 2022-02-06
-permalink: /notes/Four-Thousand-Weeks
+permalink: /notes/four-thousand-weeks
 tags:
   - notes
 ---
@@ -12,7 +12,7 @@ Read: 2022-02-06
 
 Recommend: 9/10
 
-This book is written for me who constantly craves for achieving more. As the author says, I have a bottomless bucket list (or endless to-do list). The book also provides the reasons why I am in this mindset (We treat time as resources) and how to counter (choose wisely about what I am going to procrastinate on). 
+This book is written for me, who constantly craves to achieve more. As the author says, I have a bottomless bucket list (or endless to-do list). The book also provides the reasons why I am in this mindset (we treat time as a resource) and how to counter it (choose wisely about what I am going to procrastinate on). 
 
 
 ## Notes

@@ -10,9 +10,9 @@ tags:
 
 Read: 2022-02-13
 
-Recommend: 5/10
+Recommend: 4/10
 
-I appreciate the critical thinking skill and the story-telling ability of Rutger Bregman. In contrast to veneer theory (bad side), it brings forward the other side  (good side) of the same coin regarding human nature. However, I don't think he had brought down Richard Dawkins' arguments about selfish genes down. Because selfish genes might as well create altruistic and cooperative human beings. 
+I appreciate the critical thinking skills and the story-telling ability of Rutger Bregman. In contrast to the veneer theory (bad side), it brings forward the other side (good side) of the same coin regarding human nature. However, I don’t think he has brought down Richard Dawkins’ arguments about selfish genes because they might as well create altruistic and cooperative human beings.
 
 ## Here are the ten rules of thumb at the end of the book
 

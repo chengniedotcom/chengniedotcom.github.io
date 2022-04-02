@@ -12,7 +12,7 @@ Read: 2022-02-10
 
 Recommend: 7/10
 
-It has a lot of insights about being present. I caught myself having the urge of being right when fighting with my wife and kids. This urge is something I need to watch more by being in the NOW. 
+It has a lot of insights about being present. I caught myself having the urge to be right when fighting with my wife and kids. This urge is something I need to watch more closely by being in the NOW.
 
 ## Notes
 

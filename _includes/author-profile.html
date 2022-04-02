@@ -32,7 +32,10 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <!-- <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li> -->
+        <li><a
+          href="&#x6D;&#97;&#x69;&#x6C;&#116;&#111;:&#x63;h&#x65;&#110;&#103;&#x40;&#x63;h&#x65;&#110;&#103;&#110;&#x69;&#101;&#x2E;&#x63;&#111;&#x6D;"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email: &#x63;h&#x65;&#110;&#103;&#x40;&#x63;h&#x65;&#110;&#103;&#110;&#x69;&#101;&#x2E;&#x63;&#111;&#x6D;
+        </a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>

@@ -13,7 +13,7 @@ Read: 2022-02-02
 
 Recommend: 8/10
 
-I could not understand many of the Bible references that was talked about, but I can appreciate the logic and story that the author conveys. Rule #4 is what I have been practicing since my high school. Rule #2 is something that I need constant reminder. Rule #5 comes at a perfect timing when I am struggling with my 3-year-old son's violence towards me. 
+I could not understand many of the Bible references discussed, but I can appreciate the logic and story that the author conveys. Rule #4 is what I have been practicing since high school. Rule #2 is something that I need constant reminders about. Rule #5 comes at the perfect time when I struggle with my 3-year-old son’s violence towards me. 
 
 ## Notes
 
