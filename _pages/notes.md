@@ -15,6 +15,16 @@ Click on each book cover for my tiny summary and detailed notes(highlights) for 
 
 <!-- 
 
+2022 may 
+-----------
+
+2022 april 
+-----------
+
+/notes/think-again
+/notes/i-can't-make-this-up
+/notes/honest-truth
+----------------------------------------
 [Will - by Will Smith](/notes/will)
 /notes/the-terminal-list
 /notes/will
@@ -54,6 +64,9 @@ Click on each book cover for my tiny summary and detailed notes(highlights) for 
 
 
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves" rel="nofollow" href="/notes/honest-truth"><img alt="The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331070373l/13426114._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Think Again: The Power of Knowing What You Don't Know" rel="nofollow" href="/notes/think-again"><img alt="Think Again: The Power of Knowing What You Don't Know" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602574232l/55539565._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="I Can't Make This Up: Life Lessons" rel="nofollow" href="/notes/i-can't-make-this-up"><img alt="I Can't Make This Up: Life Lessons" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493503674l/33347428._SY75_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" rel="nofollow" href="/notes/the-subtle-art-of-not-giving-a-f*ck"><img alt="The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SX147_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Will" rel="nofollow" href="/notes/will"><img alt="Will" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624126289l/58375739._SX147_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="The Terminal List (Terminal List, #1)" rel="nofollow" href="/notes/the-terminal-list"><img alt="The Terminal List" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520163970l/35297106._SX147_.jpg" /></a></div>
