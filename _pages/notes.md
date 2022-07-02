@@ -4,9 +4,6 @@ permalink: /notes/
 author_profile: true
 ---
 
-<!-- 1. https://www.goodreads.com/user/edit?format=html&tab=widgets#_=_ -->
-<!-- 2. Replace the link with my summary link-->
-<!-- 3. I can use width and SX147 to adjust the width of the container and the cover picture -->
 
 Click on each book cover for my tiny summary and detailed notes(highlights) for each book. 
 
@@ -15,8 +12,27 @@ Click on each book cover for my tiny summary and detailed notes(highlights) for 
 
 <!-- 
 
+Put the newer one on top so that it will be in the same order as the Goodreads order. 
+
+2022 july 
+-----------
+
+/notes/klara-and-the-sun
+
+2022 june 
+-----------
+/notes/the-upside-of-irrationality
+/notes/the-body-keeps-the-score
+/notes/the-code-breaker
+
 2022 may 
 -----------
+/notes/crying-in-h-mart
+/notes/liquid-rules
+
+
+Edited Below
+=============
 
 2022 april 
 -----------
@@ -55,8 +71,10 @@ Click on each book cover for my tiny summary and detailed notes(highlights) for 
 .gr_grid_book_container {
     /* customize book cover container div here */
     float: left;
-    width: 147px;
-    height: 240px;
+    width: 108px;
+    height: 160px;
+    /* width: 147px;
+    height: 240px; */
     padding: 0px 0px;
     overflow: hidden;
 }
@@ -64,19 +82,25 @@ Click on each book cover for my tiny summary and detailed notes(highlights) for 
 
 
   <div class="gr_grid_container">
-    <div class="gr_grid_book_container"><a title="The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves" rel="nofollow" href="/notes/honest-truth"><img alt="The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331070373l/13426114._SX147_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Think Again: The Power of Knowing What You Don't Know" rel="nofollow" href="/notes/think-again"><img alt="Think Again: The Power of Knowing What You Don't Know" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602574232l/55539565._SX147_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="I Can't Make This Up: Life Lessons" rel="nofollow" href="/notes/i-can't-make-this-up"><img alt="I Can't Make This Up: Life Lessons" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493503674l/33347428._SX147_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" rel="nofollow" href="/notes/the-subtle-art-of-not-giving-a-f*ck"><img alt="The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SX147_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Will" rel="nofollow" href="/notes/will"><img alt="Will" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624126289l/58375739._SX147_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="The Terminal List (Terminal List, #1)" rel="nofollow" href="/notes/the-terminal-list"><img alt="The Terminal List" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520163970l/35297106._SX147_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="80/20 Running: Run Stronger and Race Faster by Training Slower" rel="nofollow" href="/notes/80_20-running"><img alt="80/20 Running: Run Stronger and Race Faster by Training Slower" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398027298l/20821042._SX147_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Project Hail Mary" rel="nofollow" href="/notes/project-hail-mary"><img alt="Project Hail Mary" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SX147_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Numbers Don't Lie: 71 Things You Need to Know About the World" rel="nofollow" href="/notes/numbers-don't-lie"><img alt="Numbers Don't Lie: 71 Things You Need to Know About the World" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598804527l/50705179._SX147_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="A Thousand Brains: A New Theory of Intelligence" rel="nofollow" href="/notes/a-thousand-brains"><img alt="A Thousand Brains: A New Theory of Intelligence" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609237769l/54503521._SX147_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Humankind: A Hopeful History" rel="nofollow" href="/notes/humankind"><img alt="Humankind: A Hopeful History" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577251406l/52879286._SX147_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="The Power of Now: A Guide to Spiritual Enlightenment" rel="nofollow" href="/notes/the-power-of-now"><img alt="The Power of Now: A Guide to Spiritual Enlightenment" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925535l/6708._SX147_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Four Thousand Weeks: Time Management for Mortals" rel="nofollow" href="/notes/four-thousand-weeks"><img alt="Four Thousand Weeks: Time Management for Mortals" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627425434l/54785515._SX147_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="12 Rules for Life: An Antidote to Chaos" rel="nofollow" href="/notes/12-rules-for-life"><img alt="12 Rules for Life: An Antidote to Chaos" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512705866l/30257963._SX147_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Klara and the Sun" rel="nofollow" href="/notes/klara-and-the-sun"><img alt="Klara and the Sun" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603206535l/54120408._SX98_.jpg" /></a> </div>
+    <div class="gr_grid_book_container"><a title="The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race" rel="nofollow" href="/notes/the-code-breaker"><img alt="The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg" /></a> </div>
+    <div class="gr_grid_book_container"><a title="The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma" rel="nofollow" href="/notes/the-body-keeps-the-score"><img alt="The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594559067l/18693771._SX98_.jpg" /></a> </div>
+    <div class="gr_grid_book_container"><a title="The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home" rel="nofollow" href="/notes/the-upside-of-irrationality"><img alt="The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1268511997l/7815744._SX98_.jpg" /></a> </div>
+    <div class="gr_grid_book_container"><a title="Liquid Rules: The Delightful and Dangerous Substances That Flow Through Our Lives" rel="nofollow" href="/notes/liquid-rules"><img alt="Liquid Rules: The Delightful and Dangerous Substances That Flow Through Our Lives" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519637292l/35721140._SX98_.jpg" /></a> </div>
+    <div class="gr_grid_book_container"><a title="Crying in H Mart" rel="nofollow" href="/notes/crying-in-h-mart"><img alt="Crying in H Mart" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601937850l/54814676._SX98_.jpg" /></a> </div>
+    <div class="gr_grid_book_container"><a title="The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves" rel="nofollow" href="/notes/honest-truth"><img alt="The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331070373l/13426114._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Think Again: The Power of Knowing What You Don't Know" rel="nofollow" href="/notes/think-again"><img alt="Think Again: The Power of Knowing What You Don't Know" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602574232l/55539565._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="I Can't Make This Up: Life Lessons" rel="nofollow" href="/notes/i-can't-make-this-up"><img alt="I Can't Make This Up: Life Lessons" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493503674l/33347428._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" rel="nofollow" href="/notes/the-subtle-art-of-not-giving-a-f*ck"><img alt="The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Will" rel="nofollow" href="/notes/will"><img alt="Will" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624126289l/58375739._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Terminal List (Terminal List, #1)" rel="nofollow" href="/notes/the-terminal-list"><img alt="The Terminal List" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520163970l/35297106._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="80/20 Running: Run Stronger and Race Faster by Training Slower" rel="nofollow" href="/notes/80_20-running"><img alt="80/20 Running: Run Stronger and Race Faster by Training Slower" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398027298l/20821042._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Project Hail Mary" rel="nofollow" href="/notes/project-hail-mary"><img alt="Project Hail Mary" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Numbers Don't Lie: 71 Things You Need to Know About the World" rel="nofollow" href="/notes/numbers-don't-lie"><img alt="Numbers Don't Lie: 71 Things You Need to Know About the World" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598804527l/50705179._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="A Thousand Brains: A New Theory of Intelligence" rel="nofollow" href="/notes/a-thousand-brains"><img alt="A Thousand Brains: A New Theory of Intelligence" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609237769l/54503521._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Humankind: A Hopeful History" rel="nofollow" href="/notes/humankind"><img alt="Humankind: A Hopeful History" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577251406l/52879286._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Power of Now: A Guide to Spiritual Enlightenment" rel="nofollow" href="/notes/the-power-of-now"><img alt="The Power of Now: A Guide to Spiritual Enlightenment" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925535l/6708._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Four Thousand Weeks: Time Management for Mortals" rel="nofollow" href="/notes/four-thousand-weeks"><img alt="Four Thousand Weeks: Time Management for Mortals" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627425434l/54785515._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="12 Rules for Life: An Antidote to Chaos" rel="nofollow" href="/notes/12-rules-for-life"><img alt="12 Rules for Life: An Antidote to Chaos" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512705866l/30257963._SX98_.jpg" /></a></div>
   <!-- <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Cheng, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript> -->
   </div>

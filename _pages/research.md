@@ -10,7 +10,7 @@ Journal Publications
 <!-- Use APA 7th edition format -->
 
 <!-- [ ] todo: add new link and new pdf -->
-1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar. (2021) [Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy.]() _MIS Quarterly_, Forthcoming. [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/review_manipulation.pdf) [![Video](https://img.shields.io/badge/Video-orange.svg)](https://youtu.be/4LRscKwr4Fw)
+1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar. (2021) [Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy.](https://misq.umn.edu/competing-with-the-sharing-economy-incumbents-reaction-on-review-manipulation.html) _MIS Quarterly_, Forthcoming. [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/review_manipulation.pdf) [![Video](https://img.shields.io/badge/Video-orange.svg)](https://youtu.be/4LRscKwr4Fw)
 
 1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar. (2021) [A Strategic Group Analysis of Competitor Behavior in Search Advertising.](https://aisel.aisnet.org/jais/vol22/iss6/5/) _Journal of the Association for Information Systems_, Forthcoming. [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/sponsored_search.pdf)
 
@@ -19,7 +19,7 @@ Journal Papers Under Review
 
 1. Zhengrui Jiang, Arun Rai, Hua Sun, Cheng Nie, Yuheng Hu. (2022) How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms. Submitted for second round review at _Information Systems Research_  
 
-1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar. (2022) Firm Competitive Structure and Consumer Reaction in Search Advertising. Submitted for review at _Journal of the Association for Information Systems_
+1. Cheng Nie, Zhiqiang Zheng, Sumit Sarkar. (2022) Firm Competitive Structure and Consumer Reaction in Search Advertising. Revising for second round review at _Journal of the Association for Information Systems_
     
 1. Tao Zhu, Cheng Nie, Zhengrui Jiang, Xiangpei Hu (2022) When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation. Submitted for review at _Production and Operations Management_
 

@@ -14,10 +14,13 @@ author_profile: true
 # Iowa State University, 2018–Now
 
 <!-- used instructor rating (Q2) instead of class rating (Q1) in 2021 fall-->
+<!-- | MIS 301: Introduction to MIS - Section G | Spring 2022 |  | | | | -->
 
 | Course Number and Title | Semester | Enrollment | Response Rate(%) | Class GPA | Teaching Evaluation |
 |------------------------------------------------ |------------- |------------ |------------------ |-----------
 |--------------------- |
+| MIS 301: Introduction to MIS - Section C | Spring 2022 | 54 | 64.81 | 3.34 | 4.34 |
+| MIS 301: Introduction to MIS - Section G | Spring 2022 | 59 | 83.05| 3.34 | 4.51 |
 | MIS 301: Introduction to MIS - Section C | Fall 2021 | 53 | 41.51 | 3.21 | 4.32 |
 | MIS 301: Introduction to MIS - Section G | Fall 2021 | 67 | 28.36 | 3.21 | 4.32 |
 | MIS 301: Introduction to MIS - Section G | Spring 2021 | 66 | 30.30 | 3.38 | 4.00 |
