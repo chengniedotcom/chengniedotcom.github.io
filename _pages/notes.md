@@ -18,6 +18,8 @@ Put the newer one on top so that it will be in the same order as the Goodreads o
 -----------
 
 /notes/klara-and-the-sun
+/notes/visual-studio-code-for-python-programmers
+/notes/1984
 
 2022 june 
 -----------
@@ -82,6 +84,8 @@ Edited Below
 
 
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="1984" rel="nofollow" href="/notes/1984"><img alt="1984" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532714506l/40961427._SX98_.jpg" /></a> </div>
+    <div class="gr_grid_book_container"><a title="Visual Studio Code for Python Programmers" rel="nofollow" href="/notes/visual-studio-code-for-python-programmers"><img alt="Visual Studio Code for Python Programmers" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623118657l/55895023._SX98_.jpg" /></a> </div>
     <div class="gr_grid_book_container"><a title="Klara and the Sun" rel="nofollow" href="/notes/klara-and-the-sun"><img alt="Klara and the Sun" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603206535l/54120408._SX98_.jpg" /></a> </div>
     <div class="gr_grid_book_container"><a title="The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race" rel="nofollow" href="/notes/the-code-breaker"><img alt="The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg" /></a> </div>
     <div class="gr_grid_book_container"><a title="The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma" rel="nofollow" href="/notes/the-body-keeps-the-score"><img alt="The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594559067l/18693771._SX98_.jpg" /></a> </div>

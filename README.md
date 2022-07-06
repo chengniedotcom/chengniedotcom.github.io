@@ -41,10 +41,13 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 ## Verfiy the updates before committing the changes to github
 
 1. Preview markdown in vs code
-2. Verfiy locally using ``bundle exec jekyll serve --trace``
+2. Verify locally using ``bundle exec jekyll serve --trace``
 
 ```
 
+    # in vs code
+    Publish
+    # or in terminal
     cd '/Users/chengnie/Dropbox/public/chengniedotcom.github.io'
     bundle exec jekyll serve --trace
     git status
