@@ -45,8 +45,9 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 ```
 
-    # in vs code
-    Publish
+    # in vs code. No need for the dev branch. 
+    Commit the change with Source Control view
+    Git: Push
     # or in terminal
     cd '/Users/chengnie/Dropbox/public/chengniedotcom.github.io'
     bundle exec jekyll serve --trace
