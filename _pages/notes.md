@@ -14,6 +14,16 @@ Click on each book cover for my tiny summary and detailed notes(highlights) for 
 
 Put the newer one on top so that it will be in the same order as the Goodreads order. 
 
+Needs publish
+/notes/how-the-world-really-works
+/notes/discourse-summaries
+
+2022 Aug 
+-----------
+
+/notes/我所理解的生活
+/notes/他的国
+
 2022 july 
 -----------
 
@@ -84,6 +94,9 @@ Edited Below
 
 
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="他的国" rel="nofollow" href="/notes/他的国"><img alt="他的国" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373367257l/18171758._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="我所理解的生活" rel="nofollow" href="/notes/我所理解的生活"><img alt="我所理解的生活" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385654751l/19024336._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="How the World Really Works: A Scientist’s Guide to Our Past, Present and Future" rel="nofollow" href="/notes/how-the-world-really-works"><img alt="How the World Really Works: A Scientist’s Guide to Our Past, Present and Future" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641444915l/56587388._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="1984" rel="nofollow" href="/notes/1984"><img alt="1984" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532714506l/40961427._SX98_.jpg" /></a> </div>
     <div class="gr_grid_book_container"><a title="Visual Studio Code for Python Programmers" rel="nofollow" href="/notes/visual-studio-code-for-python-programmers"><img alt="Visual Studio Code for Python Programmers" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623118657l/55895023._SX98_.jpg" /></a> </div>
     <div class="gr_grid_book_container"><a title="Klara and the Sun" rel="nofollow" href="/notes/klara-and-the-sun"><img alt="Klara and the Sun" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603206535l/54120408._SX98_.jpg" /></a> </div>
@@ -108,3 +121,32 @@ Edited Below
     <div class="gr_grid_book_container"><a title="12 Rules for Life: An Antidote to Chaos" rel="nofollow" href="/notes/12-rules-for-life"><img alt="12 Rules for Life: An Antidote to Chaos" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512705866l/30257963._SX98_.jpg" /></a></div>
   <!-- <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Cheng, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript> -->
   </div>
+
+# 2019
+
+
+<style type="text/css" media="screen">
+.gr_grid_container {
+    /* customize grid container div here. eg: width: 500px; */
+}
+
+.gr_grid_book_container {
+    /* customize book cover container div here */
+    float: left;
+    width: 108px;
+    height: 160px;
+    /* width: 147px;
+    height: 240px; */
+    padding: 0px 0px;
+    overflow: hidden;
+}
+</style>
+
+  <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="12 Rules for Life: An Antidote to Chaos" rel="nofollow" href="/notes/12-rules-for-life"><img alt="12 Rules for Life: An Antidote to Chaos" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512705866l/30257963._SX98_.jpg" /></a></div>
+  <!-- <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Cheng, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript> -->
+  </div>
+
+
+
+

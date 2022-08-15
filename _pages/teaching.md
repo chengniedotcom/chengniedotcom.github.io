@@ -13,25 +13,25 @@ author_profile: true
 
 # Iowa State University, 2018–Now
 
-<!-- used instructor rating (Q2) instead of class rating (Q1) in 2021 fall-->
+<!-- 2019 Spring to 2021 spring, only overall course rating, instead of instructor rating, is available. -->
 <!-- | MIS 301: Introduction to MIS - Section G | Spring 2022 |  | | | | -->
 
-| Course Number and Title | Semester | Enrollment | Response Rate(%) | Class GPA | Teaching Evaluation |
+| Course Number and Title | Semester | Enrollment | Response Rate(%) | Class GPA | Instructor Rating |
 |------------------------------------------------ |------------- |------------ |------------------ |-----------
 |--------------------- |
-| MIS 301: Introduction to MIS - Section C | Spring 2022 | 54 | 64.81 | 3.34 | 4.34 |
-| MIS 301: Introduction to MIS - Section G | Spring 2022 | 59 | 83.05| 3.34 | 4.51 |
-| MIS 301: Introduction to MIS - Section C | Fall 2021 | 53 | 41.51 | 3.21 | 4.32 |
-| MIS 301: Introduction to MIS - Section G | Fall 2021 | 67 | 28.36 | 3.21 | 4.32 |
-| MIS 301: Introduction to MIS - Section G | Spring 2021 | 66 | 30.30 | 3.38 | 4.00 |
-| MIS 301: Introduction to MIS - Section L | Spring 2021 | 66 | 31.82 | 3.38 | 4.00 |
-| MIS 301: Introduction to MIS - Section A | Fall 2020 | 90 | 32.98 | 3.10 | 3.68 |
-| MIS 301: Introduction to MIS - Section B | Fall 2020 | 94 | 32.22 | 3.10 | 3.93 |
-| MIS 301: Introduction to MIS - Section J | Spring 2020 | 45 | 33.33 | 3.71 | 4.20 |
-| MIS 301: Introduction to MIS - Section M | Spring 2020 | 69 | 52.31 | 3.83 | 4.09 |
-| MIS 301: Introduction to MIS - Section E | Spring 2019 | 56 | 66.07 | 3.92 | 4.54 |
-| MIS 532: Advanced Business Program Development | Fall 2018 | 3 | 66.67 | 3.89 | 5.00 |
-| MIS 301: Introduction to MIS- Section M | Fall 2018 | 62 | 74.19 | 3.83 | 4.14 |
+| MIS 301: Introduction to MIS - Section C | Spring 2022 | 54 | 64.81 | 3.22 | 4.57 |
+| MIS 301: Introduction to MIS - Section G | Spring 2022 | 58 | 84.48| 3.45 | 4.53 |
+| MIS 301: Introduction to MIS - Section C | Fall 2021 | 53 | 41.51 | 3.15 | 4.32 |
+| MIS 301: Introduction to MIS - Section G | Fall 2021 | 67 | 28.36 | 3.25 | 4.32 |
+| MIS 301: Introduction to MIS - Section G | Spring 2021 | 66 | 30.30 | 3.47 | 4.00 |
+| MIS 301: Introduction to MIS - Section L | Spring 2021 | 66 | 31.82 | 3.32 | 4.00 |
+| MIS 301: Introduction to MIS - Section A | Fall 2020 | 90 | 32.98 | 2.93 | 3.68 |
+| MIS 301: Introduction to MIS - Section B | Fall 2020 | 94 | 32.22 | 3.22 | 3.93 |
+| MIS 301: Introduction to MIS - Section J | Spring 2020 | 45 | 33.33 | 3.73 | 4.20 |
+| MIS 301: Introduction to MIS - Section M | Spring 2020 | 69 | 52.31 | 3.73 | 4.09 |
+| MIS 301: Introduction to MIS - Section E | Spring 2019 | 56 | 66.07 | 3.91 | 4.43 |
+| MIS 532: Advanced Business Program Development | Fall 2018 | 3 | 66.67 | 4.00 | 5.00 |
+| MIS 301: Introduction to MIS- Section M | Fall 2018 | 71 | 64.79 | 3.93 | 4.02 |
 
 # University of Texas at Dallas, 2012–2018
 
