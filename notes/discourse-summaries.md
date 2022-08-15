@@ -1,19 +1,18 @@
 ---
-title: *TITLE* - by AUTHOR
-date: 2022-DATE
+title: *The Discourse Summaries* - by S.N. Goenka
+date: 2019-01-26
 permalink: /notes/discourse-summaries
 tags:
     - notes
 ---
 
-## *TITLE* - by AUTHOR
+## *The Discourse Summaries* - by S.N. Goenka
 
-Read: 2022-DATE
+Read: 2019-01-26
 
-Recommend: SCORE/10
+Recommend: 8/10
 
-SUMMARY
-Address the TK items
+It's a good reminder about those insights learnt in a 10-day [Vipassana course](https://www.dhamma.org/en/index). I wish they include more interesting stories from the course. The videos were recorded in 1991 while this book was written based on 1984 discourse. Other than the life-after-life arguments, I like the other arguments and analogies in the book. Fortunately, as S. N. Goenka said: "it is not necessary that one should first believe in past lives and future lives. In practicing Vipassana, the present is most important."
 
 ## Notes
 
@@ -50,7 +49,12 @@ Address the TK items
 
 1. There are three types of action: physical, vocal and mental. One who learns to observe oneself quickly realizes that mental action is the most important, because this is the seed, the action that will give results. Vocal and physical actions are merely projections of the mental action, yardsticks to measure its intensity. They originate as mental action, and this mental action subsequently manifests at the vocal or physical level. 
 
-1. TK: As you proceed, it will become clear that there are four major segments or aggregates of the mind. The first segment is called viññāṇa, which may be translated as consciousness. Then the next part of the mind starts working: saññā, perception. One gives an evaluation of good or bad, according to one’s past experience. At once the third part of the mind starts working: vedanā, sensation. As soon as a sound comes, there is a sensation on the body, but when the perception recognizes it and gives it a valuation, the sensation becomes pleasant or unpleasant, in accordance with that valuation. Then the fourth part of the mind starts working: saṅkhāra, reaction
+1. As you proceed, it will become clear that there are four major segments or aggregates of the mind.
+
+    1. The first segment is called viññāṇa, which may be translated as consciousness.
+    1. Then the next part of the mind starts working: saññā, perception. One gives an evaluation of good or bad, according to one’s past experience.
+    1. At once the third part of the mind starts working: vedanā, sensation. As soon as a sound comes, there is a sensation on the body, but when the perception recognizes it and gives it a valuation, the sensation becomes pleasant or unpleasant, in accordance with that valuation.
+    1. Then the fourth part of the mind starts working: saṅkhāra, reaction
 
 1. Here is the real seed that gives fruit, the action that will have results: the saṅkhāra, the mental reaction. Every moment one keeps sowing this seed, keeps reacting with liking or disliking, craving or aversion, and by doing so makes oneself miserable.
 
@@ -60,7 +64,12 @@ Address the TK items
 
 1. Similarly one develops attachment to the four mental aggregates of consciousness, perception, sensation, reaction, and clings to them as ‘I, mine’ despite their constantly changing nature. For conventional purposes one must use the words ‘I’ and ‘mine,’ but when one develops attachment to the five aggregates, one creates suffering for oneself. 
 
-1. TK: There are four types of attachment that one keeps developing in life. The first is attachment to one’s desires, to the habit of craving. Whenever craving arises in the mind, it is accompanied by a physical sensation. Although at a deep level a storm of agitation has begun, at a superficial level one likes the sensation and wishes it to continue.  Another attachment is the clinging to ‘I, mine,’ without knowing what this ‘I’ really is.  Attachment to what is impermanent is bound to bring misery.  Similarly, one develops attachment to one’s views and beliefs, and cannot bear any criticism of them, or even accept that others may have differing views.  Yet another attachment is the clinging to one’s rites, rituals, and religious practices. One fails to understand that these are all merely outward shows, that they do not contain the essence of truth.
+1. There are four types of attachment that one keeps developing in life.
+
+    1. The first is attachment to one’s desires, to the habit of craving. Whenever craving arises in the mind, it is accompanied by a physical sensation. Although at a deep level a storm of agitation has begun, at a superficial level one likes the sensation and wishes it to continue.
+    1. Another attachment is the clinging to ‘I, mine,’ without knowing what this ‘I’ really is. Attachment to what is impermanent is bound to bring misery.  
+    1. Similarly, one develops attachment to one’s views and beliefs, and cannot bear any criticism of them, or even accept that others may have differing views. 
+    1. Yet another attachment is the clinging to one’s rites, rituals, and religious practices. One fails to understand that these are all merely outward shows, that they do not contain the essence of truth.
 
 1. Now what is the cause of this attachment? He found that it arises because of the momentary reactions of liking and disliking. Liking develops into great craving; disliking into great aversion, the mirror image of craving, and both turn into attachment.
 
