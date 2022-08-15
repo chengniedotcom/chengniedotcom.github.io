@@ -1,21 +1,29 @@
 ---
 title: "Notes"
 permalink: /notes/
-author_profile: true
+author_profile: false
 ---
 
 
 Click on each book cover for my tiny summary and detailed notes(highlights) for each book. 
 
 
-# 2022
+<!-- # 2022 -->
 
 <!-- 
 
 Put the newer one on top so that it will be in the same order as the Goodreads order. 
 
-Needs publish
-/notes/how-the-world-really-works
+Read before 2022
+----------------
+Currently, two issues: 1) I don't see the static link for all books beyond the first 20 books; 2) Not sure how to display different years in this page. 
+
+For issue 1). I can copy paste the link in the javascript part to get the complete list and save it to _notes.html. use print() in python to clean those escape strings. Save it to _notes_processed.html. Now I can use it to get all the books I want. Replace the picture size to the one used here: _S\w\d\d_ -> _SX98_
+
+--------------------------------------------------
+130 books on Aug 15, 2022 in _notes_processed.html
+--------------------------------------------------
+
 /notes/discourse-summaries
 
 2022 Aug 
@@ -23,6 +31,7 @@ Needs publish
 
 /notes/我所理解的生活
 /notes/他的国
+/notes/how-the-world-really-works
 
 2022 july 
 -----------
@@ -119,34 +128,6 @@ Edited Below
     <div class="gr_grid_book_container"><a title="The Power of Now: A Guide to Spiritual Enlightenment" rel="nofollow" href="/notes/the-power-of-now"><img alt="The Power of Now: A Guide to Spiritual Enlightenment" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925535l/6708._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Four Thousand Weeks: Time Management for Mortals" rel="nofollow" href="/notes/four-thousand-weeks"><img alt="Four Thousand Weeks: Time Management for Mortals" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627425434l/54785515._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="12 Rules for Life: An Antidote to Chaos" rel="nofollow" href="/notes/12-rules-for-life"><img alt="12 Rules for Life: An Antidote to Chaos" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512705866l/30257963._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Discourse Summaries" rel="nofollow" href="/notes/discourse-summaries"><img alt="Discourse Summaries" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348456310l/1263497._SX98_.jpg" /></a></div>
   <!-- <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Cheng, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript> -->
   </div>
-
-# 2019
-
-
-<style type="text/css" media="screen">
-.gr_grid_container {
-    /* customize grid container div here. eg: width: 500px; */
-}
-
-.gr_grid_book_container {
-    /* customize book cover container div here */
-    float: left;
-    width: 108px;
-    height: 160px;
-    /* width: 147px;
-    height: 240px; */
-    padding: 0px 0px;
-    overflow: hidden;
-}
-</style>
-
-  <div class="gr_grid_container">
-    <div class="gr_grid_book_container"><a title="12 Rules for Life: An Antidote to Chaos" rel="nofollow" href="/notes/12-rules-for-life"><img alt="12 Rules for Life: An Antidote to Chaos" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512705866l/30257963._SX98_.jpg" /></a></div>
-  <!-- <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Cheng, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript> -->
-  </div>
-
-
-
-
