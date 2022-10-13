@@ -15,8 +15,8 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 ## Update Marathon map
 
 1. Update marathon.tsv 
-2. Run marathonmap.py in python 3.8 environment to update marathonmap/map.html
-3. Update _pages/marathonmap.html by adding the new record of Marahon in the html table. Convert the tsv to html table using this [tool](https://wtools.io/convert-tsv-to-html-table)
+2. Run marathon.py in python 3.8 environment to update marathon/map.html
+3. Update _pages/marathon.html by adding the new record of Marahon in the html table. Convert the tsv to html table using this [tool](https://wtools.io/convert-tsv-to-html-table)
 
 
 ## Update teaching
@@ -27,9 +27,9 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 ## Update Notes
 
-1. Retrieve books I read in this [link](https://www.goodreads.com/user/edit?format=html&tab=widgets#_=_). Select "Date Read" and "desc" to pick the most recently read books. 
+1. Retrieve books I read in this [link](https://www.goodreads.com/user/edit?format=html&tab=widgets#_=_). Select "Date Read" and "desc" to pick the most recently read books. For an older book, retrieve it from the local _notes_processed.html file. 
 2. Paste the html section to _pages/notes.md and keep only books I haven't added yet. 
-3. Replace the link with my summary links, so that the click would lead to my notes. 
+3. Replace the href link with my summary links, so that the click would lead to my notes. 
 4. I can use width of SX147(changed to SX98 on July 1, 2022) to adjust the width of the container and the cover picture
 
 

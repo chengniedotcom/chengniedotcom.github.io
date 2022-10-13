@@ -2,6 +2,7 @@
 title: *The Upside of Irrationality* - by Dan Ariely
 date: 2022-06-13
 permalink: /notes/the-upside-of-irrationality
+author_profile: false
 tags:
     - notes
 ---
@@ -12,7 +13,7 @@ Read: 2022-06-13
 
 Recommend: 8/10
 
-This book help me understand more about my own limitations like "self-hearding": "we look at our past actions to inform ourselves of who we are more generally, and then we act in compatible ways.". It also provides a counter argument about the division of labor: Even though I can outsource programming tasks to other more experienced programmers; I don't like their programs as much as the programs I wrote. I appreciate Professor Dan Airely's openness about his injury and his thought process regarding his position in the dating hierarchy. 
+This book helps me understand my limitations like "self-herding": "we look at our past actions to inform ourselves of who we are, and then we act in compatible ways.". It also provides a counterargument about the division of labor: Even though I can outsource programming tasks to more experienced programmers, I'm not fond of their programs as much as the programs I wrote. I appreciate Professor Dan Ariely's openness about his injury and thought process regarding his position in the dating hierarchy. 
 
 
 ## Notes

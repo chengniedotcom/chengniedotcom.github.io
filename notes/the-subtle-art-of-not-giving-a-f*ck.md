@@ -2,6 +2,7 @@
 title: *The Subtle Art of Not Giving A F\*ck - by Mark Manson
 date: 2022-03-23
 permalink: /notes/the-subtle-art-of-not-giving-a-f*ck
+author_profile: false
 tags:
   - notes
 ---

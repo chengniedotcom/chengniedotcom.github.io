@@ -2,6 +2,7 @@
 title: *The Honest Truth About Dishonesty* - by Dan Ariely
 date: 2022-05-02
 permalink: /notes/honest-truth
+author_profile: false
 tags:
     - notes
 ---
@@ -13,7 +14,7 @@ Read: 2022-05-02
 Recommend: 10/10
 
 
-Professor Dan Ariely is my role model in academia – he’s creative, productive, eloquent, humorous and honest. I started searching for his book after playing one of his TED speeches in my class: [Are we in control of our decisions?](https://www.youtube.com/watch?v=9X68dm92HVI) In this book, he says: “We cheat up to the level that allows us to retain our self-image as reasonably honest individuals.” Here is my verbal summary of Figure 6 in this book:
+Professor Dan Ariely is my role model in academia – he’s creative, productive, eloquent, humorous and honest. I started searching for his book after playing one of his TED speeches in my class: [Are we in control of our decisions?](https://www.youtube.com/watch?v=9X68dm92HVI). In this book, he says: “We cheat up to the level that allows us to retain our self-image as reasonably honest individuals.” It's quite fitting to see that one of the PNAS papers got retracted due to [data fabrication](https://datacolada.org/98). Here is my summary of Figure 6 in this book:
 
 What increases dishonesty?
 
@@ -35,7 +36,7 @@ What has no effect on dishonesty?
 What decreases dishonesty?
 
 - Pledges
-- Signatures (especially at the top of forms)
+- Signatures ~~(especially at the top of forms)~~
 - Moral reminders 
 - Supervision
 

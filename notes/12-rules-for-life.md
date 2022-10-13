@@ -3,6 +3,7 @@
 title: *12 Rules for Life* - by Jordan B. Peterson
 date: 2022-02-02
 permalink: /notes/12-rules-for-life
+author_profile: false
 tags:
   - notes
 ---

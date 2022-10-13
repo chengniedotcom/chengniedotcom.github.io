@@ -9,9 +9,11 @@ Journal Publications
 
 <!-- Use APA 7th edition format -->
 
-1. Nie C, Zheng Z (Eric), Sarkar S (2022). [Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy.](https://misq.umn.edu/competing-with-the-sharing-economy-incumbents-reaction-on-review-manipulation.html) _MIS Quarterly_, (46:3), 1573–1602. [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/review_manipulation.pdf) [![Video](https://img.shields.io/badge/Video-orange.svg)](https://youtu.be/4LRscKwr4Fw)
+1. Nie C, Zheng Z (Eric), Sarkar S (2022). [Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy.](https://misq.umn.edu/competing-with-the-sharing-economy-incumbents-reaction-on-review-manipulation.html) _MIS Quarterly_, (46:3), 1573–1602. 
+<!-- [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/review_manipulation.pdf) [![Video](https://img.shields.io/badge/Video-orange.svg)](https://youtu.be/4LRscKwr4Fw) -->
 
-1. Nie C, Zheng Z (Eric), Sarkar S (2021). [A Strategic Group Analysis of Competitor Behavior in Search Advertising.](https://aisel.aisnet.org/jais/vol22/iss6/5/) _Journal of the Association for Information Systems_, (22:6), 1659–1685. [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/sponsored_search.pdf)
+1. Nie C, Zheng Z (Eric), Sarkar S (2021). [A Strategic Group Analysis of Competitor Behavior in Search Advertising.](https://aisel.aisnet.org/jais/vol22/iss6/5/) _Journal of the Association for Information Systems_, (22:6), 1659–1685. 
+<!-- [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/sponsored_search.pdf) -->
 
 Journal Papers Under Review
 ---------------------------

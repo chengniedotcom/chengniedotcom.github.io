@@ -2,6 +2,7 @@
 title: *A Thousand Brains* - by Jeff Hawkins
 date: 2022-02-18
 permalink: /notes/a-thousand-brains
+author_profile: false
 tags:
   - notes
 ---

@@ -2,6 +2,7 @@
 title: *I-Can't-Make-This-Up: Life Lessons* - by Kevin Hart
 date: 2022-04-16
 permalink: /notes/i-can't-make-this-up
+author_profile: false
 tags:
   - notes
 ---

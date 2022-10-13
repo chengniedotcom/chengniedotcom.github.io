@@ -2,6 +2,7 @@
 title: *The Body Keeps the Score* - by Bessel van der Kolk
 date: 2022-06-21
 permalink: /notes/the-body-keeps-the-score
+author_profile: false
 tags:
     - notes
 ---
@@ -12,10 +13,9 @@ Read: 2022-06-21
 
 Recommend: 9/10
 
+The traumatic experience influences us all. It is in our own hands to make things right again, not the doctors or the medicine they prescribe. Meditation by looking inward is helpful: "Sensing, naming, and identifying what is going on inside is the first step to recovery." The book also got me interested in Yoga, which strengthens the connection between the mind and the body. 
 
-The tramatic experience influences us all. It is in our own hands to make things right again, not the doctors or the medicine they prescribe. Meditation by looking inward is helpful: "Sensing, naming, and identifying what is going on inside is the first step to recovery." The book also got me interested in Yoga, which strengthen the connection between the mind and the body. 
-
-P.S. James Pennebaker was mentioned and I felt I had seen this name somewhere else. Then I found Professor Pennebaker is involved with the development of a popular language processing tool called LIWC. 
+P.S. James Pennebaker was mentioned, and I felt I had seen this name elsewhere. Then I found Professor Pennebaker is involved with developing a popular language processing tool called LIWC. 
 
 
 ## Notes

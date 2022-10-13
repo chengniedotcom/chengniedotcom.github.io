@@ -2,6 +2,7 @@
 title: *Think Again* - by Adam Grant
 date: 2022-04-24
 permalink: /notes/think-again
+author_profile: false
 tags:
     - notes
 ---

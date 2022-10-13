@@ -2,6 +2,7 @@
 title: *How the World Really Works* - by Vaclav Smil
 date: 2022-07-09
 permalink: /notes/how-the-world-really-works
+author_profile: false
 tags:
     - notes
 ---
@@ -12,8 +13,7 @@ Read: 2022-07-09
 
 Recommend: 10/10
 
-This book helps me understand the swing between our urgency of solving the global warming problem as soon as possible and the dilemma of not being able to coordinate a actionable plan for the largest emitters. I also come to understand chicken has less energy footprint than potatoes. 
-
+This book helps me understand the swing between our urgency of solving the global warming problem as soon as possible and the dilemma of not being able to coordinate an actionable plan for the largest emitters. I have also come to understand chicken has less energy footprint than potatoes. 
 
 ## Notes
 

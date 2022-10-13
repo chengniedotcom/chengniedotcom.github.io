@@ -2,6 +2,7 @@
 title: *Four Thousand Weeks* - by Oliver Burkeman
 date: 2022-02-06
 permalink: /notes/four-thousand-weeks
+author_profile: false
 tags:
   - notes
 ---
@@ -107,7 +108,7 @@ This book is written for me, who constantly craves to achieve more. As the autho
 
 1. The top five, Buffett says, should be those around which he organizes his time. But contrary to what the pilot might have been expecting to hear, the remaining twenty, Buffett allegedly explains, aren’t the second-tier priorities to which he should turn when he gets the chance. Far from it. In fact, they’re the ones he should actively avoid at all costs—because they’re the ambitions insufficiently important to him to form the core of his life yet seductive enough to distract him from the ones that matter most.
 
-1. As soon as I start trying to live any of those lives, though, I’ll be forced to make trade-offs —
+1. As soon as I start trying to live any of those lives, though, I’ll be forced to make trade-offs 
 
 1. “The idea of the future, pregnant with an infinity of possibilities, is thus more fruitful than the future itself,”
 
@@ -127,7 +128,7 @@ This book is written for me, who constantly craves to achieve more. As the autho
 
 1. So it’s not simply that our devices distract us from more important matters. It’s that they change how we’re defining “important matters” in the first place. In the words of the philosopher Harry Frankfurt, they sabotage our capacity to “want what we want to want.”
 
-1. It was impossible to drink from Twitter’s fire hose of anger and suffering —
+1. It was impossible to drink from Twitter’s fire hose of anger and suffering
 
 1. In T. S. Eliot’s words, we are “distracted from distraction by distraction.”
 
@@ -185,7 +186,7 @@ This book is written for me, who constantly craves to achieve more. As the autho
 
 1. As long as you’re filling every hour of the day with some form of striving, you get to carry on believing that all this striving is leading you somewhere—to an imagined future state of perfection, a heavenly realm in which everything runs smoothly, your limited time causes you no pain, and you’re free of the guilty sense that there’s more you need to be doing in order to justify your existence.
 
-1. To rest for the sake of rest—to enjoy a lazy hour for its own sake —
+1. To rest for the sake of rest—to enjoy a lazy hour for its own sake 
 
 1. “It is fun to have fun but you have to know how.”
 
@@ -243,15 +244,11 @@ This book is written for me, who constantly craves to achieve more. As the autho
 
 1. The human disease is often painful, but as the Zen teacher Charlotte Joko Beck puts it, it’s only unbearable for as long as you’re under the impression that there might be a cure.
 
-1. 1. Where in your life or your work are you currently pursuing comfort, when what’s called for is a little discomfort?
-
-1. 2. Are you holding yourself to, and judging yourself by, standards of productivity or performance that are impossible to meet?
-
-1. 3. In what ways have you yet to accept the fact that you are who you are, not the person you think you ought to be?
-
-1. 4. In which areas of life are you still holding back until you feel like you know what you’re doing?
-
-1. 5. How would you spend your days differently if you didn’t care so much about seeing your actions reach fruition?
+  1. Where in your life or your work are you currently pursuing comfort, when what’s called for is a little discomfort?
+  2. Are you holding yourself to, and judging yourself by, standards of productivity or performance that are impossible to meet?
+  3. In what ways have you yet to accept the fact that you are who you are, not the person you think you ought to be?
+  4. In which areas of life are you still holding back until you feel like you know what you’re doing?
+  5. How would you spend your days differently if you didn’t care so much about seeing your actions reach fruition?
 
 1. A modified version of this insight, “Do the next right thing,” has since become a slogan favored among members of Alcoholics Anonymous, as a way to proceed sanely through moments of acute crisis.
 
@@ -265,29 +262,25 @@ This book is written for me, who constantly craves to achieve more. As the autho
 
 1. The average human lifespan is absurdly, terrifyingly, insultingly short. But that isn’t a reason for unremitting despair, or for living in an anxiety-fueled panic about making the most of your limited time. It’s a cause for relief. You get to give up on something that was always impossible—the quest to become the optimized, infinitely capable, emotionally invincible, fully independent person you’re officially supposed to be. Then you get to roll up your sleeves and start work on what’s gloriously possible instead.
 
-1. 1. Adopt a “fixed volume” approach to productivity.
+1. Adopt a “fixed volume” approach to productivity.
 
-1. 2. Serialize, serialize, serialize.
+2. Serialize, serialize, serialize.
 
-1. 3. Decide in advance what to fail at.
+3. Decide in advance what to fail at. But the great benefit of strategic underachievement—that is, nominating in advance whole areas of life in which you won’t expect excellence of yourself—is that you focus that time and energy more effectively.
 
-1. But the great benefit of strategic underachievement—that is, nominating in advance whole areas of life in which you won’t expect excellence of yourself—is that you focus that time and energy more effectively.
+4. Focus on what you’ve already completed, not just on what’s left to complete. As a counterstrategy, keep a “done list,” which starts empty first thing in the morning, and which you then gradually fill with whatever you accomplish through the day.
 
-1. 4. Focus on what you’ve already completed, not just on what’s left to complete.
+5. Consolidate your caring.
 
-1. As a counterstrategy, keep a “done list,” which starts empty first thing in the morning, and which you then gradually fill with whatever you accomplish through the day.
+6. Embrace boring and single-purpose technology.
 
-1. 5. Consolidate your caring.
+7. Seek out novelty in the mundane.
 
-1. 6. Embrace boring and single-purpose technology.
+8. Be a “researcher” in relationships.
 
-1. 7. Seek out novelty in the mundane.
+9. Cultivate instantaneous generosity.
 
-1. 8. Be a “researcher” in relationships.
-
-1. 9. Cultivate instantaneous generosity.
-
-1. 10. Practice doing nothing.
+10. Practice doing nothing.
 
 1. So training yourself to “do nothing” really means training yourself to resist the urge to manipulate your experience or the people and things in the world around you—to let things be as they are.
 

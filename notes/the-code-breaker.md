@@ -2,6 +2,7 @@
 title: *The-Code-Breaker* - by Walter Issacson
 date: 2022-06-25
 permalink: /notes/the-code-breaker
+author_profile: false
 tags:
     - notes
 ---
@@ -12,7 +13,7 @@ Read: 2022-06-25
 
 Recommend: 10/10
 
-I enjoy the journey of underst. I've read quite a few books from Walter Issacson now: Leonardo da Vinci, The Innovators, Steve Jobs, Benjamin Franklin, Einstein. I love them all. For this journey about CRISPR I appreciate the conflict he put into the story: the heros like Jennifer Doudna, Emmanuelle Charpentier, George Church; and the "villains": Feng Zhang, Jiankui He. I also love the thought experiments about where we should draw the line about gene-editing homo sipens.
+I've read quite a few books from Walter Issacson: Leonardo da Vinci, The Innovators, Steve Jobs, Benjamin Franklin, and Einstein. I love them all. For this journey about CRISPR, I appreciate the conflict he put into the story: the heroes like Jennifer Doudna, Emmanuelle Charpentier, and George Church; and the "villains": Feng Zhang, Jiankui He. I also love the thought experiments about where we should draw the line about gene-editing homo sapiens.
 
 
 ## Notes

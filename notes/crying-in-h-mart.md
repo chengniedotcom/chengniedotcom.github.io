@@ -2,6 +2,7 @@
 title: *Crying in H Mart* - by Michelle Zauner
 date: 2022-05-12
 permalink: /notes/crying-in-h-mart
+author_profile: false
 tags:
     - notes
 ---
@@ -12,7 +13,7 @@ Read: 2022-05-12
 
 Recommend: 10/10
 
-Beautiful writing! I wish I had the ability to tell stories in such an interesting way. This happens to be the third memoir I read this year. What a coincidence that this third one is written by a Philly one more time: the previous two were from Kevin Hart and Will Smith. 
+Beautiful writing! I wish I could tell stories in such an interesting way. This book happens to be the third memoir I read this year. What a coincidence that this third one is written by a Philly one more time: the previous two were from Kevin Hart and Will Smith. 
 
 
 ## Notes
