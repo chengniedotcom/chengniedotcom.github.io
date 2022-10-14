@@ -15,7 +15,7 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 ## Update Marathon map
 
 1. Update marathon.tsv 
-2. Run marathon.py in python 3.8 environment to update marathon/map.html
+2. Run marathon.py to update marathon/map.html
 3. Update _pages/marathon.html by adding the new record of Marahon in the html table. Convert the tsv to html table using this [tool](https://wtools.io/convert-tsv-to-html-table)
 
 
