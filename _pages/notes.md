@@ -24,7 +24,11 @@ For issue 1). I can copy paste the link in the javascript part to get the comple
 130 books on Aug 15, 2022 in _notes_processed.html
 --------------------------------------------------
 
+Updated Nov 1, 2022
 /notes/the-war-of-art
+/notes/肉蒲团
+/notes/杂的文
+/notes/open-borders
 
 Updated Oct 13, 2022
 - use grammarly to clean all my notes summary that had not been edited. 
@@ -122,6 +126,9 @@ Edited Below
 
 
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="杂的文: 期待我们往日的灵魂附体" rel="nofollow" href="/notes/杂的文"><img alt="杂的文: 期待我们往日的灵魂附体" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386913339l/19408348._SX98_.jpg" /></a> </div>
+    <div class="gr_grid_book_container"><a title="Open Borders: The Science and Ethics of Immigration" rel="nofollow" href="/notes/open-borders"><img alt="Open Borders: The Science and Ethics of Immigration" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553580474l/42867903._SX98_.jpg" /></a> </div>
+    <div class="gr_grid_book_container"><a title="肉蒲团（简体中文版）: 中华传世珍藏古典文库" rel="nofollow" href="/notes/肉蒲团"><img alt="肉蒲团（简体中文版）: 中华传世珍藏古典文库" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522092058l/39603749._SX98_.jpg" /></a> </div>
     <div class="gr_grid_book_container"><a title="三重门" rel="nofollow" href="/notes/三重门"><img alt="三重门" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360152266l/6514080._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="平凡的世界（全三册）" rel="nofollow" href="/notes/平凡的世界"><img alt="平凡的世界（全三册）" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629938607l/12638370._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="禅的故事(易中天说禅：半小时走进禅的前世今生。阐释禅之美、禅之奥。)" rel="nofollow" href="/notes/禅的故事"><img alt="禅的故事" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536598519l/41788141._SX98_.jpg" /></a></div>

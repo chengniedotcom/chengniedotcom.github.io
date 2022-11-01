@@ -1,4 +1,3 @@
-At 72
 ---
 title: *The War of Art* - by Steven Pressfield
 date: 2021-07-11
@@ -118,8 +117,8 @@ This is one of the most recommended books by Tim Ferriss' interviewees. The book
 
 1. Resistance presents us with a series of plausible, rational justifications for why we shouldn’t do our work.
 
-1. What Resistance leaves out, of course, is that all this means diddly. Tolstoy had thirteen kids and wrote War and Peace. Lance Armstrong had cancer and won the Tour de France three years and counting.
-Book was written in 2002 sicne Lance had the first champion in 1999. It's the same year that I started working on my college entrance exams seriously.
+1. What Resistance leaves out, of course, is that all this means diddly. Tolstoy had thirteen kids and wrote War and Peace. Lance Armstrong had cancer and won the Tour de France three years and counting. [The book was written in 2002 when Lance Armstrong was yet to be busted. Lance had the first champion in 1999. It's the same year that I made a serious effort to work on my college entrance exams.]
+
 1. Defeating Resistance is like giving birth. It seems absolutely impossible until you remember that women have been pulling it off successfully, with support and without, for fifty million years.
 
 1. The amateur plays for fun. The professional plays for keeps. To the amateur, the game is his avocation. To the pro it’s his vocation. The amateur plays part-time, the professional full-time. The amateur is a weekend warrior. The professional is there seven days a week.
@@ -136,8 +135,8 @@ Book was written in 2002 sicne Lance had the first champion in 1999. It's the sa
 
 1. I’ve earned my keep on the planet, at least for this day.
 
-1. I go to sleep content, but my final thought is of Resistance. I will wake up with it tomorrow. Already I am steeling myself.
-I remember that I used to steel (mentally prepare to do something difficult) when I was preparing for college entrance exam.
+1. I go to sleep content, but my final thought is of Resistance. I will wake up with it tomorrow. Already I am steeling myself.  [I remember that I used to steel (mentally prepare to do something difficult) when I was preparing for college entrance exam.]
+
 1. The artist committing himself to his calling has volunteered for hell, whether he knows it or not. He will be dining for the duration on a diet of isolation, rejection, self-doubt, despair, ridicule, contempt, and humiliation.
 
 1. He has to love being miserable. He has to take pride in being more miserable than any soldier or swabbie or jet jockey. Because this is war, baby. And war is hell.
@@ -156,8 +155,8 @@ I remember that I used to steel (mentally prepare to do something difficult) whe
 
 1. The payoff of playing-the-game-for-money is not the money (which you may never see anyway, even after you turn pro). The payoff is that playing the game for money produces the proper professional attitude. It inculcates the lunch-pail mentality, the hard-core, hard-head, hard-hat state of mind that shows up for work despite rain or snow or dark of night and slugs it out day after day.
 
-1. To the gods the supreme sin is not rape or murder, but pride. To think of yourself as a mercenary, a gun for hire, implants the proper humility. It purges pride and preciousness.
-That's how 梁家辉 approach different roles he played.
+1. To the gods the supreme sin is not rape or murder, but pride. To think of yourself as a mercenary, a gun for hire, implants the proper humility. It purges pride and preciousness. [That's how Tony Leung approach different roles he played]
+
 1. Resistance loves pride and preciousness.
 
 1. Technically, the professional takes money. Technically, the pro plays for pay. But in the end, he does it for love.
@@ -166,8 +165,8 @@ That's how 梁家辉 approach different roles he played.
 
 1. The professional arms himself with patience, not only to give the stars time to align in his career, but to keep himself from flaming out in each individual work. He knows that any job, whether it’s a novel or a kitchen remodel, takes twice as long as he thinks and costs twice as much. He accepts that. He recognizes it as reality.
 
-1. A pro views her work as craft, not art. Not because she believes art is devoid of a mystical dimension. On the contrary. She understands that all creative endeavor is holy, but she doesn’t dwell on it. She knows if she thinks about that too much, it will paralyze her. So she concentrates on technique. The professional masters how, and leaves what and why to the gods. Like Somerset Maugham she doesn’t wait for inspiration, she acts in the anticipation of its apparition.
-It is similar to how 张艺谋 approaches moving making as his 手艺
+1. A pro views her work as craft, not art. Not because she believes art is devoid of a mystical dimension. On the contrary. She understands that all creative endeavor is holy, but she doesn’t dwell on it. She knows if she thinks about that too much, it will paralyze her. So she concentrates on technique. The professional masters how, and leaves what and why to the gods. Like Somerset Maugham she doesn’t wait for inspiration, she acts in the anticipation of its apparition. [It is similar to how Zhang Yimou approaches moving making as his craft]
+
 1. The sign of the amateur is overglorification of and preoccupation with the mystery. The professional shuts up. She doesn’t talk about it. She does her work.
 
 1. The amateur believes he must first overcome his fear; then he can do his work. The professional knows that fear can never be overcome. He knows there is no such thing as a fearless warrior or a dread-free artist.
@@ -204,8 +203,8 @@ It is similar to how 张艺谋 approaches moving making as his 手艺
 
 1. The professional endures adversity. He lets the birdshit splash down on his slicker, remembering that it comes clean with a heavy-duty hosing. He himself, his creative center, cannot be buried, even beneath a mountain of guano. His core is bulletproof. Nothing can touch it unless he lets it.
 
-1. DUES PD
-paid
+1. DUES PD [paid]
+
 1. An amateur lets the negative opinion of others unman him. He takes external criticism to heart, allowing it to trump his own belief in himself and his work. Resistance loves this.
 
 1. First, he didn’t react reflexively. He didn’t allow an act that by all rights should have provoked an automatic response of rage to actually produce that rage. He controlled his reaction. He governed his emotion. Second, he didn’t take it personally. He could have perceived this shutterbug’s act as a deliberate blow aimed at him individually, with the intention of throwing him off his shot. He could have reacted with outrage or indignation or cast himself as a victim. He didn’t. Third, he didn’t take it as a sign of heaven’s malevolence. He could have experienced this bolt as the malice of the golfing gods, like a bad hop in baseball or a linesman’s miscall in tennis. He could have groaned or sulked or surrendered mentally to this injustice, this interference, and used it as an excuse to fail. He didn’t.
@@ -218,8 +217,8 @@ paid
 
 1. I like the idea of being Myself, Inc. That way I can wear two hats. I can hire myself and fire myself.
 
-1. Making yourself a corporation (or just thinking of yourself in that way) reinforces the idea of professionalism because it separates the artist-doing-the-work from the will-and-consciousness-running-the-show.
-It reminds me of the time that I must be fair to myself: I feel agitated when I choose to digress. It's like the punishment I got when I did not work.
+1. Making yourself a corporation (or just thinking of yourself in that way) reinforces the idea of professionalism because it separates the artist-doing-the-work from the will-and-consciousness-running-the-show. [It reminds me of the time I must be fair to myself: I feel agitated when I choose to stray. It's like the punishment I got when I did not work.]
+
 1. I have one of those meetings with myself every Monday. I sit down and go over my assignments. Then I type it up and distribute it to myself.
 
 1. If we think of ourselves as a corporation, it gives us a healthy distance on ourselves. We’re less subjective. We don’t take blows as personally. We’re more cold-blooded; we can price our wares more realistically.
