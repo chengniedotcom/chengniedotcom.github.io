@@ -9,7 +9,7 @@ Journal Publications
 
 <!-- Use APA 7th edition format -->
 
-1. Nie C, Zheng Z (Eric), Sarkar S (2022). [Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy.](https://misq.umn.edu/competing-with-the-sharing-economy-incumbents-reaction-on-review-manipulation.html) _MIS Quarterly_, (46:3), 1573–1602. 
+2. Nie C, Zheng Z (Eric), Sarkar S (2022). [Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy.](https://misq.umn.edu/competing-with-the-sharing-economy-incumbents-reaction-on-review-manipulation.html) _MIS Quarterly_, (46:3), 1573–1602. 
 <!-- [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/review_manipulation.pdf) [![Video](https://img.shields.io/badge/Video-orange.svg)](https://youtu.be/4LRscKwr4Fw) -->
 
 1. Nie C, Zheng Z (Eric), Sarkar S (2021). [A Strategic Group Analysis of Competitor Behavior in Search Advertising.](https://doi.org/10.17705/1jais.00710) _Journal of the Association for Information Systems_, (22:6), 1659–1685. 
@@ -18,16 +18,18 @@ Journal Publications
 Journal Papers Under Review
 ---------------------------
 
-1. Jiang Z, Rai A, Sun H, Nie C, Hu Y (2022). How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms. Under revision for third round review at _Information Systems Research_  
+- Jiang Z, Rai A, Sun H, Nie C, Hu Y (2022). How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms. Revising for the third round review at _Information Systems Research_  
 
-1. Nie C, Zheng Z (Eric), Sarkar S (2022). Firm Competitive Structure and Consumer Reaction in Search Advertising. Revising for second round review at _Journal of the Association for Information Systems_
+- Nie C, Zheng Z (Eric), Sarkar S (2022). Firm Competitive Structure and Consumer Reaction in Search Advertising. Under the second round review at _Journal of the Association for Information Systems_
 
-1. Zhu T, Nie C, Jiang Z, Hu X (2022). When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation. Submitted for review at _Production and Operations Management_
 
 Work in Progress
 ----------------
 
-1. Nie C, Zheng Z (Eric), Sarkar S (2022). Not All Strategies Are Created Equal: Evidence from Hotels' Response to Counter the Competition from Airbnb. 
+- Zhu T, Nie C, Jiang Z, Hu X (2022). When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation. 
+<!-- Submitted for review at _Production and Operations Management_ -->
+
+- Nie C, Zheng Z (Eric), Sarkar S (2022). Not All Strategies Are Created Equal: Evidence from Hotels' Response to Counter the Competition from Airbnb. 
     
 
 Refereed Conference Papers:

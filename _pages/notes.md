@@ -24,7 +24,13 @@ For issue 1). I can copy paste the link in the javascript part to get the comple
 130 books on Aug 15, 2022 in _notes_processed.html
 --------------------------------------------------
 
-Updated Nov 1, 2022
+Updated Dec 14, 2022
+
+/notes/红楼梦
+/notes/金瓶梅
+/notes/nudge
+
+
 /notes/the-war-of-art
 /notes/肉蒲团
 /notes/杂的文
@@ -126,6 +132,8 @@ Edited Below
 
 
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="Nudge: Improving Decisions About Health, Wealth, and Happiness" rel="nofollow" href="/notes/nudge"><img alt="Nudge: Improving Decisions About Health, Wealth, and Happiness" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348322381l/3450744._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="红楼梦" rel="nofollow" href="/notes/红楼梦"><img alt="红楼梦" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384804636l/18680016._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="杂的文: 期待我们往日的灵魂附体" rel="nofollow" href="/notes/杂的文"><img alt="杂的文: 期待我们往日的灵魂附体" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386913339l/19408348._SX98_.jpg" /></a> </div>
     <div class="gr_grid_book_container"><a title="Open Borders: The Science and Ethics of Immigration" rel="nofollow" href="/notes/open-borders"><img alt="Open Borders: The Science and Ethics of Immigration" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553580474l/42867903._SX98_.jpg" /></a> </div>
     <div class="gr_grid_book_container"><a title="肉蒲团（简体中文版）: 中华传世珍藏古典文库" rel="nofollow" href="/notes/肉蒲团"><img alt="肉蒲团（简体中文版）: 中华传世珍藏古典文库" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522092058l/39603749._SX98_.jpg" /></a> </div>
@@ -182,7 +190,7 @@ Edited Below
 <!--     <div class="gr_grid_book_container"><a title="边城" rel="nofollow" href="https://www.goodreads.com/review/show/3902312525?utm_medium=api&amp;utm_source=grid_widget"><img alt="边城" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385595066l/19010215._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="The TB12 Method: How to Achieve a Lifetime of Sustained Peak Performance" rel="nofollow" href="https://www.goodreads.com/review/show/3886278283?utm_medium=api&amp;utm_source=grid_widget"><img alt="The TB12 Method: How to Achieve a Lifetime of Sustained Peak Performance" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505829459l/35612723._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="增广贤文" rel="nofollow" href="https://www.goodreads.com/review/show/3874670139?utm_medium=api&amp;utm_source=grid_widget"><img alt="增广贤文" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385567034l/19003933._SX98_.jpg" /></a></div> -->
-<!--     <div class="gr_grid_book_container"><a title="金瓶梅（崇祯本·完整版）（精心校对·排版简洁）（套装两册）" rel="nofollow" href="https://www.goodreads.com/review/show/3866811635?utm_medium=api&amp;utm_source=grid_widget"><img alt="金瓶梅（崇祯本·完整版）（精心校对·排版简洁）（套装两册）" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515154787l/37832172._SX98_.jpg" /></a></div> -->
+    <div class="gr_grid_book_container"><a title="金瓶梅（崇祯本·完整版）（精心校对·排版简洁）（套装两册）" rel="nofollow" href="/notes/金瓶梅"><img alt="金瓶梅（崇祯本·完整版）（精心校对·排版简洁）（套装两册）" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515154787l/37832172._SX98_.jpg" /></a></div>
 <!--     <div class="gr_grid_book_container"><a title="Greenlights" rel="nofollow" href="https://www.goodreads.com/review/show/3811320509?utm_medium=api&amp;utm_source=grid_widget"><img alt="Greenlights" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604281659l/52838315._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="Good Economics for Hard Times: Better Answers to Our Biggest Problems" rel="nofollow" href="https://www.goodreads.com/review/show/3462016538?utm_medium=api&amp;utm_source=grid_widget"><img alt="Good Economics for Hard Times: Better Answers to Our Biggest Problems" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562348201l/51014619._SX98_SY75_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="&quot;Surely You're Joking, Mr. Feynman!&quot;: Adventures of a Curious Character" rel="nofollow" href="https://www.goodreads.com/review/show/3811152084?utm_medium=api&amp;utm_source=grid_widget"><img alt="&quot;Surely You're Joking, Mr. Feynman!&quot;: Adventures of a Curious Character" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504936953l/35167685._SX98_.jpg" /></a></div> -->
