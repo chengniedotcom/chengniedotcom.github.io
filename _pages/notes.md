@@ -24,13 +24,25 @@ For issue 1). I can copy paste the link in the javascript part to get the comple
 130 books on Aug 15, 2022 in _notes_processed.html
 --------------------------------------------------
 
+Updated Jan 20, 2023
+''''''''''''''''''''
+
+Need cover of the books:
+/notes/inner-game-tennis
+/notes/flow
+
+/notes/atomic-habits
+/notes/born-a-crime
+
 Updated Dec 14, 2022
 
 /notes/红楼梦
 /notes/金瓶梅
 /notes/nudge
+/notes/born-a-crime
 
 
+Updated Nov 1, 2022
 /notes/the-war-of-art
 /notes/肉蒲团
 /notes/杂的文
@@ -132,6 +144,8 @@ Edited Below
 
 
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="Flow: The Psychology of Optimal Experience" rel="nofollow" href="/notes/flow"><img alt="Flow: The Psychology of Optimal Experience" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432253110l/66354._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance" rel="nofollow" href="/notes/inner-game-tennis"><img alt="The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427665815l/905._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Nudge: Improving Decisions About Health, Wealth, and Happiness" rel="nofollow" href="/notes/nudge"><img alt="Nudge: Improving Decisions About Health, Wealth, and Happiness" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348322381l/3450744._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="红楼梦" rel="nofollow" href="/notes/红楼梦"><img alt="红楼梦" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384804636l/18680016._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="杂的文: 期待我们往日的灵魂附体" rel="nofollow" href="/notes/杂的文"><img alt="杂的文: 期待我们往日的灵魂附体" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386913339l/19408348._SX98_.jpg" /></a> </div>
@@ -170,8 +184,8 @@ Edited Below
     <div class="gr_grid_book_container"><a title="The First 20 Hours: How to Learn Anything...Fast" rel="nofollow" href="/notes/first20hours"><img alt="The First 20 Hours: How to Learn Anything...Fast" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364771935l/16158493._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="驻马店伤心故事集" rel="nofollow" href="/notes/驻马店伤心故事集"><img alt="驻马店伤心故事集" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538612328l/42142336._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Give and Take: A Revolutionary Approach to Success" rel="nofollow" href="/notes/give-and-take"><img alt="Give and Take: A Revolutionary Approach to Success" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356136579l/16158498._SX98_.jpg" /></a></div>
-<!--     <div class="gr_grid_book_container"><a title="Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones" rel="nofollow" href="https://www.goodreads.com/review/show/4363062287?utm_medium=api&amp;utm_source=grid_widget"><img alt="Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378._SX98_.jpg" /></a></div> -->
-<!--     <div class="gr_grid_book_container"><a title="1000 Years of Joys and Sorrows: A Memoir" rel="nofollow" href="https://www.goodreads.com/review/show/4345277958?utm_medium=api&amp;utm_source=grid_widget"><img alt="1000 Years of Joys and Sorrows: A Memoir" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629112907l/57423429._SX98_.jpg" /></a></div> -->
+    <div class="gr_grid_book_container"><a title="Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones" rel="nofollow" href="/notes/atomic-habits"><img alt="Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="1000 Years of Joys and Sorrows: A Memoir" rel="nofollow" href="/notes/1000-years-of-joys-and-sorrows"><img alt="1000 Years of Joys and Sorrows: A Memoir" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629112907l/57423429._SX98_.jpg" /></a></div>
 <!--     <div class="gr_grid_book_container"><a title="Can't Hurt Me: Master Your Mind and Defy the Odds" rel="nofollow" href="https://www.goodreads.com/review/show/4240150534?utm_medium=api&amp;utm_source=grid_widget"><img alt="Can't Hurt Me: Master Your Mind and Defy the Odds" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536184191l/41721428._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="Influence: The Psychology of Persuasion" rel="nofollow" href="https://www.goodreads.com/review/show/4162774474?utm_medium=api&amp;utm_source=grid_widget"><img alt="Influence: The Psychology of Persuasion" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391026083l/28815._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="Stories of Your Life and Others" rel="nofollow" href="https://www.goodreads.com/review/show/4053548042?utm_medium=api&amp;utm_source=grid_widget"><img alt="Stories of Your Life and Others" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138316l/223380._SX98_.jpg" /></a></div> -->
@@ -247,7 +261,7 @@ Edited Below
 <!--     <div class="gr_grid_book_container"><a title="The Way of the Superior Man" rel="nofollow" href="https://www.goodreads.com/review/show/1925963316?utm_medium=api&amp;utm_source=grid_widget"><img alt="The Way of the Superior Man" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384803619l/18652400._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="How the Mind Works" rel="nofollow" href="https://www.goodreads.com/review/show/1925812572?utm_medium=api&amp;utm_source=grid_widget"><img alt="How the Mind Works" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387741747l/835623._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="What's Yours Is Mine: Against the Sharing Economy" rel="nofollow" href="https://www.goodreads.com/review/show/1534763029?utm_medium=api&amp;utm_source=grid_widget"><img alt="What's Yours Is Mine: Against the Sharing Economy" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441309729l/26220875._SX98_.jpg" /></a></div> -->
-<!--     <div class="gr_grid_book_container"><a title="Born a Crime: Stories From a South African Childhood" rel="nofollow" href="https://www.goodreads.com/review/show/1887440939?utm_medium=api&amp;utm_source=grid_widget"><img alt="Born a Crime: Stories From a South African Childhood" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473867911l/29780253._SX98_.jpg" /></a></div> -->
+    <div class="gr_grid_book_container"><a title="Born a Crime: Stories From a South African Childhood" rel="nofollow" href="/notes/born-a-crime"><img alt="Born a Crime: Stories From a South African Childhood" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473867911l/29780253._SX98_.jpg" /></a></div>
 <!--     <div class="gr_grid_book_container"><a title="Effective Python: 59 Specific Ways to Write Better Python" rel="nofollow" href="https://www.goodreads.com/review/show/1877191294?utm_medium=api&amp;utm_source=grid_widget"><img alt="Effective Python: 59 Specific Ways to Write Better Python" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422215947l/23020812._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="最后的耍猴人" rel="nofollow" href="https://www.goodreads.com/review/show/1859000046?utm_medium=api&amp;utm_source=grid_widget"><img alt="最后的耍猴人" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438157870l/26001606._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="Shoe Dog: A Memoir by the Creator of Nike" rel="nofollow" href="https://www.goodreads.com/review/show/1850194728?utm_medium=api&amp;utm_source=grid_widget"><img alt="Shoe Dog: A Memoir by the Creator of Nike" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457284880l/27220736._SX98_.jpg" /></a></div> -->

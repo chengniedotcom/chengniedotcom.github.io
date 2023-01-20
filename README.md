@@ -8,21 +8,22 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 ## Update Research
 
-1. Change the status of each paper: add updated link, add review progress
+1. Change the status of each paper: add updated links, add review progress
 2. Add new papers I had worked on
 
 
 ## Update Marathon map
 
 1. Update marathon.tsv 
-2. Run marathon.py to update marathon/map.html
-3. Update _pages/marathon.html by adding the new record of Marahon in the html table. Convert the tsv to html table using this [tool](https://wtools.io/convert-tsv-to-html-table)
+2. Run ``python marathon.py`` to update marathon/map.html
+~~ 3. Update _pages/marathon.html by adding the new record of Marahon in the html table. Convert the tsv to html table using this [tool](https://wtools.io/convert-tsv-to-html-table) ~~
+3. Update _pages/marathon.html by adding the new record of Marahon in the html table. marathon.py output the table in html format. 
 
 
 ## Update teaching
 
 1. The survey in Canvas has the enrollment and response of each section for the evaluation
-2. Maybe future PRR has the average GPA, then I don't have to calculate it manually as in the notes. 
+2. PRR has the average GPA, then I don't have to calculate it manually as in the notes. 
 
 
 ## Update Notes
