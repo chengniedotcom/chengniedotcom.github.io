@@ -19,9 +19,9 @@ Journal Papers Under Review
 ---------------------------
 
 
-- Jiang Z, Rai A, Sun H, Nie C, Hu Y (2022). How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms. Uder the third round review at _Information Systems Research_  
+- Jiang Z, Rai A, Sun H, Nie C, Hu Y (2022). How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms. Submitted for the third round review at _Information Systems Research_  
 
-- Nie C, Zheng Z (Eric), Sarkar S (2022). Firm Competitive Structure and Consumer Reaction in Search Advertising. Under the second round review at _Journal of the Association for Information Systems_
+- Nie C, Zheng Z (Eric), Sarkar S (2022). Firm Competitive Structure and Consumer Reaction in Search Advertising. Submitted for the second round review at _Journal of the Association for Information Systems_
 
 - Fang B, Nie C, Zheng Z (Erci) (2022). Information Asymmetry and Speculation in NFT Platforms. Submitted for the first round review at _Journal of Management Information Systems_  
 
