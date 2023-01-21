@@ -13,7 +13,7 @@ Read: 2022-12-14
 
 Recommend: 10/10
 
-If I had read this book earlier, I would have avoided getting stuck at the Chicago downtown parking deck in 2022 summer. The book also helps me decide not to buy a Tesla. It makes no sense to pay \$70,000 for a car that I use 15 minutes a day. But, I fell into the trap of overweighing the benefit and underweighting the cost before reading the book. I picked the largest deductible (\$5K) for my car insurance when COVID hit. This is a good decision, not just for someone like me who does not drive much. 
+If I had read this book earlier, I would have avoided getting stuck at the Chicago downtown parking deck in 2022 summer. The book also helps me decide not to buy a Tesla. It makes no sense to pay /$70,000 for a car that I use 15 minutes a day. But, I fell into the trap of overweighing the benefit and underweighting the cost before reading the book. I picked the largest deductible (/$5K) for my car insurance when COVID hit. This is a good decision, not just for someone like me who does not drive much. 
 
 
 ## Notes
