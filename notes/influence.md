@@ -11,7 +11,7 @@ tags:
 
 Read: 2021-10-28
 
-Recommend: 8/10
+Recommend: 7/10
 
 As social science researchers, we must persuade reviewers to buy our ideas. I need to present the bad things before the good ones because it's easier for people to buy the idea. 
 
