@@ -24,8 +24,14 @@ For issue 1). I can copy paste the link in the javascript part to get the comple
 130 books on Aug 15, 2022 in _notes_processed.html
 --------------------------------------------------
 
+To update Feb 2023
+""""""""""""""""""
+/notes/cant-hurt-me
+/notes/influence
+/notes/stories-of-your-life-and-others
+
 Updated Jan 20, 2023
-''''''''''''''''''''
+""""""""""""""""""""
 
 Need cover of the books:
 /notes/inner-game-tennis
@@ -186,9 +192,9 @@ Edited Below
     <div class="gr_grid_book_container"><a title="Give and Take: A Revolutionary Approach to Success" rel="nofollow" href="/notes/give-and-take"><img alt="Give and Take: A Revolutionary Approach to Success" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356136579l/16158498._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones" rel="nofollow" href="/notes/atomic-habits"><img alt="Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="1000 Years of Joys and Sorrows: A Memoir" rel="nofollow" href="/notes/1000-years-of-joys-and-sorrows"><img alt="1000 Years of Joys and Sorrows: A Memoir" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629112907l/57423429._SX98_.jpg" /></a></div>
-<!--     <div class="gr_grid_book_container"><a title="Can't Hurt Me: Master Your Mind and Defy the Odds" rel="nofollow" href="https://www.goodreads.com/review/show/4240150534?utm_medium=api&amp;utm_source=grid_widget"><img alt="Can't Hurt Me: Master Your Mind and Defy the Odds" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536184191l/41721428._SX98_.jpg" /></a></div> -->
-<!--     <div class="gr_grid_book_container"><a title="Influence: The Psychology of Persuasion" rel="nofollow" href="https://www.goodreads.com/review/show/4162774474?utm_medium=api&amp;utm_source=grid_widget"><img alt="Influence: The Psychology of Persuasion" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391026083l/28815._SX98_.jpg" /></a></div> -->
-<!--     <div class="gr_grid_book_container"><a title="Stories of Your Life and Others" rel="nofollow" href="https://www.goodreads.com/review/show/4053548042?utm_medium=api&amp;utm_source=grid_widget"><img alt="Stories of Your Life and Others" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138316l/223380._SX98_.jpg" /></a></div> -->
+    <div class="gr_grid_book_container"><a title="Can't Hurt Me: Master Your Mind and Defy the Odds" rel="nofollow" href="/notes/cant-hurt-me"><img alt="Can't Hurt Me: Master Your Mind and Defy the Odds" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536184191l/41721428._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Influence: The Psychology of Persuasion" rel="nofollow" href="/notes/influence"><img alt="Influence: The Psychology of Persuasion" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391026083l/28815._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Stories of Your Life and Others" rel="nofollow" href="/notes//notes/stories-of-your-life-and-others"><img alt="Stories of Your Life and Others" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138316l/223380._SX98_.jpg" /></a></div>
 <!--     <div class="gr_grid_book_container"><a title="The School of Life: An Emotional Education" rel="nofollow" href="https://www.goodreads.com/review/show/4121710706?utm_medium=api&amp;utm_source=grid_widget"><img alt="The School of Life: An Emotional Education" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568273715l/43264830._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="Outliers: The Story of Success" rel="nofollow" href="https://www.goodreads.com/review/show/2822582309?utm_medium=api&amp;utm_source=grid_widget"><img alt="Outliers: The Story of Success" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344266315l/3228917._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="Think Like a Monk: Train Your Mind for Peace and Purpose Every Day" rel="nofollow" href="https://www.goodreads.com/review/show/4246485945?utm_medium=api&amp;utm_source=grid_widget"><img alt="Think Like a Monk: Train Your Mind for Peace and Purpose Every Day" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600432716l/51942513._SX98_.jpg" /></a></div> -->
