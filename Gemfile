@@ -18,6 +18,8 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "webrick", "~> 1.7"
+gem 'eventmachine', '~> 1.2.7'
+gem 'http_parser.rb', '~> 0.8.0'
 # gem "hawkins", "~> 0"
 
 # If you have any plugins, put them here!

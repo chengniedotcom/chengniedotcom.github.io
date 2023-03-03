@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Cheng Nie"
 title_separator          : "-"
-name                     : &name "Cheng Nie"
+name                     : &name "Cheng Nie (聂成)"
 description              : &description "The Website of Cheng Nie"
 url                      : https://www.chengnie.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
