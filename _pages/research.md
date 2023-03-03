@@ -19,13 +19,13 @@ Journal Papers Under Review
 ---------------------------
 
 
-- Jiang Z, Rai A, Sun H, Nie C, Hu Y (2022). How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms. Revising for the fourth round review at _Information Systems Research_  
+- Jiang Z, Rai A, Sun H, Nie C, Hu Y (2022). How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms. Revising for the 4th round review at _Information Systems Research_  
 
-- Nie C, Zheng Z (Eric), Sarkar S (2022). Firm Competitive Structure and Consumer Reaction in Search Advertising. Revising for the third round review at _Journal of the Association for Information Systems_
+- Nie C, Zheng Z (Eric), Sarkar S (2022). Firm Competitive Structure and Consumer Reaction in Search Advertising. Revising for the 3rd round review at _Journal of the Association for Information Systems_
 
-- Fang B, Nie C, Zheng Z (Erci) (2022). Information Asymmetry and Speculation in NFT Platforms. Submitted for the first round review at _Journal of Management Information Systems_  
+- Fang B, Nie C, Zheng Z (Erci) (2022). Information Asymmetry and Speculation in NFT Platforms. Submitted for the 1st round review at _Journal of Management Information Systems_  
 
-- Zhu T, Nie C, Jiang Z, Hu X (2022). When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation. Submitted for the first round review at _Information Systems Research_ 
+- Zhu T, Nie C, Jiang Z, Hu X (2022). When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation. Submitted for the 1st round review at _Information Systems Research_ 
 
 
 Work in Progress
