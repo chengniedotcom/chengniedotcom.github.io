@@ -24,6 +24,11 @@ For issue 1). I can copy paste the link in the javascript part to get the comple
 130 books on Aug 15, 2022 in _notes_processed.html
 --------------------------------------------------
 
+Mar 2023
+""""""""
+/notes/im-glad-my-mom-died
+/notes/surrender
+
 To update Feb 2023
 """"""""""""""""""
 /notes/cant-hurt-me
@@ -150,6 +155,8 @@ Edited Below
 
 
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="Surrender: 40 Songs, One Story" rel="nofollow" href="/notes/surrender"><img alt="Surrender: 40 Songs, One Story" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652192228l/61065813._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="I'm Glad My Mom Died" rel="nofollow" href="/notes/im-glad-my-mom-died"><img alt="I'm Glad My Mom Died" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649286799l/59364173._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Flow: The Psychology of Optimal Experience" rel="nofollow" href="/notes/flow"><img alt="Flow: The Psychology of Optimal Experience" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432253110l/66354._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance" rel="nofollow" href="/notes/inner-game-tennis"><img alt="The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427665815l/905._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Nudge: Improving Decisions About Health, Wealth, and Happiness" rel="nofollow" href="/notes/nudge"><img alt="Nudge: Improving Decisions About Health, Wealth, and Happiness" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348322381l/3450744._SX98_.jpg" /></a></div>
