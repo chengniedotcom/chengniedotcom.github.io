@@ -24,6 +24,14 @@ For issue 1). I can copy paste the link in the javascript part to get the comple
 130 books on Aug 15, 2022 in _notes_processed.html
 --------------------------------------------------
 
+Apr 2023
+""""""""
+/notes/luxun
+/notes/getting-things-done
+/notes/why-we-sleep
+/notes/tomorrow-and-tomorrow-and-tomorrow
+/notes/an-emotional-education
+
 Mar 2023
 """"""""
 /notes/im-glad-my-mom-died
@@ -155,6 +163,10 @@ Edited Below
 
 
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="Tomorrow, and Tomorrow, and Tomorrow" rel="nofollow" href="/notes/tomorrow-and-tomorrow-and-tomorrow"><img alt="Tomorrow, and Tomorrow, and Tomorrow" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636978687l/58784475._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Why We Sleep: Unlocking the Power of Sleep and Dreams" rel="nofollow" href="/notes/why-we-sleep"><img alt="Why We Sleep: Unlocking the Power of Sleep and Dreams" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556604137l/34466963._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Getting Things Done: The Art of Stress-Free Productivity" rel="nofollow" href="/notes/getting-things-done"><img alt="Getting Things Done: The Art of Stress-Free Productivity" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312474060l/1633._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="鲁迅全集" rel="nofollow" href="/notes/luxun"><img alt="鲁迅全集" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455596899l/29109491._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Surrender: 40 Songs, One Story" rel="nofollow" href="/notes/surrender"><img alt="Surrender: 40 Songs, One Story" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652192228l/61065813._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="I'm Glad My Mom Died" rel="nofollow" href="/notes/im-glad-my-mom-died"><img alt="I'm Glad My Mom Died" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649286799l/59364173._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Flow: The Psychology of Optimal Experience" rel="nofollow" href="/notes/flow"><img alt="Flow: The Psychology of Optimal Experience" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432253110l/66354._SX98_.jpg" /></a></div>
@@ -202,7 +214,7 @@ Edited Below
     <div class="gr_grid_book_container"><a title="Can't Hurt Me: Master Your Mind and Defy the Odds" rel="nofollow" href="/notes/cant-hurt-me"><img alt="Can't Hurt Me: Master Your Mind and Defy the Odds" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536184191l/41721428._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Influence: The Psychology of Persuasion" rel="nofollow" href="/notes/influence"><img alt="Influence: The Psychology of Persuasion" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391026083l/28815._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Stories of Your Life and Others" rel="nofollow" href="/notes/stories-of-your-life-and-others"><img alt="Stories of Your Life and Others" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138316l/223380._SX98_.jpg" /></a></div>
-<!--     <div class="gr_grid_book_container"><a title="The School of Life: An Emotional Education" rel="nofollow" href="https://www.goodreads.com/review/show/4121710706?utm_medium=api&amp;utm_source=grid_widget"><img alt="The School of Life: An Emotional Education" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568273715l/43264830._SX98_.jpg" /></a></div> -->
+    <div class="gr_grid_book_container"><a title="The School of Life: An Emotional Education" rel="nofollow" href="/notes/an-emotional-education"><img alt="The School of Life: An Emotional Education" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568273715l/43264830._SX98_.jpg" /></a></div>
 <!--     <div class="gr_grid_book_container"><a title="Outliers: The Story of Success" rel="nofollow" href="https://www.goodreads.com/review/show/2822582309?utm_medium=api&amp;utm_source=grid_widget"><img alt="Outliers: The Story of Success" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344266315l/3228917._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="Think Like a Monk: Train Your Mind for Peace and Purpose Every Day" rel="nofollow" href="https://www.goodreads.com/review/show/4246485945?utm_medium=api&amp;utm_source=grid_widget"><img alt="Think Like a Monk: Train Your Mind for Peace and Purpose Every Day" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600432716l/51942513._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger" rel="nofollow" href="https://www.goodreads.com/review/show/3079013775?utm_medium=api&amp;utm_source=grid_widget"><img alt="Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387744370l/944652._SX98_.jpg" /></a></div> -->
