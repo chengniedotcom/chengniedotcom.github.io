@@ -1,19 +1,19 @@
 ---
-title: *TITLE* - by AUTHOR
-date: 2023-DATE
+title: *The School of Life: An Emotional Education* - by Alain de Botton
+date: 2021-10-03
 permalink: /notes/an-emotional-education
 author_profile: false
 tags:
     - notes
 ---
 
-## *TITLE* - by AUTHOR
+## *The School of Life: An Emotional Education* - by Alain de Botton
 
-Read: 2023-DATE
+Read: 2021-10-03
 
 Recommend: 10/10
 
-The suggestions about how to live a happy life at the end of the book are priceless. 
+I like how he criticized Romanticism as a poison to love relationships. I like how he normalizes the suffering. The suggestions about how to live a happy life at the end of the book are priceless. 
 
 
 ## Notes
