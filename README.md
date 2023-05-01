@@ -4,7 +4,7 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 ## Check to-update items
 
-1. Tracked in Notion App. 
+1. Tracked in Notion App and Apple Reminders. 
 
 ## Update Research
 

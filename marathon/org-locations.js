@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Boston, MA | Apr 17, 2023 | 2:59:32 | Boston Marathon",
+    42.3554334,
+    -71.060511
+  ],
+  [
     "Maui, HI | Jan 15, 2023 | 3:56:54 | Maui Oceanfront Marathon",
     20.802956799999997,
     -156.31068331602177
@@ -10,7 +15,7 @@ var addressPoints = [
     -95.9383758
   ],
   [
-    "Duluth, MN | Apr 18, 2022 | 2:55:50 | Grandma's Marathon",
+    "Duluth, MN | Jun 18, 2022 | 2:55:50 | Grandma's Marathon",
     46.7729322,
     -92.1251218
   ],

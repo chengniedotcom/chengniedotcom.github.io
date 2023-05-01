@@ -23,6 +23,12 @@ For issue 1). I can copy paste the link in the javascript part to get the comple
 --------------------------------------------------
 130 books on Aug 15, 2022 in _notes_processed.html
 --------------------------------------------------
+May 2023
+""""""""
+/notes/the-maid
+/notes/unconditional-parenting
+/notes/talking-to-strangers
+/notes/sapiens
 
 Apr 2023
 """"""""
@@ -163,6 +169,9 @@ Edited Below
 
 
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="Talking to Strangers: What We Should Know About the People We Don’t Know" rel="nofollow" href="/notes/talking-to-strangers"><img alt="Talking to Strangers: What We Should Know About the People We Don’t Know" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549393502l/43848929._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason" rel="nofollow" href="/notes/unconditional-parenting"><img alt="Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406525749l/111209._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Maid" rel="nofollow" href="/notes/the-maid"><img alt="The Maid" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643228739l/55196813._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Tomorrow, and Tomorrow, and Tomorrow" rel="nofollow" href="/notes/tomorrow-and-tomorrow-and-tomorrow"><img alt="Tomorrow, and Tomorrow, and Tomorrow" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636978687l/58784475._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Why We Sleep: Unlocking the Power of Sleep and Dreams" rel="nofollow" href="/notes/why-we-sleep"><img alt="Why We Sleep: Unlocking the Power of Sleep and Dreams" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556604137l/34466963._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Getting Things Done: The Art of Stress-Free Productivity" rel="nofollow" href="/notes/getting-things-done"><img alt="Getting Things Done: The Art of Stress-Free Productivity" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312474060l/1633._SX98_.jpg" /></a></div>
@@ -273,7 +282,7 @@ Edited Below
 <!--     <div class="gr_grid_book_container"><a title="A Life in Parts" rel="nofollow" href="https://www.goodreads.com/review/show/2230306393?utm_medium=api&amp;utm_source=grid_widget"><img alt="A Life in Parts" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476030398l/29868612._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="The Three-Body Problem (Remembrance of Earth’s Past #1)" rel="nofollow" href="https://www.goodreads.com/review/show/2227525698?utm_medium=api&amp;utm_source=grid_widget"><img alt="The Three-Body Problem" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="Homo Deus: A History of Tomorrow" rel="nofollow" href="https://www.goodreads.com/review/show/2218433059?utm_medium=api&amp;utm_source=grid_widget"><img alt="Homo Deus: A History of Tomorrow" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468760805l/31138556._SX98_.jpg" /></a></div> -->
-<!--     <div class="gr_grid_book_container"><a title="Sapiens: A Brief History of Humankind" rel="nofollow" href="https://www.goodreads.com/review/show/2203268010?utm_medium=api&amp;utm_source=grid_widget"><img alt="Sapiens: A Brief History of Humankind" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595674533l/23692271._SX98_.jpg" /></a></div> -->
+    <div class="gr_grid_book_container"><a title="Sapiens: A Brief History of Humankind" rel="nofollow" href="/notes/sapiens"><img alt="Sapiens: A Brief History of Humankind" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595674533l/23692271._SX98_.jpg" /></a></div>
 <!--     <div class="gr_grid_book_container"><a title="The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century" rel="nofollow" href="https://www.goodreads.com/review/show/1569718434?utm_medium=api&amp;utm_source=grid_widget"><img alt="The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396671354l/20821371._SX98_.jpg" /></a></div> -->
     <div class="gr_grid_book_container"><a title="Animal Farm" rel="nofollow" href="/notes/animal-farm"><img alt="Animal Farm" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424037542l/7613._SX98_.jpg" /></a></div>
 <!--     <div class="gr_grid_book_container"><a title="Hold Me Tight: Seven Conversations for a Lifetime of Love" rel="nofollow" href="https://www.goodreads.com/review/show/2152941033?utm_medium=api&amp;utm_source=grid_widget"><img alt="Hold Me Tight: Seven Conversations for a Lifetime of Love" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390365978l/2153780._SX98_.jpg" /></a></div> -->
