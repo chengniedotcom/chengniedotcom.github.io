@@ -23,6 +23,14 @@ For issue 1). I can copy paste the link in the javascript part to get the comple
 --------------------------------------------------
 130 books on Aug 15, 2022 in _notes_processed.html
 --------------------------------------------------
+Jun 2023
+""""""""
+/notes/born-to-run
+/notes/the-giver
+/notes/the-glass-castle
+/notes/red-roulette
+/notes/on-writing
+
 May 2023
 """"""""
 /notes/the-maid
@@ -167,8 +175,12 @@ Edited Below
 }
 </style>
 
-
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="On Writing: A Memoir of the Craft" rel="nofollow" href="/notes/on-writing"><img alt="On Writing: A Memoir of the Craft" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436735207l/10569._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Red Roulette: An Insider's Story of Wealth, Power, Corruption and Vengeance in Today's China" rel="nofollow" href="/notes/red-roulette"><img alt="Red Roulette: An Insider's Story of Wealth, Power, Corruption and Vengeance in Today's China" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631107036l/57846996._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Glass Castle" rel="nofollow" href="/notes/the-glass-castle"><img alt="The Glass Castle" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523542886l/7445._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Giver (The Giver, #1)" rel="nofollow" href="/notes/the-giver"><img alt="The Giver" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342493368l/3636._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen" rel="nofollow" href="/notes/born-to-run"><img alt="Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631519495l/6289283._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Talking to Strangers: What We Should Know About the People We Don’t Know" rel="nofollow" href="/notes/talking-to-strangers"><img alt="Talking to Strangers: What We Should Know About the People We Don’t Know" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549393502l/43848929._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason" rel="nofollow" href="/notes/unconditional-parenting"><img alt="Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406525749l/111209._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="The Maid" rel="nofollow" href="/notes/the-maid"><img alt="The Maid" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643228739l/55196813._SX98_.jpg" /></a></div>

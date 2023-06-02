@@ -9,6 +9,8 @@ Journal Publications
 
 <!-- Use APA 7th edition format -->
 
+3\. Jiang Z, Rai A, Sun H, Nie C, Hu Y (2023). How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms. _Information Systems Research_, (forthcoming)
+
 2\. Nie C, Zheng Z (Eric), Sarkar S (2022). [Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy.](https://misq.umn.edu/competing-with-the-sharing-economy-incumbents-reaction-on-review-manipulation.html) _MIS Quarterly_, (46:3), 1573–1602. 
 <!-- [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/review_manipulation.pdf) [![Video](https://img.shields.io/badge/Video-orange.svg)](https://youtu.be/4LRscKwr4Fw) -->
 
@@ -18,10 +20,7 @@ Journal Publications
 Journal Papers Under Review
 ---------------------------
 
-
-- Jiang Z, Rai A, Sun H, Nie C, Hu Y (2023). How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms. Revising for the 5th round review at _Information Systems Research_  
-
-- Nie C, Zheng Z (Eric), Sarkar S (2023). Firm Competitive Structure and Consumer Reaction in Search Advertising. Submitted for the 3rd round review at _Journal of the Association for Information Systems_
+- Nie C, Zheng Z (Eric), Sarkar S (2023). Firm Competitive Structure and Consumer Reaction in Search Advertising. Revising for the 4th round review at _Journal of the Association for Information Systems_
 
 - Fang B, Nie C, Zheng Z (Erci) (2023). Information Asymmetry and Speculation in NFT Platforms. Submitted for the 1st round review at _Production and Operations Management_  
 
