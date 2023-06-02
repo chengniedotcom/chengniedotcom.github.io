@@ -408,7 +408,7 @@ On China, this is one of the best books I read.
 
 1. I want to thank my Great Ocean colleagues; together we created leading real estate projects in China. But, out of fear of retribution from the CCP, I can’t name them. You know who you are. I’m grateful for all your support.
 
-1. 隨後慢慢地，我恢復理智，問她現在身在何處，她說她在家，但只是有條件地被暫時釋放，放出來前簽了一份承諾書，表明她知道自己隨時會被重新關進去。
+隨後慢慢地，我恢復理智，問她現在身在何處，她說她在家，但只是有條件地被暫時釋放，放出來前簽了一份承諾書，表明她知道自己隨時會被重新關進去。
 
-1. 但她的回答非常簡短。她直接說，罪名是保密的，不許她透露。
+但她的回答非常簡短。她直接說，罪名是保密的，不許她透露。
 
