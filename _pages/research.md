@@ -22,7 +22,7 @@ Journal Papers Under Review
 
 - Nie C, Zheng Z (Eric), Sarkar S (2023). Firm Competitive Structure and Consumer Reaction in Search Advertising. Revising for the 4th round review at _Journal of the Association for Information Systems_
 
-- Fang B, Nie C, Zheng Z (Erci) (2023). Information Asymmetry and Speculation in NFT Platforms. Submitted for the 1st round review at _Production and Operations Management_  
+- Fang B, Nie C, Zheng Z (Eric) (2023). Information Asymmetry and Speculation in NFT Platforms. Submitted for the 1st round review at _Production and Operations Management_  
 
 - Zhu T, Nie C, Jiang Z, Hu X (2023). When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation. Submitted for the 1st round review at _Journal of the Association for Information Systems_
 

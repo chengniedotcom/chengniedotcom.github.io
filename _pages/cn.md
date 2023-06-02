@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "聂成的中文频道"
+title: "中文"
 permalink: /cn/
 author_profile: true
 ---
