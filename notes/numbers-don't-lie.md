@@ -1,5 +1,5 @@
 ---
-title: *Numbers Don't Lie* - by Vaclav Smil
+title: Numbers Don't Lie - by Vaclav Smil
 date: 2022-02-23
 permalink: /notes/numbers-don't-lie
 author_profile: false

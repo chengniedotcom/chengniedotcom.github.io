@@ -1,5 +1,5 @@
 ---
-title: *The Inner Game of Tennis* - by W. Timothy Gallwey
+title: The Inner Game of Tennis - by W. Timothy Gallwey
 date: 2022-12-16
 permalink: /notes/inner-game-tennis
 author_profile: false

@@ -1,5 +1,5 @@
 ---
-title: *Talking to Strangers* - by Malcolm Gladwell
+title: Talking to Strangers - by Malcolm Gladwell
 date: 2023-04-16
 permalink: /notes/talking-to-strangers
 author_profile: false

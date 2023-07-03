@@ -1,5 +1,5 @@
 ---
-title: *The Upside of Irrationality* - by Dan Ariely
+title: The Upside of Irrationality - by Dan Ariely
 date: 2022-06-13
 permalink: /notes/the-upside-of-irrationality
 author_profile: false

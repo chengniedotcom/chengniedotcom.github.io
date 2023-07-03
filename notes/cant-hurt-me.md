@@ -1,5 +1,5 @@
 ---
-title: *Can't Hurt Me* - by David Goggins
+title: Can't Hurt Me - by David Goggins
 date: 2021-11-14
 permalink: /notes/cant-hurt-me
 author_profile: false

@@ -1,5 +1,5 @@
 ---
-title: *Why We Sleep* - by Matthew Walker
+title: Why We Sleep - by Matthew Walker
 date: 2023-03-14
 permalink: /notes/why-we-sleep
 author_profile: false

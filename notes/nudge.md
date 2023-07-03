@@ -1,5 +1,5 @@
 ---
-title: *Nudge* - by Richard H. Thaler and Cass R. Sunstein
+title: Nudge - by Richard H. Thaler and Cass R. Sunstein
 date: 2022-12-14
 permalink: /notes/nudge
 author_profile: false

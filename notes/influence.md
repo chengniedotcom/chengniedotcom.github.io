@@ -1,5 +1,5 @@
 ---
-title: *Influence* - by Robert B. Ciadini
+title: Influence - by Robert B. Ciadini
 date: 2021-10-28
 permalink: /notes/influence
 author_profile: false

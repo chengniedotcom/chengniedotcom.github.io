@@ -1,5 +1,5 @@
 ---
-title: *Born a Crime* - by Trevor Noah
+title: Born a Crime - by Trevor Noah
 date: 2017-01-21
 permalink: /notes/born-a-crime
 author_profile: false

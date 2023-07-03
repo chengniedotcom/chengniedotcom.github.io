@@ -1,5 +1,5 @@
 ---
-title: *Stories of Your Life and Others* - by Ted Chiang
+title: Stories of Your Life and Others - by Ted Chiang
 date: 2021-10-28
 permalink: /notes/stories-of-your-life-and-others
 author_profile: false

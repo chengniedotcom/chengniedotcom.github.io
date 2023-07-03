@@ -1,5 +1,5 @@
 ---
-title: *Will* - by Will Smith
+title: Will - by Will Smith
 date: 2022-03-16
 permalink: /notes/will
 author_profile: false

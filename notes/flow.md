@@ -1,5 +1,5 @@
 ---
-title: *Flow* - by Mihaly Csikszentmihalyi
+title: Flow - by Mihaly Csikszentmihalyi
 date: 2022-12-25
 permalink: /notes/flow
 author_profile: false

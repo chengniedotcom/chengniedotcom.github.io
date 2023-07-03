@@ -1,5 +1,5 @@
 ---
-title: *Getting Things Done* - by David Allen
+title: Getting Things Done - by David Allen
 date: 2023-03-07
 permalink: /notes/getting-things-done
 author_profile: false

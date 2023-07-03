@@ -1,5 +1,5 @@
 ---
-title: *Surrender* - by Bono
+title: Surrender - by Bono
 date: 2023-02-19
 permalink: /notes/surrender
 author_profile: false

@@ -1,5 +1,5 @@
 ---
-title: *鲁迅全集* - by 鲁迅
+title: 鲁迅全集 - by 鲁迅
 date: 2023-03-04
 permalink: /notes/luxun
 author_profile: false

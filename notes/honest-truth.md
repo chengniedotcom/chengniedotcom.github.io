@@ -1,5 +1,5 @@
 ---
-title: *The Honest Truth About Dishonesty* - by Dan Ariely
+title: The Honest Truth About Dishonesty - by Dan Ariely
 date: 2022-05-02
 permalink: /notes/honest-truth
 author_profile: false

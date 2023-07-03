@@ -1,5 +1,5 @@
 ---
-title: *The Giver* - by Lois Lowry
+title: The Giver - by Lois Lowry
 date: 2023-05-12
 permalink: /notes/the-giver
 author_profile: false

@@ -1,5 +1,5 @@
 ---
-title: *The Power of Now* - by Eckhart Tolle
+title: The Power of Now - by Eckhart Tolle
 date: 2022-02-10
 permalink: /notes/the-power-of-now
 author_profile: false

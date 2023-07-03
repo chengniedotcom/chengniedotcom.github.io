@@ -1,5 +1,5 @@
 ---
-title: *How the World Really Works* - by Vaclav Smil
+title: How the World Really Works - by Vaclav Smil
 date: 2022-07-09
 permalink: /notes/how-the-world-really-works
 author_profile: false

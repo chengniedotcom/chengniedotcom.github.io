@@ -1,5 +1,5 @@
 ---
-title: *1000 Years of Joy and Sorrow* - by Ai Weiwei
+title: 1000 Years of Joy and Sorrow - by Ai Weiwei
 date: 2021-11-24
 permalink: /notes/1000-years-of-joys-and-sorrows
 author_profile: false

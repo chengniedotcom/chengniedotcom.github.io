@@ -1,5 +1,5 @@
 ---
-title: *Liquid Rules* - by Mark Miodownik
+title: Liquid Rules - by Mark Miodownik
 date: 2022-05-29
 permalink: /notes/liquid-rules
 author_profile: false

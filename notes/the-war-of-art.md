@@ -1,5 +1,5 @@
 ---
-title: *The War of Art* - by Steven Pressfield
+title: The War of Art - by Steven Pressfield
 date: 2021-07-11
 permalink: /notes/the-war-of-art
 author_profile: false

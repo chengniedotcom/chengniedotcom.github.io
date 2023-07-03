@@ -1,5 +1,5 @@
 ---
-title: *The First 20 Hours* - by Josh Kaufman
+title: The First 20 Hours - by Josh Kaufman
 date: 2021-12-25
 permalink: /notes/first20hours
 author_profile: false

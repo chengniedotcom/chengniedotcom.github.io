@@ -1,6 +1,6 @@
 ---
 # layout: post
-title: *Project Hail Mary* - by Andy Weir
+title: Project Hail Mary - by Andy Weir
 date: 2022-03-06
 permalink: /notes/project-hail-mary
 author_profile: false

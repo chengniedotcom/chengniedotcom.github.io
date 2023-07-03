@@ -1,5 +1,5 @@
 ---
-title: *10 Days to Faster Reading* - by The Princeton Language Institute
+title: 10 Days to Faster Reading - by The Princeton Language Institute
 date: 2021-12-29
 permalink: /notes/10-days-to-faster-reading
 author_profile: false

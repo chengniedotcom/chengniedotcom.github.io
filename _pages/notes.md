@@ -12,148 +12,19 @@ Click on each book cover for my tiny summary and detailed notes(highlights) for 
 
 <!-- 
 
-Put the newer one on top so that it will be in the same order as the Goodreads order. 
-
-Read before 2022
-----------------
-Currently, two issues: 1) I don't see the static link for all books beyond the first 20 books; 2) Not sure how to display different years in this page. 
-
-For issue 1). I can copy paste the link in the javascript part to get the complete list and save it to _notes.html. use print() in python to clean those escape strings. Save it to _notes_processed.html. Now I can use it to get all the books I want. Replace the picture size to the one used here: _S\w\d\d_ -> _SX98_
-
 --------------------------------------------------
 130 books on Aug 15, 2022 in _notes_processed.html
 --------------------------------------------------
-Jun 2023
+
+Jul 2023
 """"""""
-/notes/born-to-run
-/notes/the-giver
-/notes/the-glass-castle
-/notes/red-roulette
-/notes/on-writing
+/notes/gene
+/notes/psychology-of-money
+/notes/thinking-in-bets
+/notes/how-to-decide
 
-May 2023
-""""""""
-/notes/the-maid
-/notes/unconditional-parenting
-/notes/talking-to-strangers
-/notes/sapiens
-
-Apr 2023
-""""""""
-/notes/luxun
-/notes/getting-things-done
-/notes/why-we-sleep
-/notes/tomorrow-and-tomorrow-and-tomorrow
-/notes/an-emotional-education
-
-Mar 2023
-""""""""
-/notes/im-glad-my-mom-died
-/notes/surrender
-
-To update Feb 2023
-""""""""""""""""""
-/notes/cant-hurt-me
-/notes/influence
-/notes/stories-of-your-life-and-others
-
-Updated Jan 20, 2023
-""""""""""""""""""""
-
-Need cover of the books:
-/notes/inner-game-tennis
-/notes/flow
-
-/notes/atomic-habits
-/notes/born-a-crime
-
-Updated Dec 14, 2022
-
-/notes/红楼梦
-/notes/金瓶梅
-/notes/nudge
-/notes/born-a-crime
-
-
-Updated Nov 1, 2022
-/notes/the-war-of-art
-/notes/肉蒲团
-/notes/杂的文
-/notes/open-borders
-
-Updated Oct 13, 2022
-- use grammarly to clean all my notes summary that had not been edited. 
-
-It might be ok just to use grammarly to polish my writing
-
-On Oct 13, 2022
-/notes/first20hours
-/notes/10-days-to-faster-reading
-/notes/一座城池
-/notes/禅的故事
-/notes/animal-farm
-/notes/驻马店伤心故事集
-/notes/平凡的世界
-/notes/三重门
-/notes/give-and-take
-
-Updated Aug 15, 2022
-/notes/discourse-summaries
-
-2022 Aug 
------------
-
-/notes/我所理解的生活
-/notes/他的国
-/notes/how-the-world-really-works
-
-2022 july 
------------
-
-/notes/klara-and-the-sun
-/notes/visual-studio-code-for-python-programmers
-/notes/1984
-
-2022 june 
------------
-/notes/the-upside-of-irrationality
-/notes/the-body-keeps-the-score
-/notes/the-code-breaker
-
-2022 may 
------------
-/notes/crying-in-h-mart
-/notes/liquid-rules
-
-
-Edited Below
-=============
-
-2022 april 
------------
-
-/notes/think-again
-/notes/i-can't-make-this-up
-/notes/honest-truth
-----------------------------------------
-[Will - by Will Smith](/notes/will)
-/notes/the-terminal-list
-/notes/will
-/notes/80_20-running
-/notes/project-hail-mary
-/notes/four-thousand-weeks.md
-/notes/the-subtle-art-of-not-giving-a-f*ck
-
---------------------------------------------------------------------------------
-1. [Numbers Don't Lie - by Vaclav Smil](/notes/numbers-don't-lie)
-
-1. [A Thousand Brains - by Jeff Hawkins](/notes/a-thousand-brains)
-
-1. [Humankind - by Rutger Bregman](/notes/humankind)
-
-1. [The Power of Now - by Eckhart Tolle](/notes/the-power-of-now)
-
-1. [12 Rules for Life - by Jordan B. Peterson](/notes/12-rules-for-life)
+/notes/21-lessons-for-21st-century
+/notes/the-emperor-of-all-maladies
 
 
  -->
@@ -176,6 +47,10 @@ Edited Below
 </style>
 
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="How to Decide: Simple Tools for Making Better Choices" rel="nofollow" href="/notes/how-to-decide"><img alt="How to Decide: Simple Tools for Making Better Choices" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562457644l/51066664._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts" rel="nofollow" href="/notes/thinking-in-bets"><img alt="Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513351600l/35957157._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Psychology of Money" rel="nofollow" href="/notes/psychology-of-money"><img alt="The Psychology of Money" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581527774l/41881472._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Gene: An Intimate History" rel="nofollow" href="/notes/gene"><img alt="The Gene: An Intimate History" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452452965l/27276428._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="On Writing: A Memoir of the Craft" rel="nofollow" href="/notes/on-writing"><img alt="On Writing: A Memoir of the Craft" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436735207l/10569._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Red Roulette: An Insider's Story of Wealth, Power, Corruption and Vengeance in Today's China" rel="nofollow" href="/notes/red-roulette"><img alt="Red Roulette: An Insider's Story of Wealth, Power, Corruption and Vengeance in Today's China" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631107036l/57846996._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="The Glass Castle" rel="nofollow" href="/notes/the-glass-castle"><img alt="The Glass Castle" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523542886l/7445._SX98_.jpg" /></a></div>
@@ -243,7 +118,7 @@ Edited Below
 <!--     <div class="gr_grid_book_container"><a title="The Greatest Salesman in the World" rel="nofollow" href="https://www.goodreads.com/review/show/3856191568?utm_medium=api&amp;utm_source=grid_widget"><img alt="The Greatest Salesman in the World" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631968328l/356896._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="How to Think More About Sex" rel="nofollow" href="https://www.goodreads.com/review/show/4113872608?utm_medium=api&amp;utm_source=grid_widget"><img alt="How to Think More About Sex" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339001940l/13696016._SX98_.jpg" /></a></div> -->
     <div class="gr_grid_book_container"><a title="The War of Art: Winning the Inner Creative Battle" rel="nofollow" href="/notes/the-war-of-art"><img alt="The War of Art: Winning the Inner Creative Battle" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574272133l/1319._SX98_.jpg" /></a></div>
-<!--     <div class="gr_grid_book_container"><a title="The Emperor of All Maladies: A Biography of Cancer" rel="nofollow" href="https://www.goodreads.com/review/show/3847909815?utm_medium=api&amp;utm_source=grid_widget"><img alt="The Emperor of All Maladies: A Biography of Cancer" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280771091l/7170627._SX98_.jpg" /></a></div> -->
+    <div class="gr_grid_book_container"><a title="The Emperor of All Maladies: A Biography of Cancer" rel="nofollow" href="/notes/the-emperor-of-all-maladies"><img alt="The Emperor of All Maladies: A Biography of Cancer" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280771091l/7170627._SX98_.jpg" /></a></div>
 <!--     <div class="gr_grid_book_container"><a title="Open" rel="nofollow" href="https://www.goodreads.com/review/show/3123025281?utm_medium=api&amp;utm_source=grid_widget"><img alt="Open" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320520930l/6480781._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="丰乳肥臀" rel="nofollow" href="https://www.goodreads.com/review/show/3977121037?utm_medium=api&amp;utm_source=grid_widget"><img alt="丰乳肥臀" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385300316l/18928476._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="围城" rel="nofollow" href="https://www.goodreads.com/review/show/3944610225?utm_medium=api&amp;utm_source=grid_widget"><img alt="围城" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551882097l/29847852._SX98_.jpg" /></a></div> -->
@@ -283,7 +158,7 @@ Edited Below
 <!--     <div class="gr_grid_book_container"><a title="The Mamba Mentality: How I Play" rel="nofollow" href="https://www.goodreads.com/review/show/2634978896?utm_medium=api&amp;utm_source=grid_widget"><img alt="The Mamba Mentality: How I Play" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527633702l/40230101._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="Leonardo da Vinci" rel="nofollow" href="https://www.goodreads.com/review/show/2155874221?utm_medium=api&amp;utm_source=grid_widget"><img alt="Leonardo da Vinci" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523543570l/34684622._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="The Selfish Gene" rel="nofollow" href="https://www.goodreads.com/review/show/2202965562?utm_medium=api&amp;utm_source=grid_widget"><img alt="The Selfish Gene" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366758096l/61535._SX98_.jpg" /></a></div> -->
-<!--     <div class="gr_grid_book_container"><a title="21 Lessons for the 21st Century" rel="nofollow" href="https://www.goodreads.com/review/show/2571611322?utm_medium=api&amp;utm_source=grid_widget"><img alt="21 Lessons for the 21st Century" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046._SX98_.jpg" /></a></div> -->
+    <div class="gr_grid_book_container"><a title="21 Lessons for the 21st Century" rel="nofollow" href="/notes/21-lessons-for-21st-century"><img alt="21 Lessons for the 21st Century" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046._SX98_.jpg" /></a></div>
 <!--     <div class="gr_grid_book_container"><a title="The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution" rel="nofollow" href="https://www.goodreads.com/review/show/2447582396?utm_medium=api&amp;utm_source=grid_widget"><img alt="The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410191571l/21856367._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="Benjamin Franklin: An American Life" rel="nofollow" href="https://www.goodreads.com/review/show/2004938059?utm_medium=api&amp;utm_source=grid_widget"><img alt="Benjamin Franklin: An American Life" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630510455l/10883._SX98_.jpg" /></a></div> -->
 <!--     <div class="gr_grid_book_container"><a title="Einstein: His Life and Universe" rel="nofollow" href="https://www.goodreads.com/review/show/2004938022?utm_medium=api&amp;utm_source=grid_widget"><img alt="Einstein: His Life and Universe" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328011405l/10884._SX98_.jpg" /></a></div> -->

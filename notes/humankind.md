@@ -1,5 +1,5 @@
 ---
-title: *Humankind* - by Rutger Bregman
+title: Humankind - by Rutger Bregman
 date: 2022-02-13
 permalink: /notes/humankind
 author_profile: false

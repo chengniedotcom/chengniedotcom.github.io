@@ -28,7 +28,7 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 ## Update Notes
 
-1. Retrieve books I read in this [link](https://www.goodreads.com/user/edit?format=html&tab=widgets#_=_). Select "Date Read" and "desc" to pick the most recently read books. For an older book, retrieve it from the local _notes_processed.html file. 
+1. Retrieve books I read in this [link](https://www.goodreads.com/user/edit?format=html&tab=widgets#_=_). Select "Date Read" and "desc" to pick the most recently read books. For an older book, retrieve it from the local _notes_processed.html file. When adding a read book, remember to "Edit Activity" to 1) give the start and end time; 2) add this to my read list. 
 2. Paste the html section to _pages/notes.md and keep only books I haven't added yet. 
 3. Replace the href link with my summary links, so that the click would lead to my notes. 
 4. I can use width of SX147(changed to SX98 on July 1, 2022) to adjust the width of the container and the cover picture

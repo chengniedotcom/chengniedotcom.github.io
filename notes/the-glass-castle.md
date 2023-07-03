@@ -1,5 +1,5 @@
 ---
-title: *The Glass Castle* - by Jeannette Walls
+title: The Glass Castle - by Jeannette Walls
 date: 2023-05-13
 permalink: /notes/the-glass-castle
 author_profile: false

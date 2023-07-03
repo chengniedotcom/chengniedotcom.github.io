@@ -1,5 +1,5 @@
 ---
-title: *On Writing* - by Stephen King
+title: On Writing - by Stephen King
 date: 2023-05-29
 permalink: /notes/on-writing
 author_profile: false

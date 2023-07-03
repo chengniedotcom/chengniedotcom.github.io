@@ -9,7 +9,9 @@ Journal Publications
 
 <!-- Use APA 7th edition format -->
 
-3\. Jiang Z, Rai A, Sun H, Nie C, Hu Y (2023). How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms. _Information Systems Research_, (forthcoming)
+4\. Nie C, Zheng Z (Eric), Sarkar S (2023). [Firm Competitive Structure and Consumer Reaction in Search Advertising.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4499361) _Journal of the Association for Information Systems_, (forthcoming)
+
+3\. Jiang Z, Rai A, Sun H, Nie C, Hu Y (2023). [How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4466321) _Information Systems Research_, (forthcoming)
 
 2\. Nie C, Zheng Z (Eric), Sarkar S (2022). [Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy.](https://misq.umn.edu/competing-with-the-sharing-economy-incumbents-reaction-on-review-manipulation.html) _MIS Quarterly_, (46:3), 1573–1602. 
 <!-- [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/review_manipulation.pdf) [![Video](https://img.shields.io/badge/Video-orange.svg)](https://youtu.be/4LRscKwr4Fw) -->
@@ -20,8 +22,6 @@ Journal Publications
 Journal Papers Under Review
 ---------------------------
 
-- Nie C, Zheng Z (Eric), Sarkar S (2023). Firm Competitive Structure and Consumer Reaction in Search Advertising. Revising for the 4th round review at _Journal of the Association for Information Systems_
-
 - Fang B, Nie C, Zheng Z (Eric) (2023). Information Asymmetry and Speculation in NFT Platforms. Submitted for the 1st round review at _Production and Operations Management_  
 
 - Zhu T, Nie C, Jiang Z, Hu X (2023). When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation. Submitted for the 1st round review at _Journal of the Association for Information Systems_
@@ -30,6 +30,7 @@ Work in Progress
 ----------------
 
 - Nie C, Zheng Z (Eric), Sarkar S (2023). Not All Strategies Are Created Equal: Evidence from Hotels' Response to Counter the Competition from Airbnb. 
+- Chen W, Nie C, Xie K, Li X. (2023) Dance with Algorithms: Impact of Algorithmic Buyers on Housing Affordability
     
 
 Refereed Conference Papers:

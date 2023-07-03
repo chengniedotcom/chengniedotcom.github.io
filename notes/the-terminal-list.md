@@ -1,6 +1,6 @@
 ---
 # layout: post
-title: *The Terminal List* - by Jack Carr
+title: The Terminal List - by Jack Carr
 date: 2022-03-15
 permalink: /notes/the-terminal-list
 author_profile: false

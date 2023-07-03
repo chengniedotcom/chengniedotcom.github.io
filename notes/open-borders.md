@@ -1,5 +1,5 @@
 ---
-title: *Open Borders* - by Bryan Caplan
+title: Open Borders - by Bryan Caplan
 date: 2022-10-30
 permalink: /notes/open-borders
 author_profile: false

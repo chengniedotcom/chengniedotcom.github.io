@@ -1,5 +1,5 @@
 ---
-title: *Crying in H Mart* - by Michelle Zauner
+title: Crying in H Mart - by Michelle Zauner
 date: 2022-05-12
 permalink: /notes/crying-in-h-mart
 author_profile: false
