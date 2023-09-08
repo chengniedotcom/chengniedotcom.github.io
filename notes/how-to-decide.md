@@ -14,7 +14,7 @@ Read: 2023-06-29
 Recommend: 5/10
 
 
-This book serves as a practical guide and workbook to complement Annie Duke's previous work, [Thinking in Bets](/notes/thinking-in-bets)..
+This book serves as a practical guide and workbook to complement Annie Duke's previous work, [Thinking in Bets](/notes/thinking-in-bets).
 
 ## Notes
 

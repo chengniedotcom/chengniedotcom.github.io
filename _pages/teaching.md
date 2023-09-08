@@ -19,6 +19,7 @@ author_profile: true
 | Course Number and Title | Semester | Enrollment | Response Rate(%) | Class GPA | Instructor Rating |
 |------------------------------------------------ |------------- |------------ |------------------ |-----------
 |--------------------- |
+| MIS 301: Introduction to MIS - Section C | Spring 2023 | 59 | 78 | 3.25 | 4.00 |
 | MIS 301: Introduction to MIS - Section F | Fall 2022 | 69 | 77 | 3.44 | 3.91 |
 | MIS 301: Introduction to MIS - Section G | Fall 2022 | 65 | 69 | 3.48 | 3.92 |
 | MIS 301: Introduction to MIS - Section C | Spring 2022 | 54 | 65 | 3.22 | 4.57 |
