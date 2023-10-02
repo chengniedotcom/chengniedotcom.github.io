@@ -65,3 +65,10 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
     git checkout dev
 
 ```
+
+# History
+
+2023-09-07
+1. Add Aug/Sep Notes of books. 
+2. Resume Student Letter
+3. Add text for book titles in notes

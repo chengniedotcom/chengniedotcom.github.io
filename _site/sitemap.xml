@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-1/</loc>
-<lastmod>2023-09-07T19:30:43-05:00</lastmod>
+<lastmod>2023-10-01T21:31:16-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-2/</loc>
-<lastmod>2023-09-07T19:30:43-05:00</lastmod>
+<lastmod>2023-10-01T21:31:16-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/review2021/</loc>
@@ -93,6 +93,12 @@
 <loc>http://localhost:4000/notes/1984</loc>
 </url>
 <url>
+<loc>http://localhost:4000/cn/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/cn/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/21-lessons-for-21st-century</loc>
 </url>
 <url>
@@ -105,7 +111,7 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/notes/an-emotional-education/</loc>
+<loc>http://localhost:4000/notes/an-emotional-education</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/animal-farm</loc>
@@ -150,6 +156,9 @@
 <loc>http://localhost:4000/notes/educated</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/enlightenment-now</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/fast-girl</loc>
 </url>
 <url>
@@ -186,7 +195,7 @@
 <loc>http://localhost:4000/notes/humankind</loc>
 </url>
 <url>
-<loc>http://localhost:4000/notes/i-can&apos;t-make-this-up/</loc>
+<loc>http://localhost:4000/notes/i-can&apos;t-make-this-up</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/im-glad-my-mom-died</loc>
@@ -255,7 +264,7 @@
 <loc>http://localhost:4000/research/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/notes/sapiens/</loc>
+<loc>http://localhost:4000/notes/sapiens</loc>
 </url>
 <url>
 <loc>http://localhost:4000/sitemap/</loc>
@@ -333,6 +342,9 @@
 <loc>http://localhost:4000/notes/thinking-in-bets</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/thinking-in-systems</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/tomorrow-and-tomorrow-and-tomorrow</loc>
 </url>
 <url>
@@ -372,6 +384,9 @@
 <loc>http://localhost:4000/notes/%E6%9D%82%E7%9A%84%E6%96%87</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/%E7%9C%8B%E8%A7%81</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/%E7%A6%85%E7%9A%84%E6%95%85%E4%BA%8B</loc>
 </url>
 <url>
@@ -399,7 +414,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/marathon/map.html</loc>
-<lastmod>2023-01-20T17:12:22-06:00</lastmod>
+<lastmod>2022-10-13T15:45:19-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/talkmap/map.html</loc>
