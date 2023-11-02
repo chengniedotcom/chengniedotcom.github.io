@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import re
 
 # Sample HTML input
 html = '''
@@ -9,6 +10,7 @@ html = '''
     <div class="gr_grid_book_container"><a title="王小波文集（全十卷）" rel="nofollow" href="/notes/王小波"><img alt="王小波文集（全十卷）" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471818440l/31571755._SX50_.jpg" /></a></div>
 '''
 
+pattern = re.compile(r'_(SX|SY)\d+_.jpg')
 # Parse the HTML
 soup = BeautifulSoup(html, 'html.parser')
 
@@ -23,6 +25,11 @@ for a_tag in soup.find_all('a'):
     a_tag.append(' ')
     a_tag.append(text)
     a_tag['style'] = style
+
+for img_tag in soup.find_all('img'):
+    # Change picture size
+    img_tag['src'] = re.sub(pattern, '_SX98_.jpg', img_tag['src'])
+
 
 # Print the modified HTML
 print(soup)

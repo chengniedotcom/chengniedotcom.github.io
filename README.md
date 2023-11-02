@@ -31,11 +31,11 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 1. Retrieve books I read in this [link](https://www.goodreads.com/user/edit?format=html&tab=widgets#_=_). Select "Date Read" and "desc" to pick the most recently read books. For an older book, retrieve it from the local _notes_processed.html file. When adding a read book, remember to "Edit Activity" to 1) give the start and end time; 2) add this to my read list. 
     
     1. In case it does not work, I can manually edit a link. The picture link shows when I click on the book cover and open the cover picture in a new tab. 
-    2. To add text of the book title, run notes_add_text.py
+    2. Paste the html section to notes_add_text.py and use only the books I haven't added yet. 
+    3. Replace the href link with my summary links like /notes/乡土中国, so that the click would lead to my notes. 
+    4. To add text and adjust the width of the book title, run notes_add_text.py
+    5. Paste the output back to _pages/notes.md
 
-2. Paste the html section to _pages/notes.md and keep only books I haven't added yet. 
-3. Replace the href link with my summary links, so that the click would lead to my notes. 
-4. I can use width of SX98 to adjust the width of the container and the cover picture
 
 
 ## Update latest update date
