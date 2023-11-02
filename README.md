@@ -35,7 +35,7 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 2. Paste the html section to _pages/notes.md and keep only books I haven't added yet. 
 3. Replace the href link with my summary links, so that the click would lead to my notes. 
-4. I can use width of SX147(changed to SX98 on July 1, 2022) to adjust the width of the container and the cover picture
+4. I can use width of SX98 to adjust the width of the container and the cover picture
 
 
 ## Update latest update date

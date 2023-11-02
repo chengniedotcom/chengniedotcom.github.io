@@ -14,7 +14,7 @@ Journal Publications
 <!-- 10.17705/1jais.00835 -->
 
 
-3\. Jiang Z, Rai A, Sun H, Nie C, Hu Y (2023). [How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4466321) _Information Systems Research_, (forthcoming)
+3\. Jiang Z, Rai A, Sun H, Nie C, Hu Y (2023). [How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms.](https://doi.org/10.1287/isre.2020.0658) _Information Systems Research_, (forthcoming)
 
 2\. Nie C, Zheng Z (Eric), Sarkar S (2022). [Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy.](https://doi.org/10.25300/MISQ/2022/15666) _MIS Quarterly_, (46:3), 1573–1602. 
 <!-- [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/review_manipulation.pdf) [![Video](https://img.shields.io/badge/Video-orange.svg)](https://youtu.be/4LRscKwr4Fw) -->
@@ -26,7 +26,7 @@ Journal Papers Under Review
 ---------------------------
 
 
-1\. Zhu T, Nie C, Jiang Z, Hu X (2023). When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation. Submitted for the 1st round review at _Decision Support Systems_
+1\. Zhu T, Nie C, Jiang Z, Hu X (2023). When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation. Under revision for the 2nd round review at _Decision Support Systems_
 
 Work in Progress
 ----------------

@@ -2,9 +2,11 @@ from bs4 import BeautifulSoup
 
 # Sample HTML input
 html = '''
-    <div class="gr_grid_book_container"><a title="看见" rel="nofollow" href="/notes/看见"><img alt="看见" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408458884l/18458655._SX98_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Thinking In Systems: A Primer" rel="nofollow" href="/notes/thinking-in-systems"><img alt="Thinking In Systems: A Primer" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859l/3828902._SX98_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Enlightenment now: The Case for Reason, Science, Humanism and Progress" rel="nofollow" href="/notes/enlightenment-now"><img alt="Enlightenment now: The Case for Reason, Science, Humanism and Progress" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518557146l/38526454._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="乡土中国" rel="nofollow" href="/notes/乡土中国"><img alt="乡土中国" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365606185l/17789435._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="為人民服務" rel="nofollow" href="/notes/为人民服务"><img alt="為人民服務" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526265841l/40117150._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="情人" rel="nofollow" href="/notes/情人"><img alt="情人" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566760739l/20319229._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="江村经济:中国农民的生活(博雅双语名家名作)(英汉对照)(图文版)" rel="nofollow" href="/notes/江村经济"><img alt="江村经济:中国农民的生活(博雅双语名家名作)(英汉对照)" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385086405l/18880682._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="王小波文集（全十卷）" rel="nofollow" href="/notes/王小波"><img alt="王小波文集（全十卷）" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471818440l/31571755._SX50_.jpg" /></a></div>
 '''
 
 # Parse the HTML
