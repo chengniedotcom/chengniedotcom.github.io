@@ -16,27 +16,6 @@ Click on each book cover for my tiny summary and detailed notes(highlights) for 
 130 books on Aug 15, 2022 in _notes_processed.html
 --------------------------------------------------
 
-Oct 2023
-/notes/王小波
-/notes/江村经济
-/notes/情人
-/notes/为人民服务
-/notes/乡土中国
-
-Sep 2023
-/notes/enlightenment-now
-/notes/thinking-in-systems
-/notes/看见
-
-
-
-
-
-
-
-
-
-
  -->
 
 <style type="text/css" media="screen">
@@ -56,6 +35,20 @@ Sep 2023
 }
 </style>
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a href="/notes/奇特的一生" rel="nofollow" style="color: black; font-size: 10px;" title="奇特的一生"><img alt="奇特的一生" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442383414l/26570751._SX98_.jpg"/> 奇特的一生</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/the-woman-in-me" rel="nofollow" style="color: black; font-size: 10px;" title="The Woman in Me"><img alt="The Woman in Me" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697216267l/199661496._SX98_.jpg"/> The Woman In Me</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/be-useful" rel="nofollow" style="color: black; font-size: 10px;" title="Be Useful: Seven Tools for Life"><img alt="Be Useful: Seven Tools for Life" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685351182l/125063314._SX98_.jpg"/> Be Useful</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/the-las-vegas-madam" rel="nofollow" style="color: black; font-size: 10px;" title="The Las Vegas Madam: The Escorts, The Clients, The Truth"><img alt="The Las Vegas Madam: The Escorts, The Clients, The Truth" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443924433l/26861308._SX98_.jpg"/> The Las Vegas Madam</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/beautiful-world-where-are-you" rel="nofollow" style="color: black; font-size: 10px;" title="Beautiful World, Where Are You"><img alt="Beautiful World, Where Are You" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1672783505l/75555793._SX98_.jpg"/> Beautiful World Where Are You</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/ignorance" rel="nofollow" style="color: black; font-size: 10px;" title="Ignorance: How it drives science"><img alt="Ignorance: How it drives science" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333421651l/13574594._SX98_.jpg"/> Ignorance</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/spike" rel="nofollow" style="color: black; font-size: 10px;" title="SPIKE"><img alt="SPIKE" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634634955l/57971393._SX98_.jpg"/> Spike</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/elon-musk" rel="nofollow" style="color: black; font-size: 10px;" title="Elon Musk"><img alt="Elon Musk" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692288251l/122765395._SX98_.jpg"/> Elon Musk</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/the-coddling-of-the-american-mind" rel="nofollow" style="color: black; font-size: 10px;" title="The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure"><img alt="The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513836885l/36556202._SX98_.jpg"/> The Coddling Of The American Mind</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/why-is-sex-fun" rel="nofollow" style="color: black; font-size: 10px;" title="Why Is Sex Fun? The Evolution of Human Sexuality (Science Masters)"><img alt="Why Is Sex Fun? The Evolution of Human Sexuality" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431354333l/1991._SX98_.jpg"/> Why Is Sex Fun</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/guns-germs-and-steel" rel="nofollow" style="color: black; font-size: 10px;" title="Guns, Germs, and Steel: The Fates of Human Societies"><img alt="Guns, Germs, and Steel: The Fates of Human Societies" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453215833l/1842._SX98_.jpg"/> Guns Germs And Steel</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/价值" rel="nofollow" style="color: black; font-size: 10px;" title="价值：我对投资的思考"><img alt="价值：我对投资的思考" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599406665l/55247953._SX98_.jpg"/> 价值</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/lessons-in-chemistry" rel="nofollow" style="color: black; font-size: 10px;" title="Lessons in Chemistry"><img alt="Lessons in Chemistry" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649650192l/58735074._SX98_.jpg"/> Lessons In Chemistry</a> </div>
+    <div class="gr_grid_book_container"><a href="/notes/rationality" rel="nofollow" style="color: black; font-size: 10px;" title="Rationality"><img alt="Rationality" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618510588l/56224080._SX98_.jpg"/> Rationality</a> </div>
     <div class="gr_grid_book_container"><a href="/notes/乡土中国" rel="nofollow" style="color: black; font-size: 10px;" title="乡土中国"><img alt="乡土中国" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365606185l/17789435._SX98_.jpg"/> 乡土中国</a></div>
     <div class="gr_grid_book_container"><a href="/notes/为人民服务" rel="nofollow" style="color: black; font-size: 10px;" title="為人民服務"><img alt="為人民服務" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526265841l/40117150._SX98_.jpg"/> 为人民服务</a></div>
     <div class="gr_grid_book_container"><a href="/notes/情人" rel="nofollow" style="color: black; font-size: 10px;" title="情人"><img alt="情人" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566760739l/20319229._SX98_.jpg"/> 情人</a></div>

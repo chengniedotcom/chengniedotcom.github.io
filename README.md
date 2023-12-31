@@ -23,7 +23,7 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 ## Update teaching
 
 1. The survey in Canvas has the enrollment and response of each section for the evaluation
-2. PRR has the average GPA, then I don't have to calculate it manually as in the notes. 
+2. [PRR](ivy-prr.bus.iastate.edu) has the average GPA, then I don't have to calculate it manually as in the notes. 
 
 
 ## Update Notes
@@ -68,7 +68,3 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 # History
 
-2023-09-07
-1. Add Aug/Sep Notes of books. 
-2. Resume Student Letter
-3. Add text for book titles in notes

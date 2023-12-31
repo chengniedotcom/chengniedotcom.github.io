@@ -18,6 +18,7 @@ It's a good reminder about those insights learnt in a 10-day [Vipassana course](
 ## Notes
 
 **Here are some text that I highlighted in the book:** 
+
 1. They are not permitted because the final aim of this meditation is not concentration of mind. Concentration is only a help, a step leading to a higher goal: purification of mind, eradicating all the mental defilements, the negativities within, and thus attaining liberation from all misery, attaining full enlightenment. Every time an impurity arises in the mind, such as anger, hatred, passion, fear etc., one becomes miserable. Whenever something unwanted happens, one becomes tense and starts tying knots inside. 
 
 1. To learn the art of living harmoniously, first one must find the cause of disharmony. The cause always lies within, and for this reason you have to explore the reality of yourself.

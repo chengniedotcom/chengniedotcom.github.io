@@ -15,6 +15,7 @@ author_profile: true
 
 <!-- 2019 Spring to 2021 spring, only overall course rating, instead of instructor rating, is available. -->
 <!-- | MIS 301: Introduction to MIS - Section G | Spring 2022 |  | | | | -->
+<!-- | MIS 301: Introduction to MIS - Section G | Fall 2023 | 71 | 75 | TK | 4.27 | -->
 
 | Course Number and Title | Semester | Enrollment | Response Rate(%) | Class GPA | Instructor Rating |
 |------------------------------------------------ |------------- |------------ |------------------ |-----------
