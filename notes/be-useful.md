@@ -1,20 +1,19 @@
 ---
-title: TITLE - by AUTHOR
-date: 2023-DATE
+title: Be Useful - by Arnold Schwarzenegger
+date: 2023-12-24
 permalink: /notes/be-useful
 author_profile: false
 tags:
     - notes
 ---
 
-## *TITLE* - by AUTHOR
+## *Be Useful* - by Arnold Schwarzenegger
 
-Read: 2023-DATE
+Read: 2023-12-24
 
-Recommend: SCORE/10
+Recommend: 8/10
 
-SUMMARY
-Address the TK items
+I appreciate his critique of 'The Secret' and his emphasis on supporting visualization with hard work.
 
 ## Notes
 
@@ -50,7 +49,7 @@ Address the TK items
 
 1. It’s no harder to think big than it is to think small. The only hard part is giving yourself permission to think that way. Well, I don’t just give you permission, I demand it of you, because when you’re thinking about your goals and crafting that vision for your life, you have to remember that it’s not just about you. You could have a huge impact on the people around you. While you are breaking new ground in your own life, you could be blazing trails for people you didn’t even know were watching.
 
-1. Ibet you and I have a lot in common. We’re not the strongest, smartest, or richest people we know. We’re not the fastest or the most connected. We’re not the best looking or the most talented. We don’t have the best genetics. But what we do have is something a lot of those other people will never have: the will to work.
+1. I bet you and I have a lot in common. We’re not the strongest, smartest, or richest people we know. We’re not the fastest or the most connected. We’re not the best looking or the most talented. We don’t have the best genetics. But what we do have is something a lot of those other people will never have: the will to work.
 
 1. Audiences all over the world loved John Coltrane’s playing for its intensity. You would hear people say, “Trane’s on fire!” What few of those people knew was that his fire onstage was fueled by countless reps of the most lifeless, boring stuff possible, which he practiced when no one was listening.
 
