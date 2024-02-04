@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-07T16:49:22-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cheng Nie(聂成)</title><subtitle>The Website of Cheng Nie</subtitle><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><entry><title type="html">记一次吵架</title><link href="http://localhost:4000/gww2023/" rel="alternate" type="text/html" title="记一次吵架" /><published>2024-01-07T00:00:00-06:00</published><updated>2024-01-07T00:00:00-06:00</updated><id>http://localhost:4000/gww2023</id><content type="html" xml:base="http://localhost:4000/gww2023/">&lt;p&gt;一万个字看起来很累，你可以点击下面的按钮来收听全文半小时的内容。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-04T13:47:32-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cheng Nie(聂成)</title><subtitle>The Website of Cheng Nie</subtitle><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><entry><title type="html">记一次吵架</title><link href="http://localhost:4000/gww2023/" rel="alternate" type="text/html" title="记一次吵架" /><published>2024-01-07T00:00:00-06:00</published><updated>2024-01-07T00:00:00-06:00</updated><id>http://localhost:4000/gww2023</id><content type="html" xml:base="http://localhost:4000/gww2023/">&lt;p&gt;一万个字看起来很累，你可以点击下面的按钮来收听全文半小时的内容。&lt;/p&gt;
 
 &lt;head&gt;
     &lt;title&gt;Play Button Example&lt;/title&gt;
@@ -28,7 +28,7 @@
         &lt;source src=&quot;/files/audio/gww2023.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
         Your browser does not support the audio element.
     &lt;/audio&gt;
-    &lt;button id=&quot;playButton&quot; onclick=&quot;playAudio()&quot;&gt;点击播放全文语音(30:27)&lt;/button&gt;
+    &lt;button id=&quot;playButton&quot; onclick=&quot;playAudio()&quot;&gt;点击播放全文语音(30分钟)&lt;/button&gt;
     &lt;script&gt;
         function playAudio() {
             var audio = document.getElementById(&quot;myAudio&quot;);
@@ -101,7 +101,7 @@
 
 &lt;p&gt;整个正面冲突的对话也就十来分钟，最后甘薇薇问我：“那我们这还有几天怎么相处呢？明天还有妹妹的生日聚会。”我说：“那我们就把彼此当空气啊。”&lt;/p&gt;
 
-&lt;p&gt;当天下午，甘薇薇带着他儿子熙熙起身回了武汉。甘萍萍问她姐姐说：“我明天生日聚会你都不参加了吗？我都六年没有回过国了。”甘薇薇一边抹着泪一边说：“我觉得跟你讲是浪费时间。”甘萍萍一听她姐姐说是浪费时间，所以也就没有再去努力挽留。然后甘薇薇就开着车回武汉了。&lt;/p&gt;
+&lt;p&gt;当天下午，甘薇薇带着他儿子熙熙起身回了武汉，没有参加甘萍萍的生日聚会。&lt;/p&gt;
 
 &lt;p&gt;8月6日甘萍萍生日聚会那天，几乎所有她父母两边的亲戚都来了。上次大家和甘萍萍见面还是6年前，大家都很想念我们一家，相聚的一整天，大家都有说有笑。吃完晚饭，有个亲戚把我拉到一边，神神秘秘地问我：“到底发生了什么？怎么甘薇薇没有来参加聚会？而且在她朋友圈发了些奇奇怪怪的东西？”我回答说：“甘薇薇和我之间有些争吵。”然后这个亲戚拿出他手机给我看甘薇薇当天发在朋友圈里面的两个帖子。这两个帖子的截图我也放在了后面。因为甘薇薇跟我2020年就已经不是微信好友，我看不到她的朋友圈，这两张截图是别人发给我的。&lt;/p&gt;
 
@@ -109,7 +109,7 @@
 
 &lt;p&gt;甘薇薇这种打着爱的名义、道德绑架他人的伎俩已经对她妈、她爸、她妹三个人都用过了。从2010年年底甘萍萍和我结婚到现在的13年里，我远距离地观察了甘薇薇与各个家人大大小小的斗争过程。甘薇薇怪她妈妈过度参与甘薇薇的第一段婚姻，导致那段婚姻不幸福。甘薇薇怪她爸爸没有处理好夫妻关系、导致她自己对所有的男人都不信任，所以找不到好的男朋友、好的老公。甘薇薇也怪过她父母在她幼年的时候没有照顾她，而是把她丢给外公外婆去照顾。甘薇薇还怪过她父母没有像别人家的父母一样，给子女指明职业发展方向。 她说她父母只给了她一些臭钱。甘薇薇也怪她妹妹。理由是甘薇薇批斗她爸爸的时候，甘萍萍竟然没有跟她统一战线去批斗爸爸。 因为这个原因，疫情期间她在微信上拉黑了甘萍萍。甘薇薇很擅长拿捏家人，一哭二闹三上吊、拉黑绝交都是她常规炒作。正因如此，家里人都只能顺着她。&lt;/p&gt;
 
-&lt;p&gt;由于8月16日我们返美的飞机得从武汉起飞，我们提前两天就到了武汉。8月15日正好是甘薇薇的生日，甘萍萍说想带着麦克和乔丹去给她姐姐庆祝生日。我虽然和她姐姐闹了不愉快，但那是老婆的亲姐，我当然支持这个安排。只是，我说我就不去参加了，老婆也表示理解。15日下午，甘萍萍带着鲜花和蛋糕，领着两娃去了她姐姐家。甘薇薇不在家，姐夫李旰和他们两个小孩在家。姐夫李旰和甘萍萍聊了一会。李旰说：“你姐姐是想拯救你，所以才跟聂成说这些话。”甘萍萍觉得“拯救”这个词很奇怪，因为甘萍萍从来没有想要去拯救她姐姐。四个小孩玩了一下午，直到甘萍萍离开，甘薇薇也没出现。&lt;/p&gt;
+&lt;p&gt;由于8月16日我们返美的飞机得从武汉起飞，我们提前两天就到了武汉。8月15日正好是甘薇薇的生日，甘萍萍说想带着麦克和乔丹去给她姐姐庆祝生日。我虽然和她姐姐闹了不愉快，但那是老婆的亲姐，我当然支持这个安排。只是，我说我就不去参加了，老婆也表示理解。15日下午，甘萍萍带着鲜花和蛋糕，领着两娃去了她姐姐家。甘薇薇不在家，姐夫李旰和他们两个小孩在家。姐夫李旰和甘萍萍聊了一会。四个小孩玩了一下午，直到甘萍萍离开，甘薇薇也没出现。&lt;/p&gt;
 
 &lt;p&gt;8月16日，我岳父、岳母、四阿姨（岳父的四妹）、我妈妈送我们一家四口从武汉天河机场起飞，完成了一个月的中国之行。&lt;/p&gt;
 
@@ -271,7 +271,7 @@
 &lt;h1 id=&quot;2-what-didnt-go-so-well-this-year&quot;&gt;2. What Didn’t Go So Well This Year?&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;A big fight with my elder sister-in-law.&lt;/strong&gt; I will write about it and link to that post once it is ready.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A big fight with my elder sister-in-law.&lt;/strong&gt; I will write about it and link to that post once it is ready. Here is the &lt;a href=&quot;https://chengnie.com/gww2023/&quot;&gt;post in Chinese&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;3-what-did-i-learn&quot;&gt;3. What Did I Learn?&lt;/h1&gt;

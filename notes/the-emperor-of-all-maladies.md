@@ -13,7 +13,6 @@ Read: 2021-06-13
 
 Recommend: 10/10
 
-TODO: edit. bookmark at Line 50
 It was an eye-opening journey for me. I did not know not all cancers are the same. The book gave me some hope about finding all the cures for all types of cancer. 
 
 

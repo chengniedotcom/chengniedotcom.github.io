@@ -2,11 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-1/</loc>
-<lastmod>2024-01-07T16:49:22-06:00</lastmod>
+<lastmod>2024-02-04T13:47:32-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-2/</loc>
-<lastmod>2024-01-07T16:49:22-06:00</lastmod>
+<lastmod>2024-02-04T13:47:32-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/highschool2020/</loc>
+<lastmod>2020-09-12T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/review2021/</loc>
@@ -115,6 +119,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/80_20-running</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/a-therapeutic-journey</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/a-thousand-brains</loc>
@@ -243,6 +250,9 @@
 <loc>http://localhost:4000/notes/liquid-rules</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/long-story-short</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/luxun</loc>
 </url>
 <url>
@@ -252,10 +262,16 @@
 <loc>http://localhost:4000/markdown/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/mindreader</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/moo</loc>
 </url>
 <url>
 <loc>http://localhost:4000/non-menu-page/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/normal-people</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/</loc>
@@ -393,6 +409,9 @@
 <loc>http://localhost:4000/notes/tomorrow-and-tomorrow-and-tomorrow</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/total-recall</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/unconditional-parenting</loc>
 </url>
 <url>
@@ -406,6 +425,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/will</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/zen</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/%E4%B8%80%E5%BA%A7%E5%9F%8E%E6%B1%A0</loc>

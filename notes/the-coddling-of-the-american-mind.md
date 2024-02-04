@@ -12,6 +12,7 @@ tags:
 Read: 2023-12-08
 
 Recommend: 10/10
+
 Throughout this book, I found an intriguing parallel between Cognitive Behavioral Therapy (CBT) and Vipassana meditation, emphasizing the power of observing thoughts without reacting to them. One thing stands out from this book for me: Among the children who had been “protected” from peanuts, 17% had developed a peanut allergy. In the group that had been deliberately exposed to peanut products, only 3% had developed an allergy.
 
 

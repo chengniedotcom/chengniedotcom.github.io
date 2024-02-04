@@ -26,21 +26,20 @@ Journal Papers Under Review
 ---------------------------
 
 
-1\. Zhu T, Nie C, Jiang Z, Hu X (2023). When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation. Under revision for the 2nd round review at _Decision Support Systems_
+1\. Zhu T, Nie C, Jiang Z, Hu X (2024). When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation. Submitted for the 2nd round review at _Decision Support Systems_
+
+2\. Fang B, Nie C, Zheng Z (Eric) (2024). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Submitted for the 1st round review at _Journal of Management Information Systems_
 
 Work in Progress
 ----------------
 
-5\. Fang B, Nie C, Zheng Z (Eric) (2023). Information Asymmetry and Speculation in NFT Platforms.
+4\. Chen W, Nie C, Xie K, Li X. (2024) Impact of Algorithmic Buyers on Housing Affordability.
 
-4\. Chen W, Nie C, Xie K, Li X. (2023) Impact of Algorithmic Buyers on Housing Affordability.
+3\. Yang M, Nie C, Ji Y, Mookerjee V.(2024). Stay in Your Comfort Zone: Evidence from Quality Competition.
 
-3\. Yang M, Nie C, Ji Y, Mookerjee V.(2023). Stay in Your Comfort Zone: Evidence from Quality Competition.
+2\. Meng J, Nie C, Zhang C (2024) “Home Sharing, Long-Term Rental, and Crimes.”
 
-2\. Meng J, Nie C, Zhang C (2023) “Home Sharing, Long-Term Rental, and Crimes.”
-
-1\. Nie C, Zheng Z (Eric), Sarkar S (2023). How Does Online Review Manipulation Influence Sales? Evidence from the Hotel Industry.
-
+1\. Nie C, Zheng Z (Eric), Sarkar S (2024). How Does Online Reputation Management Influence Sales? Evidence from the Hotel Industry.
     
 
 Refereed Conference Papers:
