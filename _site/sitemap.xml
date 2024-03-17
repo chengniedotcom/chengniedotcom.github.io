@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-1/</loc>
-<lastmod>2024-02-04T13:47:32-06:00</lastmod>
+<lastmod>2024-03-17T17:45:09-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-2/</loc>
-<lastmod>2024-02-04T13:47:32-06:00</lastmod>
+<lastmod>2024-03-17T17:45:09-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/highschool2020/</loc>
@@ -178,6 +178,9 @@
 <loc>http://localhost:4000/notes/discourse-summaries</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/eat-pray-love</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/educated</loc>
 </url>
 <url>
@@ -188,6 +191,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/fast-girl</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/feel-good-productivity</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/finding-me</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/first20hours</loc>
@@ -266,6 +275,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/moo</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/never-get-angry-again</loc>
 </url>
 <url>
 <loc>http://localhost:4000/non-menu-page/</loc>
@@ -364,6 +376,9 @@
 <loc>http://localhost:4000/notes/the-emperor-of-all-maladies</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/the-gift-of-imperfection</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/the-giver</loc>
 </url>
 <url>
@@ -377,6 +392,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/the-power-of-now</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/the-private-life-of-chairman-mao</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/the-song-of-the-cell</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/the-storyteller</loc>
@@ -427,6 +448,9 @@
 <loc>http://localhost:4000/notes/will</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/yellowface</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/zen</loc>
 </url>
 <url>
@@ -454,6 +478,9 @@
 <loc>http://localhost:4000/notes/%E5%A5%87%E7%89%B9%E7%9A%84%E4%B8%80%E7%94%9F</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/%E5%B9%B3%E5%87%A1%E7%9A%84%E4%B8%96%E7%95%8C</loc>
 </url>
 <url>
@@ -461,6 +488,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%94%9F%E6%B4%BB</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/%E6%99%9A%E5%B9%B4%E5%91%A8%E6%81%A9%E6%9D%A5</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/%E6%99%9A%E7%86%9F%E7%9A%84%E4%BA%BA</loc>
@@ -493,6 +523,12 @@
 <loc>http://localhost:4000/notes/%E9%A9%BB%E9%A9%AC%E5%BA%97%E4%BC%A4%E5%BF%83%E6%95%85%E4%BA%8B%E9%9B%86</loc>
 </url>
 <url>
+<loc>http://localhost:4000/UPDATES/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/shoe-dog/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/markdown_generator/</loc>
 </url>
 <url>
@@ -505,7 +541,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/marathon/map.html</loc>
-<lastmod>2023-01-20T17:12:22-06:00</lastmod>
+<lastmod>2024-03-17T17:31:33-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/talkmap/map.html</loc>

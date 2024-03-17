@@ -5,6 +5,7 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 ## Check to-update items
 
 1. Tracked in Notion App and Apple Reminders. 
+2. Keep changes in UPDATES.md
 
 ## Update Research
 

@@ -9,12 +9,14 @@ Journal Publications
 
 <!-- Use APA 7th edition format -->
 
-4\. Nie C, Zheng Z (Eric), Sarkar S (2023). [Firm Competitive Structure and Consumer Reaction in Search Advertising.](https://aisel.aisnet.org/jais_preprints/107/) _Journal of the Association for Information Systems_, (forthcoming)
+4\. Nie C, Zheng Z (Eric), Sarkar S (2024). [Firm Competitive Structure and Consumer Reaction in Search Advertising.](https://doi.org/10.17705/1jais.00835) _Journal of the Association for Information Systems_, (2024)
+
+<!-- https://aisel.aisnet.org/jais_preprints/107/ -->
 <!-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4499361 -->
 <!-- 10.17705/1jais.00835 -->
 
 
-3\. Jiang Z, Rai A, Sun H, Nie C, Hu Y (2023). [How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms.](https://doi.org/10.1287/isre.2020.0658) _Information Systems Research_, (forthcoming)
+3\. Jiang Z, Rai A, Sun H, Nie C, Hu Y (2023). [How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms.](https://doi.org/10.1287/isre.2020.0658) _Information Systems Research_, (2023)
 
 2\. Nie C, Zheng Z (Eric), Sarkar S (2022). [Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy.](https://doi.org/10.25300/MISQ/2022/15666) _MIS Quarterly_, (46:3), 1573–1602. 
 <!-- [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/review_manipulation.pdf) [![Video](https://img.shields.io/badge/Video-orange.svg)](https://youtu.be/4LRscKwr4Fw) -->
@@ -26,7 +28,7 @@ Journal Papers Under Review
 ---------------------------
 
 
-1\. Zhu T, Nie C, Jiang Z, Hu X (2024). When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation. Submitted for the 2nd round review at _Decision Support Systems_
+1\. Zhu T, Nie C, Jiang Z, Hu X (2024). When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation. Revising for the 3rd round review at _Decision Support Systems_
 
 2\. Fang B, Nie C, Zheng Z (Eric) (2024). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Submitted for the 1st round review at _Journal of Management Information Systems_
 

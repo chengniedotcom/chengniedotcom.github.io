@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Tokyo, Japan | Mar 3, 2024 | 3:20:00 | Tokyo Marathon",
+    35.6821936,
+    139.762221
+  ],
+  [
     "Boston, MA | Apr 17, 2023 | 2:59:38 | Boston Marathon",
     42.3554334,
     -71.060511
@@ -36,8 +41,8 @@ var addressPoints = [
   ],
   [
     "Des Moines, IA | Oct 21, 2018 | 2:59:46 | Des Moines Marathon",
-    41.5910323,
-    -93.6046655
+    41.5868654,
+    -93.6249494
   ],
   [
     "Irving, TX | Apr 7, 2018 | 3:03:02 | Irving Marathon",

@@ -12,6 +12,7 @@ title = ""
 file = 'marathon.tsv'
 with open(file, 'r') as f:
     for idx, line in enumerate(f):
+        print(line.split('\t'))
         location, date, time, event = line.split('\t')
         event = event.strip()
         if location[-4:] == ", CA":
