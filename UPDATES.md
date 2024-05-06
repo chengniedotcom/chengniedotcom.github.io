@@ -9,6 +9,11 @@
 - Get research Teaching into the About page directly
 - Update my profile picture taken: GOLD8617.jpg. Add my domain. Ask friends. 
 - Get the blog and notes link below profile picture. 
+    - Through "flickr" search in the directory, I found the places to update blog and notes into the profile page: 
+        - author-profile.html
+        - _config.yml
+        - _utilities.scss
+        - _variables.scss
 
 ### About
 

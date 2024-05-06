@@ -61,6 +61,24 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 ```
 
+    # Method 2024_05_06:
+    github copilot account and github personal account cannot co-exist in vs code. Therefore, I log into school copilot account in vs code and github ssh to commit the changes in iMac. 
+    - set up ssh to github using chengniedotcom account. 
+        - pbcopy < ~/.ssh/id_rsa.pub
+        - paste it to github.com -> Settings -> Add SSH key -> paste the key
+        - Verify it works in terminal: ssh -T git@github.com
+        - Update the repo from HTTPS to SSH: git remote set-url origin git@github.com:chengniedotcom/chengniedotcom.github.io.git
+        - git remote -v
+        - git branch. It looks that I did not have dev branch. That is OK since things are backuped in Dropbox. 
+        - git commit -m "2024_05_06 update"
+            - Because I had conflicted changes (added pptx in web interface, then update the local repo. I need to merge the changes) git pull --no-rebase origin master
+            - Also for merge: git pull origin master
+
+        - git status
+        - git add --all
+        - git commit -m """
+        - git push origin master
+
     # Method 1: in vs code. No need for the dev branch. 
     Commit the change with Source Control view
     Git: Push

@@ -89,15 +89,15 @@ author:
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : cheng@chengnie.com
-  Blog             : https://chengnie.com/blog/
-  Notes            : https://chengnie.com/notes/
+  blog             : https://chengnie.com/blog/
+  notes            : https://chengnie.com/notes/
   # email            : &#x63;h&#x65;&#110;&#103;&#x40;&#x63;h&#x65;&#110;&#103;&#110;&#x69;&#101;&#x2E;&#x63;&#111;&#x6D;
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :
   # codepen          :
   # dribbble         :
-  # flickr           :
+  # flickr           : https://chengnie.com/notes/
   # facebook         :
   # foursquare       :
   # github           : "academicpages"

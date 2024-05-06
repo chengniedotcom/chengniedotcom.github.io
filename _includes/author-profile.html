@@ -100,6 +100,12 @@
       {% if author.flickr %}
         <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
       {% endif %}
+      {% if author.blog %}
+        <li><a href="https://chengnie.com/blog/"><i class="fab fa-fw fa-blog" aria-hidden="true"></i> Blog</a></li>
+      {% endif %}
+      {% if author.notes %}
+        <li><a href="https://chengnie.com/notes/"><i class="fab fa-fw fa-notes" aria-hidden="true"></i> Notes</a></li>
+      {% endif %}
       {% if author.codepen %}
         <li><a href="https://codepen.io/{{ author.codepen }}"><i class="fab fa-fw fa-codepen" aria-hidden="true"></i> CodePen</a></li>
       {% endif %}
