@@ -444,6 +444,8 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-flag-usa:before { content: fa-content($fa-var-flag-usa); }
 .#{$fa-css-prefix}-flask:before { content: fa-content($fa-var-flask); }
 .#{$fa-css-prefix}-flickr:before { content: fa-content($fa-var-flickr); }
+.#{$fa-css-prefix}-blog:before { content: fa-content($fa-var-blog); }
+.#{$fa-css-prefix}-notes:before { content: fa-content($fa-var-notes); }
 .#{$fa-css-prefix}-flipboard:before { content: fa-content($fa-var-flipboard); }
 .#{$fa-css-prefix}-flushed:before { content: fa-content($fa-var-flushed); }
 .#{$fa-css-prefix}-fly:before { content: fa-content($fa-var-fly); }
