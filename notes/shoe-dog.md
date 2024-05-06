@@ -1,21 +1,19 @@
-152
 ---
-title: TITLE - by AUTHOR
-date: 2024-DATE
-permalink: /notes/shoe-dog:-a-memoir-by-the-creator-of-nike--
+title: Shoe dog - by Phil Knight
+date: 2016-12-25
+permalink: /notes/shoe-dog
 author_profile: false
 tags:
     - notes
 ---
 
-## *TITLE* - by AUTHOR
+## *Shoe dog* - by Phil Knight
 
-Read: 2024-DATE
+Read: 2016-12-25
 
-Recommend: SCORE/10
+Recommend: 10/10
 
-SUMMARY
-Address the TK items
+Since high school, I've been familiar with two sports brands, Nike and Adidas. This book provides an in-depth look into Nike's journey, focusing primarily on its history before becoming a public company. It highlighted the potential reasons for the failure of many companies, suggesting that Nike could have been among those failures. Yet, it was the combination of luck and determination within the team that propelled Nike to its present success.
 
 ## Notes
 
@@ -169,15 +167,7 @@ Address the TK items
 
 1. That might have been the night the swoosh became real to my father. Respectable. He didn’t actually use the word “proud.” But I hung up the phone feeling as if he had.
 
-1. his stomps were music to my ears.
-
-1. was still WBW: Whatever Bowerman Wants.
-
 1. Aside from being on death row, life was grand.
-
-1. one of the dwarfs is going to get into Snow White’s pants!”
-
-1. Adidas was Snow White. And
 
 1. And potentially damaging. Thus, around Thanksgiving, 1978, I instituted a strict company dress code. The reaction wasn’t terribly enthusiastic. Corporate bullshit, many grumbled. I was mocked. Mostly I was ignored.
 
@@ -185,53 +175,21 @@ Address the TK items
 
 1. I wrapped my arms around myself. Ever since the onset of burnout, this old habit was becoming more pronounced. I often looked in 1979 as if I were trying to keep myself from flying apart, trying to keep my contents from spilling out.
 
-1. we were at an impasse.
-
-1. we went through every possible argument Hatfield might throw at us.
-
-1. What can I do to help?”
-
-1. “Senator,” I said, “we were not prepared for you to be so obliging today. The truth is, we don’t know what we want. We’ll have to get back to you.”
-
-1. “It can all disappear tomorrow,” I whispered.
-
-1. “Put it this way,” Chuck said. “When Walter Kissinger wanted to get into China, and couldn’t, he didn’t call Henry. He called Chang.”
-
-1. That was the jab.
-
-1. threw the left hook.
-
-1. Then we threw the haymaker.
-
-1. We sat back, waited. We knew it wouldn’t take long, and indeed it didn’t. The bureau-kraken cracked up. He threatened to go nuclear, whatever that meant. It didn’t matter. He didn’t matter. His bosses, and his bosses’ bosses, didn’t want this fight anymore. Our competitors, and their accomplices in the government, realized that they’d underestimated our will. Immediately they initiated settlement talks.
-
 1. “You could issue two classes of stock—class A and class B. The public would get class Bs, which would carry one vote per share. The founders and inner circle, and your convertible debenture holders, would get class As, which would entitle them to name three-quarters of the board of directors. In other words, you raise enormous sums of money, turbocharge your growth, but ensure that you keep control.”
-
-1. “It’s not easy. But the New York Times and the Washington Post and a couple of others have done it. I think you can do it.”
 
 1. Of course we were served many Mao tais. After all my trips to Taiwan, I was prepared. My liver was seasoned.
 
 1. Within two hours we had ourselves a deal. Four years later, in Los Angeles, the Chinese track-and-field team would walk into an Olympic stadium for the first time in nearly two generations wearing American shoes and warm-ups.
 
-1. As with all previous meetings, there were several rounds of long speeches, mainly by officials. Hayes was bored during the first round. By the third round he was suicidal. He started playing with the loose threads on the front of his polyester dress shirt. Suddenly he became annoyed with the threads. He took out his lighter. As the deputy minister of foreign trade was hailing us as worthy partners, he stopped and looked up to see that Hayes had set himself on fire. Hayes beat on the flame with his hands, and managed to put it out, but only after ruining the moment, and the speaker’s mojo.
+1. It seems wrong to call it “business.” It seems wrong to throw all those hectic days and sleepless nights, all those magnificent triumphs and desperate struggles, under that bland, generic banner: business. What we were doing felt like so much more. Each new day brought fifty new problems, fifty tough decisions that needed to be made, right now, and we were always acutely aware that one rash move, one wrong decision could be the end. The margin for error was forever getting narrower, while the stakes were forever creeping higher—and none of us wavered in the belief that “stakes” didn’t mean “money.” For some, I realize, business is the all-out pursuit of profits, period, full stop, but for us business was no more about making money than being human is about making blood.
 
-1. It seems wrong to call it “business.” It seems wrong to throw all those hectic days and sleepless nights, all those magnificent triumphs and desperate struggles, under that bland, generic banner: business. What we were doing felt like so much more. Each new day brought fifty new problems, fifty tough decisions that needed to be made, right now, and we were always acutely aware that one rash move, one wrong decision could be the end. The margin for error was forever getting narrower, while the
-
-1. stakes were forever creeping higher—and none of us wavered in the belief that “stakes” didn’t mean “money.” For some, I realize, business is the all-out pursuit of profits, period, full stop, but for us business was no more about making money than being human is about making blood.
-
-1. We wanted, as all great businesses do, to create, to contribute, and we dared to say so aloud. When you make something, when you improve something,
+1. We wanted, as all great businesses do, to create, to contribute, and we dared to say so aloud. 
 
 1. More than simply alive, you’re helping others to live more fully, and if that’s business, all right, call me a businessman. Maybe it will grow on me.
 
 1. I personally would own about 46 percent. It needed to be that much, we all agreed, because the company needed to be run by one person, to speak with one firm and steady voice—come what may. There could be no chance of alliances or breakaway factions, no existential struggles for control. To the outsider the division of shares might have seemed disproportionate, unbalanced, unfair. To the Butt-faces it was a necessity. There wasn’t a word of dissent or complaint. Ever.
 
-1. A company called Apple was also
-
-1. going public that same week, and selling for twenty-two dollars a share, and we were worth as much as them, I said to Hayes. If a bunch of Wall Street guys didn’t see it that way, I was ready to walk away from the deal. I glared at Hayes. I knew what he was thinking. Here we go again. Pay Nissho first.
-
-1. Because I honestly wished I could do it all over again.
-
-1. And yet I was worth $ 178 million.
+1. A company called Apple was also going public that same week, and selling for twenty-two dollars a share, and we were worth as much as them, I said to Hayes. If a bunch of Wall Street guys didn’t see it that way, I was ready to walk away from the deal. 
 
 1. THE BUCKET LIST turns out to be anything but a comedy. It’s a movie about mortality. Two men, Nicholson and Freeman, both terminally ill with cancer, decide to spend their remaining days doing all the fun things, the crazy things, they’ve always wanted to do, to make the most of their time before they kick the bucket. An hour into the movie, there’s not a chuckle to be had.
 
@@ -239,43 +197,23 @@ Address the TK items
 
 1. At the moment I’m worth $ 10 billion, and each of these men is worth five or six times more. Lead me from the unreal to the real.
 
-1. After forty years I’ve stepped down as Nike CEO, leaving the company in good hands, I think, and good shape, I trust. Sales last year, 2006, were $ 16 billion. (Adidas was $ 10 billion, but who’s counting?) Our
+1. After forty years I’ve stepped down as Nike CEO, leaving the company in good hands, I think, and good shape, I trust. Sales last year, 2006, were $ 16 billion. (Adidas was $ 10 billion, but who’s counting?) 
 
-1. I think of myself standing high above Athens, gazing at the Parthenon, and I never fail to experience the sensation of time folding in on itself.
-
-1. Jordan. Kobe. Tiger. Again, I can’t help but think of my trip around the world. The River Jordan. Mystical Kobe, Japan. That first meeting at Onitsuka, pleading with the executives for the right to sell Tigers . .
+1. Jordan. Kobe. Tiger. Again, I can’t help but think of my trip around the world. The River Jordan. Mystical Kobe, Japan. That first meeting at Onitsuka, pleading with the executives for the right to sell Tigers . 
 
 1. I think of the countless Nike offices around the world. At each one, no matter the country, the phone number ends in 6453, which spells out Nike on the keypad. But, by pure chance, from right to left it also spells out Pre’s best time in the mile, to the tenth of a second: 3: 54.6.
 
 1. I say by pure chance, but is it really? Am I allowed to think that some coincidences are more than coincidental? Can I be forgiven for thinking, or hoping, that the universe, or some guiding daemon, has been nudging me, whispering to me? Or else just playing with me? Can it really be nothing but a fluke of geography that the oldest shoes ever discovered are a pair of nine-thousand-year-old sandals . . . salvaged from a cave in Oregon? Is there nothing to the fact that the sandals were discovered in 1938, the year I was born?
 
-1. emotion, maybe the most vital of all, after love. Gratitude.
+1. When Jordan’s father is murdered, I fly to North Carolina for the funeral and discover with a shock that a seat is reserved for me in the front row.
 
-1. With thanks for taking a
-
-1. chance on me. As usual, I say nothing. I don’t know what to say. It wasn’t much of a chance. He was pretty close to a sure thing. But taking a chance on people—he’s right. You could argue that’s what it’s all been about.
-
-1. They’re all like sons, and brothers—family. No less. When Tiger’s father, Earl, dies, the church in Kansas holds fewer than
-
-1. one hundred, and I’m honored to be included. When Jordan’s father is murdered, I fly to North Carolina for the funeral and discover with a shock that a seat is reserved for me in the front row.
-
-1. I think of his long, difficult search for meaning, for identity. For me. His search often looked so familiar, even though Matthew didn’t have my luck, or my focus. Nor my insecurity. Maybe if he’d had a little more insecurity . . . In his quest to find himself, he dropped
-
-1. At 150 feet my son lost consciousness.
-
-1. After the thousands of miles I’ve logged as a runner, I know that feeling of fighting for that next breath. But I won’t let my imagination go there, ever.
+1. After the thousands of miles I’ve logged as a runner, I know that feeling of fighting for that next breath. 
 
 1. He feels euphoric. That must have happened to Matthew, I tell myself, because at the last second he pulled out his mouthpiece. I choose to believe this euphoria scenario, to believe that my son didn’t suffer at the end. That my son was happy. I choose, because it’s the only way I can go on.
-
-1. But not before our niece Brittany moved in with us. To this day I believe that she saved our lives.
 
 1. Every Nike athlete wrote, emailed, phoned. Every single one. But the first was Tiger. His call came in at 7: 30 a.m. I will never, ever forget. And I will not stand for a bad word spoken about Tiger in my presence.
 
 1. In his final six months I was able to take my father on a long trip, to put to rest the eternal question of whether he was proud, to show him that I was proud of him. We went around the world, saw Nikes in every country we visited, and with every appearance of a swoosh his eyes shone. The pain of his impatience, his hostility to my Crazy Idea—it had faded. It was long gone. But not the memory.
-
-1. Arnold Palmer once confided to me at the Masters, “did all he could to discourage me from being a professional golfer.” I smiled. “You don’t say.”
-
-1. Love wasn’t spoken, or shown, but it was there, always. My sisters
 
 1. I walked out of the room, barely hearing the beeping machines, the laughing nurses, the patient groaning down the hall. I thought of that phrase, “It’s just business.” It’s never just business. It never will be. If it ever does become just business, that will mean that business is very bad.
 
@@ -283,61 +221,23 @@ Address the TK items
 
 1. A transference, a camaraderie, a sort of connection. It’s brief, but it nearly always happens, and I know it’s part of what I was searching for when I went around the world in 1962. To study the self is to forget the self. Mi casa, su casa. Oneness—in some way, shape, or form, it’s what every person I’ve ever met has been seeking.
 
-1. You always remember the strangest details from such moments.
-
-1. Eyes shut, I replayed a million different moments, including that long-ago lunch at the Cosmopolitan Hotel. Deal? Deal.
-
-1. He felt that he should no longer be taking orders from anyone, including me. Especially me. We clashed, too many times, and he quit.
-
 1. It might have been okay if he’d just quit. But he went to work for Adidas. An intolerable betrayal. I never forgave him. (Though I did recently—happily, proudly—hire his daughter, Avery. Twenty-two years old, she works in Special Events, and she’s said to be thriving. It’s a blessing and a joy to see her name in the company directory.)
-
-1. knowing our name would generate maximum publicity.
 
 1. Of course my handling of the crisis only made it worse. Angry, hurt, I often reacted with self-righteousness, petulance, anger. On some level I knew my reaction was toxic, counterproductive, but I couldn’t stop myself. It’s just not easy to remain even-keeled when you wake up one day, thinking you’re creating jobs and helping poor countries modernize and enabling athletes to achieve greatness, only to find yourself being burned in effigy
 
-1. outside the flagship retail store in your own hometown.
-
 1. a water-based bonding agent that gives off no fumes, thereby eliminating 97 percent of the carcinogens in the air. Then we gave this invention to our competitors, handed it over to anyone who wanted it. They all did. Nearly all of them now use it. One of many, many examples.
 
-1. Nike is the gold standard by which we measure all apparel factories.
-
-1. But I can’t deny that the crisis has led to miraculous change, inside and outside Nike. For that I must be grateful.
-
-1. I knew then that the only answer to such poverty is entry-level jobs.
-
-1. International trade always, always benefits both trading nations.
-
 1. “When goods don’t pass international borders, soldiers will.” Though I’ve been known to call business war without bullets, it’s actually a wonderful bulwark against war. Trade is the path of coexistence, cooperation. Peace feeds on prosperity.
-
-1. Võ Nguyên Giáp, the Vietnamese MacArthur, the man who single-handedly defeated the Japanese, the French, the Americans, and the Chinese.
-
-1. I said simply: “How did you do it?” I thought I saw the corners of his mouth flicker. A smile? Maybe? He thought. And thought. “I was,” he said, “a professor of the jungle.”
-
-1. “See those bamboo trees up there?” he asked. “Yes.” “Next year . . . when you come . . . they will be one foot higher.”
-
-1. also find them far more pessimistic.
 
 1. All we have to do, I tell the students, is work and study, study and work, hard as we can. Put another way: We must all be professors of the jungle.
 
 1. For years he flew his own private airplane, giving the middle finger to everyone who said he’d be helpless.
 
-1. “It means your original eight-thousand-
-
-1. dollar loan to Phil is worth $ 1.6 million.” They looked at each other, looked at Woodell. “I don’t understand,” his mother said.
-
-1. Woodell became head of the Port of Portland, managing all the rivers and the airports. A man immobilized, guiding all that motion. Lovely.
-
-1. Where is Jeff Johnson? Like the famous opening line from Ayn Rand, Who is John Galt? The answer is, Right where he should be.
-
 1. WHEN IT CAME rolling in, the money affected us all. Not much, and not for long, because none of us was ever driven by money.
 
 1. Whether you have it or not, whether you want it or not, whether you like it or not, it will try to define your days. Our task as human beings is not to let it.
 
-1. The Matthew Knight Arena. The logo at half court will be Matthew’s name in the shape of a torii gate. From the profane to the sacred . . . We’re
-
 1. I’m the guy who said Magic Johnson was “a player without a position, who’ll never make it in the NBA.” I’m the guy who tabbed Ryan Leaf as a better NFL quarterback than Peyton Manning.
-
-1. Not phoning Hiraku Iwano after he quit. Not getting Bo Jackson renewed in 1996. Joe Paterno.
 
 1. Of course, above all, I regret not spending more time with my sons. Maybe, if I had, I could’ve solved the encrypted code of Matthew Knight.
 
@@ -345,29 +245,10 @@ Address the TK items
 
 1. God, how I wish I could relive the whole thing. Short of that, I’d like to share the experience, the ups and downs, so that some young man or woman, somewhere, going through the same trials and ordeals, might be inspired or comforted. Or warned. Some young entrepreneur, maybe, some athlete or painter or novelist, might press on.
 
-1. It’s all the same drive. The same dream.
-
 1. It would be nice to help them avoid the typical discouragements. I’d tell them to hit pause, think long and hard about how they want to spend their time, and with whom they want to spend it for the next forty years. I’d tell men and women in their midtwenties not to settle for a job or a profession or even a career. Seek a calling. Even if you don’t know what that means,
-
-1. seek it.
 
 1. If you’re following your calling, the fatigue will be easier to bear, the disappointments will be fuel, the highs will be like nothing you’ve ever felt.
 
 1. I’d like to warn the best of them, the iconoclasts, the innovators, the rebels, that they will always have a bull’s-eye on their backs. The better they get, the bigger the bull’s-eye. It’s not one man’s opinion; it’s a law of nature.
 
 1. And those who urge entrepreneurs to never give up? Charlatans. Sometimes you have to give up. Sometimes knowing when to give up, when to try something else, is genius. Giving up doesn’t mean stopping. Don’t ever stop. Luck plays a big role. Yes, I’d like to publicly acknowledge the power of luck. Athletes get lucky, poets get lucky, businesses get lucky. Hard work is critical, a good team is essential, brains and determination are invaluable, but luck may decide the outcome. Some people might not call it luck. They might call it Tao, or Logos, or Jñāna, or Dharma. Or Spirit. Or God. Put it this way. The harder you work, the better your Tao. And since no one has ever adequately defined Tao, I now try to go regularly to mass. I would tell them: Have faith in yourself, but also have faith in faith. Not faith as others define it. Faith as you define
-
-1. I’ve spent a fair portion of my life in debt.
-
-1. Nothing, however, has made me feel quite so indebted as the writing of this book.
-
-1. Abraham Verghese,
-
-1. Nan Graham
-
-
-1. ryokan.
-
-1. Dachau,
-
-1. Acropolis.

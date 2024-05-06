@@ -4,7 +4,7 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 ## Check to-update items
 
-1. Tracked in Notion App and Apple Reminders. 
+1. Tracked in Apple Reminders. 
 2. Keep changes in UPDATES.md
 
 ## Update Research
@@ -16,6 +16,10 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 1. The survey in Canvas has the enrollment and response of each section for the evaluation
 2. [PRR](https://ivy-prr.bus.iastate.edu/update/login?return=true&) has the average GPA, then I don't have to calculate it manually as in the notes. 
+
+## Duplicate Research and Teaching into the about.md pace
+
+1. It is easier to view everything on this single about me page. 
 
 
 ## Update Notes
@@ -74,4 +78,6 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 ```
 
 # History
+
+Updates tracked in (UPDATES.md)[/UPDATES.md]
 

@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-1/</loc>
-<lastmod>2024-03-17T17:45:09-05:00</lastmod>
+<lastmod>2024-05-06T09:10:53-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-2/</loc>
-<lastmod>2024-03-17T17:45:09-05:00</lastmod>
+<lastmod>2024-05-06T09:10:53-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/highschool2020/</loc>
@@ -250,6 +250,9 @@
 <loc>http://localhost:4000/notes/inner-game-tennis</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/invention-and-innovation</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/klara-and-the-sun</loc>
 </url>
 <url>
@@ -328,6 +331,9 @@
 <loc>http://localhost:4000/notes/sapiens</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/shoe-dog</loc>
+</url>
+<url>
 <loc>http://localhost:4000/sitemap/</loc>
 </url>
 <url>
@@ -404,6 +410,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/the-subtle-art-of-not-giving-a-f*ck</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/the-tender-bar</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/the-terminal-list</loc>
@@ -514,6 +523,9 @@
 <loc>http://localhost:4000/notes/%E7%BA%A2%E6%A5%BC%E6%A2%A6</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/%E7%BD%AA%E4%B8%8E%E7%BD%9A</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/%E8%82%89%E8%92%B2%E5%9B%A2</loc>
 </url>
 <url>
@@ -524,9 +536,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/UPDATES/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/notes/shoe-dog/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/markdown_generator/</loc>
@@ -541,7 +550,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/marathon/map.html</loc>
-<lastmod>2024-03-17T17:31:33-05:00</lastmod>
+<lastmod>2023-04-30T20:56:36-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/talkmap/map.html</loc>

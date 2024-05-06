@@ -1,8 +1,38 @@
-2024
-====
+# 2024
 
-Mar 17
-------
+## April & May
+
+- 2025_05_06
+
+### General
+
+- Get research Teaching into the About page directly
+- Update my profile picture taken: GOLD8617.jpg. Add my domain. Ask friends. 
+- Get the blog and notes link below profile picture. 
+
+### About
+
+- associate professor
+
+### Research
+
+- DSS accepted
+- Add Jiana Meng's MISQ submission
+- Delete (2024) for working papers
+- Delete conference papers and presentation. 
+- update the volumne: 4\. Nie C, Zheng Z (Eric), Sarkar S (2024). [Firm Competitive Structure and Consumer Reaction in Search Advertising.](https://doi.org/10.17705/1jais.00835) _Journal of the Association for Information Systems_, (25:2), 442–462.
+- Remember to add the big12 presentation slides. 2024big12.pptx. I uploaded from the web interface. 
+
+### note
+
+- /notes/罪与罚
+- /notes/invention-and-innovation
+- /notes/shoe-dog
+- /notes/the-tender-bar
+
+
+## Mar 17
+
 
 1. update link for the 2024 link for JAIS paper. 
 2. update notes for books. 

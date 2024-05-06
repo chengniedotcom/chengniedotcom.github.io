@@ -13,7 +13,7 @@ name                     : &name "Cheng Nie (聂成)"
 description              : &description "The Website of Cheng Nie"
 url                      : https://www.chengnie.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chengniedotcom/academicpages.github.io"
+# repository               : "chengniedotcom/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -81,13 +81,16 @@ analytics:
 # Site Author
 author:
   name             : "Cheng Nie"
-  avatar           : "cheng-nie-large.jpg"
+  avatar           : "cheng-nie-2023-12-08.jpg"
+  # avatar           : "cheng-nie-large.jpg"
   # bio              : "Your biography for the left-hand sidebar"
   # location         : "Ames, Iowa"
   employer         : Iowa State University
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : cheng@chengnie.com
+  Blog             : https://chengnie.com/blog/
+  Notes            : https://chengnie.com/notes/
   # email            : &#x63;h&#x65;&#110;&#103;&#x40;&#x63;h&#x65;&#110;&#103;&#110;&#x69;&#101;&#x2E;&#x63;&#111;&#x6D;
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
@@ -103,11 +106,12 @@ author:
   # instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   # lastfm           :
-  linkedin         :
+  # linkedin         :
   # orcid            : "http://orcid.org/yourorcidurl"
   # pinterest        :
   # soundcloud       :
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # stackoverflow    : http://stackoverflow.com/users/123456/username
   # steam            :
   # tumblr           :
   # twitter          : "niecheng"

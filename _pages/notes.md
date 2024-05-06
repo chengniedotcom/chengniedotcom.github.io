@@ -16,6 +16,10 @@ Click on each book cover for my tiny summary and detailed notes(highlights) for 
 130 books on Aug 15, 2022 in _notes_processed.html
 --------------------------------------------------
 
+It highlighted the potential reasons for the failure of many companies, suggesting that Nike could have been among those failures. 
+
+
+
  -->
 
 <style type="text/css" media="screen">
@@ -35,6 +39,9 @@ Click on each book cover for my tiny summary and detailed notes(highlights) for 
 }
 </style>
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a href="/notes/the-tender-bar" rel="nofollow" style="color: black; font-size: 10px;" title="The Tender Bar: A Memoir"><img alt="The Tender Bar: A Memoir" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348917147l/144977._SX98_.jpg"/> The Tender Bar</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/invention-and-innovation" rel="nofollow" style="color: black; font-size: 10px;" title="Invention and Innovation: A Brief History of Hype and Failure"><img alt="Invention and Innovation: A Brief History of Hype and Failure" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660590317l/61102803._SX98_.jpg"/> Invention And Innovation</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/罪与罚" rel="nofollow" style="color: black; font-size: 10px;" title="罪与罚"><img alt="罪与罚" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659913308l/61892246._SX98_.jpg"/> 罪与罚</a></div>
     <div class="gr_grid_book_container"><a href="/notes/yellowface" rel="nofollow" style="color: black; font-size: 10px;" title="Yellowface"><img alt="Yellowface" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671336608l/62047984._SX98_.jpg"/> Yellowface</a></div>
     <div class="gr_grid_book_container"><a href="/notes/finding-me" rel="nofollow" style="color: black; font-size: 10px;" title="Finding Me"><img alt="Finding Me" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650842995l/58687126._SX98_.jpg"/> Finding Me</a></div>
     <div class="gr_grid_book_container"><a href="/notes/晚年周恩来" rel="nofollow" style="color: black; font-size: 10px;" title="晚年周恩來"><img alt="晚年周恩來" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677916824l/5786795._SX98_.jpg"/> 晚年周恩来</a></div>
@@ -216,7 +223,7 @@ Click on each book cover for my tiny summary and detailed notes(highlights) for 
     <div class="gr_grid_book_container"><a href="/notes/born-a-crime" rel="nofollow" style="color: black; font-size: 10px;" title="Born a Crime: Stories From a South African Childhood"><img alt="Born a Crime: Stories From a South African Childhood" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473867911l/29780253._SX98_.jpg"/> Born A Crime</a></div>
     <!--     <div class="gr_grid_book_container"><a title="Effective Python: 59 Specific Ways to Write Better Python" rel="nofollow" href="https://www.goodreads.com/review/show/1877191294?utm_medium=api&amp;utm_source=grid_widget"><img alt="Effective Python: 59 Specific Ways to Write Better Python" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422215947l/23020812._SX98_.jpg" /></a></div> -->
     <!--     <div class="gr_grid_book_container"><a title="最后的耍猴人" rel="nofollow" href="https://www.goodreads.com/review/show/1859000046?utm_medium=api&amp;utm_source=grid_widget"><img alt="最后的耍猴人" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438157870l/26001606._SX98_.jpg" /></a></div> -->
-    <!--     <div class="gr_grid_book_container"><a title="Shoe Dog: A Memoir by the Creator of Nike" rel="nofollow" href="https://www.goodreads.com/review/show/1850194728?utm_medium=api&amp;utm_source=grid_widget"><img alt="Shoe Dog: A Memoir by the Creator of Nike" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457284880l/27220736._SX98_.jpg" /></a></div> -->
+    <div class="gr_grid_book_container"><a href="/notes/shoe-dog" rel="nofollow" style="color: black; font-size: 10px;" title="Shoe Dog: A Memoir by the Creator of Nike"><img alt="Shoe Dog: A Memoir by the Creator of Nike" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457284880l/27220736._SX98_.jpg"/> Shoe Dog</a></div>
     <!--     <div class="gr_grid_book_container"><a title="The Wise Heart: A Guide to the Universal Teachings of Buddhist Psychology" rel="nofollow" href="https://www.goodreads.com/review/show/1628941081?utm_medium=api&amp;utm_source=grid_widget"><img alt="The Wise Heart: A Guide to the Universal Teachings of Buddhist Psychology" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320528731l/6509448._SX98_.jpg" /></a></div> -->
     <!--     <div class="gr_grid_book_container"><a title="The Sharing Economy: The End of Employment and the Rise of Crowd-Based Capitalism" rel="nofollow" href="https://www.goodreads.com/review/show/1715496504?utm_medium=api&amp;utm_source=grid_widget"><img alt="The Sharing Economy: The End of Employment and the Rise of Crowd-Based Capitalism" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462910722l/27310516._SX98_.jpg" /></a></div> -->
     <!--     <div class="gr_grid_book_container"><a title="Breaking the Cycle: Free Yourself from Sex Addiction, Porn Obsession, and Shame" rel="nofollow" href="https://www.goodreads.com/review/show/1822522298?utm_medium=api&amp;utm_source=grid_widget"><img alt="Breaking the Cycle: Free Yourself from Sex Addiction, Porn Obsession, and Shame" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344908245l/12858754._SX98_.jpg" /></a></div> -->
