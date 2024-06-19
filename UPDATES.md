@@ -1,8 +1,32 @@
 # 2024
 
+
+TODO
+
+Notes
+/notes/the-dictatators-handbook.md
+/notes/kitchen-confidential
+
+Teaching
+2024 spring
+
+Marathon map
+
+## 2024_05 to 2024_06_19
+
+Profile:
+Add ORCID
+
+Research:
+Adjust working papers and papers under review. 
+
+Blog:
+江南创业史
+
+
 ## April & May
 
-- 2025_05_06
+- 2024_05_06
 
 ### General
 

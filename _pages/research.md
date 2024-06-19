@@ -29,15 +29,14 @@ author_profile: true
 
 # Journal Papers Under Review
 
-- Meng J, Zhang C, Nie C, Li H  From Licensing Regulation to Impact: Home-Sharing Services, Crimes, and Long-Term Rental. Submitted for the 1st round review at _MIS Quarterly_
-
+- Nie C, Zheng Z (Eric), Sarkar S . Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy. Submitted for the 1st round review at _MIS Quarterly_
+    
 - Fang B, Nie C, Zheng Z (Eric). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Submitted for the 1st round review at _Journal of Management Information Systems_
 
 # Work in Progress
 
+- Meng J, Zhang C, Nie C, Li H. From Licensing Regulation to Impact: Home-Sharing Services, Crimes, and Long-Term Rental. 
+
 - Chen W, Nie C, Xie K, Li X. Impact of Algorithmic Buyers on Housing Affordability.
 
-- Yang M, Nie C, Ji Y, Mookerjee V.. Stay in Your Comfort Zone: Evidence from Quality Competition.
-
-- Nie C, Zheng Z (Eric), Sarkar S . How Does Online Reputation Management Influence Sales? Evidence from the Hotel Industry.
-    
+- Yang M, Nie C, Ji Y, Mookerjee V. Stay in Your Comfort Zone: Evidence from Quality Competition.
