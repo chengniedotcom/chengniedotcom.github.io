@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 <!-- <embed src="https://username.github.io/files/cv.pdf" type="application/pdf" width="600px" height="500px" /> -->
-<embed src="https://chengnie.com/files/review_manipulation.pdf" type="application/pdf" width="600px" height="5000px" />
+<!-- <embed src="https://chengnie.com/files/review_manipulation.pdf" type="application/pdf" width="600px" height="5000px" /> -->
+<embed src="/files/CV_Nie.pdf" type="application/pdf" width="600px" height="5000px" />
 
 <!-- {% include base_path %}
 

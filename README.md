@@ -12,6 +12,8 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 1. Change the status of each paper: add updated links, add review progress
 2. Add new papers I had worked on
 3. Update ORCID
+4. Google Scholar
+5. Iowa State Page through PRR
 
 
 ## Update teaching

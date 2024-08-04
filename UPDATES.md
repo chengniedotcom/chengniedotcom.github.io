@@ -24,6 +24,8 @@ Marathon map
 
 - add WI
 
+CV
+
 ## 2024_05 to 2024_06_19
 
 Profile:
