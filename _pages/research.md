@@ -10,7 +10,7 @@ author_profile: true
 <!-- Use APA 7th edition format -->
 
 
-5\. Zhu T, Nie C, Jiang Z, Hu X (forthcoming). [When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation.](https://doi.org/10.1016/j.dss.2024.114233) _Decision Support Systems_, (forthcoming)
+5\. Zhu T, Nie C, Jiang Z, Hu X (2024). [When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation.](https://doi.org/10.1016/j.dss.2024.114233) _Decision Support Systems_, (182), p. 114233
 
 4\. Nie C, Zheng Z (Eric), Sarkar S (2024). [Firm Competitive Structure and Consumer Reaction in Search Advertising.](https://doi.org/10.17705/1jais.00835) _Journal of the Association for Information Systems_, (25:2), 442–462.
 

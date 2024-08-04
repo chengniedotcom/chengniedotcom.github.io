@@ -1,16 +1,28 @@
 # 2024
 
 
-TODO
+## 2024_08_04
 
 Notes
-/notes/the-dictatators-handbook.md
+
+/notes/the-dictatators-handbook
 /notes/kitchen-confidential
+/notes/how-to-know-a-person
+/notes/一句顶一万句
+/notes/皮囊
+/notes/许三观卖血记
+/notes/我的前半生
+/notes/outlive
+/notes/moonwalking-with-einstein
+/notes/sense-of-style
 
 Teaching
-2024 spring
 
-Marathon map
+- 2024 spring
+
+Marathon map 
+
+- add WI
 
 ## 2024_05 to 2024_06_19
 

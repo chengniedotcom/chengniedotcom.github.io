@@ -19,6 +19,8 @@ author_profile: true
 | Course Number and Title | Semester | Enrollment | Response Rate(%) | Class GPA | Instructor Rating |
 |------------------------------------------------ |------------- |------------ |------------------ |-----------
 |--------------------- |
+| MIS 536: Business Analytics Foundation - Section 1 | Spring 2024 | 32 | 31 | 3.84 | 4.4 |
+| MIS 301: Introduction to MIS - Section C | Spring 2024 | 59 | 76 | 3.11 | 4.24 |
 | MIS 301: Introduction to MIS - Section G | Fall 2023 | 71 | 75 | 3.26 | 4.27 |
 | MIS 301: Introduction to MIS - Section C | Spring 2023 | 59 | 78 | 3.25 | 4.00 |
 | MIS 301: Introduction to MIS - Section F | Fall 2022 | 69 | 77 | 3.44 | 3.91 |

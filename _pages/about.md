@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Information Systems at the Ivy College of Business, Iowa State University. I earned my PhD in Information Systems at the University of Texas at Dallas. My research interests include Sharing Economy, Online Reviews, and Sponsored Search Advertising.
+---
+
+I am an Associate Professor in the department of Information Systems and Business Analytics at the Ivy College of Business, Iowa State University. I earned my PhD in Information Systems at the University of Texas at Dallas. My research interests include Sharing Economy, Online Reviews, and Sponsored Search Advertising.
 
 In my spare time, I enjoy reading books and running marathons. My fastest time in a full marathon is [2:46:56](https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF144A69&lang=EN_CAP&event=R&event_main_group=runner&pidp=start&search%5Bname%5D=Nie&search%5Bfirstname%5D=Cheng&search_event=R#) in the 2021 Boston Marathon. [See a map of all the places I've run a Marathon!](/marathon).
 
@@ -16,12 +18,12 @@ In my spare time, I enjoy reading books and running marathons. My fastest time i
 
 <div style="background-color: #f0f0f0; padding: 0px; border-radius: 5px;" markdown="1">
 
-# Employment
+## Employment
 
 Assistant Professor, Iowa State University, 2018 – 2024  
 Associate Professor with tenure, Iowa State University, 2024 – Now  
 
-# Education
+## Education
 
 Ph.D., The University of Texas at Dallas, USA, 2018  
 M.S., The Pennsylvania State University, USA, 2012  
@@ -30,13 +32,17 @@ B.S., Huazhong University of Science and Technology, China, 2007
 
 </div>
 
-# Journal Publications
+# Research 
+
+---
+
+## Journal Publications
 
 
 <!-- Use APA 7th edition format -->
 
 
-5\. Zhu T, Nie C, Jiang Z, Hu X (forthcoming). [When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation.](https://doi.org/10.1016/j.dss.2024.114233) _Decision Support Systems_, (forthcoming)
+5\. Zhu T, Nie C, Jiang Z, Hu X (2024). [When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation.](https://doi.org/10.1016/j.dss.2024.114233) _Decision Support Systems_, (182), p. 114233
 
 4\. Nie C, Zheng Z (Eric), Sarkar S (2024). [Firm Competitive Structure and Consumer Reaction in Search Advertising.](https://doi.org/10.17705/1jais.00835) _Journal of the Association for Information Systems_, (25:2), 442–462.
 
@@ -53,13 +59,13 @@ B.S., Huazhong University of Science and Technology, China, 2007
 1\. Nie C, Zheng Z (Eric), Sarkar S (2021). [A Strategic Group Analysis of Competitor Behavior in Search Advertising.](https://doi.org/10.17705/1jais.00710) _Journal of the Association for Information Systems_, (22:6), 1659–1685. 
 <!-- [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/sponsored_search.pdf) -->
 
-# Journal Papers Under Review
+## Journal Papers Under Review
 
 - Nie C, Zheng Z (Eric), Sarkar S . Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy. Submitted for the 1st round review at _MIS Quarterly_
     
 - Fang B, Nie C, Zheng Z (Eric). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Submitted for the 1st round review at _Journal of Management Information Systems_
 
-# Work in Progress
+## Work in Progress
 
 - Meng J, Zhang C, Nie C, Li H. From Licensing Regulation to Impact: Home-Sharing Services, Crimes, and Long-Term Rental. 
 
@@ -70,7 +76,11 @@ B.S., Huazhong University of Science and Technology, China, 2007
 
 <div style="background-color: #f0f0f0; padding: 0px; border-radius: 5px;" markdown="1">
 
-# Iowa State University, 2018–Now
+# Teaching
+
+---
+
+## Iowa State University, 2018–Now
 
 <!-- 2019 Spring to 2021 spring, only overall course rating, instead of instructor rating, is available. -->
 <!-- | MIS 301: Introduction to MIS - Section G | Spring 2022 |  | | | | -->
@@ -78,6 +88,8 @@ B.S., Huazhong University of Science and Technology, China, 2007
 | Course Number and Title | Semester | Enrollment | Response Rate(%) | Class GPA | Instructor Rating |
 |------------------------------------------------ |------------- |------------ |------------------ |-----------
 |--------------------- |
+| MIS 536: Business Analytics Foundation - Section 1 | Spring 2024 | 32 | 31 | 3.84 | 4.4 |
+| MIS 301: Introduction to MIS - Section C | Spring 2024 | 59 | 76 | 3.11 | 4.24 |
 | MIS 301: Introduction to MIS - Section G | Fall 2023 | 71 | 75 | 3.26 | 4.27 |
 | MIS 301: Introduction to MIS - Section C | Spring 2023 | 59 | 78 | 3.25 | 4.00 |
 | MIS 301: Introduction to MIS - Section F | Fall 2022 | 69 | 77 | 3.44 | 3.91 |
@@ -96,7 +108,7 @@ B.S., Huazhong University of Science and Technology, China, 2007
 | MIS 532: Advanced Business Program Development | Fall 2018 | 3 | 67 | 4.00 | 5.00 |
 | MIS 301: Introduction to MIS- Section M | Fall 2018 | 71 | 65 | 3.93 | 4.02 |
 
-# University of Texas at Dallas, 2012–2018
+## University of Texas at Dallas, 2012–2018
 
 | Course Number and Title | Semester | Enrollment | Response Rate(%) | Class GPA | Teaching Evaluation |
 |------------------------------------------------ |------------- |------------ |------------------ |-----------

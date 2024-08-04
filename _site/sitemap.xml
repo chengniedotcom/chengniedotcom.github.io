@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-1/</loc>
-<lastmod>2024-06-19T01:37:33-05:00</lastmod>
+<lastmod>2024-08-04T10:30:34-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-2/</loc>
-<lastmod>2024-06-19T01:37:33-05:00</lastmod>
+<lastmod>2024-08-04T10:30:34-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/highschool2020/</loc>
@@ -236,6 +236,9 @@
 <loc>http://localhost:4000/notes/how-to-decide</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/how-to-know-a-person</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/humankind</loc>
 </url>
 <url>
@@ -287,6 +290,9 @@
 <loc>http://localhost:4000/notes/moo</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/moonwalking-with-einstein</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/never-get-angry-again</loc>
 </url>
 <url>
@@ -309,6 +315,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/open-borders</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/outlive</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page-archive/</loc>
@@ -336,6 +345,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/sapiens</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/sense-of-style</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/shoe-dog</loc>
@@ -473,6 +485,9 @@
 <loc>http://localhost:4000/notes/zen</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/%E4%B8%80%E5%8F%A5%E9%A1%B6%E4%B8%80%E4%B8%87%E5%8F%A5</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/%E4%B8%80%E5%BA%A7%E5%9F%8E%E6%B1%A0</loc>
 </url>
 <url>
@@ -509,6 +524,9 @@
 <loc>http://localhost:4000/notes/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%94%9F%E6%B4%BB</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/%E6%99%9A%E5%B9%B4%E5%91%A8%E6%81%A9%E6%9D%A5</loc>
 </url>
 <url>
@@ -524,6 +542,9 @@
 <loc>http://localhost:4000/notes/%E7%8E%8B%E5%B0%8F%E6%B3%A2</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/%E7%9A%AE%E5%9B%8A</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/%E7%9C%8B%E8%A7%81</loc>
 </url>
 <url>
@@ -537,6 +558,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/%E8%82%89%E8%92%B2%E5%9B%A2</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/%E8%AE%B8%E4%B8%89%E8%A7%82%E5%8D%96%E8%A1%80%E8%AE%B0</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/%E9%87%91%E7%93%B6%E6%A2%85</loc>
@@ -560,7 +584,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/marathon/map.html</loc>
-<lastmod>2024-03-17T17:31:33-05:00</lastmod>
+<lastmod>2024-08-04T10:12:04-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/talkmap/map.html</loc>

@@ -11,6 +11,8 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 1. Change the status of each paper: add updated links, add review progress
 2. Add new papers I had worked on
+3. Update ORCID
+
 
 ## Update teaching
 
@@ -20,6 +22,7 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 ## Duplicate Research and Teaching into the about.md pace
 
 1. It is easier to view everything on this single about me page. 
+2. Replace # with ## for the headings, or simply copy the sections text without copying the headings.
 
 
 ## Update Notes
@@ -61,7 +64,7 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 ```
 
-    # Method 2024_05_06:
+    # Method 2024_05_06 (replicate the same process on macm1 on 2024_06_19 in China):
     github copilot account and github personal account cannot co-exist in vs code. Therefore, I log into school copilot account in vs code and github ssh to commit the changes in iMac. 
     - set up ssh to github using chengniedotcom account. 
         - pbcopy < ~/.ssh/id_rsa.pub
