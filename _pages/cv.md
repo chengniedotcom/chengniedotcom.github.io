@@ -14,8 +14,9 @@ redirect_from:
 <!-- <embed src="https://chengnie.com/files/CV_Nie.pdf" type="application/pdf" width="600px" height="5000px" />
 ### My Curriculum Vitae -->
 
+<!-- Both methods cannot display it on the page -->
 <!-- <iframe src="https://chengnie.com/files/CV_Nie.pdf" style="width:100%; height:5000px;" frameborder="0"></iframe> -->
-<embed src="https://chengnie.com/files/CV_Nie.pdf" type="application/pdf" width="600px" height="500px" />
+<!-- <embed src="https://chengnie.com/files/CV_Nie.pdf" type="application/pdf" width="600px" height="500px" /> -->
 
 <!-- {% include base_path %}
 
