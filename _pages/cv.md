@@ -7,9 +7,14 @@ redirect_from:
   - /resume
 ---
 
+[Download My Curriculum Vitae](/files/CV_Nie.pdf)
+
 <!-- <embed src="https://username.github.io/files/cv.pdf" type="application/pdf" width="600px" height="500px" /> -->
 <!-- <embed src="https://chengnie.com/files/review_manipulation.pdf" type="application/pdf" width="600px" height="5000px" /> -->
-<embed src="https://chengnie.com/files/CV_Nie.pdf" type="application/pdf" width="600px" height="5000px" />
+<!-- <embed src="https://chengnie.com/files/CV_Nie.pdf" type="application/pdf" width="600px" height="5000px" />
+### My Curriculum Vitae -->
+
+<iframe src="/files/CV_Nie.pdf" style="width:100%; height:5000px;" frameborder="0"></iframe>
 
 <!-- {% include base_path %}
 
