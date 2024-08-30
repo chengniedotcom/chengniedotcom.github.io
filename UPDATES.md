@@ -1,6 +1,19 @@
 # 2024
 
 
+
+## 2024_08_30
+
+/notes/infectious-generosity
+/notes/i-dont-want-to-talk-about-it
+/notes/endure
+/notes/我在北京送快递
+/notes/the-best-strangers-in-the-world
+/notes/多谈谈问题
+
+Blog
+2024_08_15_how_i_read
+
 ## 2024_08_04
 
 Notes
