@@ -65,11 +65,11 @@ B.S., Huazhong University of Science and Technology, China, 2007
     
 - Fang B, Nie C, Zheng Z (Eric). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Submitted for the 1st round review at _Journal of Management Information Systems_
 
+- Chen W, Nie C, Xie K, Li X. Dance with Algorithms: Impact of Algorithmic Buyers on Housing Affordability. Submitted for the 1st round review at _Management Science_
+
 ## Work in Progress
 
 - Meng J, Zhang C, Nie C, Li H. From Licensing Regulation to Impact: Home-Sharing Services, Crimes, and Long-Term Rental. 
-
-- Chen W, Nie C, Xie K, Li X. Impact of Algorithmic Buyers on Housing Affordability.
 
 - Yang M, Nie C, Ji Y, Mookerjee V. Stay in Your Comfort Zone: Evidence from Quality Competition.
 
