@@ -2,6 +2,9 @@
 
 
 
+## 2024_09_04
+Add the management science submission
+
 ## 2024_08_30
 
 /notes/infectious-generosity
