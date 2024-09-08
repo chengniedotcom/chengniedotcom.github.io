@@ -29,11 +29,11 @@ author_profile: true
 
 # Journal Papers Under Review
 
+- Chen W, Nie C, Xie K, Li X. Dance with Algorithms: Impact of Algorithmic Buyers on Housing Affordability. Submitted for the 1st round review at _Management Science_
+
 - Nie C, Zheng Z (Eric), Sarkar S . Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy. Submitted for the 1st round review at _MIS Quarterly_
     
 - Fang B, Nie C, Zheng Z (Eric). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Submitted for the 1st round review at _Journal of Management Information Systems_
-
-- Chen W, Nie C, Xie K, Li X. Dance with Algorithms: Impact of Algorithmic Buyers on Housing Affordability. Submitted for the 1st round review at _Management Science_
 
 # Work in Progress
 

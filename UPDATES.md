@@ -2,6 +2,13 @@
 
 
 
+## Next
+
+/notes/wild
+/blog/mantra
+put Chen Wei's paper to top of the working paper list
+update 江南创业史, picutres misplaced 
+
 ## 2024_09_04
 Add the management science submission
 

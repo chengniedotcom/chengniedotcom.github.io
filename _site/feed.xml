@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-04T11:11:59-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cheng Nie(聂成)</title><subtitle>The Website of Cheng Nie</subtitle><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><entry><title type="html">江南创业史</title><link href="http://localhost:4000/jiangnan2024/" rel="alternate" type="text/html" title="江南创业史" /><published>2024-06-19T00:00:00-05:00</published><updated>2024-06-19T00:00:00-05:00</updated><id>http://localhost:4000/jiangnan2024</id><content type="html" xml:base="http://localhost:4000/jiangnan2024/">&lt;p&gt;你可以点击下面的按钮来收听全文约半小时的内容。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-08T11:36:05-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cheng Nie(聂成)</title><subtitle>The Website of Cheng Nie</subtitle><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><entry><title type="html">How Do I Read?</title><link href="http://localhost:4000/how-do-i-read/" rel="alternate" type="text/html" title="How Do I Read?" /><published>2024-08-30T00:00:00-05:00</published><updated>2024-08-30T00:00:00-05:00</updated><id>http://localhost:4000/how-do-i-read</id><content type="html" xml:base="http://localhost:4000/how-do-i-read/">&lt;p&gt;TL;DR (Too long; Didn’t read) version: audiobook&lt;/p&gt;
+
+&lt;p&gt;No matter what I’m doing–driving, running, or watching my kids at the playground–I am usually listening to an audiobook. This habit allows me to multitask efficiently, ensuring that I am always learning, even when I am on the move.&lt;/p&gt;
+
+&lt;h1 id=&quot;why-do-i-read&quot;&gt;Why do I read?&lt;/h1&gt;
+
+&lt;p&gt;Reading for me is about growth and learning—whether it’s personal development like running faster, professional skills like writting better research papers, or understanding others better.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Yang_Jiang&quot;&gt;Yang Jiang&lt;/a&gt; once wrote: “Your problem is worrying too much, but reading too little.” I aim to never fall into that trap of reading too little.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-do-i-read&quot;&gt;What do I read?&lt;/h1&gt;
+
+&lt;p&gt;There are a few sources I use to find the next read.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gatesnotes.com/Books&quot;&gt;Bill Gates&lt;/a&gt; wrote about the books he read from time to time. I had read many great books follwoing his recommendations including &lt;a href=&quot;https://www.gatesnotes.com/Project-Hail-Mary&quot;&gt;Project Hail Mary&lt;/a&gt; and &lt;a href=&quot;https://www.gatesnotes.com/Educated&quot;&gt;Educated&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/choiceawards/best-books-2023&quot;&gt;Goodreads choice Award&lt;/a&gt;. According to the website, it is the “only major book awards decided by readers”. I have voted for a few books before. My favorite category is &lt;em&gt;Memoir &amp;amp; Autobiography&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Peer Recommendations. For example, I have interviewed my &lt;a href=&quot;https://chengnie.com/highschool2020/&quot;&gt;high-school&lt;/a&gt; and &lt;a href=&quot;https://chengnie.com/hust2023/&quot;&gt;undergraduate&lt;/a&gt; classmates and ask them what books they recommended.&lt;/li&gt;
+  &lt;li&gt;Douban’s Yearly List. Similar to Goodreads, Douban provides &lt;a href=&quot;https://book.douban.com/annual/2023/&quot;&gt;a curated list of Chinese books&lt;/a&gt; across various catogoris.&lt;/li&gt;
+  &lt;li&gt;Inter-book References. Sometimes one book leads to another, creating a chain of learning and discovery. I found &lt;a href=&quot;https://www.chengnie.com/notes/i-dont-want-to-talk-about-it&quot;&gt;I don’t want to talk about it&lt;/a&gt; from another book &lt;a href=&quot;https://www.chengnie.com/notes/outlive&quot;&gt;outlive&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;how-do-i-read&quot;&gt;How do I read?&lt;/h1&gt;
+
+&lt;p&gt;Stephen King wrote in his memior &lt;a href=&quot;https://chengnie.com/notes/on-writing&quot;&gt;On Writing&lt;/a&gt;: “Waiting rooms were made for books”–a sentiment that applies well to audiobooks. Here’s how I my workflow of reading:&lt;/p&gt;
+
+&lt;h2 id=&quot;listening-to-the-audiobook&quot;&gt;Listening to the audiobook&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Apps&lt;/strong&gt;: I rely on Audible, YouTube (using tools like &lt;a href=&quot;https://github.com/yt-dlp/yt-dlp&quot;&gt;yt-dlp&lt;/a&gt; to download the audio files), and Himalaya for my listening needs. For local files, the Castro App lets me play audio directly from my Apple Watch without needing my iPhone.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Devices&lt;/strong&gt;: My iPhone, Mac, iPad, and Apple Watch, paired with AirPods Pro, make an efficient setup for listening anywhere, anytime.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;taking-notes&quot;&gt;Taking notes&lt;/h2&gt;
+
+&lt;p&gt;I prefer eBooks for a simple reason: note-taking and revisiting content are easier. Here’s my process:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Apps&lt;/strong&gt;: I use Calibre and Kindle for eBook reading and note-taking.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Voice Memos and Reminders&lt;/strong&gt;: When running or driving, I use voice memos on my Apple Watch or iPhone to record thoughts and reminders for later review.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;publishing-notes&quot;&gt;Publishing notes&lt;/h2&gt;
+
+&lt;p&gt;I publish &lt;a href=&quot;https://chengnie.com/notes&quot;&gt;my notes online&lt;/a&gt; to stay motivated and keep a handy reference for myself. It also allows me to share insights, like memorable quotes from books like &lt;a href=&quot;https://chengnie.com/notes/four-thousand-weeks#:~:text=The%20average%20human,gloriously%20possible%20instead&quot;&gt;this one about time management #123&lt;/a&gt;. I have not cleaned the notes from many books that I read before 2021, yet.&lt;/p&gt;
+
+&lt;h2 id=&quot;keepng-lists&quot;&gt;Keepng lists&lt;/h2&gt;
+
+&lt;p&gt;Maintaining a list of books to read and those I’ve read keeps me motivated. Participating in reading challenges since 2016, I’ve gradually increased my annual goal from 12 books in 2016 to &lt;a href=&quot;https://www.goodreads.com/user_challenges/47883724&quot;&gt;52 this year&lt;/a&gt;.&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Reading" /><summary type="html">TL;DR (Too long; Didn’t read) version: audiobook</summary></entry><entry><title type="html">江南创业史</title><link href="http://localhost:4000/jiangnan2024/" rel="alternate" type="text/html" title="江南创业史" /><published>2024-06-19T00:00:00-05:00</published><updated>2024-06-19T00:00:00-05:00</updated><id>http://localhost:4000/jiangnan2024</id><content type="html" xml:base="http://localhost:4000/jiangnan2024/">&lt;p&gt;你可以点击下面的按钮来收听全文约半小时的内容。&lt;/p&gt;
 
 &lt;head&gt;
     &lt;title&gt;Play Button Example&lt;/title&gt;
@@ -166,13 +214,11 @@
 
 &lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
 &lt;p&gt;从1996年8月到1997年7月，甘江南和陈章英再次投身餐饮业，接手了位于斗湖堤镇五九路和油江路交界处的一家餐馆，更名为江南餐馆。这家餐馆地理位置优越，他们短暂经营的一年中生意也很好，也挣到了一些钱。然而，不幸的是，该餐馆因其门店所属的单位要收回门店，导致餐馆无法继续营业。此外，门店内新装修的门窗和瓷砖也无法带走，这使得他们在装修方面的投资全部白白浪费。总体来说，这一年的经营只是勉强保本。&lt;/p&gt;
 
 &lt;h2 id=&quot;斗湖堤镇的三条街及甘江南经营过的餐馆&quot;&gt;斗湖堤镇的三条街及甘江南经营过的餐馆&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;此时，甘江南得知公安县种子公司下属的广源酒楼因经营不善而停业，便决定以13.5万元接手这家酒楼，并将其更名为江南酒楼。随后，他又借了钱来进行装修。酒楼的转让费加上装修费一共花了30万元。1997年8月，江南酒楼正式开业，并迅速吸引了大量顾客，生意兴隆。次年1998年，甘江南就收回了全部投资成本。&lt;/p&gt;
 
@@ -182,7 +228,7 @@
 
 &lt;h2 id=&quot;2001年与江南酒楼江南大酒店全体员工合影&quot;&gt;2001年与江南酒楼、江南大酒店全体员工合影&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;2003年，甘江南遇到了一个新的机遇。公安县农业局下属的农业学校经历了改制，该学校的地皮被卖给了一位名叫韩绍强的开发商。这位开发商在这块地上准备建一栋六层的大楼，正寻找投资方来买下这栋楼。而此时的甘江南也正在考虑买一块地皮来办自己的餐馆。多年以来，他一直面临租房开餐馆的困境：房东在续租时因为生意好而大幅提高租金，或者由于各种原因无法续租，导致前期高昂的装修费用损失。他渴望拥有自己餐馆的土地和房产所有权，不再受制于他人。农业学校位于公安县荆江大道上，正对面就是甘江南当时经营的江南酒楼。&lt;/p&gt;
 
@@ -196,7 +242,7 @@
 
 &lt;h2 id=&quot;2004年甘江南记录的江南宾馆部分固定资产&quot;&gt;2004年，甘江南记录的江南宾馆部分固定资产&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;江南宾馆于2004年4月28日顺利开业，并随之成立了江南宾馆有限责任公司。为了填补最后135万资金的缺口，甘江南一方面以高利率（部分借款甚至是20%的年利率）借入了55万元，另一方面赊欠了供货商80万元，这才勉强凑齐了开业所需的资金。尽管甘江南向供货商承诺将按15%的年利率支付赊账利息，但最终没有一个供货商索要利息，他们仅收回了本金。这些供货商因与甘江南有着长期的合作关系，希望江南宾馆能顺利运营，以便未来继续合作。&lt;/p&gt;
 
@@ -1507,54 +1553,4 @@
   &lt;li&gt;&lt;strong&gt;To keep my office door open when I work at school.&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Another form of Resistance is distractions. The main distraction for me is YouTube and Twitter. If I start watching YouTube, it is very hard to stop. The engineers on the other side of YouTube can feed me non-stop entertainment all day long. The only problem is that I need the time to work on my research/health/family. So, just like last year, I do need to keep my office door open when I have an Internet connection. Knowing that someone passing my office might see my screen, I would be less inclined to go to YouTube.&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Annual Review" /><summary type="html">Here is my annual review of 2022 to answer the following three questions:</summary></entry><entry><title type="html">Improve Your Job Talk</title><link href="http://localhost:4000/jobtalk/" rel="alternate" type="text/html" title="Improve Your Job Talk" /><published>2022-12-11T00:00:00-06:00</published><updated>2022-12-11T00:00:00-06:00</updated><id>http://localhost:4000/talk</id><content type="html" xml:base="http://localhost:4000/jobtalk/">&lt;p&gt;To err is human. We all make mistakes occasionally, but mistakes during a job talk may cost you a nice job offer. Here are some tips for delivering a good job talk.&lt;/p&gt;
-
-&lt;h2 id=&quot;know-the-time&quot;&gt;Know the time.&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A usual job talk is 60 minutes to 90 minutes. Know ahead of time how much time you have for the job talk. The time you have will dictate how much detail you want to cover.&lt;/li&gt;
-  &lt;li&gt;Remember how Google map allows you to zoom in or out on different map sections? In terms of managing your time, you also need to provide that function for your talk. Suppose the attendees asked many questions in the introduction section. After answering those questions, you should zoom out to give people a bird’s eye view of the literature and background so that you will have sufficient time to cover the results and contributions sections of your talk. Similarly, if not many questions are asked, you should zoom in on some challenging topics to show how much work you have done and why they are important for your research.&lt;/li&gt;
-  &lt;li&gt;Some new Ph.D. students might keep asking you about technical details that are not your main contributions. Some professors do that too. To make time for you to cover the main work you have done. You should move such conversations out of your previous job talk time. For example, you can say something like: I’d be happy to talk about this offline.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;check-for-typos-in-slides&quot;&gt;Check for typos in slides.&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;When you give a talk at school ABC, you can leave the ABC’s logo or school name out of your slides. If you include those, please make sure it is the right name and logo, not the name and logo of the previous school you visited yesterday.&lt;/li&gt;
-  &lt;li&gt;The same applies to the date of the presentation.&lt;/li&gt;
-  &lt;li&gt;You can use Grammarly, ChatGPT, or your friends, or hire copy editors to proofread your slides.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;use-clean-slides&quot;&gt;Use clean slides.&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Use bullet points instead of long sentences in your slides. When your slides are crowded, they compete for the audience’s attention. People cannot listen and read simultaneously, so they won’t hear what you say when they read your wordy slides.&lt;/li&gt;
-  &lt;li&gt;Have a page number on your slides. It is easier for others to ask questions like: “Can you please go back to page 19?”&lt;/li&gt;
-  &lt;li&gt;I understand some slides have to be crowded, like the results tables. Use animations on those crowded slides to help guide people’s attention.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ask-questions&quot;&gt;Ask questions.&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Treat it as a discussion instead of a lecture. Don’t rush to cover too much content. Take time to make sure the audience gets what you want to cover. For example, you can ask, “Is this point clear?” and encourage the attendee to ask questions by pausing at some critical points.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;use-your-body-language&quot;&gt;Use your body language.&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Use open gestures and big movements. Please don’t put your hand(s) in your pocket or cross your arms on your chest. Because showing your palms tells the audience that you have nothing to hide. After all, you need the attendee to trust your message so that they want to be your colleagues in the future.&lt;/li&gt;
-  &lt;li&gt;Video record yourself to diagnose and correct distracting habits, like shifting your weight from leg to leg.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;use-your-voice&quot;&gt;Use Your voice.&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Speak up. Too low a volume makes people feel sleepy.&lt;/li&gt;
-  &lt;li&gt;Use some vocal variety. Again, speaking monotonically will not help you deliver your message.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;get-familiar-with-the-school&quot;&gt;Get familiar with the school&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Know the names of the people in the room. The department has a directory with their photos and names for your reference. During your whole-day interview, including your talk, address them by their first name. For example, you can say, “This analysis answers Cheng’s earlier question” instead of “This analysis answers his earlier question.” Even if it’s the first time you meet each other, addressing them by their first name shows that you have done your homework of studying their directory. Another benefit of addressing them by their first name, instead of Dr. so-and-do, is priming them to treat you as colleagues instead of students. Some fresh Ph.D. students tend to call another professor as Professor so-and-so or Doctor so-and-so. But you want them to hire you to be their colleague, not to hire you as a doctoral student.&lt;/li&gt;
-  &lt;li&gt;Test the devices before the talk. Survey the room for your presentation, visualize the beginning of your talk, and think about how you want to move. For devices, please have some backup plans. For example, please bring your own clicker, and know how to use your phone or iPad to remotely control the presentation mode. Keynote slides on Mac are beautiful, but many schools may need a USB-C to HDMI connector to load the slides from your Mac. You might use Powerpoint or Google slides, which are more readily compatible. Besides saving your presentation file to a thumb drive, you can save it to cloud storage and share it publicly. You will need help remembering the long URL directed to your slides file. Therefore, shorten it using some service like bit.ly or tinyurl.com with some easy-to-remember alias. For example, I can shorten this dropbox URL: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://www.dropbox.com/s/pvhzfmwabuqqjhf/blog_jobtalk.pptx?dl=0&lt;/code&gt; to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bit.ly/jobtalk2022&lt;/code&gt;. The short link will be much easier to remember and type on a computer.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="work" /><summary type="html">To err is human. We all make mistakes occasionally, but mistakes during a job talk may cost you a nice job offer. Here are some tips for delivering a good job talk.</summary></entry></feed>
+&lt;p&gt;Another form of Resistance is distractions. The main distraction for me is YouTube and Twitter. If I start watching YouTube, it is very hard to stop. The engineers on the other side of YouTube can feed me non-stop entertainment all day long. The only problem is that I need the time to work on my research/health/family. So, just like last year, I do need to keep my office door open when I have an Internet connection. Knowing that someone passing my office might see my screen, I would be less inclined to go to YouTube.&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Annual Review" /><summary type="html">Here is my annual review of 2022 to answer the following three questions:</summary></entry></feed>
