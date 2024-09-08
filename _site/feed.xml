@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-08T11:36:05-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cheng Nie(聂成)</title><subtitle>The Website of Cheng Nie</subtitle><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><entry><title type="html">How Do I Read?</title><link href="http://localhost:4000/how-do-i-read/" rel="alternate" type="text/html" title="How Do I Read?" /><published>2024-08-30T00:00:00-05:00</published><updated>2024-08-30T00:00:00-05:00</updated><id>http://localhost:4000/how-do-i-read</id><content type="html" xml:base="http://localhost:4000/how-do-i-read/">&lt;p&gt;TL;DR (Too long; Didn’t read) version: audiobook&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-08T12:17:37-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cheng Nie(聂成)</title><subtitle>The Website of Cheng Nie</subtitle><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><entry><title type="html">My Mantra</title><link href="http://localhost:4000/mantra/" rel="alternate" type="text/html" title="My Mantra" /><published>2024-09-08T00:00:00-05:00</published><updated>2024-09-08T00:00:00-05:00</updated><id>http://localhost:4000/mantra</id><content type="html" xml:base="http://localhost:4000/mantra/">&lt;p&gt;It takes seven minutes to drive from my home to my office. During that time, I like to remind myself of how I can approach the day. I’ve gathered some quotes and written a few sentences as personal reminders. I recorded myself reading them and play the recording each day during my drive. It helps me stay focused on what’s important instead of getting caught up in distractions. You can listen to my recording by clicking on the blue button below.&lt;/p&gt;
+
+&lt;head&gt;
+    &lt;title&gt;Play Button Example&lt;/title&gt;
+    &lt;style&gt;
+        #playButton {
+            background-color: #007BFF; /* Blue background */
+            border: none; /* No borders */
+            color: white; /* White text */
+            padding: 10px 15px; /* Some padding */
+            text-align: center; /* Centered text */
+            text-decoration: none; /* No underline */
+            display: inline-block; /* Inline block element */
+            font-size: 16px; /* Some font size */
+            margin: 4px 2px; /* Some margin */
+            cursor: pointer; /* Pointer/hand icon */
+            border-radius: 10px; /* Slightly rounded corners */
+        }
+
+        #playButton:before {
+            content: &quot;▶&quot;; /* Unicode play symbol */
+            font-size: 20px; /* Larger icon size */
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;audio id=&quot;myAudio&quot;&gt;
+        &lt;source src=&quot;/files/audio/mantra.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+        Your browser does not support the audio element.
+    &lt;/audio&gt;
+    &lt;button id=&quot;playButton&quot; onclick=&quot;playAudio()&quot;&gt;Cheng&apos;s Mantra&lt;/button&gt;
+    &lt;script&gt;
+        function playAudio() {
+            var audio = document.getElementById(&quot;myAudio&quot;);
+            audio.play();
+        }
+    &lt;/script&gt;
+&lt;/body&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Anicca, Sankara, Aware, Equanimity, Act out of love. – &lt;em&gt;The Discourse Summaries&lt;/em&gt; by S.N. Goenka&lt;/li&gt;
+  &lt;li&gt;You are carrying in your mind the insane burden of a hundred things that you will or may have to do in the future instead of focusing your attention on the one thing that you can do now. — &lt;em&gt;The Power of Now&lt;/em&gt; by Eckhart Tolle&lt;/li&gt;
+  &lt;li&gt;Lack of time is lack of priority.&lt;/li&gt;
+  &lt;li&gt;Ask myself, &lt;strong&gt;Can I surpass myself from yesterday? Can I surpass someone facing similar problems now&lt;/strong&gt;. I am a competitive person, this line of thinking would help me stay motivated to choose the way I feel proud of myself.&lt;/li&gt;
+  &lt;li&gt;This run, even if it brings on heatstroke, will give me peace of mind tonight in that all-important ten minutes before I fall asleep. I now live for that ten minutes. I’m all about that ten minutes. I’ve been cheered by thousands, booed by thousands, but &lt;strong&gt;nothing feels as bad as the booing inside your own head during those ten minutes before you fall asleep&lt;/strong&gt;. — &lt;em&gt;Open&lt;/em&gt; by Andre Agassi&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The entire internet is in a sense pornographic, a deliverer of a constant excitement that we have no innate capacity to resist&lt;/strong&gt;, a seducer that leads us down paths that for the most part do nothing to answer our real needs. — &lt;em&gt;How to think more about sex&lt;/em&gt; by Alain de Botton&lt;/li&gt;
+  &lt;li&gt;From this moment I am prepared to control whatever personality awakes in me each day. &lt;strong&gt;I will master my moods through positive action&lt;/strong&gt; and when I master my moods I will control my destiny. — &lt;em&gt;The Greatest Salesman in the World&lt;/em&gt; by Og Mandino&lt;/li&gt;
+  &lt;li&gt;Start the day with office door half open so that I know I need to focus instead of mindlessly do something that I feel embarrassed/regret about. An alternative is to &lt;strong&gt;make Internet and open office door hand-in-hand&lt;/strong&gt;; I’ll open the office door before I access Internet. I’ll disconnect before I close my office door.&lt;/li&gt;
+  &lt;li&gt;Schedule activities that I feel excited: Marathon, basketball, movies.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Unplug the Ethernet and schedule blocks to use Internet during the day: before l leaving my office for home.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Remember about the story of two monks:&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;strong&gt;forgiveness and letting go.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Focus on now so that I don’t have to regret in the future.&lt;/li&gt;
+  &lt;li&gt;When I have to digress, do something that I always want to do: read discrete choice. Read python book.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;I will get research lean by investing daily time into research. I will become better at doing research by doing more research. I will get better at saying no to temptations by saying no to temptations.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Visualize how a 10-year older Cheng would guide current me. When we are not watched or listened, we feel less motivated.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;MAP: motivation, Ability, Prompt. Setup my environment (Prompt), mentally and physically, to improve my productivity.&lt;/strong&gt; – Fogg Behavior Model&lt;/li&gt;
+  &lt;li&gt;I can spend less time on youtube by fixing the time that I will use the Internet per day. The prompt of using youtube is very strong.&lt;/li&gt;
+  &lt;li&gt;Allow myself to rest instead of waiting for my body and mind to protest and procrastinate.&lt;/li&gt;
+  &lt;li&gt;When there is urge to digress, take a deep breath for 5 minutes and get back to the goals of now.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Start small, I did not go to YouTube/Porn to watch 5 hours, I just want to take a small peek. The same motivational trick works for research/work as well.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;See YouTube, Porn, wechat, facebook, twitter as red lights to stop because they are my escape routine. I can replace them with healthy coping strategies: take a nap, meditate, take a walk. Reading other things might be a distraction as well.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Be mindful about the tricks that my mind plays with me: my work is meaningless, let’s escape to porn/youtube/singing/racing etc. &lt;strong&gt;This is Resistance in the form of denial.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Let go of the idea of being perfect. I need to start small and show up in working on my problems. Done is better than perfect.&lt;/li&gt;
+  &lt;li&gt;The reason why I want to digress is because I am tired, however, watching YouTube would only make it worse.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;I can try put phone aside (in the car) for better concentration during work in office&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Harmful behaviors like using porn cause pleasure chemicals to release in unnatural ways and at unhealthy levels. &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;It’s very similar to alcohol and tobacco addiction where we feel disgusted at the beginning. But we gradually get used to it and feeling need to use it.&lt;/li&gt;
+  &lt;li&gt;Addiction like porn are escape excuses for discomfort in life.&lt;/li&gt;
+  &lt;li&gt;Porn would hijack my reward system in the brain, which diminish my ability to enjoy regular things in life.&lt;/li&gt;
+  &lt;li&gt;The Latin root for “addiction” is dictator&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;From simply taking images/videos/words in through the eyes, the media acts as the porn drug’s distributor.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;As porn becomes the solution to dealing with discomforts of life, it can actually become the cause of stress rather than a relief from it.&lt;/li&gt;
+  &lt;li&gt;Celebrate my own progress and imagine more about the rewarding life without porn&lt;/li&gt;
+  &lt;li&gt;In some sense, addiction is just one version of laziness/Resistance. I do need to fight all versions of laziness/Resistance together.&lt;/li&gt;
+  &lt;li&gt;Simply avoiding porn won’t cut it since the light source (passion of doing some meaningful things) is the solution to remove the darkness of porn completely.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Two Monks&lt;/p&gt;
+
+      &lt;blockquote&gt;
+        &lt;p&gt;A senior monk and a junior monk were traveling together. At one point, they came to a river with a strong current. As the monks were preparing to cross the river, they saw a very young and beautiful woman also attempting to cross. The young woman asked if they could help her cross to the other side.&lt;/p&gt;
+
+        &lt;p&gt;The two monks glanced at one another because they had taken vows not to touch a woman.&lt;/p&gt;
+
+        &lt;p&gt;Then, without a word, the older monk picked up the woman, carried her across the river, placed her gently on the other side, and carried on his journey.&lt;/p&gt;
+
+        &lt;p&gt;The younger monk couldn’t believe what had just happened. After rejoining his companion, he was speechless, and an hour passed without a word between them.&lt;/p&gt;
+
+        &lt;p&gt;Two more hours passed, then three, finally the younger monk could contain himself no longer, and blurted out “As monks, we are not permitted a woman, how could you then carry that woman on your shoulders?”&lt;/p&gt;
+
+        &lt;p&gt;The older monk looked at him and replied, “Brother, I set her down on the other side of the river, why are you still carrying her?”&lt;/p&gt;
+      &lt;/blockquote&gt;
+      &lt;p&gt;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Many of the ideas about porn come from the book &lt;em&gt;Fortify A Step Toward Recovery&lt;/em&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Productivity" /><summary type="html">It takes seven minutes to drive from my home to my office. During that time, I like to remind myself of how I can approach the day. I’ve gathered some quotes and written a few sentences as personal reminders. I recorded myself reading them and play the recording each day during my drive. It helps me stay focused on what’s important instead of getting caught up in distractions. You can listen to my recording by clicking on the blue button below.</summary></entry><entry><title type="html">How Do I Read?</title><link href="http://localhost:4000/how-do-i-read/" rel="alternate" type="text/html" title="How Do I Read?" /><published>2024-08-30T00:00:00-05:00</published><updated>2024-08-30T00:00:00-05:00</updated><id>http://localhost:4000/how-do-i-read</id><content type="html" xml:base="http://localhost:4000/how-do-i-read/">&lt;p&gt;TL;DR (Too long; Didn’t read) version: audiobook&lt;/p&gt;
 
 &lt;p&gt;No matter what I’m doing–driving, running, or watching my kids at the playground–I am usually listening to an audiobook. This habit allows me to multitask efficiently, ensuring that I am always learning, even when I am on the move.&lt;/p&gt;
 
@@ -1380,177 +1481,4 @@
 
 &lt;p&gt;Video from Releve.&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/raS0N_0oplI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="run" /><summary type="html">Maui Oceanfront Marathon has a fun course, though it is not fast. The temperature was in the 70-80 range, and the humidity was above 60%. I finished this Marathon on 2023 January 15th in under 4 hours.</summary></entry><entry><title type="html">My 2022 Annual Review</title><link href="http://localhost:4000/review2022/" rel="alternate" type="text/html" title="My 2022 Annual Review" /><published>2022-12-31T00:00:00-06:00</published><updated>2022-12-31T00:00:00-06:00</updated><id>http://localhost:4000/review2022</id><content type="html" xml:base="http://localhost:4000/review2022/">&lt;p&gt;Here is my annual review of 2022 to answer the following three questions:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;What went well this year?&lt;/li&gt;
-  &lt;li&gt;What didn’t go so well this year?&lt;/li&gt;
-  &lt;li&gt;What did I learn?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;1-what-went-well-this-year&quot;&gt;1. What Went Well This Year?&lt;/h1&gt;
-
-&lt;h2 id=&quot;families&quot;&gt;Families&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ping and I celebrated the 12th anniversary of our wedding. A relationship is not an easy thing. A great relationship takes consistent effort just like any great art.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ping will hopefully start her lecturer job in the marketing department at our school. She will graduate around 2023 summer and we both will be working for Iowa State University.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Michael skipped a grade this year. Michael was complaining that school was too easy at the beginning of the second grade. Ping and I thought he was bragging so we brushed him off. After a few weeks, Michael still thought the school was too easy. Then, we started talking to his teacher about the possibility of skipping the second grade. After some tests, it was clear that he was “over-qualified” for the second grade. Since Michael strongly believed that he should skip the second grade, Ping and I signed the paper to initiate the process. He was very sad about not being able to see his second-grade friends as frequently, but he was also super excited to see what third grade has to offer. Needless to say that Ping and I are both proud parents.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Both Ping and my green cards get approved in the fall. It’s a great relief that we don’t have to struggle to get visas to come to USA.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Information asymmetry is real. I learned that I should not talk about many things: traditional Chinese medicine, religion, or politics. I see no need to persuade others including my mom, my wife, and in-laws.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;work&quot;&gt;Work&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;6 submissions.&lt;/strong&gt; No papers got accepted this year. But I had 6 submissions in total, including some initial submissions and some revise-and-resubmit:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;JAIS: 2&lt;/li&gt;
-      &lt;li&gt;ISR: 2&lt;/li&gt;
-      &lt;li&gt;POM: 1&lt;/li&gt;
-      &lt;li&gt;JMIS: 1&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;30 minutes daily challenge.&lt;/strong&gt; I spend at least 30 minutes per day on my research projects for 365 days. This is my attempt to curb my procrastination of delaying things till tomorrow. It has been quite effective. Setting this laughably small task helped me start working on my research every day. Most of the time, I spend more than 30 minutes. I remember I used the same trick to jump-start my running routine back in 2017. That year, I completed the daily challenge of running at least 3 miles.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Bootstrap Research Grants.&lt;/strong&gt; I was awarded $6K from Ivy College of Business for research support in the next year.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I read &lt;a href=&quot;https://www.goodreads.com/user_challenges/32578977&quot;&gt;37 books&lt;/a&gt; this year. Out of these 37, these are the five that I highly recommend:&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;/notes/four-thousand-weeks&quot;&gt;&lt;em&gt;Four Thousand Weeks&lt;/em&gt; by Oliver Burkeman&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;/notes/crying-in-h-mart&quot;&gt;&lt;em&gt;Crying in H Mart&lt;/em&gt; by Michelle Zauner&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;/notes/will&quot;&gt;&lt;em&gt;Will&lt;/em&gt; by Will Smith &amp;amp; Mark Manson&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;/notes/the-power-of-now&quot;&gt;&lt;em&gt;The Power of Now&lt;/em&gt; by Eckhart Tolle&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;/notes/project-hail-mary&quot;&gt;&lt;em&gt;Project Hail Mary&lt;/em&gt; by Andy Weir&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;travel&quot;&gt;Travel&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;New York City for a week in June.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/Liberty2022.jpg&quot; alt=&quot;Statue of Liberty&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/Empire2022.jpg&quot; alt=&quot;Denver 2022&quot; title=&quot;He is maaaad!&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Statue of Liberty&lt;/li&gt;
-  &lt;li&gt;The Metropolitan Museum of Art&lt;/li&gt;
-  &lt;li&gt;Running in Central Park with friends&lt;/li&gt;
-  &lt;li&gt;Restaurants and Karaoke in Flushing&lt;/li&gt;
-  &lt;li&gt;Empire State Building and World Trade One&lt;/li&gt;
-  &lt;li&gt;Rosevelt Island&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Six national parks in 10 days in Utah and Denver in July.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/Arch2022.jpg&quot; alt=&quot;Arches National Park 2022&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Rocky Mountain&lt;/li&gt;
-  &lt;li&gt;Great Sand Dunes&lt;/li&gt;
-  &lt;li&gt;Mesa Verdi&lt;/li&gt;
-  &lt;li&gt;Arches&lt;/li&gt;
-  &lt;li&gt;Canyonlands&lt;/li&gt;
-  &lt;li&gt;Black Canyon&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Chicago and Minneapolis in August.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The Art Institute of Chicago&lt;/li&gt;
-  &lt;li&gt;Field Museum in Chicago&lt;/li&gt;
-  &lt;li&gt;University of Minnesota&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Hawaii Dec 31 2022&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dec 31 in 2010 was when my wife and I had our wedding ceremony. It’s great that we can celebrate this wedding anniversary with our sons on a trip to Hawaii.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;running&quot;&gt;Running&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/Strava2022.jpg&quot; alt=&quot;Strava 2022 Summary&quot; title=&quot;Strava 2022 Summary&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I Finished 2 Marathons: Grandma’s Marathon in Duluth, Minnesota and Omaha Marathon in Omaha, Nebraska. I did not break my record of 2 hours and 46 minutes for a full marathon, but I am happy to recover from the DNF (Do Not Finish) in &lt;a href=&quot;https://chengnie.com/boston2022/&quot;&gt;2022 Boston Marathon&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I served as a half-marathon pacer on March 19th in the St Patty’s Marathon in Des Moines.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/Grandma2022.jpg&quot; alt=&quot;Grandma&apos;s Marathon 2022&quot; title=&quot;My running buddies from Ames&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;health&quot;&gt;Health&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;COVID&lt;/strong&gt; In October, my wife, I, Jordan, and Michael all got COVID. Each of us took about 5 days to turn negative after the onset of coughing symptoms. Fortunately, our symptoms are mild.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Asthma&lt;/strong&gt; I was diagnosed with mild asthma in April. It helped me understand why I coughed so much when I caught cold multiple times last year. I started taking some Asthma medicine and they are very helpful to keep my cough under control.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Running indoors&lt;/strong&gt; I used to be a hardcore outdoor runner; I ran outdoors even when it is -20ºF (about -30ºC). Since I learned that cold air might trigger my asthma symptoms, I move my running sessions to indoor tracks or treadmills when it gets freezing outside. So far, no coughing symptoms during the winter.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Eight hours of sleep.&lt;/strong&gt; Why we sleep by Matthew Walker helps a lot. Both my wife and I suddenly realized the importance of sufficient sleep. So now the routine for us is to do meditation together for 10 minutes and go to bed before 10 pm. It’s not 7 out of 7 days perfection, but we made it about 5 out of 7 days a week.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Blood donation.&lt;/strong&gt;  I donated 500 ml (17 oz) of blood in July. It took me more than one month to fully recover. Due to the slow recovery, I would not recommend it to any active runner like me.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;piano-lessons&quot;&gt;Piano lessons&lt;/h2&gt;
-
-&lt;p&gt;It’s been two years since I started taking weekly piano lessons. My piano teacher Dr. Janci Bronson has been very effective in teaching me the basics of piano playing and in helping me master some Chinese pop songs.&lt;/p&gt;
-
-&lt;h1 id=&quot;2-what-didnt-go-so-well-this-year&quot;&gt;2. What Didn’t Go So Well This Year?&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;An addiction to dopamine rushes.&lt;/strong&gt; This is still an issue from time to time. For example, when I feel bored in my office, I would close my office doors and start wandering around on Twitter or YouTube. Sooner or later, I would end up on some websites that I don’t feel proud to be at.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;I need to talk to my mentor&lt;/strong&gt; I forgot to talk to my mentors this year. This is something I can improve for the next year.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;3-what-did-i-learn&quot;&gt;3. What Did I Learn?&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Daily Work of 30 Minutes help&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;My biggest Resistance is denial. By denying the meaning of my work, I give myself no motivation to work. To counter such resistance, I start to put in 30 minutes each day to work on my research. 30 minutes are not enough to get me tenured, but those 30 minutes positioned me in the right direction. 30-minute research is a laughably small goal that I don’t fear starting. It helps me to get started on working on my papers each day. And, happily, most days I work more than 30 minutes on my research. I get this idea of working at least 30 minutes per day from my running habits. When I started running in 2017, I made a goal of running at least 3 miles per day. It’s not a huge goal for many runners, but it got me into Boston Marathon with such consistent effort. Even though I did not earn my tenure yet, I think this consistency in my work ethic is the key to success in my academic career too.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;To keep my office door open when I work at school.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Another form of Resistance is distractions. The main distraction for me is YouTube and Twitter. If I start watching YouTube, it is very hard to stop. The engineers on the other side of YouTube can feed me non-stop entertainment all day long. The only problem is that I need the time to work on my research/health/family. So, just like last year, I do need to keep my office door open when I have an Internet connection. Knowing that someone passing my office might see my screen, I would be less inclined to go to YouTube.&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Annual Review" /><summary type="html">Here is my annual review of 2022 to answer the following three questions:</summary></entry></feed>
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/raS0N_0oplI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="run" /><summary type="html">Maui Oceanfront Marathon has a fun course, though it is not fast. The temperature was in the 70-80 range, and the humidity was above 60%. I finished this Marathon on 2023 January 15th in under 4 hours.</summary></entry></feed>

@@ -4,6 +4,8 @@
 
 ## Next
 
+## 2024_09_08
+
 /notes/wild
 /blog/mantra
 put Chen Wei's paper to top of the working paper list
