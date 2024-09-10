@@ -65,7 +65,7 @@ B.S., Huazhong University of Science and Technology, China, 2007
 
 - Nie C, Zheng Z (Eric), Sarkar S . Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy. Submitted for the 1st round review at _MIS Quarterly_
     
-- Fang B, Nie C, Zheng Z (Eric). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Submitted for the 1st round review at _Journal of Management Information Systems_
+- Fang B, Nie C, Zheng Z (Eric). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Submitted for the 1st round review at _Journal of the Association for Information Systems_
 
 ## Work in Progress
 

@@ -3,10 +3,13 @@
 
 
 ## Next
+/notes/wild
+
+## 2024_09_10
+Need to explain Annica, Sankara are my summary of the Vipassana Meditation. 
+Adjust the NFT submission journal
 
 ## 2024_09_08
-
-/notes/wild
 /blog/mantra
 put Chen Wei's paper to top of the working paper list
 update 江南创业史, picutres misplaced 
