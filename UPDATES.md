@@ -4,6 +4,20 @@
 
 ## Next
 /notes/wild
+/notes/how-to
+/notes/一百年
+/notes/nexus
+/notes/六个说谎的大学生
+/notes/万箭穿心
+/notes/liars-club
+/notes/the-worlds-i-see
+/notes/知道分子
+/notes/茶馆
+
+Jiana paper submission
+MISQ hotel strategy revising
+
+Berlin Marathon
 
 ## 2024_09_10
 Need to explain Annica, Sankara are my summary of the Vipassana Meditation. 

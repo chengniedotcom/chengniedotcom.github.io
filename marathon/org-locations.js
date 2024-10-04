@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Berlin, Germany | Sep 29, 2024 | 2:52:20 | Berlin Marathon",
+    52.510885,
+    13.3989367
+  ],
+  [
     "Manitowoc, WI | Jun 2, 2024 | 3:02:39 | Maritime Marathon",
     44.0998341,
     -87.827992

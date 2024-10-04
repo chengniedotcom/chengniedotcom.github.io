@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-08T12:17:37-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cheng Nie(聂成)</title><subtitle>The Website of Cheng Nie</subtitle><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><entry><title type="html">My Mantra</title><link href="http://localhost:4000/mantra/" rel="alternate" type="text/html" title="My Mantra" /><published>2024-09-08T00:00:00-05:00</published><updated>2024-09-08T00:00:00-05:00</updated><id>http://localhost:4000/mantra</id><content type="html" xml:base="http://localhost:4000/mantra/">&lt;p&gt;It takes seven minutes to drive from my home to my office. During that time, I like to remind myself of how I can approach the day. I’ve gathered some quotes and written a few sentences as personal reminders. I recorded myself reading them and play the recording each day during my drive. It helps me stay focused on what’s important instead of getting caught up in distractions. You can listen to my recording by clicking on the blue button below.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-04T16:17:53-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cheng Nie(聂成)</title><subtitle>The Website of Cheng Nie</subtitle><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><entry><title type="html">My Mantra</title><link href="http://localhost:4000/mantra/" rel="alternate" type="text/html" title="My Mantra" /><published>2024-09-08T00:00:00-05:00</published><updated>2024-09-08T00:00:00-05:00</updated><id>http://localhost:4000/mantra</id><content type="html" xml:base="http://localhost:4000/mantra/">&lt;p&gt;It takes seven minutes to drive from my home to my office. During that time, I like to remind myself of how I can approach the day. I’ve gathered some quotes and written a few sentences as personal reminders. I recorded myself reading them and play the recording each day during my drive. It helps me stay focused on what’s important instead of getting caught up in distractions. You can listen to my recording by clicking on the blue button below.&lt;/p&gt;
 
 &lt;head&gt;
     &lt;title&gt;Play Button Example&lt;/title&gt;
@@ -38,7 +38,7 @@
 &lt;/body&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Anicca, Sankara, Aware, Equanimity, Act out of love. – &lt;em&gt;The Discourse Summaries&lt;/em&gt; by S.N. Goenka&lt;/li&gt;
+  &lt;li&gt;Anicca, Sankara, Aware, Equanimity, Act out of love.&lt;sup id=&quot;fnref:fn1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:fn1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; – &lt;em&gt;The Discourse Summaries&lt;/em&gt; by S.N. Goenka&lt;/li&gt;
   &lt;li&gt;You are carrying in your mind the insane burden of a hundred things that you will or may have to do in the future instead of focusing your attention on the one thing that you can do now. — &lt;em&gt;The Power of Now&lt;/em&gt; by Eckhart Tolle&lt;/li&gt;
   &lt;li&gt;Lack of time is lack of priority.&lt;/li&gt;
   &lt;li&gt;Ask myself, &lt;strong&gt;Can I surpass myself from yesterday? Can I surpass someone facing similar problems now&lt;/strong&gt;. I am a competitive person, this line of thinking would help me stay motivated to choose the way I feel proud of myself.&lt;/li&gt;
@@ -48,7 +48,7 @@
   &lt;li&gt;Start the day with office door half open so that I know I need to focus instead of mindlessly do something that I feel embarrassed/regret about. An alternative is to &lt;strong&gt;make Internet and open office door hand-in-hand&lt;/strong&gt;; I’ll open the office door before I access Internet. I’ll disconnect before I close my office door.&lt;/li&gt;
   &lt;li&gt;Schedule activities that I feel excited: Marathon, basketball, movies.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Unplug the Ethernet and schedule blocks to use Internet during the day: before l leaving my office for home.&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Remember about the story of two monks:&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;strong&gt;forgiveness and letting go.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Remember about the story of two monks:&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;strong&gt;forgiveness and letting go.&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;Focus on now so that I don’t have to regret in the future.&lt;/li&gt;
   &lt;li&gt;When I have to digress, do something that I always want to do: read discrete choice. Read python book.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;I will get research lean by investing daily time into research. I will become better at doing research by doing more research. I will get better at saying no to temptations by saying no to temptations.&lt;/strong&gt;&lt;/li&gt;
@@ -63,7 +63,7 @@
   &lt;li&gt;Let go of the idea of being perfect. I need to start small and show up in working on my problems. Done is better than perfect.&lt;/li&gt;
   &lt;li&gt;The reason why I want to digress is because I am tired, however, watching YouTube would only make it worse.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;I can try put phone aside (in the car) for better concentration during work in office&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Harmful behaviors like using porn cause pleasure chemicals to release in unnatural ways and at unhealthy levels. &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;Harmful behaviors like using porn cause pleasure chemicals to release in unnatural ways and at unhealthy levels. &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;It’s very similar to alcohol and tobacco addiction where we feel disgusted at the beginning. But we gradually get used to it and feeling need to use it.&lt;/li&gt;
   &lt;li&gt;Addiction like porn are escape excuses for discomfort in life.&lt;/li&gt;
   &lt;li&gt;Porn would hijack my reward system in the brain, which diminish my ability to enjoy regular things in life.&lt;/li&gt;
@@ -77,6 +77,9 @@
 
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
+    &lt;li id=&quot;fn:fn1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;These are my own summary of the Vipassana meditation. Anicca means change; Sankara means react, which is the source of our misery. &lt;a href=&quot;#fnref:fn1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
       &lt;p&gt;Two Monks&lt;/p&gt;
 
