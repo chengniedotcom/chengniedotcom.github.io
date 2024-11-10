@@ -2,7 +2,7 @@
 # layout: post
 title: The Vegetarian - by Han Kang
 date: 2024-11-04
-permalink: /notes/the-Vegetarian
+permalink: /notes/the-vegetarian
 author_profile: false
 tags:
   - notes
