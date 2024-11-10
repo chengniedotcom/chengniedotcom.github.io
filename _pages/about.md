@@ -71,7 +71,7 @@ B.S., Huazhong University of Science and Technology, China, 2007
 
 ## Work in Progress
 
-- Yang M, Ji Y, Mookerjee V, Nie C. Stay in Your Comfort Zone: Mean Field Game Analysis of Quality Competition.
+- Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence.
 
 <div style="background-color: #f0f0f0; padding: 0px; border-radius: 5px;" markdown="1">
 

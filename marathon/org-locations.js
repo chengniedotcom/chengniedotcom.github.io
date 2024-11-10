@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "New York City, NY | Nov 3, 2024 | 2:50:32 | New York City Marathon",
+    40.7127281,
+    -74.0060152
+  ],
+  [
     "Berlin, Germany | Sep 29, 2024 | 2:52:20 | Berlin Marathon",
     52.510885,
     13.3989367
@@ -11,8 +16,8 @@ var addressPoints = [
   ],
   [
     "Tokyo, Japan | Mar 3, 2024 | 3:20:00 | Tokyo Marathon",
-    35.6821936,
-    139.762221
+    35.6768601,
+    139.7638947
   ],
   [
     "Boston, MA | Apr 17, 2023 | 2:59:38 | Boston Marathon",

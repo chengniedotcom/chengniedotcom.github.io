@@ -1,8 +1,27 @@
 # 2024
 
 
-
 ## Next
+
+/notes/selfish-gene
+
+## 2024_11_08
+/notes/a-simpler-life
+/notes/李锐口述往事
+/notes/what-if
+/notes/at-the-edge-of-empire
+/notes/build-the-life-you-want
+/notes/memoirs-of-a-geisha
+/notes/the-vegetarian
+/notes/我还能看到多少次满月升起
+
+Old repo
+/notes/age-of-ambition
+
+Research 
+Update paper title with Mingwen
+
+## 2024_10_04
 /notes/wild
 /notes/how-to
 /notes/一百年

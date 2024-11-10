@@ -41,4 +41,4 @@ author_profile: true
 
 # Work in Progress
 
-- Yang M, Ji Y, Mookerjee V, Nie C. Stay in Your Comfort Zone: Mean Field Game Analysis of Quality Competition.
+- Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence.
