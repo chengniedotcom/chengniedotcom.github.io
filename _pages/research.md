@@ -31,14 +31,14 @@ author_profile: true
 
 # Journal Papers Under Review
 
-- Meng J, Li H, Nie C, Zhang C. From Licensing Regulation to Impact: Home-Sharing Services, Crimes, and Long-Term Rental. Submitted for the 1st round review at _Information Systems Research_
+- Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence. Submitted for the 1st round review at _Management Science_
 
-- Chen W, Nie C, Xie K, Li X. Dance with Algorithms: Impact of Algorithmic Buyers on Housing Affordability. Submitted for the 1st round review at _Management Science_
+- Meng J, Li H, Nie C, Zhang C. From Licensing Regulation to Impact: Home-Sharing Services, Crimes, and Long-Term Rental. Submitted for the 1st round review at _Information Systems Research_
 
 - Nie C, Zheng Z (Eric), Sarkar S . Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy. Revising for the 2nd round review at _MIS Quarterly_
     
-- Fang B, Nie C, Zheng Z (Eric). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Submitted for the 1st round review at _Journal of the Association for Information Systems_
+- Fang B, Nie C, Zheng Z (Eric). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Revising for the 2nd round review at _Journal of the Association for Information Systems_
 
 # Work in Progress
 
-- Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence.
+- Chen W, Nie C, Xie K, Li X. Dance with Algorithms: Impact of Algorithmic Buyers on Housing Affordability. 

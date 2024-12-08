@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-1/</loc>
-<lastmod>2024-11-10T16:44:20-06:00</lastmod>
+<lastmod>2024-12-08T16:56:09-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-2/</loc>
-<lastmod>2024-11-10T16:44:20-06:00</lastmod>
+<lastmod>2024-12-08T16:56:09-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/highschool2020/</loc>
@@ -190,6 +190,9 @@
 <loc>http://localhost:4000/cn/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/cognitive-behavioral-hterapy-made-simple</loc>
+</url>
+<url>
 <loc>http://localhost:4000/collection-archive/</loc>
 </url>
 <url>
@@ -238,6 +241,9 @@
 <loc>http://localhost:4000/notes/four-thousand-weeks</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/friends-lovers-and-the-big-terrible-thing</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/gene</loc>
 </url>
 <url>
@@ -254,6 +260,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/how-the-world-really-works</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/how-to-be-perfect</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/how-to-decide</loc>
@@ -472,6 +481,9 @@
 <loc>http://localhost:4000/notes/the-song-of-the-cell</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/the-story-of-my-life</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/the-storyteller</loc>
 </url>
 <url>
@@ -487,7 +499,7 @@
 <loc>http://localhost:4000/notes/the-upside-of-irrationality</loc>
 </url>
 <url>
-<loc>http://localhost:4000/notes/the-Vegetarian</loc>
+<loc>http://localhost:4000/notes/the-vegetarian</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/the-war-of-art</loc>
@@ -514,6 +526,9 @@
 <loc>http://localhost:4000/notes/total-recall</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/unbroken</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/unconditional-parenting</loc>
 </url>
 <url>
@@ -524,6 +539,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/why-is-sex-fun</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/why-nations-fail</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/why-we-sleep</loc>

@@ -5,6 +5,19 @@
 
 /notes/selfish-gene
 
+## 2024_12_08
+/notes/why-nations-fail
+/notes/friends-lovers-and-the-big-terrible-thing
+/notes/unbroken
+/notes/the-story-of-my-life
+/notes/how-to-be-perfect
+/notes/cognitive-behavioral-hterapy-made-simple
+
+Research
+Submitted MS with Vijay Mookerjee
+Rejected MS with Wei Chen
+Round 2 with Bin Fang JAIS
+
 ## 2024_11_08
 /notes/a-simpler-life
 /notes/李锐口述往事
