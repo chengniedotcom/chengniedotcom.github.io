@@ -6,7 +6,7 @@
 /notes/selfish-gene
 
 
-## 2024_01_10
+## 2024_01_16
 
 /notes/this-is-going-to-hurt
 /notes/brain-on-fire
