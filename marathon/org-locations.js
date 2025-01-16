@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Xiamen, China | Jan 5, 2025 | 2:38:08 | Xiamen Marathon",
+    24.5438732,
+    118.0768065
+  ],
+  [
     "New York City, NY | Nov 3, 2024 | 2:50:32 | New York City Marathon",
     40.7127281,
     -74.0060152
@@ -61,8 +66,8 @@ var addressPoints = [
   ],
   [
     "Irving, TX | Apr 7, 2018 | 3:03:02 | Irving Marathon",
-    32.8295183,
-    -96.9442177
+    32.862919500000004,
+    -96.97917026548832
   ],
   [
     "Allen, TX | Dec 31, 2017 | 3:17:06 | New Year's Double",

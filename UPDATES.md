@@ -5,6 +5,23 @@
 
 /notes/selfish-gene
 
+
+## 2024_01_10
+
+/notes/this-is-going-to-hurt
+/notes/brain-on-fire
+/notes/from-darkness-to-sight
+/notes/open-book
+/notes/know-my-name
+/notes/hillbilly-elegy
+/notes/the-coming-wave
+
+Xiamen Marathon. (about, certificate, table)
+那年的情书
+New year summary
+Teaching of Fall 2024
+
+
 ## 2024_12_08
 /notes/why-nations-fail
 /notes/friends-lovers-and-the-big-terrible-thing
