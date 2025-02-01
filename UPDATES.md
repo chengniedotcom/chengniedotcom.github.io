@@ -1,4 +1,4 @@
-# 2024
+# 2025
 
 
 ## Next
@@ -6,7 +6,21 @@
 /notes/selfish-gene
 
 
-## 2024_01_16
+## 2025_02_01
+
+/notes/yes-please
+/notes/is-everyone-hanging-out-without-me
+/notes/running-with-scissors
+/notes/the-anxious-generation
+/notes/while-time-remains
+
+Blog: why-do-i-run
+Marathon tables add num
+set read_time: false in _config.yml to disable the read time. 
+
+
+
+## 2025_01_16
 
 /notes/this-is-going-to-hurt
 /notes/brain-on-fire
@@ -21,6 +35,7 @@ Xiamen Marathon. (about, certificate, table)
 New year summary
 Teaching of Fall 2024
 
+# 2024
 
 ## 2024_12_08
 /notes/why-nations-fail
