@@ -5,6 +5,18 @@
 
 /notes/selfish-gene
 
+## 2025_03_02
+
+/notes/猫鱼
+/notes/wild-swans
+/notes/source-code
+/notes/世上为什么要有图书馆
+/notes/抑郁的力量
+/notes/我的母亲做保洁
+
+
+/notes/抑郁的力量 showed my own saved picture and goodreads link (I submitted following perplexity's instructions)
+
 
 ## 2025_02_01
 

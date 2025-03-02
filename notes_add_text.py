@@ -3,11 +3,11 @@ import re
 
 # Sample HTML input
 html = '''
-    <div class="gr_grid_book_container"><a title="While Time Remains: A North Korean Defector's Search for Freedom in America" rel="nofollow" href="/notes/while-time-remains"><img alt="While Time Remains: A North Korean Defector's Search for Freedom in America" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676499199l/61273331._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="The Anxious Generation: How the Great Rewiring of Childhood Caused an Epidemic of Mental Illness" rel="nofollow" href="/notes/the-anxious-generation"><img alt="The Anxious Generation: How the Great Rewiring of Childhood Caused an Epidemic of Mental Illness" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711573377l/171681821._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Running with Scissors" rel="nofollow" href="/notes/running-with-scissors"><img alt="Running with Scissors" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690319656l/242006._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Is Everyone Hanging Out Without Me? (And Other Concerns)" rel="nofollow" href="/notes/is-everyone-hanging-out-without-me"><img alt="Is Everyone Hanging Out Without Me?" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443264638l/10335308._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Yes Please" rel="nofollow" href="/notes/yes-please"><img alt="Yes Please" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402815435l/20910157._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="抑郁的力量" rel="nofollow" href="/notes/抑郁的力量"><img alt="抑郁的力量" border="0" src="https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png" /></a></div>
+    <div class="gr_grid_book_container"><a title="世上为什么要有图书馆" rel="nofollow" href="/notes/世上为什么要有图书馆"><img alt="世上为什么要有图书馆" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704607915l/204353687._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Source Code: My Beginnings" rel="nofollow" href="/notes/source-code"><img alt="Source Code: My Beginnings" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719004398l/213034913._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Wild Swans: Three Daughters of China" rel="nofollow" href="/notes/wild-wwans"><img alt="Wild Swans: Three Daughters of China" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440643710l/1848._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="猫鱼" rel="nofollow" href="/notes/猫鱼"><img alt="猫鱼" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720526527l/216105320._SY75_.jpg" /></a></div>
 '''
 
 pattern = re.compile(r'_(SX|SY)\d+_.jpg')

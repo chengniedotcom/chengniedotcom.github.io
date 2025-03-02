@@ -64,8 +64,6 @@ B.S., Huazhong University of Science and Technology, China, 2007
 
 - Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence. Submitted for the 1st round review at _Management Science_
 
-- Meng J, Li H, Nie C, Zhang C. From Licensing Regulation to Impact: Home-Sharing Services, Crimes, and Long-Term Rental. Submitted for the 1st round review at _Information Systems Research_
-
 - Nie C, Zheng Z (Eric), Sarkar S . Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy. Revising for the 2nd round review at _MIS Quarterly_
     
 - Fang B, Nie C, Zheng Z (Eric). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Revising for the 2nd round review at _Journal of the Association for Information Systems_
@@ -73,6 +71,9 @@ B.S., Huazhong University of Science and Technology, China, 2007
 ## Work in Progress
 
 - Chen W, Nie C, Xie K, Li X. Dance with Algorithms: Impact of Algorithmic Buyers on Housing Affordability. 
+
+- Meng J, Li H, Nie C, Zhang C. From Licensing Regulation to Impact: Home-Sharing Services, Crimes, and Long-Term Rental. 
+
 
 <div style="background-color: #f0f0f0; padding: 0px; border-radius: 5px;" markdown="1">
 

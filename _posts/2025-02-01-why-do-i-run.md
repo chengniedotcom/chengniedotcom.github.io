@@ -46,7 +46,7 @@ Many individuals have posed various questions to me concerning the topic of runn
 
 1\. What gear do I use for running?
 
-As of January 2025, I prefer Brooks Adrenaline for training and Saucony Endorphine Elite for racing. I wear US size 10 shoes. My go-to socks are Injinji toesocks, and I use a Coros Pace 2, POD 2, and their arm heart rate for tracking. To stay entertained, I listen to audiobooks or music with my Apple Watch and AirPods Pro.
+As of January 2025, I prefer Brooks Adrenaline for training and Saucony Endorphin Elite for racing. I wear US size 10 shoes. My go-to socks are Injinji toesocks, and I use a Coros Pace 2, POD 2, and their arm heart rate for tracking. To stay entertained, I listen to audiobooks or music with my Apple Watch and AirPods Pro.
 
 2\. What do I think about while running?
 

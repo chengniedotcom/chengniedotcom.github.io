@@ -43,11 +43,15 @@ I am more at ease declining my 9-year-old son's request to buy an iPhone for him
 
 1. Psychologists have long studied social comparison and its pervasive effects. The social psychologist Susan Fiske says that humans are “comparison machines.” Mark Leary, another social psychologist, describes the machinery in more detail: It’s as if we all have a “sociometer” in our brains—a gauge that runs from 0 to 100, telling us where we stand in the local prestige rankings, moment by moment. When the needle drops, it triggers an alarm—anxiety—that motivates us to change our behavior and get the needle back up.
 
+1. Once girls flocked onto social media platforms and had fewer long talks with one or two special friends, they found themselves immersed in a vast sea of transient, unreliable, fair-weather “friends,” followers, and acquaintances.
+
 1. Girls use social media a lot more than boys, and they prefer visually oriented platforms such as Instagram and TikTok, which are worse for social comparison than primarily text-based platforms such as Reddit.
 
 1. The second reason is that girls’ aggression is often expressed in attempts to harm the relationships and reputations of other girls, whereas boys’ aggression is more likely to be expressed in physical ways. Social media has offered girls endless ways to damage other girls’ relationships and reputations.
 
 1. Boys are at greater risk than girls of “failure to launch.” They are more likely to become young adults who are “Not in Education, Employment, or Training.” Some Japanese men developed an extreme form of lifelong withdrawal to their bedrooms; they are called hikikomori.
+
+1. The world’s major religions advise us to turn down the judgmentalism and turn up the forgiveness. In the Torah, God commands the Israelites, “Do not seek revenge or bear a grudge against anyone among your people, but love your neighbor as yourself.” Thousands of years later, Martin Luther King Jr. used the power of forgiveness, as developed in the Judeo-Christian tradition, to inspire those in the civil rights movement to act in elevated ways that would win hearts and minds: We must develop and maintain the capacity to forgive. He who is devoid of the power to forgive is devoid of the power to love. There is some good in the worst of us and some evil in the best of us. When we discover this, we are less prone to hate our enemies.
 
 1. a defining feature of spirituality is self-transcendence. There is a network of brain structures (the default mode network) that becomes less active during moments of self-transcendence, as if it were the neural basis of profane consciousness. Social media keeps the focus on the self, self-presentation, branding, and social standing. It is almost perfectly designed to prevent self-transcendence.
 
