@@ -24,7 +24,7 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 ## Duplicate Research and Teaching into the about.md pace
 
 1. It is easier to view everything on this single about me page. 
-2. Replace # with ## for the headings, or simply copy the sections text without copying the headings.
+2. Now the _includes/research-include.html and _includes/teaching-include.html are used to incorparte research and teaching into the about.md page. 
 
 
 ## Update Notes

@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 
-Click on each book cover for my tiny summary and detailed notes(highlights) for each book. 
+Click on each book cover for my tiny summary and detailed notes (highlights) for each book. 
 
 
 <!-- # 2022 -->

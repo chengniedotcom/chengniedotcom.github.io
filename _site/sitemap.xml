@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-1/</loc>
-<lastmod>2025-03-02T15:19:15-06:00</lastmod>
+<lastmod>2025-03-31T14:16:24-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-2/</loc>
-<lastmod>2025-03-02T15:19:15-06:00</lastmod>
+<lastmod>2025-03-31T14:16:24-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/highschool2020/</loc>
@@ -220,6 +220,9 @@
 <loc>http://localhost:4000/notes/discourse-summaries</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/dry</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/eat-pray-love</loc>
 </url>
 <url>
@@ -349,6 +352,9 @@
 <loc>http://localhost:4000/notes/luxun</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/magical-thinking</loc>
+</url>
+<url>
 <loc>http://localhost:4000/marathon</loc>
 </url>
 <url>
@@ -368,6 +374,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/never-get-angry-again</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/never-split-the-difference</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/nexus</loc>
@@ -670,6 +679,9 @@
 <loc>http://localhost:4000/notes/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%94%9F%E6%B4%BB</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/%E6%88%91%E7%94%A8%E4%B8%AD%E6%96%87%E5%81%9A%E4%BA%86%E5%9C%BA%E6%A2%A6</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F</loc>
 </url>
 <url>
@@ -758,7 +770,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/marathon/map.html</loc>
-<lastmod>2022-10-13T15:45:19-05:00</lastmod>
+<lastmod>2025-01-11T09:57:07-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/talkmap/map.html</loc>

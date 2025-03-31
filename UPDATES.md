@@ -3,7 +3,16 @@
 
 ## Next
 
+Jiana paper submit to JAIS
 /notes/selfish-gene
+
+## 2025_04_01
+
+/notes/never-split-the-difference
+/notes/dry
+/notes/我用中文做了场梦
+
+ISR zillow update from forthcoming to 2024 and page numbers
 
 ## 2025_03_02
 

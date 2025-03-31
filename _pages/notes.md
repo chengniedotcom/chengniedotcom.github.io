@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 
-Click on each book cover for my tiny summary and detailed notes(highlights) for each book. 
+Click on each book cover for my tiny summary and detailed notes (highlights) for each book. 
 
 
 <!-- # 2022 -->
@@ -39,6 +39,9 @@ It highlighted the potential reasons for the failure of many companies, suggesti
 }
 </style>
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a href="/notes/我用中文做了场梦" rel="nofollow" style="color: black; font-size: 10px;" title="我用中文做了场梦"><img alt="我用中文做了场梦" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720693359l/216363638._SX98_.jpg"/> 我用中文做了场梦</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/dry" rel="nofollow" style="color: black; font-size: 10px;" title="Dry"><img alt="Dry" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442601868l/32370._SX98_.jpg"/> dry</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/never-split-the-difference" rel="nofollow" style="color: black; font-size: 10px;" title="Never Split the Difference: Negotiating as if Your Life Depended on It"><img alt="Never Split the Difference: Negotiating as if Your Life Depended on It" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680014152l/123857637._SX98_.jpg"/> never-split-the-difference</a></div>
     <div class="gr_grid_book_container"><a href="/notes/我的母亲做保洁" rel="nofollow" style="color: black; font-size: 10px;" title="我的母亲做保洁"><img alt="我的母亲做保洁" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700447467i/202416511._SX98_.jpg"/> 我的母亲做保洁</a></div>
     <div class="gr_grid_book_container"><a href="/notes/抑郁的力量" rel="nofollow" style="color: black; font-size: 10px;" title="抑郁的力量"><img alt="抑郁的力量" border="0" src="/files/pics/cover_抑郁的力量.jpg" width="98" height="147"/> 抑郁的力量</a></div>
     <div class="gr_grid_book_container"><a href="/notes/世上为什么要有图书馆" rel="nofollow" style="color: black; font-size: 10px;" title="世上为什么要有图书馆"><img alt="世上为什么要有图书馆" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704607915l/204353687._SX98_.jpg"/> 世上为什么要有图书馆</a></div>

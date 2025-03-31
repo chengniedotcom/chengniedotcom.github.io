@@ -1,0 +1,2 @@
+{% assign teaching_content = site.pages | where: "path", "_pages/teaching.md" | first %}
+{{ teaching_content.content | remove_first: "---" | remove_first: "title: \"Teaching\"" | remove_first: "permalink: /teaching/" | remove_first: "author_profile: true" | remove_first: "---" }}

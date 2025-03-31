@@ -1,0 +1,2 @@
+{% assign research_content = site.pages | where: "path", "_pages/research.md" | first %}
+{{ research_content.content | remove_first: "---" | remove_first: "title: \"Research\"" | remove_first: "permalink: /research/" | remove_first: "author_profile: true" | remove_first: "---" }}

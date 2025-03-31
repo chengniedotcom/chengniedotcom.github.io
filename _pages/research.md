@@ -21,7 +21,7 @@ author_profile: true
 <!-- 10.17705/1jais.00835 -->
 
 
-3\. Jiang Z, Rai A, Sun H, Nie C, Hu Y (forthcoming). [How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms.](https://doi.org/10.1287/isre.2020.0658) _Information Systems Research_, (forthcoming)
+3\. Jiang Z, Rai A, Sun H, Nie C, Hu Y (2024). [How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms.](https://doi.org/10.1287/isre.2020.0658) _Information Systems Research_, (35:3), 1324–1343.
 
 2\. Nie C, Zheng Z (Eric), Sarkar S (2022). [Competing with the Sharing Economy: Incumbents’ Reaction on Review Manipulation.](https://doi.org/10.25300/MISQ/2022/15666) _MIS Quarterly_, (46:3), 1573–1602. 
 <!-- [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/review_manipulation.pdf) [![Video](https://img.shields.io/badge/Video-orange.svg)](https://youtu.be/4LRscKwr4Fw) -->
@@ -31,15 +31,16 @@ author_profile: true
 
 # Journal Papers Under Review
 
-- Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence. Submitted for the 1st round review at _Management Science_
-
 - Nie C, Zheng Z (Eric), Sarkar S . Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy. Revising for the 2nd round review at _MIS Quarterly_
     
 - Fang B, Nie C, Zheng Z (Eric). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Revising for the 2nd round review at _Journal of the Association for Information Systems_
 
 # Work in Progress
 
+- Meng J, Li H, Nie C, Zhang C. Crime Dynamics of Home-Sharing: Disentangling Temporal Effects and Policy Interventions. 
+
+- Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence. 
+
 - Chen W, Nie C, Xie K, Li X. Dance with Algorithms: Impact of Algorithmic Buyers on Housing Affordability. 
 
-- Meng J, Li H, Nie C, Zhang C. From Licensing Regulation to Impact: Home-Sharing Services, Crimes, and Long-Term Rental.
 
