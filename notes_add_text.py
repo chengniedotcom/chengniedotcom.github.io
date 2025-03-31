@@ -25,7 +25,7 @@ for a_tag in soup.find_all('a'):
     print("="*80)
     a_tag.append(img_tag)
     a_tag.append(' ')
-    a_tag.append(slug)
+    a_tag.append(title_original)
     a_tag['style'] = style
 
 for img_tag in soup.find_all('img'):
