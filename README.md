@@ -31,19 +31,20 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 1. Retrieve books I read in this [link](https://www.goodreads.com/user/edit?format=html&tab=widgets#_=_). Select "Date Read" and "desc" to pick the most recently read books. For an older book, retrieve it from the local _notes_processed.html file. When adding a read book, remember to "Edit Activity" to 1) give the start and end time; 2) add this to my read list. 
     
-    1. In case it does not work, I can manually edit a link. The picture link shows when I click on the book cover and open the cover picture in a new tab. 
+    1. In case it does not work, I can manually edit a link:  a) the book link shows when I visit the book in goodreads; b) The picture link shows when I click on the book cover and open the cover picture in a new tab.
     2. Paste the html section to notes_add_text.py and use only the books I haven't added yet. 
-    3. Replace the href link with my summary links like /notes/乡土中国, so that the click would lead to my notes. 
-    4. To add text and adjust the width of the book title, run notes_add_text.py
-    5. Paste the output back to _pages/notes.md
+    3. For books not in goodreads, I can use "抑郁的力量" as a template. I need to download the cover pictures myself. 
+    <!-- 4. Paste the output back to _pages/notes.md -->
+    <!-- 3. Replace the href link with my summary links like /notes/乡土中国, so that the click would lead to my notes. 
+    4. To add text and adjust the width of the book title, run notes_add_text.py -->
 
 
 ## Update Marathon map
 
 1. Update marathon.tsv 
-2. Run ``python marathon.py`` to update marathon/map.html
+2. Run ``python marathon.py`` to update marathon/map.html automatically
 ~~ 3. Update _pages/marathon.html by adding the new record of Marahon in the html table. Convert the tsv to html table using this [tool](https://wtools.io/convert-tsv-to-html-table) ~~
-3. Update _pages/marathon.html by adding the new record of Marahon in the html table. marathon.py output the table in html format. 
+<!-- 3. Update _pages/marathon.html by adding the new record of Marahon in the html table. marathon.py output the table in html format.  -->
 
 
 ## Some special considerations
@@ -56,7 +57,7 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 ## Update latest update date
 
-1. Update _includes/footer.html
+<!-- 1. Update _includes/footer.html -->
 
 
 ## Verfiy the updates before committing the changes to github

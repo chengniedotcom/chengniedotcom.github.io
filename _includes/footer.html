@@ -1,5 +1,5 @@
 <!-- {% include base_path %} -->
-Last Updated: 2025-03-31
+Last Updated: {% if site.time %}{{ site.time | date: '%Y-%m-%d' }}{% else %}{{ 'now' | date: '%Y-%m-%d' }}{% endif %}
 
 <!-- <div class="page__footer-follow">
   <ul class="social-icons">

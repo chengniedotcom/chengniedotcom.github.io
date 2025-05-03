@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Olathe, KS | Apr 26, 2025 | 2:44:35 | Garmin Marathon",
+    38.8838856,
+    -94.81887
+  ],
+  [
     "Xiamen, China | Jan 5, 2025 | 2:38:08 | Xiamen Marathon",
     24.5438732,
     118.0768065
@@ -31,8 +36,8 @@ var addressPoints = [
   ],
   [
     "Maui, HI | Jan 15, 2023 | 3:56:54 | Maui Oceanfront Marathon",
-    20.802956799999997,
-    -156.31068331602177
+    20.8029568,
+    -156.3106833
   ],
   [
     "Omaha, NE | Sep 25, 2022 | 2:57:45 | Heartland Marathon",
@@ -66,8 +71,8 @@ var addressPoints = [
   ],
   [
     "Irving, TX | Apr 7, 2018 | 3:03:02 | Irving Marathon",
-    32.862919500000004,
-    -96.97917026548832
+    32.8295183,
+    -96.9442177
   ],
   [
     "Allen, TX | Dec 31, 2017 | 3:17:06 | New Year's Double",

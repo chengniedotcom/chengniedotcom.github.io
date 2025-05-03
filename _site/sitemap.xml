@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-1/</loc>
-<lastmod>2025-03-31T14:35:34-05:00</lastmod>
+<lastmod>2025-05-03T15:24:10-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-2/</loc>
-<lastmod>2025-03-31T14:35:34-05:00</lastmod>
+<lastmod>2025-05-03T15:24:10-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/highschool2020/</loc>
@@ -355,6 +355,9 @@
 <loc>http://localhost:4000/notes/magical-thinking</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/mamas-boy</loc>
+</url>
+<url>
 <loc>http://localhost:4000/marathon</loc>
 </url>
 <url>
@@ -523,6 +526,12 @@
 <loc>http://localhost:4000/notes/the-maid</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/the-molecule-of-more</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/the-next-day</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/the-power-of-now</loc>
 </url>
 <url>
@@ -545,6 +554,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/the-terminal-list</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/the-third-gilmore-girl</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/the-upside-of-irrationality</loc>
@@ -742,6 +754,9 @@
 <loc>http://localhost:4000/notes/%E8%AE%B8%E4%B8%89%E8%A7%82%E5%8D%96%E8%A1%80%E8%AE%B0</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/%E8%BA%AB%E5%90%8E%E6%97%A0%E9%81%97%E7%89%A9</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/%E9%87%91%E7%93%B6%E6%A2%85</loc>
 </url>
 <url>
@@ -770,7 +785,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/marathon/map.html</loc>
-<lastmod>2025-01-11T09:57:07-06:00</lastmod>
+<lastmod>2025-04-30T13:48:09-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/talkmap/map.html</loc>

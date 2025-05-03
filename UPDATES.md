@@ -3,8 +3,24 @@
 
 ## Next
 
-Jiana paper submit to JAIS
+## 2025_05_01
+/notes/the-molecule-of-more
+/notes/mamas-boy
+/notes/身后无遗物
+/notes/the-third-gilmore-girl
+/notes/the-next-day
+
+Marathon
+Garmin Marathon
+
+
+
+Jiana paper submit to DSS
 /notes/selfish-gene
+
+
+UPDATES.md
+
 
 ## 2025_04_01
 
