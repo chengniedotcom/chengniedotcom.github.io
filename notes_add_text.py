@@ -4,10 +4,11 @@ from bs4 import BeautifulSoup
 
 # Sample HTML input
 html = '''
-    <div class="gr_grid_book_container"><a title="The Next Day: Transitions, Change, and Moving Forward" rel="nofollow" href="https://www.goodreads.com/book/show/215700930-the-next-day"><img alt="The Next Day: Transitions, Change, and Moving Forward" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742912722l/215700930._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="The Third Gilmore Girl" rel="nofollow" href="https://www.goodreads.com/book/show/207298106-the-third-gilmore-girl"><img alt="The Third Gilmore Girl" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708360130l/207298106._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Mama's Boy: A Story from Our Americas" rel="nofollow" href="https://www.goodreads.com/book/show/40915201-mama-s-boy"><img alt="Mama's Boy: A Story from Our Americas" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549556942i/40915201._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and Will Determine the Fate of the Human Race" rel="nofollow" href="https://www.goodreads.com/book/show/38728977-the-molecule-of-more"><img alt="The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and Will Determine the Fate of the Human Race" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715631200l/38728977._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts" rel="nofollow" href="https://www.goodreads.com/book/show/218702903-meditations-for-mortals"><img alt="Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726043663l/218702903._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Never Enough: From Barista to Billionaire" rel="nofollow" href="https://www.goodreads.com/book/show/199348906-never-enough"><img alt="Never Enough: From Barista to Billionaire" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699912269l/199348906._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Chasing Daylight: How My Forthcoming Death Transformed My Life" rel="nofollow" href="https://www.goodreads.com/book/show/580305.Chasing_Daylight"><img alt="Chasing Daylight: How My Forthcoming Death Transformed My Life" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441169922l/580305._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Lust & Wonder" rel="nofollow" href="https://www.goodreads.com/book/show/25663652-lust-wonder"><img alt="Lust & Wonder" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444932277l/25663652._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Autobiography of Malcolm X" rel="nofollow" href="https://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X"><img alt="The Autobiography of Malcolm X" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434682864l/92057._SY75_.jpg" /></a></div>
 '''
 
 pattern = re.compile(r'_(SX|SY)\d+_.jpg')
@@ -29,7 +30,7 @@ for a_tag in soup.find_all('a'):
     print("="*80)
     a_tag.append(img_tag)
     a_tag.append(' ')
-    a_tag.append(title_original)
+    a_tag.append(title_before_colon)
     a_tag['style'] = style
 
 # Replace image size for all images

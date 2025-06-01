@@ -2,6 +2,14 @@
 
 
 ## Next
+/notes/the-autobiography-of-malcolm-x
+/notes/lust-and-wonder
+/notes/chasing-daylight
+/notes/never-enough
+/notes/meditations-for-mortals
+
+Jiana paper submit to DSS
+/notes/selfish-gene
 
 ## 2025_05_01
 /notes/the-molecule-of-more
@@ -12,15 +20,7 @@
 
 Marathon
 Garmin Marathon
-
-
-
-Jiana paper submit to DSS
-/notes/selfish-gene
-
-
-UPDATES.md
-
+update the layout of the blog page
 
 ## 2025_04_01
 
