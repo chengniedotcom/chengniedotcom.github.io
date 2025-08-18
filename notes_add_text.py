@@ -4,12 +4,13 @@ from bs4 import BeautifulSoup
 
 # Sample HTML input
 html = '''
-    <div class="gr_grid_book_container"><a title="Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts" rel="nofollow" href="https://www.goodreads.com/book/show/218702903-meditations-for-mortals"><img alt="Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726043663l/218702903._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Never Enough: From Barista to Billionaire" rel="nofollow" href="https://www.goodreads.com/book/show/199348906-never-enough"><img alt="Never Enough: From Barista to Billionaire" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699912269l/199348906._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Chasing Daylight: How My Forthcoming Death Transformed My Life" rel="nofollow" href="https://www.goodreads.com/book/show/580305.Chasing_Daylight"><img alt="Chasing Daylight: How My Forthcoming Death Transformed My Life" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441169922l/580305._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Lust & Wonder" rel="nofollow" href="https://www.goodreads.com/book/show/25663652-lust-wonder"><img alt="Lust & Wonder" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444932277l/25663652._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="The Autobiography of Malcolm X" rel="nofollow" href="https://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X"><img alt="The Autobiography of Malcolm X" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434682864l/92057._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Diary of a Young Girl" rel="nofollow" href="https://www.goodreads.com/book/show/127441416-the-diary-of-a-young-girl"><img alt="The Diary of a Young Girl" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696989545l/127441416._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Sound of Gravel" rel="nofollow" href="https://www.goodreads.com/book/show/25332115-the-sound-of-gravel"><img alt="The Sound of Gravel" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436200674l/25332115._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="No Time To Spare: Thinking About What Matters" rel="nofollow" href="https://www.goodreads.com/book/show/33503495-no-time-to-spare"><img alt="No Time To Spare: Thinking About What Matters" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489159159l/33503495._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Mao: The Unknown Story" rel="nofollow" href="https://www.goodreads.com/book/show/9746.Mao"><img alt="Mao: The Unknown Story" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388246824l/9746._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Me Talk Pretty One Day" rel="nofollow" href="https://www.goodreads.com/book/show/4137.Me_Talk_Pretty_One_Day"><img alt="Me Talk Pretty One Day" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431013639l/4137._SY75_.jpg" /></a></div>
 '''
+
 
 pattern = re.compile(r'_(SX|SY)\d+_.jpg')
 # Parse the HTML

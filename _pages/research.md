@@ -31,16 +31,17 @@ author_profile: true
 
 # Journal Papers Under Review
 
-- Nie C, Zheng Z (Eric), Sarkar S . Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy. Revising for the 2nd round review at _MIS Quarterly_
-    
-- Fang B, Nie C, Zheng Z (Eric). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Submitted for the 2nd round review at _Journal of the Association for Information Systems_
+- Fang B, Nie C, Zheng Z (Eric). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Revising for the 3rd round review at _Journal of the Association for Information Systems_
+
+- Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence. Submitted for the 1st round review at _Information Systems Research_
+
 
 # Work in Progress
 
 - Meng J, Li H, Nie C, Zhang C. Crime Dynamics of Home-Sharing: Disentangling Temporal Effects and Policy Interventions. 
 
-- Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence. 
-
 - Chen W, Nie C, Xie K, Li X. Dance with Algorithms: Impact of Algorithmic Buyers on Housing Affordability. 
 
+- Nie C, Zheng Z (Eric), Sarkar S . Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy. 
+    
 

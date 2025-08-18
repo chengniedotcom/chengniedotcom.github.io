@@ -2,14 +2,28 @@
 
 
 ## Next
+
+Teaching eval for 2025 summer, update in prr, overleaf, and chengnie.com
+Jiana paper submit to DSS
+/notes/selfish-gene
+
+## 2025_08_18
+
+/notes/me-talk-pretty-one-day
+/notes/mao
+/notes/no-time-to-spare
+/notes/sound-of-gravel
+/notes/the-diary-of-a-young-girl
+
+
+
+## 2025_06_01 
 /notes/the-autobiography-of-malcolm-x
 /notes/lust-and-wonder
 /notes/chasing-daylight
 /notes/never-enough
 /notes/meditations-for-mortals
 
-Jiana paper submit to DSS
-/notes/selfish-gene
 
 ## 2025_05_01
 /notes/the-molecule-of-more

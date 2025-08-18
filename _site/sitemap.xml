@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-1/</loc>
-<lastmod>2025-05-03T18:47:49-05:00</lastmod>
+<lastmod>2025-08-18T06:04:34-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-2/</loc>
-<lastmod>2025-05-03T18:47:49-05:00</lastmod>
+<lastmod>2025-08-18T06:04:34-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/highschool2020/</loc>
@@ -202,6 +202,9 @@
 <loc>http://localhost:4000/categories/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/chasing-daylight</loc>
+</url>
+<url>
 <loc>http://localhost:4000/cn/</loc>
 </url>
 <url>
@@ -349,6 +352,9 @@
 <loc>http://localhost:4000/notes/long-story-short</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/lust-and-wonder</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/luxun</loc>
 </url>
 <url>
@@ -358,10 +364,19 @@
 <loc>http://localhost:4000/notes/mamas-boy</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/mao/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/marathon</loc>
 </url>
 <url>
 <loc>http://localhost:4000/markdown/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/me-talk-pretty-one-day</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/meditations-for-mortals</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/memoirs-of-a-geisha</loc>
@@ -376,6 +391,9 @@
 <loc>http://localhost:4000/notes/moonwalking-with-einstein</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/never-enough</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/never-get-angry-again</loc>
 </url>
 <url>
@@ -383,6 +401,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/nexus</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/no-time-to-spare</loc>
 </url>
 <url>
 <loc>http://localhost:4000/non-menu-page/</loc>
@@ -508,6 +529,9 @@
 <loc>http://localhost:4000/notes/the-coming-wave</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/the-diary-of-a-young-girl</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/the-dictatators-handbook</loc>
 </url>
 <url>
@@ -542,6 +566,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/the-song-of-the-cell</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/the-sound-of-gravel</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/the-story-of-my-life</loc>

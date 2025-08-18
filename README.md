@@ -21,12 +21,6 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 1. The survey in Canvas has the enrollment and response of each section for the evaluation
 2. [PRR](https://ivy-prr.bus.iastate.edu/update/login?return=true&) has the average GPA, then I don't have to calculate it manually as in the notes. 
 
-## Duplicate Research and Teaching into the about.md pace
-
-1. It is easier to view everything on this single about me page. 
-2. Now the _includes/research-include.html and _includes/teaching-include.html are used to incorparte research and teaching into the about.md page. 
-
-
 ## Update Notes
 
 1. Retrieve books I read in this [link](https://www.goodreads.com/user/edit?format=html&tab=widgets#_=_). Select "Date Read" and "desc" to pick the most recently read books. For an older book, retrieve it from the local _notes_processed.html file. When adding a read book, remember to "Edit Activity" to 1) give the start and end time; 2) add this to my read list. 
