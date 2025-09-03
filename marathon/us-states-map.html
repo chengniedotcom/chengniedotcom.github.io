@@ -50,6 +50,78 @@
             width: 0%;
             transition: width 0.8s ease;
         }
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+        .modal-content {
+            background-color: white;
+            margin: 15% auto;
+            padding: 20px;
+            border-radius: 8px;
+            width: 400px;
+            max-width: 90%;
+            text-align: center;
+            font-family: Helvetica, Arial, sans-serif;
+        }
+        .modal-header {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #333;
+        }
+        .modal-details {
+            font-size: 14px;
+            line-height: 1.6;
+            color: #666;
+        }
+        .modal-details strong {
+            color: #76A6FC;
+        }
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+            line-height: 1;
+        }
+        .close:hover {
+            color: #333;
+        }
+        .marathon-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            font-size: 13px;
+        }
+        .marathon-table th,
+        .marathon-table td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        .marathon-table th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+            color: #333;
+        }
+        .marathon-table td {
+            color: #666;
+        }
+        .single-marathon {
+            text-align: left;
+            margin-top: 10px;
+        }
+        .single-marathon div {
+            margin-bottom: 8px;
+        }
         svg {
             width: 100%;
             height: 100%;
@@ -392,7 +464,105 @@
         </div>
     </div>
 
+    <!-- Modal for state details -->
+    <div id="stateModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="modalHeader" class="modal-header"></div>
+            <div id="modalDetails" class="modal-details"></div>
+        </div>
+    </div>
+
     <script>
+        // Marathon data for completed states
+        const marathonData = {
+            'Kansas': [{
+                location: 'Olathe, KS',
+                date: 'Apr 26, 2025',
+                time: '2:44:35',
+                event: 'Garmin Marathon'
+            }],
+            'New York': [{
+                location: 'New York City, NY',
+                date: 'Nov 3, 2024',
+                time: '2:50:32',
+                event: 'New York City Marathon'
+            }],
+            'Wisconsin': [{
+                location: 'Manitowoc, WI',
+                date: 'Jun 2, 2024',
+                time: '3:02:39',
+                event: 'Maritime Marathon'
+            }],
+            'Massachusetts': [
+                {
+                    location: 'Boston, MA',
+                    date: 'Apr 17, 2023',
+                    time: '2:59:38',
+                    event: 'Boston Marathon'
+                },
+                {
+                    location: 'Boston, MA',
+                    date: 'Oct 11, 2021',
+                    time: '2:46:56',
+                    event: 'Boston Marathon'
+                }
+            ],
+            'Hawaii': [{
+                location: 'Maui, HI',
+                date: 'Jan 15, 2023',
+                time: '3:56:54',
+                event: 'Maui Oceanfront Marathon'
+            }],
+            'Nebraska': [{
+                location: 'Omaha, NE',
+                date: 'Sep 25, 2022',
+                time: '2:57:45',
+                event: 'Heartland Marathon'
+            }],
+            'Minnesota': [{
+                location: 'Duluth, MN',
+                date: 'Jun 18, 2022',
+                time: '2:55:50',
+                event: 'Grandma\'s Marathon'
+            }],
+            'Iowa': [
+                {
+                    location: 'Shenandoah, IA',
+                    date: 'Sep 12, 2020',
+                    time: '3:04:03',
+                    event: 'Wabash Trace Nature Trail Marathon'
+                },
+                {
+                    location: 'Des Moines, IA',
+                    date: 'Oct 21, 2018',
+                    time: '2:59:46',
+                    event: 'Des Moines Marathon'
+                }
+            ],
+            'Illinois': [{
+                location: 'Chicago, IL',
+                date: 'Oct 13, 2019',
+                time: '2:55:02',
+                event: 'Chicago Marathon'
+            }],
+            'Texas': [
+                {
+                    location: 'Irving, TX',
+                    date: 'Apr 7, 2018',
+                    time: '3:03:02',
+                    event: 'Irving Marathon'
+                },
+                {
+                    location: 'Allen, TX',
+                    date: 'Dec 31, 2017',
+                    time: '3:17:06',
+                    event: 'New Year\'s Double'
+                }
+            ]
+        };
+
+        // Progress bar animation
         const progressFill = document.querySelector('.progress-fill');
         const completedStates = 10;
         const totalStates = 50;
@@ -401,14 +571,98 @@
         setTimeout(() => {
             progressFill.style.width = percentage + '%';
         }, 500);
-        
+
+        // Modal functionality
+        const modal = document.getElementById('stateModal');
+        const modalHeader = document.getElementById('modalHeader');
+        const modalDetails = document.getElementById('modalDetails');
+        const closeBtn = document.querySelector('.close');
+
+        // Add click listeners to all states
         document.querySelectorAll('.state').forEach(state => {
+            state.addEventListener('click', function(e) {
+                const stateName = this.getAttribute('data-state');
+                const isCompleted = this.classList.contains('completed');
+                
+                if (isCompleted && marathonData[stateName]) {
+                    const marathons = marathonData[stateName];
+                    modalHeader.textContent = stateName;
+                    
+                    if (marathons.length === 1) {
+                        // Single marathon - simple display
+                        const marathon = marathons[0];
+                        modalDetails.innerHTML = `
+                            <div class="single-marathon">
+                                <div><strong>Location:</strong> ${marathon.location}</div>
+                                <div><strong>Date:</strong> ${marathon.date}</div>
+                                <div><strong>Time:</strong> ${marathon.time}</div>
+                                <div><strong>Event:</strong> ${marathon.event}</div>
+                            </div>
+                        `;
+                    } else {
+                        // Multiple marathons - table format
+                        let tableHTML = `
+                            <table class="marathon-table">
+                                <thead>
+                                    <tr>
+                                        <th>Date</th>
+                                        <th>Location</th>
+                                        <th>Time</th>
+                                        <th>Event</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                        `;
+                        
+                        marathons.forEach(marathon => {
+                            tableHTML += `
+                                <tr>
+                                    <td>${marathon.date}</td>
+                                    <td>${marathon.location}</td>
+                                    <td>${marathon.time}</td>
+                                    <td>${marathon.event}</td>
+                                </tr>
+                            `;
+                        });
+                        
+                        tableHTML += `
+                                </tbody>
+                            </table>
+                        `;
+                        
+                        modalDetails.innerHTML = tableHTML;
+                    }
+                } else {
+                    modalHeader.textContent = stateName;
+                    modalDetails.innerHTML = `
+                        <div style="margin-top: 10px;">
+                            <strong>Status:</strong> Not completed<br><br>
+                            <em>Future marathon opportunity!</em>
+                        </div>
+                    `;
+                }
+                
+                modal.style.display = 'block';
+            });
+
+            // Keep hover functionality
             state.addEventListener('mouseover', function(e) {
                 const tooltip = this.querySelector('title');
                 if (tooltip) {
                     console.log(tooltip.textContent);
                 }
             });
+        });
+
+        // Close modal functionality
+        closeBtn.addEventListener('click', function() {
+            modal.style.display = 'none';
+        });
+
+        window.addEventListener('click', function(e) {
+            if (e.target === modal) {
+                modal.style.display = 'none';
+            }
         });
     </script>
 </body>
