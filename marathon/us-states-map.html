@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>USA Marathon States Progress</title>
+    <style>
+        body {
+            font-family: Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: white;
+        }
+        #map-container {
+            width: 800px;
+            height: 600px;
+            border: 1px solid #ccc;
+            margin: 0;
+            position: relative;
+            background-color: #f7f7f7;
+        }
+        .completed { fill: #76A6FC; }
+        .remaining { fill: #e8e8e8; }
+        .stats {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            background-color: rgba(255, 255, 255, 0.7);
+            border-radius: 4px;
+            padding: 8px 12px;
+            font-size: 12px;
+            color: #333;
+            border: 1px solid #ccc;
+            width: 200px;
+        }
+        .stats strong {
+            color: #76A6FC;
+        }
+        .progress-bar {
+            width: 100%;
+            height: 12px;
+            background-color: #e8e8e8;
+            border-radius: 6px;
+            margin-top: 6px;
+            overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%;
+            background-color: #76A6FC;
+            border-radius: 6px;
+            width: 0%;
+            transition: width 0.8s ease;
+        }
+        svg {
+            width: 100%;
+            height: 100%;
+        }
+        .state {
+            stroke: #999;
+            stroke-width: 0.5;
+            cursor: pointer;
+            transition: opacity 0.2s;
+        }
+        .state:hover {
+            opacity: 0.8;
+            stroke: #333;
+            stroke-width: 1;
+        }
+        .state-label {
+            font-size: 8px;
+            fill: #333;
+            text-anchor: middle;
+            pointer-events: none;
+            font-family: Helvetica, Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div id="map-container">
+        <svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+            <!-- Alaska -->
+            <path d="M150 450 L200 430 L250 450 L280 400 L320 420 L350 380 L300 350 L250 370 L200 350 L150 380 L120 420 Z" class="state remaining" data-state="Alaska">
+                <title>Alaska - Not completed</title>
+            </path>
+            <text x="235" y="390" class="state-label">AK</text>
+            
+            <!-- Hawaii -->
+            <circle cx="230" cy="500" r="15" class="state completed" data-state="Hawaii">
+                <title>Hawaii - ✓ Completed (Maui, Jan 15, 2023)</title>
+            </circle>
+            <circle cx="250" cy="510" r="8" class="state completed" data-state="Hawaii">
+                <title>Hawaii - ✓ Completed (Maui, Jan 15, 2023)</title>
+            </circle>
+            <circle cx="270" cy="505" r="6" class="state completed" data-state="Hawaii">
+                <title>Hawaii - ✓ Completed (Maui, Jan 15, 2023)</title>
+            </circle>
+            <text x="250" y="525" class="state-label">HI</text>
+            
+            <!-- Washington -->
+            <path d="M80 80 L180 85 L175 130 L85 125 Z" class="state remaining" data-state="Washington">
+                <title>Washington - Not completed</title>
+            </path>
+            <text x="130" y="108" class="state-label">WA</text>
+            
+            <!-- Oregon -->
+            <path d="M80 125 L175 130 L170 170 L85 165 Z" class="state remaining" data-state="Oregon">
+                <title>Oregon - Not completed</title>
+            </path>
+            <text x="127" y="148" class="state-label">OR</text>
+            
+            <!-- California -->
+            <path d="M80 165 L170 170 L160 280 L120 290 L90 250 Z" class="state remaining" data-state="California">
+                <title>California - Not completed</title>
+            </path>
+            <text x="125" y="215" class="state-label">CA</text>
+            
+            <!-- Nevada -->
+            <path d="M170 170 L220 175 L210 220 L160 215 Z" class="state remaining" data-state="Nevada">
+                <title>Nevada - Not completed</title>
+            </path>
+            <text x="190" y="198" class="state-label">NV</text>
+            
+            <!-- Idaho -->
+            <path d="M180 85 L230 90 L225 150 L175 145 Z" class="state remaining" data-state="Idaho">
+                <title>Idaho - Not completed</title>
+            </path>
+            <text x="202" y="118" class="state-label">ID</text>
+            
+            <!-- Montana -->
+            <path d="M230 90 L350 95 L345 140 L225 135 Z" class="state remaining" data-state="Montana">
+                <title>Montana - Not completed</title>
+            </path>
+            <text x="287" y="118" class="state-label">MT</text>
+            
+            <!-- Wyoming -->
+            <path d="M225 135 L345 140 L340 180 L220 175 Z" class="state remaining" data-state="Wyoming">
+                <title>Wyoming - Not completed</title>
+            </path>
+            <text x="282" y="158" class="state-label">WY</text>
+            
+            <!-- Utah -->
+            <path d="M220 175 L280 180 L275 220 L210 215 Z" class="state remaining" data-state="Utah">
+                <title>Utah - Not completed</title>
+            </path>
+            <text x="245" y="198" class="state-label">UT</text>
+            
+            <!-- Colorado -->
+            <path d="M280 180 L380 185 L375 225 L275 220 Z" class="state remaining" data-state="Colorado">
+                <title>Colorado - Not completed</title>
+            </path>
+            <text x="327" y="203" class="state-label">CO</text>
+            
+            <!-- New Mexico -->
+            <path d="M275 220 L375 225 L370 280 L270 275 Z" class="state remaining" data-state="New Mexico">
+                <title>New Mexico - Not completed</title>
+            </path>
+            <text x="322" y="253" class="state-label">NM</text>
+            
+            <!-- Arizona -->
+            <path d="M210 215 L275 220 L270 275 L200 270 Z" class="state remaining" data-state="Arizona">
+                <title>Arizona - Not completed</title>
+            </path>
+            <text x="237" y="248" class="state-label">AZ</text>
+            
+            <!-- North Dakota -->
+            <path d="M350 95 L450 100 L445 140 L345 135 Z" class="state remaining" data-state="North Dakota">
+                <title>North Dakota - Not completed</title>
+            </path>
+            <text x="397" y="118" class="state-label">ND</text>
+            
+            <!-- South Dakota -->
+            <path d="M345 140 L445 145 L440 185 L340 180 Z" class="state remaining" data-state="South Dakota">
+                <title>South Dakota - Not completed</title>
+            </path>
+            <text x="392" y="163" class="state-label">SD</text>
+            
+            <!-- Nebraska -->
+            <path d="M380 185 L480 190 L475 225 L375 220 Z" class="state completed" data-state="Nebraska">
+                <title>Nebraska - ✓ Completed (Omaha, Sep 25, 2022)</title>
+            </path>
+            <text x="427" y="208" class="state-label">NE</text>
+            
+            <!-- Kansas -->
+            <path d="M375 225 L475 230 L470 265 L370 260 Z" class="state completed" data-state="Kansas">
+                <title>Kansas - ✓ Completed (Olathe, Apr 26, 2025)</title>
+            </path>
+            <text x="422" y="248" class="state-label">KS</text>
+            
+            <!-- Oklahoma -->
+            <path d="M370 260 L470 265 L520 270 L515 300 L365 295 Z" class="state remaining" data-state="Oklahoma">
+                <title>Oklahoma - Not completed</title>
+            </path>
+            <text x="442" y="283" class="state-label">OK</text>
+            
+            <!-- Texas -->
+            <path d="M365 295 L515 300 L510 380 L450 390 L420 350 L380 360 L350 330 Z" class="state completed" data-state="Texas">
+                <title>Texas - ✓ Completed (Irving: Apr 7, 2018; Allen: Dec 31, 2017)</title>
+            </path>
+            <text x="435" y="340" class="state-label">TX</text>
+            
+            <!-- Minnesota -->
+            <path d="M450 100 L530 105 L525 160 L445 155 Z" class="state completed" data-state="Minnesota">
+                <title>Minnesota - ✓ Completed (Duluth, Jun 18, 2022)</title>
+            </path>
+            <text x="487" y="133" class="state-label">MN</text>
+            
+            <!-- Iowa -->
+            <path d="M480 190 L560 195 L555 235 L475 230 Z" class="state completed" data-state="Iowa">
+                <title>Iowa - ✓ Completed (Shenandoah: Sep 12, 2020; Des Moines: Oct 21, 2018)</title>
+            </path>
+            <text x="517" y="213" class="state-label">IA</text>
+            
+            <!-- Missouri -->
+            <path d="M470 230 L570 235 L580 270 L520 275 L515 265 Z" class="state remaining" data-state="Missouri">
+                <title>Missouri - Not completed</title>
+            </path>
+            <text x="525" y="253" class="state-label">MO</text>
+            
+            <!-- Arkansas -->
+            <path d="M515 265 L580 270 L575 305 L510 300 Z" class="state remaining" data-state="Arkansas">
+                <title>Arkansas - Not completed</title>
+            </path>
+            <text x="545" y="288" class="state-label">AR</text>
+            
+            <!-- Louisiana -->
+            <path d="M510 300 L575 305 L570 340 L520 350 L500 330 Z" class="state remaining" data-state="Louisiana">
+                <title>Louisiana - Not completed</title>
+            </path>
+            <text x="540" y="323" class="state-label">LA</text>
+            
+            <!-- Wisconsin -->
+            <path d="M530 105 L580 110 L575 165 L525 160 Z" class="state completed" data-state="Wisconsin">
+                <title>Wisconsin - ✓ Completed (Manitowoc, Jun 2, 2024)</title>
+            </path>
+            <text x="552" y="138" class="state-label">WI</text>
+            
+            <!-- Illinois -->
+            <path d="M555 195 L600 200 L595 250 L570 245 Z" class="state completed" data-state="Illinois">
+                <title>Illinois - ✓ Completed (Chicago, Oct 13, 2019)</title>
+            </path>
+            <text x="577" y="223" class="state-label">IL</text>
+            
+            <!-- Michigan -->
+            <path d="M580 110 L630 115 L625 180 L575 175 Z" class="state remaining" data-state="Michigan">
+                <title>Michigan - Not completed</title>
+            </path>
+            <text x="602" y="148" class="state-label">MI</text>
+            
+            <!-- Indiana -->
+            <path d="M595 200 L630 205 L625 245 L590 240 Z" class="state remaining" data-state="Indiana">
+                <title>Indiana - Not completed</title>
+            </path>
+            <text x="612" y="223" class="state-label">IN</text>
+            
+            <!-- Ohio -->
+            <path d="M630 180 L680 185 L675 235 L625 230 Z" class="state remaining" data-state="Ohio">
+                <title>Ohio - Not completed</title>
+            </path>
+            <text x="652" y="208" class="state-label">OH</text>
+            
+            <!-- Kentucky -->
+            <path d="M580 245 L675 250 L670 280 L575 275 Z" class="state remaining" data-state="Kentucky">
+                <title>Kentucky - Not completed</title>
+            </path>
+            <text x="627" y="268" class="state-label">KY</text>
+            
+            <!-- Tennessee -->
+            <path d="M575 275 L670 280 L665 310 L570 305 Z" class="state remaining" data-state="Tennessee">
+                <title>Tennessee - Not completed</title>
+            </path>
+            <text x="617" y="293" class="state-label">TN</text>
+            
+            <!-- Mississippi -->
+            <path d="M570 305 L615 310 L610 350 L565 345 Z" class="state remaining" data-state="Mississippi">
+                <title>Mississippi - Not completed</title>
+            </path>
+            <text x="587" y="328" class="state-label">MS</text>
+            
+            <!-- Alabama -->
+            <path d="M610 310 L655 315 L650 355 L605 350 Z" class="state remaining" data-state="Alabama">
+                <title>Alabama - Not completed</title>
+            </path>
+            <text x="632" y="333" class="state-label">AL</text>
+            
+            <!-- Georgia -->
+            <path d="M650 315 L700 320 L695 365 L645 360 Z" class="state remaining" data-state="Georgia">
+                <title>Georgia - Not completed</title>
+            </path>
+            <text x="672" y="343" class="state-label">GA</text>
+            
+            <!-- Florida -->
+            <path d="M645 360 L720 365 L750 420 L700 430 L680 400 L650 385 Z" class="state remaining" data-state="Florida">
+                <title>Florida - Not completed</title>
+            </path>
+            <text x="695" y="398" class="state-label">FL</text>
+            
+            <!-- South Carolina -->
+            <path d="M695 320 L740 325 L735 355 L690 350 Z" class="state remaining" data-state="South Carolina">
+                <title>South Carolina - Not completed</title>
+            </path>
+            <text x="717" y="343" class="state-label">SC</text>
+            
+            <!-- North Carolina -->
+            <path d="M665 280 L760 285 L755 320 L660 315 Z" class="state remaining" data-state="North Carolina">
+                <title>North Carolina - Not completed</title>
+            </path>
+            <text x="712" y="303" class="state-label">NC</text>
+            
+            <!-- Virginia -->
+            <path d="M670 250 L770 255 L765 285 L665 280 Z" class="state remaining" data-state="Virginia">
+                <title>Virginia - Not completed</title>
+            </path>
+            <text x="717" y="268" class="state-label">VA</text>
+            
+            <!-- West Virginia -->
+            <path d="M675 230 L720 235 L715 260 L670 255 Z" class="state remaining" data-state="West Virginia">
+                <title>West Virginia - Not completed</title>
+            </path>
+            <text x="695" y="248" class="state-label">WV</text>
+            
+            <!-- Maryland -->
+            <path d="M720 235 L760 240 L755 260 L715 255 Z" class="state remaining" data-state="Maryland">
+                <title>Maryland - Not completed</title>
+            </path>
+            <text x="737" y="248" class="state-label">MD</text>
+            
+            <!-- Delaware -->
+            <path d="M760 240 L775 242 L772 265 L757 263 Z" class="state remaining" data-state="Delaware">
+                <title>Delaware - Not completed</title>
+            </path>
+            <text x="766" y="253" class="state-label">DE</text>
+            
+            <!-- Pennsylvania -->
+            <path d="M680 185 L760 190 L755 235 L675 230 Z" class="state remaining" data-state="Pennsylvania">
+                <title>Pennsylvania - Not completed</title>
+            </path>
+            <text x="717" y="213" class="state-label">PA</text>
+            
+            <!-- New Jersey -->
+            <path d="M760 190 L785 195 L780 240 L755 235 Z" class="state remaining" data-state="New Jersey">
+                <title>New Jersey - Not completed</title>
+            </path>
+            <text x="770" y="218" class="state-label">NJ</text>
+            
+            <!-- New York -->
+            <path d="M680 130 L780 135 L785 190 L675 185 Z" class="state completed" data-state="New York">
+                <title>New York - ✓ Completed (NYC, Nov 3, 2024)</title>
+            </path>
+            <text x="730" y="163" class="state-label">NY</text>
+            
+            <!-- Connecticut -->
+            <path d="M780 165 L815 170 L810 190 L775 185 Z" class="state remaining" data-state="Connecticut">
+                <title>Connecticut - Not completed</title>
+            </path>
+            <text x="795" y="178" class="state-label">CT</text>
+            
+            <!-- Rhode Island -->
+            <path d="M815 170 L825 172 L822 185 L812 183 Z" class="state remaining" data-state="Rhode Island">
+                <title>Rhode Island - Not completed</title>
+            </path>
+            <text x="818" y="178" class="state-label">RI</text>
+            
+            <!-- Massachusetts -->
+            <path d="M780 135 L840 140 L835 170 L775 165 Z" class="state completed" data-state="Massachusetts">
+                <title>Massachusetts - ✓ Completed (Boston: Apr 17, 2023 & Oct 11, 2021)</title>
+            </path>
+            <text x="807" y="153" class="state-label">MA</text>
+            
+            <!-- Vermont -->
+            <path d="M780 100 L805 105 L800 135 L775 130 Z" class="state remaining" data-state="Vermont">
+                <title>Vermont - Not completed</title>
+            </path>
+            <text x="790" y="118" class="state-label">VT</text>
+            
+            <!-- New Hampshire -->
+            <path d="M805 105 L830 110 L825 140 L800 135 Z" class="state remaining" data-state="New Hampshire">
+                <title>New Hampshire - Not completed</title>
+            </path>
+            <text x="817" y="123" class="state-label">NH</text>
+            
+            <!-- Maine -->
+            <path d="M830 80 L860 85 L855 140 L825 135 Z" class="state remaining" data-state="Maine">
+                <title>Maine - Not completed</title>
+            </path>
+            <text x="842" y="113" class="state-label">ME</text>
+        </svg>
+
+        <div class="stats">
+            <strong>10 of 50 states</strong> completed (20%)
+            <div class="progress-bar">
+                <div class="progress-fill"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const progressFill = document.querySelector('.progress-fill');
+        const completedStates = 10;
+        const totalStates = 50;
+        const percentage = (completedStates / totalStates) * 100;
+        
+        setTimeout(() => {
+            progressFill.style.width = percentage + '%';
+        }, 500);
+        
+        document.querySelectorAll('.state').forEach(state => {
+            state.addEventListener('mouseover', function(e) {
+                const tooltip = this.querySelector('title');
+                if (tooltip) {
+                    console.log(tooltip.textContent);
+                }
+            });
+        });
+    </script>
+</body>
+</html>
