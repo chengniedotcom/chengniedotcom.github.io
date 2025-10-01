@@ -11,42 +11,53 @@
             background-color: white;
         }
         #map-container {
-            width: 800px;
+            width: 960px;
             height: 600px;
-            border: 1px solid #ccc;
-            margin: 0;
+            border: 1px solid #ddd;
+            margin: 0 auto;
             position: relative;
-            background-color: #f7f7f7;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
-        .completed { fill: #76A6FC; }
-        .remaining { fill: #e8e8e8; }
+        .completed {
+            fill: #4A90E2;
+            transition: all 0.3s ease;
+        }
+        .remaining {
+            fill: #E8E8E8;
+            transition: all 0.3s ease;
+        }
         .stats {
             position: absolute;
-            bottom: 10px;
-            left: 10px;
-            background-color: rgba(255, 255, 255, 0.7);
-            border-radius: 4px;
-            padding: 8px 12px;
-            font-size: 12px;
+            bottom: 15px;
+            left: 15px;
+            background-color: rgba(255, 255, 255, 0.95);
+            border-radius: 8px;
+            padding: 12px 16px;
+            font-size: 13px;
             color: #333;
-            border: 1px solid #ccc;
-            width: 200px;
+            border: 1px solid rgba(74, 144, 226, 0.3);
+            width: 220px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
         }
         .stats strong {
-            color: #76A6FC;
+            color: #4A90E2;
+            font-size: 14px;
         }
         .progress-bar {
             width: 100%;
-            height: 12px;
+            height: 14px;
             background-color: #e8e8e8;
-            border-radius: 6px;
-            margin-top: 6px;
+            border-radius: 7px;
+            margin-top: 8px;
             overflow: hidden;
+            box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
         }
         .progress-fill {
             height: 100%;
-            background-color: #76A6FC;
-            border-radius: 6px;
+            background: linear-gradient(90deg, #4A90E2 0%, #357ABD 100%);
+            border-radius: 7px;
             width: 0%;
             transition: width 0.8s ease;
         }
@@ -82,7 +93,7 @@
             color: #666;
         }
         .modal-details strong {
-            color: #76A6FC;
+            color: #4A90E2;
         }
         .close {
             color: #aaa;
@@ -127,22 +138,29 @@
             height: 100%;
         }
         .state {
-            stroke: #999;
-            stroke-width: 0.5;
+            stroke: #ffffff;
+            stroke-width: 1;
             cursor: pointer;
-            transition: opacity 0.2s;
+            transition: all 0.3s ease;
+            filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.1));
         }
         .state:hover {
-            opacity: 0.8;
-            stroke: #333;
-            stroke-width: 1;
+            filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+            stroke-width: 1.5;
+        }
+        .state.completed:hover {
+            fill: #357ABD;
+        }
+        .state.remaining:hover {
+            fill: #D0D0D0;
         }
         .state-label {
-            font-size: 8px;
+            font-size: 9px;
             fill: #333;
             text-anchor: middle;
             pointer-events: none;
-            font-family: Helvetica, Arial, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            font-weight: 500;
         }
     </style>
 </head>
@@ -240,8 +258,8 @@
             <text x="397" y="118" class="state-label">ND</text>
             
             <!-- South Dakota -->
-            <path d="M345 140 L445 145 L440 185 L340 180 Z" class="state remaining" data-state="South Dakota">
-                <title>South Dakota - Not completed</title>
+            <path d="M345 140 L445 145 L440 185 L340 180 Z" class="state completed" data-state="South Dakota">
+                <title>South Dakota - ✓ Completed (Sioux Falls, Sep 21, 2025)</title>
             </path>
             <text x="392" y="163" class="state-label">SD</text>
             
@@ -457,7 +475,7 @@
         </svg>
 
         <div class="stats">
-            <strong>10 of 50 states</strong> completed (20%)
+            <strong>11 of 50 states</strong> completed (22%)
             <div class="progress-bar">
                 <div class="progress-fill"></div>
             </div>
@@ -476,6 +494,12 @@
     <script>
         // Marathon data for completed states
         const marathonData = {
+            'South Dakota': [{
+                location: 'Sioux Falls, SD',
+                date: 'Sep 21, 2025',
+                time: '2:45:50',
+                event: 'Sioux Falls Marathon'
+            }],
             'Kansas': [{
                 location: 'Olathe, KS',
                 date: 'Apr 26, 2025',
@@ -564,7 +588,7 @@
 
         // Progress bar animation
         const progressFill = document.querySelector('.progress-fill');
-        const completedStates = 10;
+        const completedStates = 11;
         const totalStates = 50;
         const percentage = (completedStates / totalStates) * 100;
         
@@ -587,51 +611,38 @@
                 if (isCompleted && marathonData[stateName]) {
                     const marathons = marathonData[stateName];
                     modalHeader.textContent = stateName;
-                    
-                    if (marathons.length === 1) {
-                        // Single marathon - simple display
-                        const marathon = marathons[0];
-                        modalDetails.innerHTML = `
-                            <div class="single-marathon">
-                                <div><strong>Location:</strong> ${marathon.location}</div>
-                                <div><strong>Date:</strong> ${marathon.date}</div>
-                                <div><strong>Time:</strong> ${marathon.time}</div>
-                                <div><strong>Event:</strong> ${marathon.event}</div>
-                            </div>
-                        `;
-                    } else {
-                        // Multiple marathons - table format
-                        let tableHTML = `
-                            <table class="marathon-table">
-                                <thead>
-                                    <tr>
-                                        <th>Date</th>
-                                        <th>Location</th>
-                                        <th>Time</th>
-                                        <th>Event</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                        `;
-                        
-                        marathons.forEach(marathon => {
-                            tableHTML += `
+
+                    // Always show table format
+                    let tableHTML = `
+                        <table class="marathon-table">
+                            <thead>
                                 <tr>
-                                    <td>${marathon.date}</td>
-                                    <td>${marathon.location}</td>
-                                    <td>${marathon.time}</td>
-                                    <td>${marathon.event}</td>
+                                    <th>Date</th>
+                                    <th>Location</th>
+                                    <th>Time</th>
+                                    <th>Event</th>
                                 </tr>
-                            `;
-                        });
-                        
+                            </thead>
+                            <tbody>
+                    `;
+
+                    marathons.forEach(marathon => {
                         tableHTML += `
-                                </tbody>
-                            </table>
+                            <tr>
+                                <td>${marathon.date}</td>
+                                <td>${marathon.location}</td>
+                                <td>${marathon.time}</td>
+                                <td>${marathon.event}</td>
+                            </tr>
                         `;
-                        
-                        modalDetails.innerHTML = tableHTML;
-                    }
+                    });
+
+                    tableHTML += `
+                            </tbody>
+                        </table>
+                    `;
+
+                    modalDetails.innerHTML = tableHTML;
                 } else {
                     modalHeader.textContent = stateName;
                     modalDetails.innerHTML = `
