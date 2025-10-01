@@ -39,6 +39,8 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 2. Run ``python marathon.py`` to update marathon/map.html automatically
 ~~ 3. Update _pages/marathon.html by adding the new record of Marahon in the html table. Convert the tsv to html table using this [tool](https://wtools.io/convert-tsv-to-html-table) ~~
 <!-- 3. Update _pages/marathon.html by adding the new record of Marahon in the html table. marathon.py output the table in html format.  -->
+3. Prompt for Claude Code "I display on this marathon.html a map and table show the places that I run a marathon. Can you display another map of USA where color code the states that I finished a marathon already? I want to 
+  run a marathon in all 50 states of USA in the future."
 
 
 ## Some special considerations

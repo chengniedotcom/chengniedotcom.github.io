@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Sioux Falls, SD | Sep 21, 2025 | 2:45:50 | Sioux Falls Marathon",
+    43.5476008,
+    -96.7293629
+  ],
+  [
     "Olathe, KS | Apr 26, 2025 | 2:44:35 | Garmin Marathon",
     38.8838856,
     -94.81887
@@ -16,8 +21,8 @@ var addressPoints = [
   ],
   [
     "Berlin, Germany | Sep 29, 2024 | 2:52:20 | Berlin Marathon",
-    52.510885,
-    13.3989367
+    52.5173885,
+    13.3951309
   ],
   [
     "Manitowoc, WI | Jun 2, 2024 | 3:02:39 | Maritime Marathon",
@@ -46,8 +51,8 @@ var addressPoints = [
   ],
   [
     "Duluth, MN | Jun 18, 2022 | 2:55:50 | Grandma's Marathon",
-    46.7729322,
-    -92.1251218
+    46.7838287,
+    -92.1052679
   ],
   [
     "Boston, MA | Oct 11, 2021 | 2:46:56 | Boston Marathon",

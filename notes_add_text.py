@@ -2,13 +2,11 @@ import re
 import os
 from bs4 import BeautifulSoup
 
+
 # Sample HTML input
 html = '''
-    <div class="gr_grid_book_container"><a title="The Diary of a Young Girl" rel="nofollow" href="https://www.goodreads.com/book/show/127441416-the-diary-of-a-young-girl"><img alt="The Diary of a Young Girl" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696989545l/127441416._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="The Sound of Gravel" rel="nofollow" href="https://www.goodreads.com/book/show/25332115-the-sound-of-gravel"><img alt="The Sound of Gravel" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436200674l/25332115._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="No Time To Spare: Thinking About What Matters" rel="nofollow" href="https://www.goodreads.com/book/show/33503495-no-time-to-spare"><img alt="No Time To Spare: Thinking About What Matters" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489159159l/33503495._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Mao: The Unknown Story" rel="nofollow" href="https://www.goodreads.com/book/show/9746.Mao"><img alt="Mao: The Unknown Story" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388246824l/9746._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Me Talk Pretty One Day" rel="nofollow" href="https://www.goodreads.com/book/show/4137.Me_Talk_Pretty_One_Day"><img alt="Me Talk Pretty One Day" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431013639l/4137._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Large Language Models Projects: Apply and Implement Strategies for Large Language Models" rel="nofollow" href="https://www.goodreads.com/book/show/214593430-large-language-models-projects"><img alt="Large Language Models Projects: Apply and Implement Strategies for Large Language Models" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720584213l/214593430._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Memories, Dreams, Reflections" rel="nofollow" href="https://www.goodreads.com/book/show/612188.Memories_Dreams_Reflections"><img alt="Memories, Dreams, Reflections" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1751072457l/612188._SY75_.jpg" /></a></div>
 '''
 
 

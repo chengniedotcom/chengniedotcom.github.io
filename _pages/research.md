@@ -33,7 +33,7 @@ author_profile: true
 
 - Fang B, Nie C, Zheng Z (Eric). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Revising for the 3rd round review at _Journal of the Association for Information Systems_
 
-- Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence. Submitted for the 1st round review at _Information Systems Research_
+- Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence. Revising for the 2nd round review at _Information Systems Research_
 
 
 # Work in Progress

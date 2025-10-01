@@ -2,10 +2,16 @@
 
 
 ## Next
+/notes/memories-dreams-reflections
 
 Teaching eval for 2025 summer, update in prr, overleaf, and chengnie.com
 Jiana paper submit to DSS
-/notes/selfish-gene
+
+## 2025_09_02
+
+
+/notes/the-end-of-burnout
+Add Marathon USA states map progess
 
 ## 2025_08_18
 

@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-1/</loc>
-<lastmod>2025-08-18T06:04:34-05:00</lastmod>
+<lastmod>2025-09-30T20:50:12-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-2/</loc>
-<lastmod>2025-08-18T06:04:34-05:00</lastmod>
+<lastmod>2025-09-30T20:50:12-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/highschool2020/</loc>
@@ -340,6 +340,9 @@
 <loc>http://localhost:4000/notes/know-my-name</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/large-language-models-projects</loc>
+</url>
+<url>
 <loc>http://localhost:4000/notes/lessons-in-chemistry</loc>
 </url>
 <url>
@@ -380,6 +383,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/memoirs-of-a-geisha</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/memories-dreams-reflections</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/mindreader</loc>
@@ -536,6 +542,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/the-emperor-of-all-maladies</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/the-end-of-burnout</loc>
 </url>
 <url>
 <loc>http://localhost:4000/notes/the-gift-of-imperfection</loc>
@@ -815,7 +824,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/marathon/map.html</loc>
-<lastmod>2025-04-30T13:48:09-05:00</lastmod>
+<lastmod>2025-09-30T20:42:47-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/marathon/us-states-map.html</loc>
+<lastmod>2025-09-30T20:50:09-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/talkmap/map.html</loc>
