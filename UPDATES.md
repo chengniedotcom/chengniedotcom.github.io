@@ -2,10 +2,17 @@
 
 
 ## Next
-/notes/memories-dreams-reflections
 
 Teaching eval for 2025 summer, update in prr, overleaf, and chengnie.com
 Jiana paper submit to DSS
+
+## 2025_10_06
+
+
+
+## 2025_09_30
+/notes/memories-dreams-reflections
+
 
 ## 2025_09_02
 
