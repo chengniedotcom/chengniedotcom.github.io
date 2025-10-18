@@ -2,6 +2,7 @@
 title: Nudge - by Richard H. Thaler and Cass R. Sunstein
 date: 2022-12-14
 permalink: /notes/nudge
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348322381l/3450744._SX98_.jpg
 author_profile: false
 tags:
     - notes

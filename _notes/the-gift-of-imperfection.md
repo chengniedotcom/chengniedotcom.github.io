@@ -2,6 +2,7 @@
 title: The Gifts of Imperfection - by Brené Brown
 date: 2016-02-02
 permalink: /notes/the-gift-of-imperfection
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369092544l/7015403._SX98_.jpg
 author_profile: false
 tags:
     - notes

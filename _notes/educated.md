@@ -2,6 +2,7 @@
 title: Educated - by Tara Westover
 date: 2019-03-26
 permalink: /notes/educated
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SX98_.jpg
 author_profile: false
 tags:
     - notes

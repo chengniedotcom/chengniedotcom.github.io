@@ -2,6 +2,7 @@
 title: Memories Dreams Reflections - by Carl Gustav Jung
 date: 2025-09-22
 permalink: /notes/memories-dreams-reflections
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1751072457l/612188._SX98_.jpg
 author_profile: false
 tags:
     - notes

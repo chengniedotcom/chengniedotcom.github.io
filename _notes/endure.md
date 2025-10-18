@@ -2,6 +2,7 @@
 title: Endure - by Alex Hutchinson
 date: 2024-08-16
 permalink: /notes/endure
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533053130l/41014339._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: The Diary Of A Young Girl - by Anne Frank
 date: 2025-08-02
 permalink: /notes/the-diary-of-a-young-girl
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696989545l/127441416._SX98_.jpg
 author_profile: false
 tags:
     - notes

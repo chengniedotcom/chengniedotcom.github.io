@@ -2,6 +2,7 @@
 title: Age of Ambition - by Evan Osnos
 date: 2018-12-22
 permalink: /notes/age-of-ambition
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418113377l/18490568._SX98_.jpg
 author_profile: false
 tags:
     - notes

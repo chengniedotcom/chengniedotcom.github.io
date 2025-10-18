@@ -2,6 +2,7 @@
 title: Crying in H Mart - by Michelle Zauner
 date: 2022-05-12
 permalink: /notes/crying-in-h-mart
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601937850l/54814676._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: Beautiful World, Where Are You - by Sally Rooney
 date: 2023-12-21
 permalink: /notes/beautiful-world-where-are-you
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1672783505l/75555793._SX98_.jpg
 author_profile: false
 tags:
     - notes

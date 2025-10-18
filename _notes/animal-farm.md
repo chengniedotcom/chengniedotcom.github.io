@@ -2,6 +2,7 @@
 title: Animal Farm - by George Orwell
 date: 2017-11-20
 permalink: /notes/animal-farm
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424037542l/7613._SX98_.jpg
 author_profile: false
 tags:
     - notes

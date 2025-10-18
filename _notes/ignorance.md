@@ -2,6 +2,7 @@
 title: Ignorance - by Stuart Firestein
 date: 2023-12-17
 permalink: /notes/ignorance
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333421651l/13574594._SX98_.jpg
 author_profile: false
 tags:
     

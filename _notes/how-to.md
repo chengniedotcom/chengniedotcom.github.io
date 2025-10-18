@@ -2,6 +2,7 @@
 title: How To - by Randall Munroe
 date: 2024-09-15
 permalink: /notes/how-to
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550145086l/43852758._SX98_.jpg
 author_profile: false
 tags:
     - notes

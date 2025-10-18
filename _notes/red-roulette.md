@@ -2,6 +2,7 @@
 title: Red Roulette - by Desmond Shum
 date: 2023-05-17
 permalink: /notes/red-roulette
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631107036l/57846996._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: Liquid Rules - by Mark Miodownik
 date: 2022-05-29
 permalink: /notes/liquid-rules
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519637292l/35721140._SX98_.jpg
 author_profile: false
 tags:
     - notes

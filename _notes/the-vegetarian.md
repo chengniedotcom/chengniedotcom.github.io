@@ -3,6 +3,7 @@
 title: The Vegetarian - by Han Kang
 date: 2024-11-04
 permalink: /notes/the-vegetarian
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728661771l/25489025._SX98_.jpg
 author_profile: false
 tags:
   - notes

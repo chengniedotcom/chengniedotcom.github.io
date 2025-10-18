@@ -2,6 +2,7 @@
 title: Friends, Lovers, and the Big Terrible Thing - by Matthew Perry
 date: 2024-11-20
 permalink: /notes/friends-lovers-and-the-big-terrible-thing
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699634140l/59641216._SX98_.jpg
 author_profile: false
 tags:
     - notes

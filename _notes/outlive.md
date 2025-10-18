@@ -2,6 +2,7 @@
 title: Outlive - by Peter Attia
 date: 2024-07-28
 permalink: /notes/outlive
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697230662l/199680637._SX98_.jpg
 author_profile: false
 tags:
     - notes

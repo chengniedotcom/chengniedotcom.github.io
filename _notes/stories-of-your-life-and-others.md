@@ -2,6 +2,7 @@
 title: Stories of Your Life and Others - by Ted Chiang
 date: 2021-10-28
 permalink: /notes/stories-of-your-life-and-others
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138316l/223380._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: Influence - by Robert B. Ciadini
 date: 2021-10-28
 permalink: /notes/influence
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391026083l/28815._SX98_.jpg
 author_profile: false
 tags:
     - notes

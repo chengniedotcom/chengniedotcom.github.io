@@ -3,6 +3,7 @@
 title: The Terminal List - by Jack Carr
 date: 2022-03-15
 permalink: /notes/the-terminal-list
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520163970l/35297106._SX98_.jpg
 author_profile: false
 tags:
   - notes

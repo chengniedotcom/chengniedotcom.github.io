@@ -2,6 +2,7 @@
 title: Unconditional Parenting - by Alfie Kohn
 date: 2023-04-15
 permalink: /notes/unconditional-parenting
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406525749l/111209._SX98_.jpg
 author_profile: false
 tags:
     - notes

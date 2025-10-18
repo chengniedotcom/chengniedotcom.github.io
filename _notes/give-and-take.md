@@ -2,6 +2,7 @@
 title: Give and Take - by Adam M. Grant
 date: 2021-12-04
 permalink: /notes/give-and-take
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356136579l/16158498._SX98_.jpg
 author_profile: false
 tags:
     - notes

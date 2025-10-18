@@ -2,6 +2,7 @@
 title: The-Code-Breaker - by Walter Issacson
 date: 2022-06-25
 permalink: /notes/the-code-breaker
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg
 author_profile: false
 tags:
     - notes

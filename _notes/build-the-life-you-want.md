@@ -2,6 +2,7 @@
 title: Build the Life You Want - by Arthur C. Brooks, Oprah Winfrey
 date: 2024-10-21
 permalink: /notes/build-the-life-you-want
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692830209l/137978862._SX98_.jpg
 author_profile: false
 tags:
     - notes

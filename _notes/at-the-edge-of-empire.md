@@ -2,6 +2,7 @@
 title: At the Edge of Empire - by Edward Wong
 date: 2024-10-21
 permalink: /notes/at-the-edge-of-empire
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705031856l/198137984._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -3,6 +3,7 @@
 title: Project Hail Mary - by Andy Weir
 date: 2022-03-06
 permalink: /notes/project-hail-mary
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SX98_.jpg
 author_profile: false
 tags:
   - notes

@@ -2,6 +2,7 @@
 title: Yes Please - by Amy Poehler
 date: 2025-01-19
 permalink: /notes/yes-please
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402815435l/20910157._SX98_.jpg
 author_profile: false
 tags:
     - notes

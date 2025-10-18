@@ -2,6 +2,7 @@
 title: Will - by Will Smith
 date: 2022-03-16
 permalink: /notes/will
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624126289l/58375739._SX98_.jpg
 author_profile: false
 tags:
  - notes

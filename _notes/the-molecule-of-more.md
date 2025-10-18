@@ -2,6 +2,7 @@
 title: The Molecule Of More - by Daniel Z. Lieberman & Michael E. Long
 date: 2025-04-07
 permalink: /notes/the-molecule-of-more
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715631200l/38728977._SX98_.jpg
 author_profile: false
 tags:
     - notes

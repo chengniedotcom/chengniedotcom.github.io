@@ -2,6 +2,7 @@
 title: The-Best-Strangers-In-The-World - by Ari Shapiro
 date: 2024-08-30
 permalink: /notes/the-best-strangers-in-the-world
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675646603l/61357874._SX98_.jpg
 author_profile: false
 tags:
     - notes

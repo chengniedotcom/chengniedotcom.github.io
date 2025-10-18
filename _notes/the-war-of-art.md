@@ -2,6 +2,7 @@
 title: The War of Art - by Steven Pressfield
 date: 2021-07-11
 permalink: /notes/the-war-of-art
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574272133l/1319._SX98_.jpg
 author_profile: false
 tags:
     - notes

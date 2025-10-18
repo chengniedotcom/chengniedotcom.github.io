@@ -2,6 +2,7 @@
 title: Never Split the Difference - by Chris Voss
 date: 2025-03-08
 permalink: /notes/never-split-the-difference
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680014152l/123857637._SX98_.jpg
 author_profile: false
 tags:
     - notes

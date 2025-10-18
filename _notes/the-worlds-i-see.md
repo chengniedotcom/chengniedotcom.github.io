@@ -2,6 +2,7 @@
 title: The Worlds I See - by Fei-Fei Li
 date: 2024-10-03
 permalink: /notes/the-worlds-i-see
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682738725l/144405196._SX98_.jpg
 author_profile: false
 tags:
     - notes

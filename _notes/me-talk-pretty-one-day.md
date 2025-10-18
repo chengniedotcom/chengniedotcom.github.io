@@ -2,6 +2,7 @@
 title: Me Talk Pretty One Day - by David Sedaris
 date: 2025-06-09
 permalink: /notes/me-talk-pretty-one-day
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431013639l/4137._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: The Honest Truth About Dishonesty - by Dan Ariely
 date: 2022-05-02
 permalink: /notes/honest-truth
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331070373l/13426114._SX98_.jpg
 author_profile: false
 tags:
     - notes

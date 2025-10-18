@@ -2,6 +2,7 @@
 title: Surrender - by Bono
 date: 2023-02-19
 permalink: /notes/surrender
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652192228l/61065813._SX98_.jpg
 author_profile: false
 tags:
     - notes

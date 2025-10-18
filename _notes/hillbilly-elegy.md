@@ -2,6 +2,7 @@
 title: Hillbilly Elegy  - by J.D. Vance
 date: 2025-01-10
 permalink: /notes/hillbilly-elegy
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463569814l/27161156._SX98_.jpg
 author_profile: false
 tags:
     - notes

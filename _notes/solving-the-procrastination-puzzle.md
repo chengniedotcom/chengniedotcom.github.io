@@ -2,6 +2,7 @@
 title: Solving the Procrastination Puzzle - by Timothy A. Pychyl
 date: 2023-08-28
 permalink: /notes/solving-the-procrastination-puzzle
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382356181l/18079767._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: The Tender Bar - by J.R. Moehringer
 date: 2024-05-05
 permalink: /notes/the-tender-bar
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348917147l/144977._SX98_.jpg
 author_profile: false
 tags:
     - notes

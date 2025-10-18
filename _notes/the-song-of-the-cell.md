@@ -2,6 +2,7 @@
 title: The Song of the Cell - by Siddhartha Mukherjee
 date: 2024-02-11
 permalink: /notes/the-song-of-the-cell
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666198162l/60321392._SX98_.jpg
 author_profile: false
 tags:
     - notes

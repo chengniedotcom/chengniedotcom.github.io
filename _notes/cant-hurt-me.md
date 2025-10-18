@@ -2,6 +2,7 @@
 title: Can't Hurt Me - by David Goggins
 date: 2021-11-14
 permalink: /notes/cant-hurt-me
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536184191l/41721428._SX98_.jpg
 author_profile: false
 tags:
     - notes

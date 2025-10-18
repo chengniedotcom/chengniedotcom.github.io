@@ -2,6 +2,7 @@
 title: The Body Keeps the Score - by Bessel van der Kolk
 date: 2022-06-21
 permalink: /notes/the-body-keeps-the-score
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594559067l/18693771._SX98_.jpg
 author_profile: false
 tags:
     - notes

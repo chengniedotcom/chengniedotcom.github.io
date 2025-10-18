@@ -2,6 +2,7 @@
 title: The Giver - by Lois Lowry
 date: 2023-05-12
 permalink: /notes/the-giver
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342493368l/3636._SX98_.jpg
 author_profile: false
 tags:
     - notes

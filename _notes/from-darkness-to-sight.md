@@ -2,6 +2,7 @@
 title: From Darkness to Sight - by Ming Wang
 date: 2024-12-24
 permalink: /notes/from-darkness-to-sight
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450655219l/25834321._SX98_.jpg
 author_profile: false
 tags:
     - notes

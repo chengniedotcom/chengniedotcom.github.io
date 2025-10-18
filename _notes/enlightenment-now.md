@@ -2,6 +2,7 @@
 title: Enlightenment Now - by Steven Pinker
 date: 2023-09-20
 permalink: /notes/enlightenment-now
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518557146l/38526454._SX98_.jpg
 author_profile: false
 tags:
     - notes

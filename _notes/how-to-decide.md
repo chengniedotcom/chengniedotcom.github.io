@@ -2,6 +2,7 @@
 title: How to Decide - by Annie Duke
 date: 2023-06-29
 permalink: /notes/how-to-decide
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562457644l/51066664._SX98_.jpg
 author_profile: false
 tags:
     - notes

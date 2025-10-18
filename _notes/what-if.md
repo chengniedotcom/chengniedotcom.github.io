@@ -2,6 +2,7 @@
 title: What If - by Randall Munroe
 date: 2024-10-13
 permalink: /notes/what-if
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451351509l/21413662._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: The Inner Game of Tennis - by W. Timothy Gallwey
 date: 2022-12-16
 permalink: /notes/inner-game-tennis
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427665815l/905._SX98_.jpg
 author_profile: false
 tags:
     - notes

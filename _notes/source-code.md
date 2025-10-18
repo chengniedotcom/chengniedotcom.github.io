@@ -2,6 +2,7 @@
 title: Source Code - by Bill Gates
 date: 2025-02-22
 permalink: /notes/source-code
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719004398l/213034913._SX98_.jpg
 author_profile: false
 tags:
     - notes

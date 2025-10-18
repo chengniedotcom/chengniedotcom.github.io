@@ -1,0 +1,69 @@
+---
+title: "Notes"
+permalink: /notes-test/
+author_profile: false
+---
+
+<p>Click on each book cover for my tiny summary and detailed notes (highlights).</p>
+
+<style type="text/css" media="screen">
+.gr_grid_container {
+    /* customize grid container div here. eg: width: 500px; */
+}
+
+.gr_grid_book_container {
+    /* customize book cover container div here */
+    float: left;
+    width: 108px;
+    height: 190px;
+    padding: 0px 0px;
+    overflow: hidden;
+}
+
+.year-header {
+    clear: both;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    color: #333;
+    border-bottom: 2px solid #4A90E2;
+    padding-bottom: 5px;
+}
+
+.year-header:first-of-type {
+    margin-top: 10px;
+}
+
+.book-count {
+    font-size: 16px;
+    color: #666;
+    font-weight: normal;
+    margin-left: 10px;
+}
+</style>
+
+{% assign notes_by_year = site.notes | where_exp: "note", "note.date != nil" | sort: "date" | reverse | group_by_exp: "note", "note.date | date: '%Y'" %}
+
+{% for year_group in notes_by_year %}
+  <div class="year-header">
+    {{ year_group.name }}
+    <span class="book-count">({{ year_group.items | size }} books)</span>
+  </div>
+
+  <div class="gr_grid_container">
+    {% for note in year_group.items %}
+      <div class="gr_grid_book_container">
+        <a href="{{ note.url }}" rel="nofollow" style="color: black; font-size: 10px;" title="{{ note.title }}">
+          {% if note.cover_image %}
+            <img alt="{{ note.title }}" border="0" src="{{ note.cover_image }}" width="98" height="147"/>
+          {% else %}
+            <img alt="{{ note.title }}" border="0" src="https://via.placeholder.com/98x147?text=No+Cover" width="98" height="147"/>
+          {% endif %}
+          {{ note.title | truncate: 50 }}
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+  <div style="clear: both;"></div>
+{% endfor %}

@@ -2,6 +2,7 @@
 title: The Psychology of Money - by Morgan Housel
 date: 2023-06-19
 permalink: /notes/psychology-of-money
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581527774l/41881472._SX98_.jpg
 author_profile: false
 tags:
     - notes

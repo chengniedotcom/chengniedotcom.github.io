@@ -2,6 +2,7 @@
 title: Born to run - by Christopher McDougall
 date: 2023-05-08
 permalink: /notes/born-to-run
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631519495l/6289283._SX98_.jpg
 author_profile: false
 tags:
     - notes

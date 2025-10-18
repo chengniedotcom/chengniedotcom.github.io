@@ -2,6 +2,7 @@
 title: The Storyteller - by Dave Grohl
 date: 2023-07-06
 permalink: /notes/the-storyteller
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617714166l/57648017._SX98_.jpg
 author_profile: false
 tags:
     - notes

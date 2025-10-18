@@ -2,6 +2,7 @@
 title: How to be Perfect - by Michael Schur
 date: 2024-12-08
 permalink: /notes/how-to-be-perfect
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642042986l/58484901._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: Long Story Short - by Margot Leitman
 date: 2024-01-30
 permalink: /notes/long-story-short
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435219716l/25241947._SX98_.jpg
 author_profile: false
 tags:
     - notes

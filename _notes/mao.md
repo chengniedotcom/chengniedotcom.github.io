@@ -2,6 +2,7 @@
 title: Mao: The Unknown Story - by Jung Chang, Jon Halliday
 date: 2025-07-20
 permalink: /notes/mao
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388246824l/9746._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: Lessons in Chemistry - by Bonnie Garmus
 date: 2023-11-16
 permalink: /notes/lessons-in-chemistry
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649650192l/58735074._SX98_.jpg
 author_profile: false
 tags:
     - notes

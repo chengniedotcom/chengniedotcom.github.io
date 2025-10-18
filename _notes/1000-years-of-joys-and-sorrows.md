@@ -2,6 +2,7 @@
 title: 1000 Years of Joy and Sorrow - by Ai Weiwei
 date: 2021-11-24
 permalink: /notes/1000-years-of-joys-and-sorrows
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629112907l/57423429._SX98_.jpg
 author_profile: false
 tags:
     - notes

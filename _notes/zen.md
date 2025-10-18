@@ -2,6 +2,7 @@
 title: Zen and the Art of Motorcycle Maintenance - by Robert M. Pirsig
 date: 2024-01-30
 permalink: /notes/zen
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410136019l/629._SX98_.jpg
 author_profile: false
 tags:
     - notes

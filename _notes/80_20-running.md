@@ -2,6 +2,7 @@
 title: 80/20 Running - by Matt Fitzgerald
 date: 2022-03-06
 permalink: /notes/80_20-running
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398027298l/20821042._SX98_.jpg
 author_profile: false
 tags:
   - notes

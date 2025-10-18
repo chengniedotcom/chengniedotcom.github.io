@@ -2,6 +2,7 @@
 title: Infectious Generosity - by Chris J. Anderson
 date: 2024-08-10
 permalink: /notes/infectious-generosity
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697950377l/178332355._SX98_.jpg
 author_profile: false
 tags:
     - notes

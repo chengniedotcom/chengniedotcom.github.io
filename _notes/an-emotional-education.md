@@ -2,6 +2,7 @@
 title: The School of Life - An Emotional Education - by Alain de Botton
 date: 2021-10-03
 permalink: /notes/an-emotional-education
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568273715l/43264830._SX98_.jpg
 author_profile: false
 tags:
     - notes

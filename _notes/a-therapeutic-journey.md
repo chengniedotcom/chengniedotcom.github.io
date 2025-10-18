@@ -2,6 +2,7 @@
 title: A Therapeutic Journey - by Alain de Botton
 date: 2024-01-19
 permalink: /notes/a-therapeutic-journey
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699484033l/176849725._SX98_.jpg
 author_profile: false
 tags:
     - notes

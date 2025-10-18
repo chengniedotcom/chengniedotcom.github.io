@@ -2,6 +2,7 @@
 title: Never Get Angry Again - by David J. Lieberman
 date: 2024-02-21
 permalink: /notes/never-get-angry-again
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499695975l/34964946._SX98_.jpg
 author_profile: false
 tags:
     - notes

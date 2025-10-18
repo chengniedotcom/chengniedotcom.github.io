@@ -2,6 +2,7 @@
 title: 10 Days to Faster Reading - by The Princeton Language Institute
 date: 2021-12-29
 permalink: /notes/10-days-to-faster-reading
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441860089l/227552._SX98_.jpg
 author_profile: false
 tags:
     - notes

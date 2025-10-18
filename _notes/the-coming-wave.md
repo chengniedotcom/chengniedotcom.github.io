@@ -2,6 +2,7 @@
 title: The Coming Wave - by Mustafa Suleyman, Michael Bhaskar
 date: 2025-01-10
 permalink: /notes/the-coming-wave
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685351813l/90590134._SX98_.jpg
 author_profile: false
 tags:
     - notes

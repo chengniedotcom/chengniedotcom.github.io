@@ -2,6 +2,7 @@
 title: The Emperor of All Maladies - by Siddhartha Mukherjee
 date: 2021-06-13
 permalink: /notes/the-emperor-of-all-maladies
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280771091l/7170627._SX98_.jpg
 author_profile: false
 tags:
     - notes

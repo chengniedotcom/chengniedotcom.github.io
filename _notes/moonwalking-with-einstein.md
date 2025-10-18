@@ -2,6 +2,7 @@
 title: Moonwalking with Einstein - by Joshua Foer
 date: 2016-01-25
 permalink: /notes/moonwalking-with-einstein
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630575238l/6346975._SX98_.jpg
 author_profile: false
 tags:
     - notes

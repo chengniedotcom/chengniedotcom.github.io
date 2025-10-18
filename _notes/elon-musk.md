@@ -2,6 +2,7 @@
 title: Elon Musk - by Walter Issacson
 date: 2023-12-16
 permalink: /notes/elon-musk
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692288251l/122765395._SX98_.jpg
 author_profile: false
 tags:
     - notes

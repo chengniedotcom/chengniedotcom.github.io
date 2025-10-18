@@ -2,6 +2,7 @@
 title: The Story of My Life - by Helen Keller
 date: 2024-11-29
 permalink: /notes/the-story-of-my-life
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320429331l/821611._SX98_.jpg
 author_profile: false
 tags:
     - notes

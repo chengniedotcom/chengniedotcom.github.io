@@ -2,6 +2,7 @@
 title: How to Know a Person - by David Brooks
 date: 2024-06-21
 permalink: /notes/how-to-know-a-person
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684815605l/112974860._SX98_.jpg
 author_profile: false
 tags:
     - notes

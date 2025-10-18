@@ -2,6 +2,7 @@
 title: How the World Really Works - by Vaclav Smil
 date: 2022-07-09
 permalink: /notes/how-the-world-really-works
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641444915l/56587388._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: Fast Girl - by Suzy Favor Hamilton
 date: 2023-09-03
 permalink: /notes/fast-girl
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446829090l/26795340._SX98_.jpg
 author_profile: false
 tags:
     - notes

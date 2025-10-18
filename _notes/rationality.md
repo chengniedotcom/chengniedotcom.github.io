@@ -2,6 +2,7 @@
 title: Rationality - by Steven Pinker
 date: 2023-11-11
 permalink: /notes/rationality
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618510588l/56224080._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: Sapiens - A Brief History of Humankind - by Yuval Noah Harari
 date: 2018-01-17
 permalink: /notes/sapiens
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595674533l/23692271._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: Dry - by Augusten Burroughs
 date: 2025-03-13
 permalink: /notes/dry
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442601868l/32370._SX98_.jpg
 author_profile: false
 tags:
     - notes

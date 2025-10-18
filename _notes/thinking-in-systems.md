@@ -2,6 +2,7 @@
 title: Thinking in Systems - by Donella H. Meadows
 date: 2023-09-23
 permalink: /notes/thinking-in-systems
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859l/3828902._SX98_.jpg
 author_profile: false
 tags:
     - notes

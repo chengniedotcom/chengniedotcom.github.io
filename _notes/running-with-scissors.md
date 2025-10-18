@@ -2,6 +2,7 @@
 title: Running with Scissors - by Augusten Burroughs
 date: 2025-01-23
 permalink: /notes/running-with-scissors
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690319656l/242006._SX98_.jpg
 author_profile: false
 tags:
     - notes

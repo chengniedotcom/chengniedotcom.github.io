@@ -2,6 +2,7 @@
 title: Why We Sleep - by Matthew Walker
 date: 2023-03-14
 permalink: /notes/why-we-sleep
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556604137l/34466963._SX98_.jpg
 author_profile: false
 tags:
     - notes

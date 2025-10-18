@@ -2,6 +2,7 @@
 title: Four Thousand Weeks - by Oliver Burkeman
 date: 2022-02-06
 permalink: /notes/four-thousand-weeks
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627425434l/54785515._SX98_.jpg
 author_profile: false
 tags:
   - notes

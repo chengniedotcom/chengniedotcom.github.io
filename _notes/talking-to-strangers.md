@@ -2,6 +2,7 @@
 title: Talking to Strangers - by Malcolm Gladwell
 date: 2023-04-16
 permalink: /notes/talking-to-strangers
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549393502l/43848929._SX98_.jpg
 author_profile: false
 tags:
     - notes

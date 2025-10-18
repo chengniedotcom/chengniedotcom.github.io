@@ -2,6 +2,7 @@
 title: Yellowface - by R.F. Kuang
 date: 2024-03-17
 permalink: /notes/yellowface
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671336608l/62047984._SX98_.jpg
 author_profile: false
 tags:
     - notes

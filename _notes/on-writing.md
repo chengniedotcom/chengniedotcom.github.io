@@ -2,6 +2,7 @@
 title: On Writing - by Stephen King
 date: 2023-05-29
 permalink: /notes/on-writing
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436735207l/10569._SX98_.jpg
 author_profile: false
 tags:
     - notes

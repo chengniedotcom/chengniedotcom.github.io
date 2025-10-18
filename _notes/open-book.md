@@ -2,6 +2,7 @@
 title: Open Book - by Jessica Simpson
 date: 2025-01-03
 permalink: /notes/open-book
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575562439l/41571753._SX98_.jpg
 author_profile: false
 tags:
     - notes

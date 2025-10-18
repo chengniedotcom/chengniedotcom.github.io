@@ -2,6 +2,7 @@
 title: The End Of Burnout - by Jonathan Malesic
 date: 2025-08-21
 permalink: /notes/the-end-of-burnout
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619545993l/57531095._SX98_.jpg
 author_profile: false
 tags:
     - notes

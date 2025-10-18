@@ -2,6 +2,7 @@
 title: Total recall - by Arnold Schwarzenegger
 date: 2024-1-9
 permalink: /notes/total-recall
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344398356l/14546626._SX98_.jpg
 author_profile: false
 tags:
     - notes

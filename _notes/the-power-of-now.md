@@ -2,6 +2,7 @@
 title: The Power of Now - by Eckhart Tolle
 date: 2022-02-10
 permalink: /notes/the-power-of-now
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925535l/6708._SX98_.jpg
 author_profile: false
 tags:
   - notes

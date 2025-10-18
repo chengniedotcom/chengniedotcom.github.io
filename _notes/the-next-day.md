@@ -2,6 +2,7 @@
 title: The Next Day - by Melinda French Gates
 date: 2025-05-03
 permalink: /notes/the-next-day
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742912722l/215700930._SX98_.jpg
 author_profile: false
 tags:
     - notes

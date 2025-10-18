@@ -2,6 +2,7 @@
 title: Why is Sex Fun - by Jared Diamond
 date: 2023-12-05
 permalink: /notes/why-is-sex-fun
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431354333l/1991._SX98_.jpg
 author_profile: false
 tags:
     - notes

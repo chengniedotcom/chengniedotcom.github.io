@@ -2,6 +2,7 @@
 title: Know My Name - by Chanel Miller
 date: 2025-01-10
 permalink: /notes/know-my-name
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567612158l/50196744._SX98_.jpg
 author_profile: false
 tags:
     - notes

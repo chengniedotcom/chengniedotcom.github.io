@@ -2,6 +2,7 @@
 title: Born a Crime - by Trevor Noah
 date: 2017-01-21
 permalink: /notes/born-a-crime
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473867911l/29780253._SX98_.jpg
 author_profile: false
 tags:
     - notes

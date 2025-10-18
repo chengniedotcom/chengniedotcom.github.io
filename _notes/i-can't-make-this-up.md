@@ -2,6 +2,7 @@
 title: I Can't Make This Up-Life Lessons - by Kevin Hart
 date: 2022-04-16
 permalink: /notes/i-can't-make-this-up
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493503674l/33347428._SX98_.jpg
 author_profile: false
 tags:
   - notes

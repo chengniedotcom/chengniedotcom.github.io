@@ -2,6 +2,7 @@
 title: Cognitive Behavioral Therapy Made Simple - by Seth J. Gillihan
 date: 2024-12-08
 permalink: /notes/cognitive-behavioral-hterapy-made-simple
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546428492l/43440823._SX98_.jpg
 author_profile: false
 tags:
     - notes

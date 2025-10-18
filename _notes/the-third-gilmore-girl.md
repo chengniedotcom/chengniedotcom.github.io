@@ -2,6 +2,7 @@
 title: The Third Gilmore Girl - by Kelly Bishop
 date: 2025-04-22
 permalink: /notes/the-third-gilmore-girl
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708360130l/207298106._SX98_.jpg
 author_profile: false
 tags:
     - notes

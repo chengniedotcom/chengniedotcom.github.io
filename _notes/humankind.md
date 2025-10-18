@@ -2,6 +2,7 @@
 title: Humankind - by Rutger Bregman
 date: 2022-02-13
 permalink: /notes/humankind
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577251406l/52879286._SX98_.jpg
 author_profile: false
 tags:
   - notes

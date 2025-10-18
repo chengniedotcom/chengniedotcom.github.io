@@ -2,6 +2,7 @@
 title: Mama's Boy - by Dustin Lance Black
 date: 2025-04-12
 permalink: /notes/mamas-boy
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549556942i/40915201._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: This is Going to Hurt - by Adam Kay
 date: 2024-12-09
 permalink: /notes/this-is-going-to-hurt
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498340278l/35510008._SX98_.jpg
 author_profile: false
 tags:
     - notes

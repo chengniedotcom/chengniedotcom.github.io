@@ -2,6 +2,7 @@
 title: Atomic Habits - by James Clear
 date: 2021-11-29
 permalink: /notes/atomic-habits
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378._SX98_.jpg
 author_profile: false
 tags:
   - notes

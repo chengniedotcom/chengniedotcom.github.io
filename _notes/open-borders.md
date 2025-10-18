@@ -2,6 +2,7 @@
 title: Open Borders - by Bryan Caplan
 date: 2022-10-30
 permalink: /notes/open-borders
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553580474l/42867903._SX98_.jpg
 author_profile: false
 tags:
     - notes

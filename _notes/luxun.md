@@ -2,6 +2,7 @@
 title: 鲁迅全集 - by 鲁迅
 date: 2023-03-04
 permalink: /notes/luxun
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455596899l/29109491._SX98_.jpg
 author_profile: false
 tags:
     - notes

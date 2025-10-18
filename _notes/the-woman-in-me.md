@@ -2,6 +2,7 @@
 title: The Woman in Me - by Britney Spears
 date: 2023-12-28
 permalink: /notes/the-woman-in-me
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697216267l/199661496._SX98_.jpg
 author_profile: false
 tags:
     - notes

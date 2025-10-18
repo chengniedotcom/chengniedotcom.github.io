@@ -2,6 +2,7 @@
 title: The Autobiography Of Malcolm X - by Malcolm X and Alex Haley
 date: 2025-05-03
 permalink: /notes/the-autobiography-of-malcolm-x
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434682864l/92057._SX98_.jpg
 author_profile: false
 tags:
     - notes

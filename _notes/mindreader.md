@@ -2,6 +2,7 @@
 title: Mindreader - by David J. Lieberman
 date: 2024-01-30
 permalink: /notes/mindreader
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654782809l/59900650._SX98_.jpg
 author_profile: false
 tags:
     - notes

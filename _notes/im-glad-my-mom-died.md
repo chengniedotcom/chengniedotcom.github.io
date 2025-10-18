@@ -2,6 +2,7 @@
 title: I'm glad my mom died - by Jennette McCurdy
 date: 2023-02-02
 permalink: /notes/im-glad-my-mom-died
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649286799l/59364173._SX98_.jpg
 author_profile: false
 tags:
     - notes

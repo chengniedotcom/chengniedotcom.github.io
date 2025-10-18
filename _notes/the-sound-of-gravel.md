@@ -2,6 +2,7 @@
 title: The Sound Of Gravel - by Ruth Wariner
 date: 2025-07-25
 permalink: /notes/the-sound-of-gravel
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436200674l/25332115._SX98_.jpg
 author_profile: false
 tags:
     - notes

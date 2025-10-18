@@ -2,6 +2,7 @@
 title: Nexus - by Yuval Noah Harari
 date: 2024-09-26
 permalink: /notes/nexus
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709986452l/204927599._SX98_.jpg
 author_profile: false
 tags:
     - notes

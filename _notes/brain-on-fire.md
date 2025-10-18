@@ -2,6 +2,7 @@
 title: Brain on Fire - by Susannah Cahalan
 date: 2024-12-24
 permalink: /notes/brain-on-fire
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667594294l/63221207._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: The Las Vegas Madam - by Jami Rodman
 date: 2023-12-21
 permalink: /notes/the-las-vegas-madam
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443924433l/26861308._SX98_.jpg
 author_profile: false
 tags:
     - notes

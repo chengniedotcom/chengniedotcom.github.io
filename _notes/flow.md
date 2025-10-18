@@ -2,6 +2,7 @@
 title: Flow - by Mihaly Csikszentmihalyi
 date: 2022-12-25
 permalink: /notes/flow
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432253110l/66354._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: The Upside of Irrationality - by Dan Ariely
 date: 2022-06-13
 permalink: /notes/the-upside-of-irrationality
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1268511997l/7815744._SX98_.jpg
 author_profile: false
 tags:
     - notes

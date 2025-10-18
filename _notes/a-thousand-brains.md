@@ -2,6 +2,7 @@
 title: A Thousand Brains - by Jeff Hawkins
 date: 2022-02-18
 permalink: /notes/a-thousand-brains
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609237769l/54503521._SX98_.jpg
 author_profile: false
 tags:
   - notes

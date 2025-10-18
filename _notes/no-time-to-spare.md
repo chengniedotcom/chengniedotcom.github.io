@@ -2,6 +2,7 @@
 title: No Time To Spare - by Ursula K. Le Guin
 date: 2025-07-22
 permalink: /notes/no-time-to-spare
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489159159l/33503495._SX98_.jpg
 author_profile: false
 tags:
     - notes

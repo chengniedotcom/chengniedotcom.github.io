@@ -2,6 +2,7 @@
 title: Flash Boys - by Michael Lewis
 date: 2023-09-07
 permalink: /notes/flash-boys
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426093936l/24724602._SX98_.jpg
 author_profile: false
 tags:
     - notes

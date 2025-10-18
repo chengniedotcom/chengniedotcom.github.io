@@ -2,6 +2,7 @@
 title: While Time Remains - by Yeonmi Park
 date: 2025-01-28
 permalink: /notes/while-time-remains
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676499199l/61273331._SX98_.jpg
 author_profile: false
 tags:
     - notes

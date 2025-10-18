@@ -2,6 +2,7 @@
 title: Think Again - by Adam Grant
 date: 2022-04-24
 permalink: /notes/think-again
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602574232l/55539565._SX98_.jpg
 author_profile: false
 tags:
     - notes

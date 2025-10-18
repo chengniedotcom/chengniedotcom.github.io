@@ -2,6 +2,7 @@
 title: Be Useful - by Arnold Schwarzenegger
 date: 2023-12-24
 permalink: /notes/be-useful
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685351182l/125063314._SX98_.jpg
 author_profile: false
 tags:
     - notes

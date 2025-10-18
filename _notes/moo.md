@@ -2,6 +2,7 @@
 title: Moo - by Jane Smiley
 date: 2023-09-06
 permalink: /notes/moo
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337084977i/4605._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: Numbers Don't Lie - by Vaclav Smil
 date: 2022-02-23
 permalink: /notes/numbers-don't-lie
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598804527l/50705179._SX98_.jpg
 author_profile: false
 tags:
   - notes

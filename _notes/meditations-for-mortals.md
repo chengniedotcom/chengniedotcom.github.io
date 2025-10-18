@@ -2,6 +2,7 @@
 title: Meditations For Mortals - by Oliver Burkeman
 date: 2025-05-31
 permalink: /notes/meditations-for-mortals
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726043663l/218702903._SX98_.jpg
 author_profile: false
 tags:
     - notes

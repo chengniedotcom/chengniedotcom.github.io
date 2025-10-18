@@ -2,6 +2,7 @@
 title: The Gene - by Siddhartha Mukherjee
 date: 2023-06-18
 permalink: /notes/gene
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452452965l/27276428._SX98_.jpg
 author_profile: false
 tags:
     - notes

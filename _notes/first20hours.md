@@ -2,6 +2,7 @@
 title: The First 20 Hours - by Josh Kaufman
 date: 2021-12-25
 permalink: /notes/first20hours
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364771935l/16158493._SX98_.jpg
 author_profile: false
 tags:
     - notes

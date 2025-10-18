@@ -2,6 +2,7 @@
 title: A Simpler Life - by The School of Life
 date: 2024-10-07
 permalink: /notes/a-simpler-life
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639239014l/59692890._SX98_.jpg
 author_profile: false
 tags:
     - notes

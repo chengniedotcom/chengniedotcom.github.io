@@ -3,6 +3,7 @@
 title: Normal People - by Sally Rooney
 date: 2024-01-12
 permalink: /notes/normal-people
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SX98_.jpg
 author_profile: false
 tags:
   - notes

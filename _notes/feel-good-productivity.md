@@ -2,6 +2,7 @@
 title: Feel-Good Productivity - by Ali Abdaal
 date: 2024-02-16
 permalink: /notes/feel-good-productivity
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689695229l/142402923._SX98_.jpg
 author_profile: false
 tags:
     - notes

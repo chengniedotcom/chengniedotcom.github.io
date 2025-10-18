@@ -2,6 +2,7 @@
 title: The Anxious Generation - by Jonathan Haidt
 date: 2025-01-25
 permalink: /notes/the-anxious-generation
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711573377l/171681821._SX98_.jpg
 author_profile: false
 tags:
     - notes

@@ -2,6 +2,7 @@
 title: Guns, Germs and Steel - by Jared Diamond
 date: 2023-12-03
 permalink: /notes/guns-germs-and-steel
+cover_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453215833l/1842._SX98_.jpg
 author_profile: false
 tags:
     - notes
