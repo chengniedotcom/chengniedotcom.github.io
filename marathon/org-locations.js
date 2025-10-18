@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Chicago, IL | Oct 12, 2025 | 2:40:41 | Chicago Marathon",
+    41.8755616,
+    -87.6244212
+  ],
+  [
     "Sioux Falls, SD | Sep 21, 2025 | 2:45:50 | Sioux Falls Marathon",
     43.5476008,
     -96.7293629

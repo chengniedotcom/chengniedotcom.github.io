@@ -3,6 +3,7 @@
 title: How Do I Read?
 date: 2024-08-30
 permalink: /how-do-i-read/
+lang: en
 tags:
   - Reading
 ---

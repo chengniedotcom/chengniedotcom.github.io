@@ -192,6 +192,8 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  notes:
+    output: true
 
 
 # Defaults

@@ -52,6 +52,42 @@ layout: default
         </header>
       {% endunless %}
 
+      {% if page.lang %}
+        {% if page.lang == 'en' %}
+          {% assign other_lang = 'cn' %}
+          {% assign other_lang_name = '中文' %}
+          {% assign current_lang_name = 'English' %}
+        {% else %}
+          {% assign other_lang = 'en' %}
+          {% assign other_lang_name = 'English' %}
+          {% assign current_lang_name = '中文' %}
+        {% endif %}
+
+        {% comment %}<!-- Find the alternate language version by matching the date -->{% endcomment %}
+        {% assign alternate_post = nil %}
+        {% for post in site.posts %}
+          {% if post.lang == other_lang %}
+            {% assign post_date = post.date | date: "%Y-%m-%d" %}
+            {% assign page_date = page.date | date: "%Y-%m-%d" %}
+            {% if post_date == page_date %}
+              {% assign alternate_post = post %}
+              {% break %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+        {% comment %}<!-- Only show language switcher if alternate version exists -->{% endcomment %}
+        {% if alternate_post %}
+          <div style="margin: 1em 0; padding: 0.75em; background-color: #f8f8f8; border-left: 3px solid #0066cc; border-radius: 3px;">
+            <span style="font-size: 0.9em; color: #666;">Language: {{ current_lang_name }}</span>
+            <span style="margin: 0 0.5em; color: #ccc;">|</span>
+            <a href="{{ base_path }}{{ alternate_post.url }}" style="text-decoration: none; color: #0066cc;">
+              Read in {{ other_lang_name }}
+            </a>
+          </div>
+        {% endif %}
+      {% endif %}
+
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}

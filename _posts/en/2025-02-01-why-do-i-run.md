@@ -3,6 +3,7 @@
 title: Why Do I Run?
 date: 2025-02-01
 permalink: /why-do-i-run/
+lang: en
 tags:
   - Running
 ---

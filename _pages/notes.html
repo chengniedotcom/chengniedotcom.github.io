@@ -1,0 +1,35 @@
+---
+title: "Notes"
+permalink: /notes/
+author_profile: false
+---
+
+<p>Click on each book title for my summary and detailed notes (highlights).</p>
+
+{% include base_path %}
+
+{% comment %}<!-- Get all notes from the collection -->{% endcomment %}
+{% assign notes_pages = site.notes | where_exp: "note", "note.date != nil" | sort: "date" | reverse %}
+
+{% comment %}<!-- Group notes by year and count -->{% endcomment %}
+{% assign years = notes_pages | group_by_exp: "note", "note.date | date: '%Y'" %}
+
+{% for year_group in years %}
+  {% assign year = year_group.name %}
+  {% assign books_count = year_group.items | size %}
+
+  <h2 id="{{ year | slugify }}" class="archive__subtitle" style="text-align: left; font-weight: bold; margin-bottom: 0.5em; margin-top: 1.5em;">
+    {{ year }} ({{ books_count }} books)
+  </h2>
+
+  {% for note in year_group.items %}
+    <div class="list__item" style="margin-bottom: 0.5em;">
+      <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="margin-bottom: 0;">
+        <h3 class="archive__item-title" itemprop="headline" style="margin: 0 0 0.2em 0; font-size: 1em;">
+          <span style="font-size: 0.9em; color: #666; font-weight: normal;">{{ note.date | date: '%Y-%m-%d' }}</span>
+          <a href="{{ base_path }}{{ note.url }}" rel="permalink">{{ note.title }}</a>
+        </h3>
+      </article>
+    </div>
+  {% endfor %}
+{% endfor %}

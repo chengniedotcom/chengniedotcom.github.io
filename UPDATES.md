@@ -6,7 +6,13 @@
 Teaching eval for 2025 summer, update in prr, overleaf, and chengnie.com
 Jiana paper submit to DSS
 
+Chicago Marathon 2025
+
+
+The old notes page (with the grid layout of book covers) has been backed up as notes-old-backup.md in case you want to reference it later. The new organized page should now be live at /notes/ with a cleaner, more readable list format similar to your blog section.
+
 ## 2025_10_06
+
 
 
 
