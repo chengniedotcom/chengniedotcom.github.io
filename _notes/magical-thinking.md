@@ -11,7 +11,7 @@ tags:
 
 Read: 2025-03-21
 
-Recommend: 8/10
+Recommend: 10/10
 
 It turns out this is a book about a lot of gay love. Augusten's writing turned all those unfamiliar worlds into juicy little details that sound very interesting. 
 

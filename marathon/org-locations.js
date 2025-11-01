@@ -1,6 +1,11 @@
 var addressPoints = [
   [
-    "Chicago, IL | Oct 12, 2025 | 2:40:41 | Chicago Marathon",
+    "Mableton, GA | Oct 25, 2025 | 2:44:40 | Silver Comet Marathon",
+    33.8188333,
+    -84.5822632
+  ],
+  [
+    "Chicago, IL | Oct 12, 2025 | 2:40:51 | Chicago Marathon",
     41.8755616,
     -87.6244212
   ],

@@ -372,8 +372,8 @@
             <text x="632" y="333" class="state-label">AL</text>
             
             <!-- Georgia -->
-            <path d="M650 315 L700 320 L695 365 L645 360 Z" class="state remaining" data-state="Georgia">
-                <title>Georgia - Not completed</title>
+            <path d="M650 315 L700 320 L695 365 L645 360 Z" class="state completed" data-state="Georgia">
+                <title>Georgia - ✓ Completed (Mableton, Oct 25, 2025)</title>
             </path>
             <text x="672" y="343" class="state-label">GA</text>
             
@@ -475,7 +475,7 @@
         </svg>
 
         <div class="stats">
-            <strong>11 of 50 states</strong> completed (22%)
+            <strong>12 of 50 states</strong> completed (24%)
             <div class="progress-bar">
                 <div class="progress-fill"></div>
             </div>
@@ -505,6 +505,12 @@
                 date: 'Apr 26, 2025',
                 time: '2:44:35',
                 event: 'Garmin Marathon'
+            }],
+            'Georgia': [{
+                location: 'Mableton, GA',
+                date: 'Oct 25, 2025',
+                time: '2:44:40',
+                event: 'Silver Comet Marathon'
             }],
             'New York': [{
                 location: 'New York City, NY',
@@ -596,7 +602,7 @@
 
         // Progress bar animation
         const progressFill = document.querySelector('.progress-fill');
-        const completedStates = 11;
+        const completedStates = 12;
         const totalStates = 50;
         const percentage = (completedStates / totalStates) * 100;
         
