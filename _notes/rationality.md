@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Rationality - by Steven Pinker
 date: 2023-11-11
 permalink: /notes/rationality

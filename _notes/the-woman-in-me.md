@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Woman in Me - by Britney Spears
 date: 2023-12-28
 permalink: /notes/the-woman-in-me

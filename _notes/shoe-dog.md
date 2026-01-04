@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Shoe dog - by Phil Knight
 date: 2016-12-25
 permalink: /notes/shoe-dog

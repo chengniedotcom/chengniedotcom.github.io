@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Kitchen Confidential - by Anthony Bourdain
 date: 2024-05-26
 permalink: /notes/kitchen-confidential

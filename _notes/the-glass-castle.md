@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Glass Castle - by Jeannette Walls
 date: 2023-05-13
 permalink: /notes/the-glass-castle

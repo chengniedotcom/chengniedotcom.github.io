@@ -1,4 +1,5 @@
 ---
+layout: post
 title: At the Edge of Empire - by Edward Wong
 date: 2024-10-21
 permalink: /notes/at-the-edge-of-empire

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Coddling of the American Mind - by Jonathan Haidt, Greg Lukianoff
 date: 2023-12-08
 permalink: /notes/the-coddling-of-the-american-mind

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Zen and the Art of Motorcycle Maintenance - by Robert M. Pirsig
 date: 2024-01-30
 permalink: /notes/zen

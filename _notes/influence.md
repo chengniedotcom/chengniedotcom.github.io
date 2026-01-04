@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Influence - by Robert B. Ciadini
 date: 2021-10-28
 permalink: /notes/influence

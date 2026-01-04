@@ -1,4 +1,5 @@
 ---
+layout: post
 title: When Everyone Knows That Everyone Knows - by Steven Pinker
 date: 2025-10-11
 permalink: /notes/when-everyone-knows-that-everyone-knows

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Thinking in Systems - by Donella H. Meadows
 date: 2023-09-23
 permalink: /notes/thinking-in-systems

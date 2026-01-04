@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Why is Sex Fun - by Jared Diamond
 date: 2023-12-05
 permalink: /notes/why-is-sex-fun

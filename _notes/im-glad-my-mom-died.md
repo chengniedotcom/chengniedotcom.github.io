@@ -1,4 +1,5 @@
 ---
+layout: post
 title: I'm glad my mom died - by Jennette McCurdy
 date: 2023-02-02
 permalink: /notes/im-glad-my-mom-died

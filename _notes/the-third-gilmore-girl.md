@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Third Gilmore Girl - by Kelly Bishop
 date: 2025-04-22
 permalink: /notes/the-third-gilmore-girl

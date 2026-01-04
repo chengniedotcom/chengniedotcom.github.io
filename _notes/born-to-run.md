@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Born to run - by Christopher McDougall
 date: 2023-05-08
 permalink: /notes/born-to-run

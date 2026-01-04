@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Liars' Club - by Mary Karr
 date: 2024-10-03
 permalink: /notes/liars-club

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Age of Ambition - by Evan Osnos
 date: 2018-12-22
 permalink: /notes/age-of-ambition

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Friends, Lovers, and the Big Terrible Thing - by Matthew Perry
 date: 2024-11-20
 permalink: /notes/friends-lovers-and-the-big-terrible-thing

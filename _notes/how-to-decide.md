@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How to Decide - by Annie Duke
 date: 2023-06-29
 permalink: /notes/how-to-decide

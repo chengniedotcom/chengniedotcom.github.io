@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Cognitive Behavioral Therapy Made Simple - by Seth J. Gillihan
 date: 2024-12-08
 permalink: /notes/cognitive-behavioral-hterapy-made-simple

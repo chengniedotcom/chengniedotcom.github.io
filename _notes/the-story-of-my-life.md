@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Story of My Life - by Helen Keller
 date: 2024-11-29
 permalink: /notes/the-story-of-my-life

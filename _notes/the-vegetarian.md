@@ -1,4 +1,5 @@
 ---
+layout: post
 # layout: post
 title: The Vegetarian - by Han Kang
 date: 2024-11-04

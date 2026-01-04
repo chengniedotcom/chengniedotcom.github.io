@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Molecule Of More - by Daniel Z. Lieberman & Michael E. Long
 date: 2025-04-07
 permalink: /notes/the-molecule-of-more

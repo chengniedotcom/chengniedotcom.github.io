@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Surrender - by Bono
 date: 2023-02-19
 permalink: /notes/surrender

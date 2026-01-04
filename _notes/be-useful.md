@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Be Useful - by Arnold Schwarzenegger
 date: 2023-12-24
 permalink: /notes/be-useful

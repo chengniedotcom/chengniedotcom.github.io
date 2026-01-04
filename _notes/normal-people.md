@@ -1,4 +1,5 @@
 ---
+layout: post
 # layout: post
 title: Normal People - by Sally Rooney
 date: 2024-01-12

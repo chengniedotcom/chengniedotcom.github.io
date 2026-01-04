@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Yellowface - by R.F. Kuang
 date: 2024-03-17
 permalink: /notes/yellowface

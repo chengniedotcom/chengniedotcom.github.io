@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Unconditional Parenting - by Alfie Kohn
 date: 2023-04-15
 permalink: /notes/unconditional-parenting

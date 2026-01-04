@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Tender Bar - by J.R. Moehringer
 date: 2024-05-05
 permalink: /notes/the-tender-bar

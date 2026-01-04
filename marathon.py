@@ -99,9 +99,15 @@ def update_marathon_html():
         table_rows.append(table_row)
     
     # Combine the header and table rows to form the updated content
+    world_map ="""
+    <p>A map of all the places I have run a full Marathon. </p>
+
+    <iframe src="/marathon/map.html" height="700" width="850" style="border:none;"></iframe>
+
+    """
     updated_content = header + ''.join(table_rows) + '''
 </table>
-'''
+''' + world_map
     
     # Write the updated content back to marathon.html
     with open(html_file_path, 'w') as file:
@@ -111,5 +117,3 @@ def update_marathon_html():
 
 # Call the function to update marathon.html
 update_marathon_html()
-
-

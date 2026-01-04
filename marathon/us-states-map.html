@@ -300,7 +300,7 @@
             <text x="517" y="213" class="state-label">IA</text>
             
             <!-- Missouri -->
-            <path d="M470 230 L570 235 L580 270 L520 275 L515 265 Z" class="state remaining" data-state="Missouri">
+            <path d="M470 230 L570 235 L580 270 L520 275 L515 265 Z" class="state completed" data-state="Missouri">
                 <title>Missouri - Not completed</title>
             </path>
             <text x="525" y="253" class="state-label">MO</text>
@@ -366,7 +366,7 @@
             <text x="587" y="328" class="state-label">MS</text>
             
             <!-- Alabama -->
-            <path d="M610 310 L655 315 L650 355 L605 350 Z" class="state remaining" data-state="Alabama">
+            <path d="M610 310 L655 315 L650 355 L605 350 Z" class="state completed" data-state="Alabama">
                 <title>Alabama - Not completed</title>
             </path>
             <text x="632" y="333" class="state-label">AL</text>
@@ -475,7 +475,7 @@
         </svg>
 
         <div class="stats">
-            <strong>12 of 50 states</strong> completed (24%)
+            <strong>14 of 50 states</strong> completed (28%)
             <div class="progress-bar">
                 <div class="progress-fill"></div>
             </div>
@@ -602,7 +602,7 @@
 
         // Progress bar animation
         const progressFill = document.querySelector('.progress-fill');
-        const completedStates = 12;
+        const completedStates = 14;
         const totalStates = 50;
         const percentage = (completedStates / totalStates) * 100;
         

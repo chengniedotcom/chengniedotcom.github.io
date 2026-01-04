@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Outlive - by Peter Attia
 date: 2024-07-28
 permalink: /notes/outlive

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Dictator's Handbook - by Bruce Bueno de Mesquita, Alastair Smith
 date: 2024-05-16
 permalink: /notes/the-dictatators-handbook

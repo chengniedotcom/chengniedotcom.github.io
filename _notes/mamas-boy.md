@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Mama's Boy - by Dustin Lance Black
 date: 2025-04-12
 permalink: /notes/mamas-boy

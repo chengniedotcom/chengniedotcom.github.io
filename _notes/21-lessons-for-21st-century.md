@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 21 Lessons for 21st century - by Yuval Noah Harari
 date: 2018-10-23
 permalink: /notes/21-lessons-for-21st-century

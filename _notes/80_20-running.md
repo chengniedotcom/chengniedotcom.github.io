@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 80/20 Running - by Matt Fitzgerald
 date: 2022-03-06
 permalink: /notes/80_20-running

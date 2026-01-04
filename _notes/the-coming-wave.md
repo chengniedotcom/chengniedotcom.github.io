@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Coming Wave - by Mustafa Suleyman, Michael Bhaskar
 date: 2025-01-10
 permalink: /notes/the-coming-wave

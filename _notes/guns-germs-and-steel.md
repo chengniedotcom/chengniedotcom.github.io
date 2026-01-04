@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Guns, Germs and Steel - by Jared Diamond
 date: 2023-12-03
 permalink: /notes/guns-germs-and-steel

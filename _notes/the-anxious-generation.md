@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Anxious Generation - by Jonathan Haidt
 date: 2025-01-25
 permalink: /notes/the-anxious-generation

@@ -1,4 +1,5 @@
 ---
+layout: post
 # layout: post
 title: The Private Life of Chairman Mao - by Zhisui Li
 date: 2024-02-24

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Therapeutic Journey - by Alain de Botton
 date: 2024-01-19
 permalink: /notes/a-therapeutic-journey

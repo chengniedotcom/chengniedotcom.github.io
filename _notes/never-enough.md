@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Never Enough - by AUTHOR
 date: 2025-05-25
 permalink: /notes/never-enough

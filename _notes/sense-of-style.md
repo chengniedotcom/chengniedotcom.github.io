@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Sense of Style - by Steven Pinker
 date: 2017-11-23
 permalink: /notes/sense-of-style

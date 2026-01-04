@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Know My Name - by Chanel Miller
 date: 2025-01-10
 permalink: /notes/know-my-name

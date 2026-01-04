@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Beautiful World, Where Are You - by Sally Rooney
 date: 2023-12-21
 permalink: /notes/beautiful-world-where-are-you

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Magical Thinking - by Augusten Burroughs
 date: 2025-03-21
 permalink: /notes/magical-thinking

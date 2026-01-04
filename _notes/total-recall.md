@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Total recall - by Arnold Schwarzenegger
 date: 2024-1-9
 permalink: /notes/total-recall

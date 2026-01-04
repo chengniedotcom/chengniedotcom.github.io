@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Autobiography Of Malcolm X - by Malcolm X and Alex Haley
 date: 2025-05-03
 permalink: /notes/the-autobiography-of-malcolm-x

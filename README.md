@@ -97,6 +97,21 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 ```
 
+# Useful prompt
+
+```
+
+Claude Code:
+Can you create a Chinese translation of the post in 2026-01-04-review2025.md. 
+
+    - Put it in the cn folder
+    - Use the metric for units like km and celcus in place of miles and Fahrenheit.
+    - Remember to add cn to the file name after the date.
+    - Make sure the Chinese language is similar to the one I used before in this file: 2024_review_chinese_textonly.txt. 
+    - Don't translate the book title and book author, but translate the summary for the books section. 
+
+```
+
 # History
 
 Updates tracked in (UPDATES.md)[/UPDATES.md]

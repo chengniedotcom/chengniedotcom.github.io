@@ -1,4 +1,5 @@
 ---
+layout: post
 title: No Time To Spare - by Ursula K. Le Guin
 date: 2025-07-22
 permalink: /notes/no-time-to-spare

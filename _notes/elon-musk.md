@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Elon Musk - by Walter Issacson
 date: 2023-12-16
 permalink: /notes/elon-musk

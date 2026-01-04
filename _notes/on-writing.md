@@ -1,4 +1,5 @@
 ---
+layout: post
 title: On Writing - by Stephen King
 date: 2023-05-29
 permalink: /notes/on-writing

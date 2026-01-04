@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Sound Of Gravel - by Ruth Wariner
 date: 2025-07-25
 permalink: /notes/the-sound-of-gravel
@@ -8,7 +9,7 @@ tags:
     - notes
 ---
 
-## *TheSound Of Gravel* - by Ruth Wariner
+## *The Sound Of Gravel* - by Ruth Wariner
 
 Read: 2025-07-25
 

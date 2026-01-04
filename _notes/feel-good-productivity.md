@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Feel-Good Productivity - by Ali Abdaal
 date: 2024-02-16
 permalink: /notes/feel-good-productivity

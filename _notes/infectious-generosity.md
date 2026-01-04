@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Infectious Generosity - by Chris J. Anderson
 date: 2024-08-10
 permalink: /notes/infectious-generosity

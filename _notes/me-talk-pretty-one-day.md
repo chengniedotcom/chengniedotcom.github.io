@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Me Talk Pretty One Day - by David Sedaris
 date: 2025-06-09
 permalink: /notes/me-talk-pretty-one-day

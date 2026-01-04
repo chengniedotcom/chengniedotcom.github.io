@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Fast Girl - by Suzy Favor Hamilton
 date: 2023-09-03
 permalink: /notes/fast-girl

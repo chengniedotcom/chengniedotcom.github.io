@@ -1,4 +1,5 @@
 ---
+layout: post
 # layout: post
 title: Large language models projects - by Pere Martra
 date: 2025-09-28

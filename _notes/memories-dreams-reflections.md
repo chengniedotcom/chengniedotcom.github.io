@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Memories Dreams Reflections - by Carl Gustav Jung
 date: 2025-09-22
 permalink: /notes/memories-dreams-reflections

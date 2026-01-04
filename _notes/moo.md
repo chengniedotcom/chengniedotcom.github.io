@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Moo - by Jane Smiley
 date: 2023-09-06
 permalink: /notes/moo

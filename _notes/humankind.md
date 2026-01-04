@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Humankind - by Rutger Bregman
 date: 2022-02-13
 permalink: /notes/humankind

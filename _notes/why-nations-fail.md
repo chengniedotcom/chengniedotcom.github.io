@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Why Nations Fail - by Daron Acemoğlu, James A. Robinson
 date: 2024-11-12
 permalink: /notes/why-nations-fail

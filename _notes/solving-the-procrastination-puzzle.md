@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Solving the Procrastination Puzzle - by Timothy A. Pychyl
 date: 2023-08-28
 permalink: /notes/solving-the-procrastination-puzzle

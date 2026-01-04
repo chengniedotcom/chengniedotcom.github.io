@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Las Vegas Madam - by Jami Rodman
 date: 2023-12-21
 permalink: /notes/the-las-vegas-madam

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Never Get Angry Again - by David J. Lieberman
 date: 2024-02-21
 permalink: /notes/never-get-angry-again

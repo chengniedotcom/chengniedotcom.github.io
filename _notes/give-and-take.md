@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Give and Take - by Adam M. Grant
 date: 2021-12-04
 permalink: /notes/give-and-take

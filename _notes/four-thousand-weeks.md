@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Four Thousand Weeks - by Oliver Burkeman
 date: 2022-02-06
 permalink: /notes/four-thousand-weeks

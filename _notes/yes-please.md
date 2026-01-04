@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Yes Please - by Amy Poehler
 date: 2025-01-19
 permalink: /notes/yes-please

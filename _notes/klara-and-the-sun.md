@@ -1,4 +1,5 @@
 ---
+layout: post
 # layout: post
 title: Klara and the Sun - by Kazuo Ishiguro
 date: 2022-07-01

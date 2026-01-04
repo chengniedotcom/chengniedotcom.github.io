@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Emperor of All Maladies - by Siddhartha Mukherjee
 date: 2021-06-13
 permalink: /notes/the-emperor-of-all-maladies

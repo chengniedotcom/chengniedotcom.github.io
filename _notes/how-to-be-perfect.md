@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How to be Perfect - by Michael Schur
 date: 2024-12-08
 permalink: /notes/how-to-be-perfect

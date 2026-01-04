@@ -1,5 +1,15 @@
 var addressPoints = [
   [
+    "Huntsville, AL | Dec 14, 2025 | 2:46:58 | Rocket City Marathon",
+    34.729847,
+    -86.5859011
+  ],
+  [
+    "Kansas City, MO | Nov 16, 2025 | 2:45:37 | Yeti Endurance Marathon",
+    39.100105,
+    -94.5781416
+  ],
+  [
     "Mableton, GA | Oct 25, 2025 | 2:44:40 | Silver Comet Marathon",
     33.8188333,
     -84.5822632
@@ -46,8 +56,8 @@ var addressPoints = [
   ],
   [
     "Boston, MA | Apr 17, 2023 | 2:59:38 | Boston Marathon",
-    42.3554334,
-    -71.060511
+    42.3588336,
+    -71.0578303
   ],
   [
     "Maui, HI | Jan 15, 2023 | 3:56:54 | Maui Oceanfront Marathon",
@@ -66,8 +76,8 @@ var addressPoints = [
   ],
   [
     "Boston, MA | Oct 11, 2021 | 2:46:56 | Boston Marathon",
-    42.3554334,
-    -71.060511
+    42.3588336,
+    -71.0578303
   ],
   [
     "Shenandoah, IA | Sep 12, 2020 | 3:04:03 | Wabash Trace Nature Trail Marathon",

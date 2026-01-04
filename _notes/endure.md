@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Endure - by Alex Hutchinson
 date: 2024-08-16
 permalink: /notes/endure

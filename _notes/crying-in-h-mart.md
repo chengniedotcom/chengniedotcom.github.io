@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Crying in H Mart - by Michelle Zauner
 date: 2022-05-12
 permalink: /notes/crying-in-h-mart

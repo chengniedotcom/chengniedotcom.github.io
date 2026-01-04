@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Finding Me - by Viola Davis
 date: 2024-03-08
 permalink: /notes/finding-me

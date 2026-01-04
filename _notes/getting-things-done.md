@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Getting Things Done - by David Allen
 date: 2023-03-07
 permalink: /notes/getting-things-done

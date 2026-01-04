@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Mindreader - by David J. Lieberman
 date: 2024-01-30
 permalink: /notes/mindreader

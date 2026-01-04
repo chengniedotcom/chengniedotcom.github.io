@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Discourse Summaries - by S.N. Goenka
 date: 2019-01-26
 permalink: /notes/discourse-summaries

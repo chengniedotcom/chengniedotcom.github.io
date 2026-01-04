@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Body Keeps the Score - by Bessel van der Kolk
 date: 2022-06-21
 permalink: /notes/the-body-keeps-the-score

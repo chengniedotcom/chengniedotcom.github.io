@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The School of Life - An Emotional Education - by Alain de Botton
 date: 2021-10-03
 permalink: /notes/an-emotional-education

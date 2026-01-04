@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Gifts of Imperfection - by Brené Brown
 date: 2016-02-02
 permalink: /notes/the-gift-of-imperfection

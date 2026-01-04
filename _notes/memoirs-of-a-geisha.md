@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Memoirs of a Geisha - by Arthur Golden
 date: 2024-10-27
 permalink: /notes/memoirs-of-a-geisha

@@ -1,4 +1,5 @@
 Line: 189
+layout: post
 ---
 title: TITLE - by AUTHOR
 date: 2024-DATE

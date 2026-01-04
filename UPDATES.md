@@ -1,17 +1,67 @@
 # 2025
 
 
+
+## Someday maybe
+- Add a sort function based on ranking in the book notes page
+- Add the views count of different blog posts.
+- 发布歌曲的playlist。文字和spotify
+
+/notes/beautiful-country
+
 ## Next
 
-Teaching eval for 2025 summer, update in prr, overleaf, and chengnie.com
+selfish-gene.md went through a few lines
+
+## 2026_01_04
+
+/notes/empress-dowager-cixi
+/notes/the-running-ground
+/notes/we-did-ok-kid
+/notes/make-time
+/notes/wu
+/notes/the-rape-of-nanking
+/notes/essentialism
+/notes/last-words
+/notes/grief-is-for-people
+/notes/大江大海1949
+/notes/the-last-black-unicorn
+/notes/private-revolutions
+/notes/hands-on-large-language-models
+
+Kansas city marathon
+Rocket city marathon
+
+Teaching eval for 2025 summer, update in prr, and chengnie.com
+
 Jiana paper submit to DSS
 
+
+Crime Dynamics of Home-Sharing: Disentangling Temporal Effects and Policy Interventions
+  by Jiana Meng; He Li; Cheng Nie; Chen Zhang
+
+
+## 2025_10_31
+
 Chicago Marathon 2025
+Silver Comet Marathon 2025
+
+/notes/the-year-of-magical-thinking
+/notes/plato-and-a-platypus-walk-into-a-bar
+/notes/never-finished
+/notes/i-know-why-the-caged-bird-sings
+
+add missing ones
+/notes/magical-thinking
+/notes/lust-and-wonder
+
+identified not included txt files into notes.md
 
 
-The old notes page (with the grid layout of book covers) has been backed up as notes-old-backup.md in case you want to reference it later. The new organized page should now be live at /notes/ with a cleaner, more readable list format similar to your blog section.
 
 ## 2025_10_06
+
+The old notes page (with the grid layout of book covers) has been backed up as notes-old-backup.md in case you want to reference it later. The new organized page should now be live at /notes/ with a cleaner, more readable list format similar to your blog section.
 
 
 

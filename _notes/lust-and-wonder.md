@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Lust And Wonder - by Augusten Burroughs
 date: 2025-05-23
 permalink: /notes/lust-and-wonder

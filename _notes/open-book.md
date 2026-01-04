@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Open Book - by Jessica Simpson
 date: 2025-01-03
 permalink: /notes/open-book

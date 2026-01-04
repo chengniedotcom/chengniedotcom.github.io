@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Simpler Life - by The School of Life
 date: 2024-10-07
 permalink: /notes/a-simpler-life

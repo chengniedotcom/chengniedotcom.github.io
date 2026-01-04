@@ -1,4 +1,5 @@
 ---
+layout: post
 title: From Darkness to Sight - by Ming Wang
 date: 2024-12-24
 permalink: /notes/from-darkness-to-sight

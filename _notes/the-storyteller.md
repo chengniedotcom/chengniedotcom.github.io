@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Storyteller - by Dave Grohl
 date: 2023-07-06
 permalink: /notes/the-storyteller

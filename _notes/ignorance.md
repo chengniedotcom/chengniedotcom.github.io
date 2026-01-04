@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Ignorance - by Stuart Firestein
 date: 2023-12-17
 permalink: /notes/ignorance

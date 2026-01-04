@@ -1,4 +1,5 @@
 ---
+layout: post
 # layout: post
 title: 12 Rules for Life - by Jordan B. Peterson
 date: 2022-02-02

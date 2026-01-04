@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Gene - by Siddhartha Mukherjee
 date: 2023-06-18
 permalink: /notes/gene

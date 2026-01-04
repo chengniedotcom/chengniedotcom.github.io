@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Animal Farm - by George Orwell
 date: 2017-11-20
 permalink: /notes/animal-farm

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: While Time Remains - by Yeonmi Park
 date: 2025-01-28
 permalink: /notes/while-time-remains

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Invention and Innovation - by Vaclav Smil
 date: 2024-04-24
 permalink: /notes/invention-and-innovation

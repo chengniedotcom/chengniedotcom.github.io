@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How To - by Randall Munroe
 date: 2024-09-15
 permalink: /notes/how-to

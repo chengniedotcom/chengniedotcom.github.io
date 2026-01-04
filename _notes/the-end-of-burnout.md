@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The End Of Burnout - by Jonathan Malesic
 date: 2025-08-21
 permalink: /notes/the-end-of-burnout

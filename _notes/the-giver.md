@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Giver - by Lois Lowry
 date: 2023-05-12
 permalink: /notes/the-giver

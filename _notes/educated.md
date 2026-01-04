@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Educated - by Tara Westover
 date: 2019-03-26
 permalink: /notes/educated

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The-Code-Breaker - by Walter Issacson
 date: 2022-06-25
 permalink: /notes/the-code-breaker

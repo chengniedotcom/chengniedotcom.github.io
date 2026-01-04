@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Song of the Cell - by Siddhartha Mukherjee
 date: 2024-02-11
 permalink: /notes/the-song-of-the-cell

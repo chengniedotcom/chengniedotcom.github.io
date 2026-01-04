@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Running with Scissors - by Augusten Burroughs
 date: 2025-01-23
 permalink: /notes/running-with-scissors

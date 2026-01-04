@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The-Best-Strangers-In-The-World - by Ari Shapiro
 date: 2024-08-30
 permalink: /notes/the-best-strangers-in-the-world

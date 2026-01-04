@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Red Roulette - by Desmond Shum
 date: 2023-05-17
 permalink: /notes/red-roulette

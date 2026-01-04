@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Born a Crime - by Trevor Noah
 date: 2017-01-21
 permalink: /notes/born-a-crime

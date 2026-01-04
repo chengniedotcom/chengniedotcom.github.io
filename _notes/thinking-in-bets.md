@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Thinking in Bets - by Annie Duke
 date: 2023-06-22
 permalink: /notes/thinking-in-bets

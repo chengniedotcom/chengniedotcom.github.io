@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Long Story Short - by Margot Leitman
 date: 2024-01-30
 permalink: /notes/long-story-short

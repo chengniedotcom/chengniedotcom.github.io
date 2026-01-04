@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Wild Swans - by Jung Chang
 date: 2025-02-16
 permalink: /notes/wild-swans

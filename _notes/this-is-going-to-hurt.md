@@ -1,4 +1,5 @@
 ---
+layout: post
 title: This is Going to Hurt - by Adam Kay
 date: 2024-12-09
 permalink: /notes/this-is-going-to-hurt

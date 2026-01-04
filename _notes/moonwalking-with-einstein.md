@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Moonwalking with Einstein - by Joshua Foer
 date: 2016-01-25
 permalink: /notes/moonwalking-with-einstein

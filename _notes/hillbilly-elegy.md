@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Hillbilly Elegy  - by J.D. Vance
 date: 2025-01-10
 permalink: /notes/hillbilly-elegy

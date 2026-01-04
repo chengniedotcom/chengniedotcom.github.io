@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Build the Life You Want - by Arthur C. Brooks, Oprah Winfrey
 date: 2024-10-21
 permalink: /notes/build-the-life-you-want

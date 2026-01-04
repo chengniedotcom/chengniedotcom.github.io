@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Next Day - by Melinda French Gates
 date: 2025-05-03
 permalink: /notes/the-next-day

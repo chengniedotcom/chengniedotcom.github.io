@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Brain on Fire - by Susannah Cahalan
 date: 2024-12-24
 permalink: /notes/brain-on-fire

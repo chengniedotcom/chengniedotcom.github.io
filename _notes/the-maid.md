@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Maid - by Nita Prose
 date: 2023-04-05
 permalink: /notes/the-maid

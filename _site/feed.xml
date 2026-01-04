@@ -1,4 +1,534 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-18T16:15:22-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cheng Nie(聂成)</title><subtitle>The Website of Cheng Nie</subtitle><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><entry xml:lang="en"><title type="html">Chicago Marathon 2025</title><link href="http://localhost:4000/chicago2025/" rel="alternate" type="text/html" title="Chicago Marathon 2025" /><published>2025-10-18T00:00:00-05:00</published><updated>2025-10-18T00:00:00-05:00</updated><id>http://localhost:4000/chicago2025</id><content type="html" xml:base="http://localhost:4000/chicago2025/">&lt;h1 id=&quot;chicago-marathon-2025-&quot;&gt;Chicago Marathon 2025 🏅&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-01-04T17:48:56-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cheng Nie(聂成)</title><subtitle>The Website of Cheng Nie</subtitle><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><entry xml:lang="en"><title type="html">My 2025 Annual Review</title><link href="http://localhost:4000/review2025/" rel="alternate" type="text/html" title="My 2025 Annual Review" /><published>2026-01-04T00:00:00-06:00</published><updated>2026-01-04T00:00:00-06:00</updated><id>http://localhost:4000/review2025</id><content type="html" xml:base="http://localhost:4000/review2025/">&lt;p&gt;Here is my annual review of 2025 to answer the following three questions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What went well this year?&lt;/li&gt;
+  &lt;li&gt;What didn’t go so well this year?&lt;/li&gt;
+  &lt;li&gt;What did I learn?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;1-what-went-well-this-year&quot;&gt;1. What Went Well This Year?&lt;/h1&gt;
+
+&lt;h2 id=&quot;work&quot;&gt;Work&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;0 acceptance and 6 submissions.&lt;/strong&gt; I had 5 submissions to journals and 1 submission to a conference this year:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;JMIS: 1&lt;/li&gt;
+      &lt;li&gt;DSS: 1&lt;/li&gt;
+      &lt;li&gt;JAIS: 2&lt;/li&gt;
+      &lt;li&gt;ISR: 1&lt;/li&gt;
+      &lt;li&gt;ICIS: 1&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bootstrap Research Grants.&lt;/strong&gt; I was awarded $6K (December 2025) from Ivy College of Business for research support in the next year. I will use it mainly to boost my AI skills and to start AI projects.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;h2 id=&quot;55-books-i-read-this-year&quot;&gt;55 Books I Read This Year&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_book_pages.png&quot; alt=&quot;55 books&quot; title=&quot;55 books&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;These are the eight that I highly recommend (with a short summary I wrote for each book):&lt;/p&gt;
+
+    &lt;p&gt;1. &lt;a href=&quot;/notes/know-my-name&quot;&gt;&lt;em&gt;Know My Name&lt;/em&gt; - by Chanel Miller&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;I admire both her courage and her writing.&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;2. &lt;a href=&quot;/notes/wild-swans&quot;&gt;&lt;em&gt;Wild Swans&lt;/em&gt; - by Jung Chang&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;It is unsurprising that this book has been banned in China. The thoroughness with which Jung Chang approached the narrative is commendable. Her detailed examination serves to illustrate the detrimental effects of dictatorship on human societies.&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;3. &lt;a href=&quot;/notes/the-molecule-of-more&quot;&gt;&lt;em&gt;The Molecule Of More&lt;/em&gt; - by Daniel Z. Lieberman &amp;amp; Michael E. Long&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;This book reminds me of many successful and unsatisfied (unhappy) people: Kobe Bryant, Elon Musk, Steve Jobs, Bill Gates. It also reminds me to keep up with my daily meditation so that I can be in the here and now (H&amp;amp;N).&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;4. &lt;a href=&quot;/notes/meditations-for-mortals&quot;&gt;&lt;em&gt;Meditations For Mortals&lt;/em&gt; - by Oliver Burkeman&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;The author Oliver Burkeman wrote one of my favorite books: &lt;a href=&quot;/notes/four-thousand-weeks&quot;&gt;Four Thousand Weeks&lt;/a&gt;. This new book is another gem.&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;5. &lt;a href=&quot;/notes/never-finished&quot;&gt;&lt;em&gt;Never Finished&lt;/em&gt; - by David Goggins&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;I achieved a 2:38:02 marathon time, which I’m really proud of! This book has inspired me to aim even higher—my next goal is 2:30. Here is my favorite quote from the book “The world needs doctors, lawyers, and teachers, but we also need savages to prove that we are all capable of so much more.” #neverfinished.&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;6. &lt;a href=&quot;/notes/the-running-ground&quot;&gt;&lt;em&gt;The Running Ground&lt;/em&gt; - by Nicholas Thompson&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;This memoir was both inspiring and informative for my training. I’ve ordered beet juice and will incorporate airplane exercises and z-presses into my strength routine. To improve speed, I’m adding two weekly sessions targeting VO2 max and threshold pace.&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;7. &lt;a href=&quot;/notes/we-did-ok-kid&quot;&gt;&lt;em&gt;We Did Ok Kid&lt;/em&gt; - by Anthony Hopkins&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;I was captivated by the musicality of his voice and the poetic quality of his performance. I also appreciated learning about his personal struggles with alcohol and his journey to recovery through Alcoholics Anonymous—it added meaningful depth to his story.&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;The influence of his father on his life struck me as particularly significant, reminiscent of the father-son dynamic explored in another book, &lt;a href=&quot;/notes/the-running-groud&quot;&gt;The Running Ground&lt;/a&gt;.&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;His dedication to his craft reminds me of Kobe Bryant’s approach to basketball: both exemplified relentless preparation and an unwavering commitment to excellence through consistent hard work.&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;8. &lt;a href=&quot;/notes/大江大海一九四九&quot;&gt;&lt;em&gt;大江大海一九四九&lt;/em&gt; - by 龙应台&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;The author compassionately recounts the Chinese Civil War (1945-1949), beginning with her mother’s experiences and expanding to the stories of ordinary soldiers in both the People’s Liberation Army and the Kuomintang.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;travel&quot;&gt;Travel&lt;/h2&gt;
+
+&lt;p&gt;This year, we traveled to Europe and to China during the summer.&lt;/p&gt;
+
+&lt;h2 id=&quot;summer-outside-colosseum-at-rome-italy-with-my-students&quot;&gt;Summer outside Colosseum at Rome Italy with my Students&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_rome_colosseum.JPEG&quot; alt=&quot;Summer outside Colosseum at Rome Italy&quot; title=&quot;Summer outside Colosseum at Rome Italy&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summer-inside-colosseum-at-rome-italy&quot;&gt;Summer inside Colosseum at Rome Italy&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_rome_colosseum_family.jpeg&quot; alt=&quot;Summer inside Colosseum at Rome Italy&quot; title=&quot;Summer inside Colosseum at Rome Italy&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summer-in-pagani-at-modena-italy&quot;&gt;Summer in Pagani at Modena Italy&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_modena_pagani.JPEG&quot; alt=&quot;Summer in Pagani at Modena Italy&quot; title=&quot;Summer in Pagani at Modena Italy&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summer-at-pompeii-italy&quot;&gt;Summer at Pompeii Italy&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_pompeii.jpeg&quot; alt=&quot;Summer at Pompeii Italy&quot; title=&quot;Summer at Pompeii Italy&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summer-on-yangtze-river-cruise&quot;&gt;Summer on Yangtze River Cruise&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_cruise.JPEG&quot; alt=&quot;Summer on Yangtze River Cruise&quot; title=&quot;Summer on Yangtze River Cruise&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summer-in-chongqing-china&quot;&gt;Summer in ChongQing China&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_chongqing.JPG&quot; alt=&quot;Summer in ChongQing China&quot; title=&quot;Summer in ChongQing China&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;running&quot;&gt;Running&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I ran 2,689 miles this year, which is around 7.4 miles (11.9 KM) per day.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2025-run-summary&quot;&gt;2025 Run Summary&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_run.jpg&quot; alt=&quot;2025 Run Summary&quot; title=&quot;2025 Run Summary&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I Finished 7 full Marathons this year:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Fastest Time (Min): 2:38:08&lt;/li&gt;
+      &lt;li&gt;Mean: 2:43:48&lt;/li&gt;
+      &lt;li&gt;Standard Deviation: 2 minutes 55 seconds&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Number&lt;/th&gt;
+      &lt;th&gt;Place&lt;/th&gt;
+      &lt;th&gt;Date&lt;/th&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Event&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;Xiamen, China&lt;/td&gt;
+      &lt;td&gt;Jan 5, 2025&lt;/td&gt;
+      &lt;td&gt;2:38:08&lt;/td&gt;
+      &lt;td&gt;Xiamen Marathon&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;Olathe, KS&lt;/td&gt;
+      &lt;td&gt;Apr 26, 2025&lt;/td&gt;
+      &lt;td&gt;2:44:35&lt;/td&gt;
+      &lt;td&gt;Garmin Marathon&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;Sioux Falls, SD&lt;/td&gt;
+      &lt;td&gt;Sep 21, 2025&lt;/td&gt;
+      &lt;td&gt;2:45:50&lt;/td&gt;
+      &lt;td&gt;Sioux Falls Marathon&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;Chicago, IL&lt;/td&gt;
+      &lt;td&gt;Oct 12, 2025&lt;/td&gt;
+      &lt;td&gt;2:40:51&lt;/td&gt;
+      &lt;td&gt;Chicago Marathon&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;Mableton, GA&lt;/td&gt;
+      &lt;td&gt;Oct 25, 2025&lt;/td&gt;
+      &lt;td&gt;2:44:40&lt;/td&gt;
+      &lt;td&gt;Silver Comet Marathon&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;Kansas City, MO&lt;/td&gt;
+      &lt;td&gt;Nov 16, 2025&lt;/td&gt;
+      &lt;td&gt;2:45:37&lt;/td&gt;
+      &lt;td&gt;Yeti Endurance Marathon&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;Huntsville, AL&lt;/td&gt;
+      &lt;td&gt;Dec 14, 2025&lt;/td&gt;
+      &lt;td&gt;2:46:58&lt;/td&gt;
+      &lt;td&gt;Rocket City Marathon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;piano-lessons&quot;&gt;Piano lessons&lt;/h2&gt;
+
+&lt;p&gt;I learned two songs composed by Joe Hisaishi this year:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Summer - Theme from the 1999 film “Kikujiro”&lt;/li&gt;
+  &lt;li&gt;Memory - Main theme from the 2008 film “Departures”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;1428&quot; height=&quot;803&quot; src=&quot;https://www.youtube.com/embed/AFTJipwTZOw&quot; title=&quot;Summer - Theme from the 1999 film “Kikujiro” 🎬 Composed by: Joe Hisaishi. Cover by: Cheng Nie&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;blog-posts&quot;&gt;Blog Posts&lt;/h2&gt;
+
+&lt;p&gt;I wrote 5 blog posts this year (3 in English and 2 in Chinese), now organized into separate sections. Some of them are posted on both my WeChat account (爱学习的运动员) and my website (chengnie.com/blog).&lt;/p&gt;
+
+&lt;p&gt;English posts:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/why-do-i-run/&quot;&gt;Why Do I Run?&lt;/a&gt; in February&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/web2025/&quot;&gt;Modern Web Scraping with AI: A 1-Hour Tutorial&lt;/a&gt; in October&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/chicago2025/&quot;&gt;Chicago Marathon 2025&lt;/a&gt; in October&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Chinese posts:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/cn/letter2003/&quot;&gt;那年的情书&lt;/a&gt; (A love letter from 2003) in January&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/cn/chicago2025/&quot;&gt;2025 芝加哥马拉松&lt;/a&gt; (Chicago Marathon 2025) in October&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;2-what-didnt-go-so-well-this-year&quot;&gt;2. What Didn’t Go So Well This Year?&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Fell Short of Submission Goal&lt;/strong&gt; I aimed to submit 12 papers in 2025 but only achieved 6 submissions—half of my target.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;30-minute daily research challenge broken.&lt;/strong&gt; For the first seven months of the year, I maintained my commitment to spend at least 30 minutes daily on research projects, even while teaching in Rome. However, I broke this streak in August during my time in China. Multiple distractions, combined with stress from an upcoming MISQ revision deadline, made it difficult to focus. I found myself staring at my laptop before bed, unable to make meaningful progress. This marked the end of my daily 30-minute research streak in its fourth year. Upon returning to Ames, I recommitted to my daily research practice. Since then, I’ve maintained consistent progress, working on research projects for at least 30 minutes each day.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Late Sleep Schedule&lt;/strong&gt; My sleep schedule significantly impacts my productivity. When I go to bed after 11 pm, I wake up around 7 am. By the time I have breakfast with the kids and get to the gym, it’s already past 8 am. Sometimes I end up spending the entire morning and part of the afternoon there. However, when I sleep before 10 pm, I can wake up at 5:30 am and arrive at the gym when it opens at 6 am. This allows me to complete my workout and reach my office by 9 am, keeping me on track with my research and teaching responsibilities.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Missed Revision Deadline&lt;/strong&gt; I missed a major revision deadline this year (MISQ). I didn’t allocate sufficient time to the revision, compounded by traveling with my family during that period. Moving forward, I hope to better pace myself with future revisions to achieve a healthier balance between work and family commitments.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;3-what-did-i-learn&quot;&gt;3. What Did I Learn?&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;AI Integration&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;AI has become an invaluable tool across multiple aspects of my life: from writing and reading to coding and even personal counseling. I’m committed to deepening my understanding of AI technologies to further enhance my productivity and well-being.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Running Fundamentals&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Several running books I read this year (including &lt;em&gt;The Running Ground&lt;/em&gt; and &lt;em&gt;Never Finished&lt;/em&gt; mentioned above) helped me return to the fundamentals of running and refine my training approach. With this renewed understanding, I’m confident I can achieve my goal of completing a marathon in under 2 hours and 30 minutes within the next two years.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Learning Through Teaching&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ve discovered that teaching others is the most effective way to solidify my own understanding. Going forward, I plan to share more knowledge about running, writing, and my academic work through conference presentations and other platforms.&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Annual Review" /><summary type="html">Here is my annual review of 2025 to answer the following three questions:</summary></entry><entry xml:lang="cn"><title type="html">我的 2025 年度回顾</title><link href="http://localhost:4000/cn/review2025/" rel="alternate" type="text/html" title="我的 2025 年度回顾" /><published>2026-01-04T00:00:00-06:00</published><updated>2026-01-04T00:00:00-06:00</updated><id>http://localhost:4000/cn/cn-review2025</id><content type="html" xml:base="http://localhost:4000/cn/review2025/">&lt;p&gt;以下是我对 2025 年的年度回顾，主要回答以下三个问题:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;今年有哪些地方做得好？&lt;/li&gt;
+  &lt;li&gt;今年有哪些地方做得不太好？&lt;/li&gt;
+  &lt;li&gt;我学到了什么？&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;1-今年有哪些地方做得好&quot;&gt;1. 今年有哪些地方做得好？&lt;/h1&gt;
+
+&lt;h2 id=&quot;工作&quot;&gt;工作&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;0 篇论文被接收，6 次投稿。&lt;/strong&gt; 我今年向期刊投稿 5 次、会议投稿 1 次，总计 6 次：&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;JMIS: 1&lt;/li&gt;
+      &lt;li&gt;DSS: 1&lt;/li&gt;
+      &lt;li&gt;JAIS: 2&lt;/li&gt;
+      &lt;li&gt;ISR: 1&lt;/li&gt;
+      &lt;li&gt;ICIS: 1&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bootstrap Research Grants。&lt;/strong&gt; 我从 Ivy College of Business 获得了 6000 美元的研究经费（2025 年 12 月），用于支持明年的研究。我将主要用它来提升我的 AI 技能并启动 AI 项目。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;阅读&quot;&gt;阅读&lt;/h2&gt;
+
+&lt;h2 id=&quot;今年读了-55-本书&quot;&gt;今年读了 55 本书&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_book_pages.png&quot; alt=&quot;55 本书&quot; title=&quot;55 本书&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;以下 8 本是我最想推荐的（附上我为每本书写的简短总结）：&lt;/p&gt;
+
+    &lt;p&gt;1. &lt;a href=&quot;/notes/know-my-name&quot;&gt;&lt;em&gt;Know My Name&lt;/em&gt; - by Chanel Miller&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;我钦佩她的勇气和她的写作能力。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;2. &lt;a href=&quot;/notes/wild-swans&quot;&gt;&lt;em&gt;Wild Swans&lt;/em&gt; - by Jung Chang&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;这本书被禁并不令人意外。作者张戎叙事深入。她的记述充分展示了独裁统治对人类社会的破坏性影响。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;3. &lt;a href=&quot;/notes/the-molecule-of-more&quot;&gt;&lt;em&gt;The Molecule Of More&lt;/em&gt; - by Daniel Z. Lieberman &amp;amp; Michael E. Long&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;这本书让我想起许多成功但不满足（不快乐）的人：科比·布莱恩特、埃隆·马斯克、史蒂夫·乔布斯、比尔·盖茨。它也提醒我要坚持每天冥想，这样我才能活在此时此地。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;4. &lt;a href=&quot;/notes/meditations-for-mortals&quot;&gt;&lt;em&gt;Meditations For Mortals&lt;/em&gt; - by Oliver Burkeman&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;作者 Oliver Burkeman 写了我最喜欢的书之一：&lt;a href=&quot;/notes/four-thousand-weeks&quot;&gt;Four Thousand Weeks&lt;/a&gt;。这本新书又是一部佳作。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;5. &lt;a href=&quot;/notes/never-finished&quot;&gt;&lt;em&gt;Never Finished&lt;/em&gt; - by David Goggins&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;我跑出了 2:38:02 的马拉松成绩，我为此感到非常自豪！这本书激励我追求更高的目标——我的下一个目标是 2:30。这是我在书中最喜欢的一句话：”世界需要医生、律师和教师，但我们也需要野蛮人来证明我们都能做到更多。”#neverfinished。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;6. &lt;a href=&quot;/notes/the-running-ground&quot;&gt;&lt;em&gt;The Running Ground&lt;/em&gt; - by Nicholas Thompson&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;这本回忆录对我的训练既有启发又有指导意义。我已经订购了甜菜汁，并将把书中提到的训练方式加入到我平时的训练中。为了提高速度，我打算每周两次针对最大摄氧量(VO2 Max)和乳酸阈值配速(Threshold)的训练。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;7. &lt;a href=&quot;/notes/we-did-ok-kid&quot;&gt;&lt;em&gt;We Did Ok Kid&lt;/em&gt; - by Anthony Hopkins&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;我被他富有音乐性的嗓音折服。我也很欣赏他阐述自己与酒精成瘾的斗争以及他通过戒酒互助会（Alcoholics Anonymous）康复的历程——这为他的故事增添了深刻的意义。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;他父亲对他生活的影响让我印象很深，这让我想起另一本书 &lt;a href=&quot;/notes/the-running-groud&quot;&gt;The Running Ground&lt;/a&gt; 中探讨的父子关系。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;他对自己演戏的执着让我想起科比·布莱恩特对篮球的态度：两人都是通过充分的准备和持续的努力来追求卓越表现。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;8. &lt;a href=&quot;/notes/大江大海一九四九&quot;&gt;&lt;em&gt;大江大海一九四九&lt;/em&gt; - by 龙应台&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;作者以富有同情心的笔触记录了国共内战（1945-1949）：从她母亲的经历开始，延伸到人民解放军和国民党普通士兵的故事。&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;旅行&quot;&gt;旅行&lt;/h2&gt;
+
+&lt;p&gt;今年夏天，我们去了欧洲和中国旅行。&lt;/p&gt;
+
+&lt;h2 id=&quot;夏天在意大利罗马斗兽场外和我的学生一起&quot;&gt;夏天在意大利罗马斗兽场外和我的学生一起&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_rome_colosseum.JPEG&quot; alt=&quot;夏天在意大利罗马斗兽场外&quot; title=&quot;夏天在意大利罗马斗兽场外&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;夏天在意大利罗马斗兽场内&quot;&gt;夏天在意大利罗马斗兽场内&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_rome_colosseum_family.jpeg&quot; alt=&quot;夏天在意大利罗马斗兽场内&quot; title=&quot;夏天在意大利罗马斗兽场内&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;夏天在意大利摩德纳的帕加尼车厂&quot;&gt;夏天在意大利摩德纳的帕加尼车厂&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_modena_pagani.JPEG&quot; alt=&quot;夏天在意大利摩德纳的帕加尼&quot; title=&quot;夏天在意大利摩德纳的帕加尼&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;夏天在意大利庞贝古城&quot;&gt;夏天在意大利庞贝古城&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_pompeii.jpeg&quot; alt=&quot;夏天在意大利庞贝&quot; title=&quot;夏天在意大利庞贝&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;夏天坐游轮游长江&quot;&gt;夏天坐游轮游长江&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_cruise.JPEG&quot; alt=&quot;夏天在长江游轮上&quot; title=&quot;夏天在长江游轮上&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;夏天在中国重庆&quot;&gt;夏天在中国重庆&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_chongqing.JPG&quot; alt=&quot;夏天在中国重庆&quot; title=&quot;夏天在中国重庆&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;跑步&quot;&gt;跑步&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;我今年总共跑了 4328 公里，相当于每天大约 11.9 公里。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2025-年跑步总结&quot;&gt;2025 年跑步总结&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_run.jpg&quot; alt=&quot;2025 年跑步总结&quot; title=&quot;2025 年跑步总结&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;今年完成了 7 个全程马拉松：&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;最快时间：2:38:08&lt;/li&gt;
+      &lt;li&gt;平均时间：2:43:48&lt;/li&gt;
+      &lt;li&gt;标准差：2 分 55 秒&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;序号&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;地点&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;日期&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;时间&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;赛事&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;中国厦门&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2025年1月5日&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:38:08&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;厦门马拉松&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;堪萨斯州奥拉西&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2025年4月26日&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:44:35&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;佳明马拉松&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;南达科他州苏福尔斯&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2025年9月21日&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:45:50&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;苏福尔斯马拉松&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;伊利诺伊州芝加哥&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2025年10月12日&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:40:51&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;芝加哥马拉松&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;佐治亚州梅布尔顿&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2025年10月25日&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:44:40&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Silver Comet 马拉松&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;密苏里州堪萨斯城&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2025年11月16日&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:45:37&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Yeti Endurance 马拉松&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;阿拉巴马州亨茨维尔&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2025年12月14日&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:46:58&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Rocket City 马拉松&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;钢琴课&quot;&gt;钢琴课&lt;/h2&gt;
+
+&lt;p&gt;今年我学习了久石让作曲的两首歌：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Summer - 1999 年电影《菊次郎的夏天》主题曲&lt;/li&gt;
+  &lt;li&gt;Memory - 2008 年电影《入殓师》主题曲&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;1428&quot; height=&quot;803&quot; src=&quot;https://www.youtube.com/embed/AFTJipwTZOw&quot; title=&quot;Summer - Theme from the 1999 film “Kikujiro” 🎬 Composed by: Joe Hisaishi. Cover by: Cheng Nie&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;博客文章&quot;&gt;博客文章&lt;/h2&gt;
+
+&lt;p&gt;今年我写了 5 篇博客文章（3 篇英文，2 篇中文），现在分别放在英文和中文目录下。其中一些文章同时发布在我的微信公众号（爱学习的运动员）和我的个人网站（chengnie.com/blog）上。&lt;/p&gt;
+
+&lt;p&gt;英文文章：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/why-do-i-run/&quot;&gt;Why Do I Run?&lt;/a&gt; 二月&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/web2025/&quot;&gt;Modern Web Scraping with AI: A 1-Hour Tutorial&lt;/a&gt; 十月&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/chicago2025/&quot;&gt;Chicago Marathon 2025&lt;/a&gt; 十月&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;中文文章：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/cn/letter2003/&quot;&gt;那年的情书&lt;/a&gt;（2003 年的一封情书）一月&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/cn/chicago2025/&quot;&gt;2025 芝加哥马拉松&lt;/a&gt; 十月&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;2-今年有哪些地方做得不太好&quot;&gt;2. 今年有哪些地方做得不太好？&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;投稿目标未达成&lt;/strong&gt; 我的目标是在 2025 年投稿 12 次，但只完成了 6 次——只达到目标的一半。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;每天 30 分钟研究时间中断了。&lt;/strong&gt; 今年前七个月，我保持了每天至少花 30 分钟做研究的承诺，即使在意大利罗马教学期间也是如此。但在 8 月我在中国期间打破了这个记录。多重干扰，加上即将到来的 MISQ 修改截止日期的压力，让我很难集中注意力。我发现自己睡前盯着笔记本电脑，却无法取得有意义的进展。这标志着我连续第四年的每日 30 分钟研究记录的结束。回到 Ames 后，我重新开始了每天至少 30 分钟的研究。从九月开始，我一直还保持稳定的进展，每天至少花 30 分钟做研究。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;晚睡习惯&lt;/strong&gt; 我的睡眠时间表严重影响我的工作效率。如果我晚上 11 点后才睡，我会在早上 7 点左右醒来。等我和孩子们一起吃早餐并去健身房时，已经过了早上 8 点。有时我会在那里待一整个上午。但是，如果我在晚上 10 点前睡，我可以在早上 5:30 醒来，并在健身房 6 点开门时到达。这样我可以完成锻炼并在上午 9 点到达办公室，保证我有充分的时间完成研究还有教学的工作。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;错过改稿的截止日期&lt;/strong&gt; 今年我错过了一个重要的改稿截止日期（MISQ）。我没有为修改论文分配足够的时间，再加上那段时间和家人一起旅行。我希望未来能更好地安排好工作，以在工作和生活之间达到更健康的平衡。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;3-我学到了什么&quot;&gt;3. 我学到了什么？&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;整合 AI&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;人工智能 （AI） 已成为我生活中的得力助手：从写作和阅读到编程，甚至个人的心理咨询。我想学习更多的 AI 技术，以进一步提高我的工作效率和幸福感。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;跑步的基本功&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;今年我读的几本有关跑步的书（包括上面提到的 &lt;em&gt;The Running Ground&lt;/em&gt; 和 &lt;em&gt;Never Finished&lt;/em&gt;）帮助我回归到跑步的基础。我开始完善我的训练方法。有了这种新的理解，我相信我可以在未来两年内实现在 2 小时 30 分钟内完成马拉松的目标。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;教学相长&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;我发现教别人是巩固自己理解的最有效方法。我计划通过会议演讲和其他平台分享更多关于跑步、写作和学术工作的知识。&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="年度回顾" /><summary type="html">以下是我对 2025 年的年度回顾，主要回答以下三个问题:</summary></entry><entry xml:lang="en"><title type="html">Chicago Marathon 2025</title><link href="http://localhost:4000/chicago2025/" rel="alternate" type="text/html" title="Chicago Marathon 2025" /><published>2025-10-18T00:00:00-05:00</published><updated>2025-10-18T00:00:00-05:00</updated><id>http://localhost:4000/chicago2025</id><content type="html" xml:base="http://localhost:4000/chicago2025/">&lt;h1 id=&quot;chicago-marathon-2025-&quot;&gt;Chicago Marathon 2025 🏅&lt;/h1&gt;
 
 &lt;p&gt;On October 12, 2025, I completed the Chicago Marathon. The race tested not only my physical endurance but also my mental resilience and race strategy. Here are my reflections on what went well, what I can improve, and the memorable moments along the way.&lt;/p&gt;
 
@@ -191,7 +721,350 @@
 
 &lt;p&gt;回到家后，还有个小惊喜：太太告诉我，苏福尔斯马拉松（2025 年 9 月 21 日）寄来了 200 美元的支票，奖励我总排名季军——我的第一笔奖金！🥉💵🙌&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/files/pics/chicago2025_8.jpg&quot; alt=&quot;苏福尔斯马拉松季军奖金&quot; /&gt;&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Running" /><summary type="html">2025 芝加哥马拉松 🏅</summary></entry><entry xml:lang="en"><title type="html">Why Do I Run?</title><link href="http://localhost:4000/why-do-i-run/" rel="alternate" type="text/html" title="Why Do I Run?" /><published>2025-02-01T00:00:00-06:00</published><updated>2025-02-01T00:00:00-06:00</updated><id>http://localhost:4000/why-do-i-run</id><content type="html" xml:base="http://localhost:4000/why-do-i-run/">&lt;p&gt;I run for the dopamine rush and the health benefits.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/chicago2025_8.jpg&quot; alt=&quot;苏福尔斯马拉松季军奖金&quot; /&gt;&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Running" /><summary type="html">2025 芝加哥马拉松 🏅</summary></entry><entry xml:lang="en"><title type="html">Modern Web Scraping with AI: A 1-Hour Tutorial</title><link href="http://localhost:4000/web2025/" rel="alternate" type="text/html" title="Modern Web Scraping with AI: A 1-Hour Tutorial" /><published>2025-10-06T00:00:00-05:00</published><updated>2025-10-06T00:00:00-05:00</updated><id>http://localhost:4000/web2025</id><content type="html" xml:base="http://localhost:4000/web2025/">&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In this tutorial, we’ll explore how AI-powered tools like GitHub Copilot have revolutionized web scraping. Instead of manually writing complex parsing logic, we’ll leverage AI to help us quickly build robust scrapers that can collect, parse, and save data from websites.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What you’ll learn:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Setting up GitHub Copilot with VS Code&lt;/li&gt;
+  &lt;li&gt;Using AI prompts to generate web scraping code&lt;/li&gt;
+  &lt;li&gt;Extracting data from a real website&lt;/li&gt;
+  &lt;li&gt;Handling common challenges (rate limiting, blocking)&lt;/li&gt;
+  &lt;li&gt;Ethics and best practices&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Basic Python knowledge&lt;/li&gt;
+  &lt;li&gt;VS Code installed&lt;/li&gt;
+  &lt;li&gt;GitHub account&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;1-setup-github-copilot--vs-code-10-minutes&quot;&gt;1. Setup: GitHub Copilot + VS Code (10 minutes)&lt;/h2&gt;
+
+&lt;h3 id=&quot;install-vs-code&quot;&gt;Install VS Code&lt;/h3&gt;
+&lt;p&gt;If you don’t have VS Code installed:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Download from: &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;https://code.visualstudio.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Install the Python extension: &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-python.python&quot;&gt;https://marketplace.visualstudio.com/items?itemName=ms-python.python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;setup-github-copilot&quot;&gt;Setup GitHub Copilot&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Subscribe to GitHub Copilot:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Visit: &lt;a href=&quot;https://github.com/features/copilot&quot;&gt;https://github.com/features/copilot&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Get free access if you’re a student/teacher: &lt;a href=&quot;https://education.github.com/pack&quot;&gt;https://education.github.com/pack&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Install GitHub Copilot Extension:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Open VS Code&lt;/li&gt;
+      &lt;li&gt;Go to Extensions (Ctrl+Shift+X). Mac users need to replace Ctrl with Cmd for the shortcuts in this document.&lt;/li&gt;
+      &lt;li&gt;Search for “GitHub Copilot”&lt;/li&gt;
+      &lt;li&gt;Install the official extension by GitHub&lt;/li&gt;
+      &lt;li&gt;Install “GitHub Copilot Chat” as well&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Authenticate:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Press Ctrl+Shift+P and type “GitHub Copilot: Sign In”&lt;/li&gt;
+      &lt;li&gt;Follow the authentication flow&lt;/li&gt;
+      &lt;li&gt;In VS Code, open Copilot Chat with Ctrl+Shift+I&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-project-setup-5-minutes&quot;&gt;2. Project Setup (5 minutes)&lt;/h2&gt;
+
+&lt;h3 id=&quot;create-project-structure&quot;&gt;Create Project Structure&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Step 1: Create a new folder for your project&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Create a new folder called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tutorial&lt;/code&gt; on your desktop or preferred location&lt;/li&gt;
+  &lt;li&gt;Open this folder in VS Code (File → Open Folder)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2: Set up Python virtual environment&lt;/strong&gt;
+A virtual environment creates an isolated Python workspace that prevents package conflicts between different projects and keeps your system Python installation clean.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Open the VS Code terminal (Terminal → New Terminal)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;For Mac/Linux users:&lt;/strong&gt; Run these commands one by one:
+    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python &lt;span class=&quot;nt&quot;&gt;-m&lt;/span&gt; venv crawl
+&lt;span class=&quot;nb&quot;&gt;source &lt;/span&gt;crawl/bin/activate
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;For Windows users:&lt;/strong&gt; Run these commands one by one:
+    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python &lt;span class=&quot;nt&quot;&gt;-m&lt;/span&gt; venv crawl
+crawl&lt;span class=&quot;se&quot;&gt;\S&lt;/span&gt;cripts&lt;span class=&quot;se&quot;&gt;\a&lt;/span&gt;ctivate
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;You should see &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;(crawl)&lt;/code&gt; appear at the beginning of your terminal prompt, indicating the virtual environment is active&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ai-prompt-for-dependencies&quot;&gt;AI Prompt for Dependencies&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Select the “Agent” mode&lt;/li&gt;
+  &lt;li&gt;Pick the model you want to use. I use the latest Claude.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;I&apos;m building a web scraper in Python virtual environment crawl.
+What packages should I install for modern web scraping?
+I want to scrape HTML, handle JavaScript-rendered pages, save to CSV,
+and be respectful with rate limiting.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-target-website-selection-5-minutes&quot;&gt;3. Target Website Selection (5 minutes)&lt;/h2&gt;
+
+&lt;p&gt;For this tutorial, we’ll scrape &lt;strong&gt;Books to Scrape&lt;/strong&gt; (&lt;a href=&quot;https://books.toscrape.com/&quot;&gt;https://books.toscrape.com/&lt;/a&gt;), a website specifically designed for scraping practice.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why this website?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;✅ Legal and ethical to scrape&lt;/li&gt;
+  &lt;li&gt;✅ No authentication required&lt;/li&gt;
+  &lt;li&gt;✅ Structured data (titles, prices, ratings)&lt;/li&gt;
+  &lt;li&gt;✅ Multiple pages for pagination practice&lt;/li&gt;
+  &lt;li&gt;✅ No aggressive blocking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Alternative websites:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Quotes to Scrape: &lt;a href=&quot;http://quotes.toscrape.com/&quot;&gt;http://quotes.toscrape.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-building-the-scraper-with-ai-25-minutes&quot;&gt;4. Building the Scraper with AI (25 minutes)&lt;/h2&gt;
+
+&lt;h3 id=&quot;step-1-basic-page-fetching&quot;&gt;Step 1: Basic Page Fetching&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Write a Python code book.py to fetch the HTML content from &quot;https://books.toscrape.com/&quot;.
+Include proper error handling and user agent headers to be respectful.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Expected code structure:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;requests&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;bs4&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;BeautifulSoup&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;time&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;csv&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;fetch_page&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;headers&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;s&quot;&gt;&apos;User-Agent&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&apos;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&apos;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;response&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;requests&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;headers&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;headers&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;raise_for_status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;text&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;except&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;requests&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;RequestException&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;sa&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Error fetching &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;step-2-parse-book-data&quot;&gt;Step 2: Parse Book Data&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Parse the HTML from books.toscrape.com to extract book information.
+I need: title, price, rating (stars), and availability.
+Use BeautifulSoup and return a list of dictionaries.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;step-3-handle-pagination&quot;&gt;Step 3: Handle Pagination&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Modify the scraper to handle pagination on books.toscrape.com.
+The site has &quot;Next&quot; buttons to navigate through pages.
+Scrape all books from all pages and combine the results.
+Use a timer to show how long the program takes to finish.
+Save the scraped book data to a CSV file with proper column headers.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;complete-example-structure&quot;&gt;Complete Example Structure:&lt;/h3&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;parse_book_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;html&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;# AI will generate BeautifulSoup parsing logic
+&lt;/span&gt;    &lt;span class=&quot;k&quot;&gt;pass&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;scrape_all_books&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;# AI will generate pagination handling
+&lt;/span&gt;    &lt;span class=&quot;k&quot;&gt;pass&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;save_to_csv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;books_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;books.csv&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;# AI will generate CSV saving logic
+&lt;/span&gt;    &lt;span class=&quot;k&quot;&gt;pass&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;__main__&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;books&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;scrape_all_books&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;save_to_csv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;books&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;sa&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Scraped &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;books&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s&quot;&gt; books successfully!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-improving-the-code-with-ai-10-minutes&quot;&gt;5. Improving the Code with AI (10 minutes)&lt;/h2&gt;
+
+&lt;h3 id=&quot;data-types-in-csv&quot;&gt;Data types in CSV&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;When saving the CSV file, make sure to change the price and rating to numeric values,
+and use 1 for being available and 0 for out of stock.
+Make sure to fetch all pages and all books.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;performance-optimization&quot;&gt;Performance Optimization&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Optimize my web scraper for better performance.
+Add concurrent requests using threading or async programming while maintaining rate limits.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;documentation&quot;&gt;Documentation&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Create a README.MD to explain the project.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;handling-rate-limiting&quot;&gt;Handling Rate Limiting&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Add rate limiting to my web scraper to be respectful to the server.
+Add random delays between requests and implement exponential backoff for failed requests.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;bypassing-basic-blocks&quot;&gt;Bypassing Basic Blocks&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;My scraper is getting blocked.
+Help me add rotation of user agents, session handling, and proxy support
+to make it more robust against basic anti-bot measures.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;adding-robust-error-handling&quot;&gt;Adding Robust Error Handling&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Improve error handling in my scraper.
+Add logging, retry logic for network failures, and graceful handling of parsing errors.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;6-ethics-and-legal-considerations-5-minutes&quot;&gt;6. Ethics and Legal Considerations (5 minutes)&lt;/h2&gt;
+
+&lt;h3 id=&quot;the-golden-rules&quot;&gt;The Golden Rules&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Always check robots.txt&lt;/strong&gt; first: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;website.com/robots.txt&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Respect rate limits&lt;/strong&gt; - don’t overwhelm servers&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Read Terms of Service&lt;/strong&gt; - some sites prohibit scraping&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Don’t scrape personal/private data&lt;/strong&gt; without permission&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Use official APIs&lt;/strong&gt; when available&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;prompt-for-ethics-check&quot;&gt;Prompt for Ethics Check:&lt;/h3&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;I want to scrape [website]. Help me check if this is ethical and legal.
+What should I look for in their robots.txt and terms of service?
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;good-practices&quot;&gt;Good Practices:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;✅ Start with small-scale testing&lt;/li&gt;
+  &lt;li&gt;✅ Cache responses to avoid re-scraping&lt;/li&gt;
+  &lt;li&gt;✅ Identify yourself with proper User-Agent&lt;/li&gt;
+  &lt;li&gt;✅ Use official APIs when available&lt;/li&gt;
+  &lt;li&gt;❌ Don’t scrape copyrighted content for commercial use&lt;/li&gt;
+  &lt;li&gt;❌ Don’t ignore robots.txt directives&lt;/li&gt;
+  &lt;li&gt;❌ Don’t overwhelm servers with rapid requests&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;7-troubleshooting-common-issues&quot;&gt;7. Troubleshooting Common Issues&lt;/h2&gt;
+
+&lt;h3 id=&quot;problem-403-forbidden-or-429-too-many-requests&quot;&gt;Problem: “403 Forbidden” or “429 Too Many Requests”&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;My scraper is getting 403/429 errors.
+Help me implement proper rate limiting, user agent rotation,
+and session management to handle this respectfully.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;problem-javascript-rendered-content&quot;&gt;Problem: JavaScript-Rendered Content&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The website loads content with JavaScript.
+Help me use Selenium WebDriver to scrape dynamic content that&apos;s not in the initial HTML.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;problem-captchas-or-complex-anti-bot&quot;&gt;Problem: CAPTCHAs or Complex Anti-Bot&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Ethical Response:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Don’t try to bypass CAPTCHAs&lt;/li&gt;
+  &lt;li&gt;Look for official APIs instead&lt;/li&gt;
+  &lt;li&gt;Contact the website owner for permission&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;8-hands-on-exercise-remaining-time&quot;&gt;8. Hands-On Exercise (Remaining Time)&lt;/h2&gt;
+
+&lt;h3 id=&quot;your-turn&quot;&gt;Your Turn!&lt;/h3&gt;
+
+&lt;p&gt;Create some prompt to analyze the csv file of books using jupyter notebooks.&lt;/p&gt;
+
+&lt;p&gt;What if I do want to save the pictures of the books?&lt;/p&gt;
+
+&lt;p&gt;Pick one of these websites and use AI to help you build a scraper:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Quotes to Scrape&lt;/strong&gt;: &lt;a href=&quot;http://quotes.toscrape.com/&quot;&gt;http://quotes.toscrape.com/&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Extract: quote text, author, tags&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hacker News&lt;/strong&gt;: &lt;a href=&quot;https://news.ycombinator.com/&quot;&gt;https://news.ycombinator.com/&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Extract: story titles, scores, comment counts&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Wikipedia Recent Changes&lt;/strong&gt;: &lt;a href=&quot;https://en.wikipedia.org/wiki/Special:RecentChanges&quot;&gt;https://en.wikipedia.org/wiki/Special:RecentChanges&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Extract: page titles, edit summaries, timestamps&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Prompting Strategy:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Start with: “Help me scrape [website] to extract [specific data]”&lt;/li&gt;
+  &lt;li&gt;Ask for improvements: “Make this more robust against errors”&lt;/li&gt;
+  &lt;li&gt;Add features: “Add data cleaning and validation”&lt;/li&gt;
+  &lt;li&gt;Optimize: “How can I make this faster while being respectful?”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;key-takeaways&quot;&gt;Key Takeaways&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;AI accelerates development&lt;/strong&gt; - What used to take hours now takes minutes&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Start with clear prompts&lt;/strong&gt; - Be specific about what you want to extract&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Iterate and improve&lt;/strong&gt; - Use AI to continuously enhance your code&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ethics first&lt;/strong&gt; - Always scrape responsibly and legally&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;APIs are usually better&lt;/strong&gt; - When available, use official APIs instead&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;resources-for-continued-learning&quot;&gt;Resources for Continued Learning&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Hands-On Large Language Models&lt;/strong&gt;: &lt;a href=&quot;https://a.co/d/bK30tce&quot;&gt;https://a.co/d/bK30tce&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Github Copilot Tutorial&lt;/strong&gt;: &lt;a href=&quot;https://www.youtube.com/watch?v=SJqGYwRq0uc&quot;&gt;https://www.youtube.com/watch?v=SJqGYwRq0uc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Claude Code&lt;/strong&gt;: &lt;a href=&quot;https://www.claude.com/product/claude-code&quot;&gt;https://www.claude.com/product/claude-code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Explore advanced AI tools (Claude Code, Cursor, Windsurf, GPT-5, Gemini etc.)&lt;/li&gt;
+  &lt;li&gt;Learn about headless browsers and browser automation&lt;/li&gt;
+  &lt;li&gt;Practice on scraping-friendly websites&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="tools" /><summary type="html">Overview In this tutorial, we’ll explore how AI-powered tools like GitHub Copilot have revolutionized web scraping. Instead of manually writing complex parsing logic, we’ll leverage AI to help us quickly build robust scrapers that can collect, parse, and save data from websites.</summary></entry><entry xml:lang="en"><title type="html">Why Do I Run?</title><link href="http://localhost:4000/why-do-i-run/" rel="alternate" type="text/html" title="Why Do I Run?" /><published>2025-02-01T00:00:00-06:00</published><updated>2025-02-01T00:00:00-06:00</updated><id>http://localhost:4000/why-do-i-run</id><content type="html" xml:base="http://localhost:4000/why-do-i-run/">&lt;p&gt;I run for the dopamine rush and the health benefits.&lt;/p&gt;
 
 &lt;p&gt;We pursue many activities for the dopamine rush—food, sex, adventure, and more. Unfortunately, not all dopamine-inducing habits are healthy; some, like casual hookups, alcohol, drugs, and pornography, can lead to negative outcomes. That’s why I choose exercise for a healthier dopamine boost.&lt;/p&gt;
 
@@ -473,8 +1346,8 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://chengnie.com/mantra/&quot;&gt;My Mantra&lt;/a&gt; in September&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://chengnie.com/how-do-i-read/&quot;&gt;How do I read&lt;/a&gt; in August&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/jiangnan2024/&quot;&gt;江南创业史&lt;/a&gt; in June&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/gww2023/&quot;&gt;记一次吵架&lt;/a&gt; in January&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/cn/jiangnan2024/&quot;&gt;江南创业史&lt;/a&gt; in June&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/cn/gww2023/&quot;&gt;记一次吵架&lt;/a&gt; in January&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;2-what-didnt-go-so-well-this-year&quot;&gt;2. What Didn’t Go So Well This Year?&lt;/h1&gt;
@@ -705,541 +1578,4 @@
 
 &lt;h2 id=&quot;keepng-lists&quot;&gt;Keepng lists&lt;/h2&gt;
 
-&lt;p&gt;Maintaining a list of books to read and those I’ve read keeps me motivated. Participating in reading challenges since 2016, I’ve gradually increased my annual goal from 12 books in 2016 to &lt;a href=&quot;https://www.goodreads.com/user_challenges/47883724&quot;&gt;52 this year&lt;/a&gt;.&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Reading" /><summary type="html">TL;DR (Too long; Didn’t read) version: audiobook</summary></entry><entry xml:lang="cn"><title type="html">江南创业史</title><link href="http://localhost:4000/cn/jiangnan2024/" rel="alternate" type="text/html" title="江南创业史" /><published>2024-06-19T00:00:00-05:00</published><updated>2024-06-19T00:00:00-05:00</updated><id>http://localhost:4000/cn/cn-jiangnan2024</id><content type="html" xml:base="http://localhost:4000/cn/jiangnan2024/">&lt;p&gt;你可以点击下面的按钮来收听全文约半小时的内容。&lt;/p&gt;
-
-&lt;head&gt;
-    &lt;title&gt;Play Button Example&lt;/title&gt;
-    &lt;style&gt;
-        #playButton {
-            background-color: #007BFF; /* Blue background */
-            border: none; /* No borders */
-            color: white; /* White text */
-            padding: 10px 15px; /* Some padding */
-            text-align: center; /* Centered text */
-            text-decoration: none; /* No underline */
-            display: inline-block; /* Inline block element */
-            font-size: 16px; /* Some font size */
-            margin: 4px 2px; /* Some margin */
-            cursor: pointer; /* Pointer/hand icon */
-            border-radius: 10px; /* Slightly rounded corners */
-        }
-
-        #playButton:before {
-            content: &quot;▶&quot;; /* Unicode play symbol */
-            font-size: 20px; /* Larger icon size */
-        }
-    &lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;audio id=&quot;myAudio&quot;&gt;
-        &lt;source src=&quot;/files/audio/jiangnan2024.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-        Your browser does not support the audio element.
-    &lt;/audio&gt;
-    &lt;button id=&quot;playButton&quot; onclick=&quot;playAudio()&quot;&gt;点击播放全文语音(34分钟)&lt;/button&gt;
-    &lt;script&gt;
-        function playAudio() {
-            var audio = document.getElementById(&quot;myAudio&quot;);
-            audio.play();
-        }
-    &lt;/script&gt;
-&lt;/body&gt;
-
-&lt;p&gt;我在2023至2024期间采访了我岳父甘江南，这篇文章算是他对自己五十年生活的总结。本文分为四个章节：&lt;/p&gt;
-
-&lt;blockquote&gt;
-
-  &lt;p&gt;第一章：14岁右手伤残&lt;/p&gt;
-
-  &lt;p&gt;第二章：29岁开始创业&lt;/p&gt;
-
-  &lt;p&gt;第三章：44岁创办江南宾馆&lt;/p&gt;
-
-  &lt;p&gt;第四章：64岁退出江湖&lt;/p&gt;
-
-&lt;/blockquote&gt;
-
-&lt;p&gt;甘江南重要事记：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1959年8月初5（阳历9月7日），出生于公安县甘家厂乡东升村。&lt;/li&gt;
-  &lt;li&gt;1973年8月，右前臂粉碎性骨折。&lt;/li&gt;
-  &lt;li&gt;1976年6月，开始从事长江水上运输工作，起初售卖船票，后来担任小货船的船长。&lt;/li&gt;
-  &lt;li&gt;1981年7月5日，与陈章英领证结婚&lt;/li&gt;
-  &lt;li&gt;1988年3月，离开单位，在公安县夹竹园镇经营江南酒家。&lt;/li&gt;
-  &lt;li&gt;1993年7月，在斗湖堤镇经营印工餐馆，搬离夹竹园镇。&lt;/li&gt;
-  &lt;li&gt;1997年9月，开始经营江南酒楼。&lt;/li&gt;
-  &lt;li&gt;2000年初，创办江南大酒店。&lt;/li&gt;
-  &lt;li&gt;2003年6月，开始集资筹办江南宾馆，并于2004年4月28日正式开业。&lt;/li&gt;
-  &lt;li&gt;2023年5月，注销江南宾馆有限责任公司，将江南宾馆出租给一些老员工经营。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;第一章14岁右手残疾&quot;&gt;第一章：14岁右手残疾&lt;/h1&gt;
-
-&lt;p&gt;甘江南，本名甘辉武，1959年8月初5（阳历9月7日）出生于湖北省公安县甘家厂乡的东升村。公安县位于湖北省的南部，与湖南省接壤。他的父母差不多每两年会生一个孩子，总共生了十个，可惜最早的两个夭折。八个幸存的孩子里（四男四女），甘江南排行第二。他有一个大他两岁的哥哥甘辉文（又名甘海南），一个弟弟甘辉明（又名甘河南），和最小的弟弟甘辉亮（又名甘四平）。他的四个妹妹分别叫甘辉英，甘辉梅，甘辉菊，甘辉蓉。&lt;/p&gt;
-
-&lt;p&gt;甘家的孩子众多、经济压力大，再加上父亲热衷于打牌赌钱，一大家子人都挤在甘家厂乡的一座土墙房子里。房子是用水田里晒干的泥巴砖砌成的。由于没钱购买瓦片，他们只能用蒿草铺开当做屋顶，用以挡风遮雨。每次下雨，屋顶都会漏水，家里人只能用盆盆罐罐接住雨水，夜晚伴着屋外的风声和雨滴的响声入睡。清贫的家境让十一二岁的甘江南产生了改变家庭的决心。他希望靠自己的能力挣钱，帮助家里渡过难关。那时，他们家很少能吃到白米饭，主食一般都是细糠、红薯、豌豆和地米菜（荠菜），而这些食物通常是用来喂猪的。&lt;/p&gt;
-
-&lt;p&gt;尽管家在农村，但甘江南一家拥有城市户口，因为他父母在孟家溪镇（离甘家厂乡以北约13公里）的一家水路运输单位工作。那时候，他们家的收入主要依赖于父母的工资。但家中经济紧张，为了减轻家庭负担，仅有十二三岁的甘江南就开始为农村生产队收集鸡鸭粪便作肥料，换取一些钱和粮食。他的生活非常艰辛，每天早上天不亮就得起床准备早饭和午饭，然后上学。放学后，他还得砍柴、烧火做饭。读初中时，大部分同学都带白米饭当午餐，而他因为家境贫寒，只能带菜饭（一种将菜和饭混合到一起的食物），或者吃同学剩下的食物。他有个同学叫路圣忠，午餐常常带白米饭，而甘江南只有菜饭，他俩有时会交换食物，路圣忠吃菜饭，甘江南吃白米饭。后来，路圣忠的家长得知后，要他不要再跟甘江南换着吃。之后他俩只能跑到没人的地方偷偷地换着吃。乡里的生产队知道甘江南家穷，尽管他还不到14岁，有时也会叫上他一起参加劳动，这样也给了他机会为家里挣一些公分，补贴家用。&lt;/p&gt;
-
-&lt;p&gt;1973年8月的一天，生产队叫甘江南去轧棉花，他就和那些大人们一起去劳动。轧棉花的机器是由柴油机驱动的，主要用于把采摘来的生棉分离成棉籽和棉花。这项任务需要几十个人共同合作。甘江南的工作就是把生棉放到机器中处理，然后将分离好的棉花从机器出口取出，装进袋子。一次，甘江南取出轧好的棉花，正要转身去装袋时，因地面不平导致他一脚踩空。身体失去平衡后，他的右手被卷入了机器侧面正在运转的传送皮带，裤子也被齿轮撕裂。旁边的人看到这一情况，赶紧呼喊关掉机器。只可惜为时已晚，机器终于停下时，他的右前臂已经基本被切断，仅通过一层薄薄的表皮连接着手肘部分，血源源不断地流出。看到这一幕，所有人都吓坏了。&lt;/p&gt;
-
-&lt;p&gt;甘江南疼得晕了过去。生产队的人帮他简单包扎后，把他送到了甘家厂乡医院。那里的医生表示他们无法处理这类重伤，建议他尽快转到更好的医院。由于缺乏救护车，生产队的长辈们就用躺椅抬着他，走了几十里路（徒步距离大约45公里）到湖南省津市的市医院。到达时已是次日中午。医生检查了他的伤口后说，前臂的两根骨头已粉碎性骨折，很多神经已经断裂。他们给甘江南消毒并上了石膏，并表示需要观察，看是否能自然恢复。&lt;/p&gt;
-
-&lt;p&gt;七天后，医生们打开石膏，却发现甘江南右前臂上的肉已经开始腐烂。医生跟甘江南的父亲建议要截肢，把前臂及右手完全切除。甘江南的父亲询问他的意见，但是甘江南坚决不同意截肢。津市市医院的医生因此表示无法提供进一步治疗。随后，甘江南转至湖南省的长沙医院。那里的医生也同样认为必须截肢。尽管多家医院建议截肢，甘江南始终不同意。最终，他们决定离开长沙医院，返回甘家厂乡。这一连串的就医转院过程花了差不多两个月。由于甘江南是因工受伤，生产队承担了当时的医药费。&lt;/p&gt;
-
-&lt;p&gt;出院时，甘江南的前臂仍在腐烂，医生建议他每天更换纱布以促进愈合。每次换纱布都伴随着刺鼻的腐臭。幸运的是，他的一位舅爷（奶奶的弟弟）家附近有位擅长治疗此类伤病的草药医生乔医生。这位舅爷住在湖南省安乡县，离甘家厂乡东南方向大约40多公里。为了接受治疗，甘江南暂时搬到了这位舅爷家里。乔医生认为甘江南的伤不会危机生命，只要坚持更换纱布和药物，就能控制腐烂。他几乎每天上门为甘江南换药和包扎。虽然乔医生无法做骨头矫正，但他用抗生素防止了进一步的腐烂，并清理出一些碎骨头。每次换药，甘江南都会因为剧痛而流泪。&lt;/p&gt;
-
-&lt;p&gt;在舅爷家治疗了大半年后，甘江南学会了自己换药包扎。随着时间的推移，伤口腐烂也逐渐得到控制。虽然右前臂那两根骨头在慢慢愈合，然而右手的恢复情况并不理想。五根手指中，只有中指的血液流动较为正常，无名指和小指血液循环有限。最糟糕的是拇指和食指，这两根手指异常冰凉，几乎感觉不到血液流动。&lt;/p&gt;
-
-&lt;p&gt;甘江南在学会了如何处理前臂的伤口后，离开了舅爷家，返回了自己的家。他将残疾的右手用纱布挂在脖子上，重新回到学校继续学习。前臂受伤时，他正要读初二。伤愈期间，他的同学已升到高一，那时候的初中一共是两年，高中也是两年。因为缺席了一年，甘江南担心跟不上高一的进度，因此选择留级读初二。这段时间，他只能依赖左手。老师和同学都笑称他为”一把手”。由于小时候习惯用右手写字，重返学校后，他很难适应用左手写字。&lt;/p&gt;
-
-&lt;p&gt;尽管甘江南的学习成绩一般，但出于对他的同情，初中老师们还是帮他进入了高中。文革期间，他没能学到多少知识。高中时，他仍未掌握用左手书写的技能，最终只能勉强用右手写字。那时他正处于发育期，由于受伤导致供血不足，右臂长得比左臂短一些、右手也小一些。&lt;/p&gt;
-
-&lt;p&gt;未完成高中学业，甘江南在17岁时就开始了正式工作。他的父母当时在孟家溪镇的一个水路运输单位工作。他父亲读过一两年私塾，负责管理单位的财务。他母亲不识字，负责卖船票。船票收入一般由他父亲临时保管，然后定期上交给单位。那时，人们要通过人工划的小木船来过长江沿线的一些支流。船票一般是每人2分钱，夏天由于河面宽，票价会上涨到3分钱。甘江南的第一份正式工作就是在黄金堤（甘家厂乡上游的一个地方）卖过虎渡河的船票。&lt;/p&gt;
-
-&lt;p&gt;甘江南的父亲从不做家务，但情商高，善于言谈，与单位领导关系相处得很好。他父亲爱打牌赌钱，尤其喜欢麻将和当地的花牌，因此经常不在家，家里的大小事务都由他母亲操持。他父亲还曾因赌钱被抓，被带着高帽游街示众。1980年前后，水运单位的领导审查账目时发现，他父亲经常从单位的账户中挪用资金，累计欠下了7000元的公款。当时他父亲的工资每月约为50元。他父亲无力填补7000元公款的缺口，于是对孩子们说：”父债子还。我养大你们，这些钱是为了你们才挪用的，你们得帮我还。”甘江南回答说：”如果你不打牌赌钱，我们应该还这些钱。但这钱究竟是你输掉的，还是用到了我们身上？上梁不正下梁歪，你没带好头！”他父亲听后大发雷霆，要打他，说他反上、说他不孝。这笔债务最终由甘江南偿还了大部分，他的哥哥和大妹妹也帮忙还了一小部分。1982年，甘江南的大女儿甘薇薇出生，他领取独生子女证并得到了约360元的奖金。甘江南也将这些奖金拿去为父亲还债了。&lt;/p&gt;
-
-&lt;p&gt;甘江南觉得卖船票的工作没有前途，而且他伤残的右手也不方便去做划船的工作。他担心单位会因为他残疾而消减工资，所以他从未向领导抱怨自己的困难，尽职做好自己的工作。这种经历让他习惯了自己解决问题，而不向家人朋友抱怨。后来，甘江南发现，开机动货船主要依靠掌舵技巧，即便他右手不如左手强壮，但是掌舵还是绰绰有余的。因此，他最终选择了驾驶机动船，在长江上下游进行货物运输，运送包括粗沙，石头，煤炭和粮食等各种货物。&lt;/p&gt;
-
-&lt;p&gt;成年后，大多数了解甘江南情况的女青年，都嫌弃他手残，不愿意与他交往。19岁时，经人介绍，甘江南有了一个来自农村的女朋友。但由于家境贫困，甘江南没钱买礼物送给女方家里，也无法在端午节和中秋节等节日向女友家人有所表示。这段恋情最终也不了了之了。&lt;/p&gt;
-
-&lt;p&gt;1979年，甘江南认识了比他小三岁的陈章英。当时陈章英不到17岁，面容姣好，也同是甘家厂乡人。那时，她刚刚被公安县针织厂招为女工，转成了城市户口。甘江南向陈章英坦白了自己手臂的残疾，并对她展开了猛烈的追求。他对陈章英的外貌和她的城市户口特别满意。两人交往了大约两年后，于1981年7月5日登记结婚。结婚前还有一段小插曲。陈章英当时还在犹豫是否要嫁给甘江南。甘江南曾告诉她：”如果你不想和我结婚，那也可以。但你需要还我在你身上花的钱，你不能欺骗我。如果你欺骗我，我就用雷管和你同归于尽。”最终，陈章英同意了结婚。由于经济困难，他俩结婚时没有任何仪式，也没有房子，除了身上穿着的衣服，甚至连换洗的衣服也没有。&lt;/p&gt;
-
-&lt;h2 id=&quot;1979年的甘江南&quot;&gt;1979年的甘江南&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;1980年左右的甘江南和陈章英&quot;&gt;1980年左右的甘江南和陈章英&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;甘江南年轻时长相英俊，而且善于言辞。他对每位长辈都非常尊敬，称呼他们为叔叔阿姨，这些长辈也都愿意把一些拉货的业务交给他。例如，单位的船队需要将货物送至上海，甘江南到上海后会通过打点关系，争取获得新的返程货运订单。所谓的打点关系，就是买些糯米、香油、糖之类的礼品送给管事的叔叔阿姨，询问是否有其他的业务。甘江南会将打点关系的开支找单位报销。如果没有这些返程的订单，他们就只能空船返回。有了这些额外的业务，船队便能赚取一些外快，收益由船队全员共享。当时孟家溪镇水运有三支船队，每支船队都按多劳多得的原则单独核算。甘江南的工作能力强，为自己的船队创造了很多利润。然而，这也引来了一些同事的猜忌。有人背后议论他，说他报销的凭证是假发票，这让甘江南感到很受伤。后来，孟家溪镇水运调整了他们的奖励模式，停止了对打点关系所产生花费的报销，以及全员分享额外收入的做法。他们引入了一种新的激励制度：任何能为船队创造额外利润的员工，都会得到这份利润的2%作为奖励。因此，甘江南的收入情况变得更为公开透明。从那以后，对他的质疑和非议就再也没有出现过。&lt;/p&gt;
-
-&lt;h2 id=&quot;1981年结婚照&quot;&gt;1981年结婚照&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;1982年陈章英怀着大女儿甘薇薇&quot;&gt;1982年陈章英怀着大女儿甘薇薇&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;单位改制后，甘江南继续从事长江上的货物运输工作，收入相对稳定。然而，由于他常年在外航行，每次行程可能长达一至三个月，每次回家仅有两三天，这让他几乎没有时间与妻子和女儿们相处。结婚前，陈章英已辞去了针织厂的工作。1982年8月18日（阴历6月29），女儿甘薇薇出生。为了让全家人能够在一起，陈章英决定带着孩子与甘江南一起在船上生活。甘江南负责掌舵开船，陈章英则负责为船员烧火做饭，照顾幼小的女儿。女儿两岁左右时，陈章英再次怀孕。1985年8月6日（阴历6月20），小女儿甘萍萍出生了。小女儿出生后，夫妇俩不得不将近三岁的大女儿托付给外公外婆照料，而将还在襁褓中的小女儿带到船上照顾。为了防止小女儿在船上到处乱跑或掉入长江溺水，陈章英在忙碌时会用绳子把小女儿拴在船上。小女儿身体孱弱，经常生病，而在船上看医生也不方便。这迫使陈章英不得不带孩子上岸，回到孟家溪镇悉心照料。这样一来，一家四口分散在三处，聚少离多，生活变得异常艰难。&lt;/p&gt;
-
-&lt;p&gt;甘江南深知长时间分离对整个家庭都会带来不利影响，因此一直在思考如何改变这种状况。他渴望一家人能够团聚在一起生活。到了1988年，这样的机会终于来临了。&lt;/p&gt;
-
-&lt;h1 id=&quot;第二章29岁开始创业&quot;&gt;第二章：29岁开始创业&lt;/h1&gt;
-
-&lt;p&gt;1987年下半年，甘江南的大妹妹甘辉英提议他到夹竹园镇开餐馆。她在那里有一套店铺，一直出租给别人开餐馆，生意很不错。她觉得租给别人还不如租给自己的二哥。她知道甘江南手头不宽裕，因此提出先不收房租，等生意起步后再说。&lt;/p&gt;
-
-&lt;p&gt;当时，孟家溪镇水运公司已经分给了甘江南一套单位的房子，为他提供了一个安家之所。如果他和妻子要离开单位去开餐馆，就必须得把这套房子归还给单位。经过与妻子商量，他们决定试试开餐馆，不论结果怎样，他们都约定好不会埋怨彼此。于是，全家从孟家溪镇搬到了往北约20公里的夹竹园镇，开始了新的生活。大妹妹的那间店铺有两层楼，一楼开餐馆，二楼则是一家人的居住空间。那时，甘江南有五千元左右的资产，用于筹备餐馆开业。到1988年3月，江南酒家正式开业时，他就只剩五百元了。&lt;/p&gt;
-
-&lt;h2 id=&quot;1989年春天祖孙三代第一次合影&quot;&gt;1989年春天，祖孙三代第一次合影&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;开业初期，甘江南由于右手残疾不能亲自炒菜，因此雇佣了一个厨师，月薪是350元。陈章英则通过观察和协助这位厨师，慢慢学会了烹饪。餐馆刚开业时生意很不错，但随着政府推行廉政建设，生意开始下滑。面对不景气的生意，陈章英提出了一个削减开支的建议——解雇厨师，并由她亲自担任这个角色。他们后来也真的将这个建议付诸实践。自1988年至1993年，江南酒家每年的利润大约是两万元。到了1993年8月，甘江南已经积攒了9万元的财富。&lt;/p&gt;
-
-&lt;h2 id=&quot;1990年陈章英在江南酒家的灶台炒菜&quot;&gt;1990年，陈章英在江南酒家的灶台炒菜&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;搬到夹竹园镇后，一家四口人终于团聚在了一起。为了让大女儿甘薇薇学到更多知识，甘江南特地聘请了一名家庭教师，在甘薇薇放学后，来他们家辅导她学习。同时，甘江南意识到夹竹园镇作为一个小乡镇，发展前景有限。他决定将发展的重心转移到公安县城的斗湖堤镇，该镇位于夹竹园镇的东北方向，大约18公里的距离。那里不仅餐饮市场更大，学校的教育质量也更高。为了逐步在斗湖堤镇发展，甘江南投资五万块钱在该镇购置了一套正在建设中的新房。&lt;/p&gt;
-
-&lt;h1 id=&quot;第三章44岁创办江南宾馆&quot;&gt;第三章：44岁创办江南宾馆&lt;/h1&gt;
-
-&lt;p&gt;公安县的斗湖堤镇与夹竹园镇相隔仅半小时车程。一天，公安县印刷厂的领导们来夹竹园镇办事时光顾了江南酒家，对他们的菜赞不绝口，并询问甘江南夫妇是否有兴趣接手斗湖堤镇五九路上的印工餐馆。这家餐馆位于公安县印刷厂当街的门面，而所处的五九路则是斗湖堤镇最繁华的地段。印刷厂的正对面是财政局和税务局两个大单位，预计会有不少客源。&lt;/p&gt;
-
-&lt;p&gt;甘江南听后心动不已，第二天一大早便前往斗湖堤镇考察这家餐馆。他了解到，之前的个体户由于经营不善而亏损退出，印刷厂正要寻找新的承包者。餐馆有两间门面，总体面积比夹竹园镇的江南酒家要大、且地理位置极佳。&lt;/p&gt;
-
-&lt;p&gt;甘江南有意接手这家印工餐馆，但由于资金紧缺，他只能付了承包合同的定金。为了筹集剩余的资金，他向长辈甘永强（甘江南尊称他为”二爷”）寻求帮助，并向他展示了与印刷厂签订的合同，希望获得经济上的支持。甘永强认为甘江南非常可靠，于是帮助他按当时的利率借得五万元钱。&lt;/p&gt;
-
-&lt;p&gt;在这个过渡阶段，甘江南频繁往返于斗湖堤镇和夹竹园镇。一方面，他需要在斗湖堤镇监督自住房的建设进度和印工餐馆的装修进展；另一方面，他也在处理夹竹园镇江南酒家的转租事宜。&lt;/p&gt;
-
-&lt;p&gt;成功接手印工餐馆后，甘江南顺利地将餐馆生意迁移到了公安县斗湖堤镇。自1993年7月开业以来，印工餐馆生意蒸蒸日上。凭借多年的烹饪经验，陈章英掌握了湘菜和川菜的制作技巧，带领团队完成日常的工作，还根据当地风味创造了多种新菜式。这些特色佳肴使印工餐馆成为了当地的知名餐馆。客人络绎不绝，有时顾客多到需要占用印刷厂的走廊空间停放自行车。幸运的是，得益于印刷厂领导的支持，厂内员工对餐馆的经营也十分包容。&lt;/p&gt;
-
-&lt;h2 id=&quot;1995年正月印工餐馆员工合影&quot;&gt;1995年正月，印工餐馆员工合影&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;甘江南得知斗湖堤镇最好的小学是实验小学，便通过同乡谷少海的帮助，将甘薇薇和甘萍萍转到了那里学习。这样两个孩子从孟家溪镇转到夹竹园镇，再到斗湖堤镇读书。转到实验小学开始读书是1993年9月，当时甘薇薇读五年级，甘萍萍读二年级。&lt;/p&gt;
-
-&lt;p&gt;印工餐馆在最初两年的生意特别红火。然而，随着周围竞争的加剧，新开的阳春大酒店、三星大酒店及其他一些小餐馆逐渐抢走了不少顾客。到了1995年年底，餐馆的生意已经大不如前，甘江南决定转租印工餐馆，并打算休息一段时间。结束运营时，甘江南已经积累了40万元人民币。&lt;/p&gt;
-
-&lt;p&gt;1994年前后，甘江南认识了公安县房改办（住房制度改革领导小组办公室）的黄凤鸣主任。为了方便两个孩子上学，也为了改善居住环境，通过黄主任的帮助，甘江南以10万元购买了公安县党校内的一套四室两厅的房子。1996年，甘江南以7.5万元的价格出售了之前的旧房子。从1996年开始，他们一直住在党校的这套新房子里，直到2010年。&lt;/p&gt;
-
-&lt;p&gt;1996年的大部分时间里，甘江南和妻子陈章英尝试进入服装销售行业，但由于对这一领域不熟悉，他们并未挣到钱。同一时期，摇摆机非常流行，甘江南也尝试去销售摇摆机。他那时不知道摇摆机的营销模式实际上是传销，结果也没挣到钱。此外，由于甘江南手头有一些现金，亲戚朋友时常向他借钱。在这段时间里，他借出的10万元最终都没能收回。这些经历让他日后不太愿意再借钱给别人。&lt;/p&gt;
-
-&lt;h2 id=&quot;19971999年的两张欠条借款至今未还&quot;&gt;1997、1999年的两张欠条，借款至今未还&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;从1996年8月到1997年7月，甘江南和陈章英再次投身餐饮业，接手了位于斗湖堤镇五九路和油江路交界处的一家餐馆，更名为江南餐馆。这家餐馆地理位置优越，他们短暂经营的一年中生意也很好，也挣到了一些钱。然而，不幸的是，该餐馆因其门店所属的单位要收回门店，导致餐馆无法继续营业。此外，门店内新装修的门窗和瓷砖也无法带走，这使得他们在装修方面的投资全部白白浪费。总体来说，这一年的经营只是勉强保本。&lt;/p&gt;
-
-&lt;h2 id=&quot;斗湖堤镇的三条街及甘江南经营过的餐馆&quot;&gt;斗湖堤镇的三条街及甘江南经营过的餐馆&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;此时，甘江南得知公安县种子公司下属的广源酒楼因经营不善而停业，便决定以13.5万元接手这家酒楼，并将其更名为江南酒楼。随后，他又借了钱来进行装修。酒楼的转让费加上装修费一共花了30万元。1997年8月，江南酒楼正式开业，并迅速吸引了大量顾客，生意兴隆。次年1998年，甘江南就收回了全部投资成本。&lt;/p&gt;
-
-&lt;p&gt;1999年年底，甘江南认识公安县商业局的易局长，易局长女儿与甘江南的大女儿甘薇薇是同学。易局长告诉甘江南，他们单位经营的孱陵宾馆餐饮部面临经营困难，问他是否有兴趣接手。孱陵宾馆的餐饮部位于五九路的核心地带。2000年初，甘江南投资60万元接管了孱陵宾馆的餐饮部，并将其改名为江南大酒店。&lt;/p&gt;
-
-&lt;p&gt;日子一天天过去，甘江南所经营的餐馆规模也在逐渐扩大：1993年开业的印工餐馆可容纳9桌，1997年开业的江南酒楼可容纳20到30桌，2000年开业的江南大酒店则可容纳超过50桌。从2000年到2004年，甘江南同时经营江南酒楼和江南大酒店，两家餐厅加起来能够承接80多桌客人就餐。在这期间，每年的利润约为80万元。到了2003年，甘江南的现金储备已经达到了大约300万元。&lt;/p&gt;
-
-&lt;h2 id=&quot;2001年与江南酒楼江南大酒店全体员工合影&quot;&gt;2001年与江南酒楼、江南大酒店全体员工合影&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;2003年，甘江南遇到了一个新的机遇。公安县农业局下属的农业学校经历了改制，该学校的地皮被卖给了一位名叫韩绍强的开发商。这位开发商在这块地上准备建一栋六层的大楼，正寻找投资方来买下这栋楼。而此时的甘江南也正在考虑买一块地皮来办自己的餐馆。多年以来，他一直面临租房开餐馆的困境：房东在续租时因为生意好而大幅提高租金，或者由于各种原因无法续租，导致前期高昂的装修费用损失。他渴望拥有自己餐馆的土地和房产所有权，不再受制于他人。农业学校位于公安县荆江大道上，正对面就是甘江南当时经营的江南酒楼。&lt;/p&gt;
-
-&lt;p&gt;甘江南与韩绍强的购买谈判逐步推进。甘江南邀请了有相关经验的黄凤鸣一同前往参与谈判。当时甘江南手上有300万元现金，加上100万元的应收账款，共有约400万元可以用于投资。初次谈判时，这些资金只够购买一楼的两间门面（作为新餐馆的入口），以及二楼和三楼的餐饮空间。韩绍强原计划将四楼到六楼建成商品房出售给其他买家。但是，他们考虑到将来入住上层商品房的住户很可能会因为下层餐馆产生的油烟和噪音抱怨。通过甘江南和黄凤鸣的持续努力，他们说服了韩绍强将一楼的四间门面和二楼至六楼一起出售给甘江南。他们希望购买四个门面的主要原因是，他们计划将其中的三个门面装修成宾馆的大堂，而剩下的一个门面则被设计为车辆通道，以方便通往后方的办公楼、厨房和员工宿舍。甘江南看中了这栋楼的潜力，觉得将其建成江南宾馆，将更具档次，不仅可以容纳80多桌客人，还能提供34个客房。经甘江南计算，开设江南宾馆需投入高达1080万元资产。然而，他当时400万元的资产距离这1080万元的目标还有680万元的缺口。因此，他意识到必须寻找其他资金来源，以完成这笔交易，实现他的计划。&lt;/p&gt;
-
-&lt;p&gt;为了筹集所需的资金，甘江南开始向社会上的个人进行融资，并承诺在创造利润后及时返还本金与利息。他向潜在的投资者承诺提供每年15%的利息。如果发生亏损，他将自行承担所有风险。此外，他在合同中明确表示，江南宾馆的房产和土地权归他这个法人代表所有。通过这种方式，甘江南成功筹集到了约345万元，但距离目标的1080万还有335万元的缺口。&lt;/p&gt;
-
-&lt;p&gt;同时，甘江南也在积极地寻求商业贷款。最初，公安县农村信用合作社答应贷给他300万元，但最终只批准了200万元。这一消息让他感到非常失望，因为缺少这135万元他无法达成投资目标。在江南宾馆建设期间，许多设施都需要资金投入，包括变压器、供电设备、发电机组、无塔供水系统以及装修和配置窗帘、空调等。&lt;/p&gt;
-
-&lt;p&gt;由于资金不足，江南宾馆开业时并未安装电梯。后来有了足够的资金后，才加装了电梯。因为是后来添加的电梯，电梯的楼层设置与宾馆的实际楼层并不完全对应。电梯停靠的五层实际位于宾馆的五层和六层之间，导致客人需要上下几步楼梯才能到达目的楼层。&lt;/p&gt;
-
-&lt;h2 id=&quot;2004年甘江南记录的江南宾馆部分固定资产&quot;&gt;2004年，甘江南记录的江南宾馆部分固定资产&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;江南宾馆于2004年4月28日顺利开业，并随之成立了江南宾馆有限责任公司。为了填补最后135万资金的缺口，甘江南一方面以高利率（部分借款甚至是20%的年利率）借入了55万元，另一方面赊欠了供货商80万元，这才勉强凑齐了开业所需的资金。尽管甘江南向供货商承诺将按15%的年利率支付赊账利息，但最终没有一个供货商索要利息，他们仅收回了本金。这些供货商因与甘江南有着长期的合作关系，希望江南宾馆能顺利运营，以便未来继续合作。&lt;/p&gt;
-
-&lt;p&gt;在江南宾馆1080万元的投资中，约680万是通过借款获得的。开业之初，每年需要支付的72万元利息给甘江南带来了不小的财务压力。好在江南宾馆开业后就一直生意兴隆，甘江南也在宾馆的稳定运营中逐步偿还了这些债务。&lt;/p&gt;
-
-&lt;h2 id=&quot;2004年江南宾馆厨师合影左六为陈章英&quot;&gt;2004年江南宾馆厨师合影（左六为陈章英）&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;2023年夏夜中的江南宾馆&quot;&gt;2023年夏夜中的江南宾馆&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;第四章64岁退出江湖&quot;&gt;第四章：64岁退出江湖&lt;/h1&gt;
-
-&lt;p&gt;甘江南一生中有过三次与死神插肩的经历，好在他每次都凭借着极好的运气与坚强的意志，成功地渡过难关。&lt;/p&gt;
-
-&lt;p&gt;第一次是在他未满14岁时，遭遇的那次严重的工伤事故。在操作轧棉花的机器时，他的右前臂被机器严重损伤，造成了粉碎性骨折，落下残疾。幸运的是，瘦弱的他没被机器完全吞没，这就避免了可能出现的致命后果。&lt;/p&gt;
-
-&lt;p&gt;第二次是1985年春天。当时，甘江南正在长江航线上运送货物，途经武汉长江大桥时，遭遇了巨大的风浪。在极端天气的影响下，他不慎掉入了汹涌的长江。由于右手残疾，他游泳时无法保持平衡，在水中挣扎了很久。幸运的是，他被其他船员及时发现并用竹竿救起。当时，妻子正怀着小女儿才几个月，如果甘江南淹死了，对他们小家庭来说无疑是一场巨大的灾难。&lt;/p&gt;
-
-&lt;p&gt;第三次是2004年，甘江南在重庆考察川菜和重庆火锅的经营模式期间突然失明。就近去重庆一家医院就诊后，医生告诉他可能会永久失明。他匆忙结束了在重庆的行程，回到公安县的家。在家人的陪同下，他去了荆州市第一人民医院做了进一步检查。最后，医生确认他的失明是由于高血脂导致的大脑血管堵塞所引发的。在服用了降血脂的药物后，他的视力便也逐渐恢复正常。从2004年10月28日算起，甘江南经历了长达12天的失明状态。那时，江南宾馆刚刚开业半年，还承受着72万元年利息的重压。当甘江南带着失明的双眼回到江南宾馆时，员工们都被失望与恐慌所笼罩，甚至有江湖传言说他得了绝症。&lt;/p&gt;
-
-&lt;p&gt;甘江南担忧，由于他的身体残疾，他的孩子们可能会感到缺乏安全感。在两个女儿还小的时候，他从不让她们看到自己残疾的右手。只有等到女儿们长大一些了，甘江南才向她们透露自己右手的情况。&lt;/p&gt;
-
-&lt;p&gt;江南宾馆开业那天，甘江南深受感动，独自一人跑到宾馆的顶楼哭了一个小时。他之所以这么感动，是因为他觉得自己做了件大事，这是他的祖辈们都没能取得的成就。有人曾建议他申请残疾证以享受税收上的优惠政策，但甘江南认为他是靠智慧和领导力经营企业，不需要依靠残疾证。直到今天，很多人仍未察觉他右手的残疾。因为即便是炎炎夏日，他也总是穿着长袖衬衣掩盖自己的手臂。&lt;/p&gt;
-
-&lt;h2 id=&quot;2023年暑假甘江南展示他的右前臂&quot;&gt;2023年暑假，甘江南展示他的右前臂&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_15.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;甘江南在与妻子陈章英的生活中做出过三个重要的承诺。
-第一个承诺是攒下40万元并购买属于他们自己的房子。第二个承诺是要成为身价百万的人，并确保两个女儿能够上大学。第三个承诺是成为千万富翁，并支持两个女儿继续读研究生。这第三个承诺也在江南宾馆开业后逐渐成为现实。由于江南宾馆的地皮归他所有，他不再需要担心房东会提高租金或是因无法续租而造成损失。江南宾馆的定位显然比他之前经营的餐馆要高端，且在餐饮服务的基础上新增了客房服务。值得一提的是，客房业务的利润率往往远超餐饮业务。&lt;/p&gt;
-
-&lt;p&gt;2011年左右，甘江南便逐渐还清了所有股东的投资本金和利息，并使这些股东陆续退出公司。他做出这个决定的几个原因包括：首先，他不愿继续承担每年几十万的利息；其次，他更倾向于在幕后指挥，而不是亲自处理公司的日常事务；第三，他希望让幺妹夫钟生智来做江南宾馆的总经理，如存在其他股东，任命管理层还需经他们同意。2011年之后，江南宾馆的日常经营主要由钟生智全权负责，只在需要的时候问甘江南的意见。&lt;/p&gt;
-
-&lt;p&gt;2023年5月1日，甘江南正式退出了法人代表的位置，并注销了江南宾馆有限责任公司，把江南宾馆的经营权出租给了几位资深员工，让他们接手继续经营。这标志着江南宾馆经营了19年后，甘江南结束了自己在餐饮业的创业征程，退出江湖。&lt;/p&gt;
-
-&lt;h2 id=&quot;2023年暑假甘江南与两个女儿女婿以及四个孙子合影&quot;&gt;2023年暑假，甘江南与两个女儿、女婿以及四个孙子合影&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/jiangnan2024_16.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;致谢&quot;&gt;致谢&lt;/h1&gt;
-
-&lt;p&gt;感谢岳父甘江南把他的故事讲给我听。同时也感谢我的妻子甘萍萍对本文的修改与完善。&lt;/p&gt;
-
-&lt;h1 id=&quot;附录&quot;&gt;附录&lt;/h1&gt;
-
-&lt;p&gt;2003年公安县电视台的采访视频：&lt;a href=&quot;https://www.bilibili.com/video/BV14m4y1j7Nw&quot;&gt;https://www.bilibili.com/video/BV14m4y1j7Nw&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2006年江南宾馆的介绍视频：&lt;a href=&quot;https://www.bilibili.com/video/BV1NV4y1q7xm&quot;&gt;https://www.bilibili.com/video/BV1NV4y1q7xm&lt;/a&gt;&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="People" /><summary type="html">你可以点击下面的按钮来收听全文约半小时的内容。</summary></entry><entry xml:lang="cn"><title type="html">记一次吵架</title><link href="http://localhost:4000/cn/gww2023/" rel="alternate" type="text/html" title="记一次吵架" /><published>2024-01-07T00:00:00-06:00</published><updated>2024-01-07T00:00:00-06:00</updated><id>http://localhost:4000/cn/cn-gww2023</id><content type="html" xml:base="http://localhost:4000/cn/gww2023/">&lt;p&gt;一万个字看起来很累，你可以点击下面的按钮来收听全文半小时的内容。&lt;/p&gt;
-
-&lt;head&gt;
-    &lt;title&gt;Play Button Example&lt;/title&gt;
-    &lt;style&gt;
-        #playButton {
-            background-color: #007BFF; /* Blue background */
-            border: none; /* No borders */
-            color: white; /* White text */
-            padding: 10px 15px; /* Some padding */
-            text-align: center; /* Centered text */
-            text-decoration: none; /* No underline */
-            display: inline-block; /* Inline block element */
-            font-size: 16px; /* Some font size */
-            margin: 4px 2px; /* Some margin */
-            cursor: pointer; /* Pointer/hand icon */
-            border-radius: 10px; /* Slightly rounded corners */
-        }
-
-        #playButton:before {
-            content: &quot;▶&quot;; /* Unicode play symbol */
-            font-size: 20px; /* Larger icon size */
-        }
-    &lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;audio id=&quot;myAudio&quot;&gt;
-        &lt;source src=&quot;/files/audio/gww2023.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-        Your browser does not support the audio element.
-    &lt;/audio&gt;
-    &lt;button id=&quot;playButton&quot; onclick=&quot;playAudio()&quot;&gt;点击播放全文语音(30分钟)&lt;/button&gt;
-    &lt;script&gt;
-        function playAudio() {
-            var audio = document.getElementById(&quot;myAudio&quot;);
-            audio.play();
-        }
-    &lt;/script&gt;
-&lt;/body&gt;
-
-&lt;p&gt;我决定把这些不开心的事情说出来，让大家开心开心。&lt;/p&gt;
-
-&lt;p&gt;大姨子甘薇薇对我说：“你既不爱中国共产党，又不爱中国人民，也不爱中国文化，你回中国干什么？你要这样，下次回来不要和我联系!”&lt;/p&gt;
-
-&lt;p&gt;我把当时的聊天记录和相关的朋友圈也放在了文章的最后，写这些不开心的经历还是有个好的目的：&lt;strong&gt;希望这个世界多一些爱的善意，而不只是爱的名义。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;第一章准备回国&quot;&gt;第一章：准备回国&lt;/h1&gt;
-
-&lt;p&gt;2023年初，美国和中国之间的航班恢复了一些。我和我太太都很开心， 打算暑假回国一趟。我们都有好几年没有回中国探亲了。我上次回国是在四年前，我太太甘萍萍上次回国是在六年以前。3月中旬我们就把回国的票定了。我们特意把回国时间选在了七月中旬到八月中旬，因为这个月正好包含我太太和她姐姐甘薇薇两个人生日。我太太阴历生日是6月20 （2023的生日在8月6日），甘薇薇是6月29 （2023年的生日在8月15日）。我们期盼着能够在老家和家人们一起庆祝生日，并且还可以庆祝两次。&lt;/p&gt;
-
-&lt;p&gt;我一直有心想做近视的屈光手术。和一些已经做过这种手术的朋友聊天，发现大部分人都觉得手术效果不错，所以我也决定趁这次回国把这个手术做了。回国前，我通过我本科的室友联系上了武汉爱尔眼科医院的人，了解到爱尔眼科医院不仅设备先进，而且他们的收费也只是美国手术费用的一半。手术的过程也比较简单，一般就一天检查消炎、第二天双眼手术、第三天复查出院。&lt;/p&gt;
-
-&lt;p&gt;我们大家庭一直有个叫“中美一家人”的微信群，里面有我岳父岳母，我妈，甘薇薇和丈夫李旰，还有甘萍萍和我一共7个人。记得2020年初疫情期间，群里关于戴不戴口罩的事情，甘薇薇和李旰说美国不会抄中国的作业等等，我当时并不认同这个观点，有冲动想在群里发言，但是想到这类发言可能会引起不必要的争吵，就退而求其次选择眼不见心为静，退出了这个微信群。之后， 当我再和甘薇薇发微信的时候，很意外发现她已经把我拉黑，我也就直接把她的微信给删除了。这次回老家，因为涉及到行程的协调，所以我又重新加入了这个微信群。但我也没有单独加甘薇薇成好友，只限在群里交流行程安排。回国之前，甘萍萍有点担心，这几年甘薇薇和岳父一直争吵，这次三家人（我们小家，甘薇薇一家，岳父岳母）聚到一起，可能又会发生冲突。我们有心理准备，甘薇薇可能会继续和岳父斗，可能和岳母斗，也可能和甘萍萍斗。&lt;/p&gt;
-
-&lt;p&gt;7月16日，我们从洛杉矶飞到香港转机去武汉。我跟太太商量好，我手术期间她和家人们一起照顾小孩。等我手术做完了，我来和家人们一起照顾小孩，然后她去做一些美容项目、去拍艺术照，或者和闺蜜聚会。&lt;/p&gt;
-
-&lt;p&gt;7月17日到了武汉，我岳父岳母，还有大姨子他们一家给我们接风。在一家湖北菜馆吃了午饭，我就和岳父一起去往爱尔眼科医院。当天下午检查的时候，医生发现我眼底视网膜上有一些小的洞洞，所以医生建议先用激光把那个洞的周围给订牢，之后10天再做近视手术。于是，第二天7月18日我就先做了这个把视网膜固定的手术，然后我们一行人就回了荆州市公安县的老家。在老家见了一些亲戚朋友，大家一起吃饭，一起聊天，都很开心。&lt;/p&gt;
-
-&lt;p&gt;因为屈光手术需要三天，所以我岳父打算陪我去武汉一起做手术。期间甘萍萍、岳母、还有我妈妈在老家一起照顾两个小孩。7月29日的手术特别顺利。岳父陪着我忙前跑后，不几天他就跟那医院的护士混熟了。他跟一位护士提到说自己的视力有些下降，那位护士就建议他挂号做一下检查。不检查不要紧，一检查发现他眼球上面有胬（nǔ）肉，挡住了瞳孔使视力下降，需要做手术切除。因为岳父的胬肉手术需要两天时间，而我术后一周要去武汉复查、所以岳父和我就决定先回老家待两天，然后一起再来武汉，他做胬肉手术、我复查。&lt;/p&gt;
-
-&lt;p&gt;岳父做胬肉手术之前需要做血液检查。抽血化验发现他的血糖偏高。医生要求必须把血糖降下来之后才能做手术。于是我又陪着他去临近的一个医院去做血糖检查。还好他血糖也不算特别高，吃了两天的药就降下来了。这期间，我在“中美一家人”这个微信群里一直在更新着岳父的手术进展，比如需要降血糖然后再做手术等等。甘薇薇不知是怎么了，开始在微信群里要求她爸爸选边站队：以后的养老问题是要妹妹（指甘萍萍）负责还是她（甘薇薇）负责。为什么胬肉问题选择西医这边去做手术，而不好奇中医会怎么治？我岳父打字不快、而且不知道如何用文字去回应她这些突如其来的问题，所以就打电话过去跟她聊天。岳父跟她解释说胬肉就是多长了一块肉，只能通过手术切除。中医应该没法调理这块多余的肉。然后甘薇薇就说：你看谁谁谁，用中医调理好了什么疑难杂症。西医治不好的问题也都可以通过中医调理好，为什么不考虑一下中医？我岳父也没法跟她反驳，只是觉得按已知的信息，中医应该不太好解决这个问题。然后岳父就说：“不管做不做手术，我现在也血糖偏高，还是需要通过吃药来把血糖先降下去。难道中医通过把脉就能知道我血糖是9.5吗？”甘薇薇说：“是啊，中医一把脉就能发现这些问题。”我在一旁目瞪口呆，因为我还是第一次听说中医把脉能测血糖。&lt;/p&gt;
-
-&lt;p&gt;岳父挂掉电话有些苦恼。所有的医生都跟他说胬肉切除是一个很简单的手术，做完之后也不太可能复发。况且，不论做不做手术，血糖也都要先降下来，这样才能避免糖尿病以及一些并发症。岳父开始自言自语，想着如何回复甘薇薇在微信群里发的那些咄咄逼人的问题。我劝他别回这些消息，因为这种要求人站队的问题怎么回都有错。我说：“您自己的身体得您自己说了算。做手术还是不做手术，是吃西药降血糖还是按照甘薇薇说的去看中医也都该是您自己说了算。养老问题也是您自己做决定。”岳父考虑了许久，还是决定先吃西药降血糖，然后做这个胬肉手术。&lt;/p&gt;
-
-&lt;h1 id=&quot;第二章正面冲突&quot;&gt;第二章：正面冲突&lt;/h1&gt;
-
-&lt;p&gt;8月6日是甘萍萍的生日，亲友们在老家公安县为她筹备了一个大的生日聚会。甘薇薇一家住在武汉，岳父岳母还有我妈都住在湖北省荆州市公安县的老家，武汉到公安县有三个半小时车程。&lt;/p&gt;
-
-&lt;p&gt;8月4日，岳父和我在武汉做完了各自眼睛的手术与复查。 岳父联系甘薇薇一同去老家准备参加6号的生日聚会。因为甘薇薇的小儿子还需要训练击剑，所以甘薇薇丈夫李旰陪着在武汉训练。她则带着大儿子熙熙先回公安参加聚会。4号下午4点多，甘薇薇开着她的奔驰车、载着我们三个人（我，岳父，熙熙）从武汉出发回公安县。岳父坐在副驾的位置，我坐在甘薇薇后面，14岁的熙熙坐我右手边。&lt;/p&gt;
-
-&lt;p&gt;刚上车不久，甘薇薇就问我：“聂成，你以后打算回国的吗？”我回答说目前没有这个打算。她接着问我：“美国有什么好的？为什么不来中国工作？”我当时心里有些诧异，没想到她要聊这么严肃的话题。我就回答说：“我不想聊这个话题，因为要涉及到政治。然而政治、中医、宗教是三个我不想讨论的话题。”她说：“没关系，这还有三个多小时才开到老家呢。你跟我们说一说嘛。”我还是坚持说我不想聊这个话题。然后就开始专心吃我买的几个茶叶蛋去了。没想到的是，过了一会儿她又提起这个话题。问我：“聂成，你跟我们说一说嘛，美国到底有什么好的？为什么你不来中国工作？我保证不打岔，也不评论。”这时，我岳父和熙熙都安静下来，打算听我回答。&lt;/p&gt;
-
-&lt;p&gt;我见她反复地问、并且问得很有诚意，而且车上的都是家里人，所以我放松了警惕。我说：“你要是实在想听的话，那我就说说吧。我先从美国的问题说起，有两大问题，我没有什么好的解决办法，一个是毒品，还有一个是枪支问题。除了这两个问题之外，我觉得美国大部分都比中国要好。” 她依旧不依不饶地问我：“到底哪里好了？”我就说：“新闻机构有报道新闻的自由，不会受到审查。两个最大的党派竞争上岗，政府的官员也会受到监督、不会有太多腐败。然后美国的食品药品比中国的要安全一些…”&lt;/p&gt;
-
-&lt;p&gt;我还想继续讲下去，但是她很快地打断了我说：“聂成，你既不爱中国共产党，又不爱中国人民，也不爱中国文化，你回中国干什么？你要这样，下次回来不要和我联系！”我当时一听就懵了。我想这是我太太的亲姐啊，并且从2019年我上次回国到现在也4年没与她见面了。这种劈头盖脸的批评我有点扛不住。我说：“我很爱中国文化呀。我在美国都经常会看唐诗宋词、读鲁迅全集。而且我也爱中国人民啊。不然我为什么要回国呢？虽然中国共产党的做法我并不是100%的同意，但并不代表我反对中国共产党啊。”&lt;/p&gt;
-
-&lt;p&gt;她说：“要说食品安全、空气污染的问题，你这是挑刺。按你这么挑刺的说法，所有国家都有问题。美国那么落后，女人被强奸了之后都不能堕胎。这是对人民的保护吗？”我觉得她说的有道理，所以我就回复她：“你说的这个关于堕胎的法律在美国也非常有争议，并不是所有人都同意现在的法律，很多人觉得这是一种倒退而不是进步。”她接着说：“你说中国的新闻受审查，政府只给人们看政府想公开的信息。你不觉得美国也有这种问题吗？美国也只给你展现了想要你看到的信息。你这种亲美的观念只是因为你幕强。”&lt;/p&gt;
-
-&lt;p&gt;我说：“这也谈不上是慕强吧。就因为美国参与并结束了第二次世界大战，除日本之外的很多亚洲国家都应该感激美国。”这时，她很激动地说：“美国也不是为了中国人去打的日本，美国人也只是为了他们自己的利益。”&lt;/p&gt;
-
-&lt;p&gt;她接着问岳父说：“你是不是很后悔养了这些白眼狼？你给他们钱去美国，然后他们就不回来了。”岳父回答说：“他们有他们自己的选择，我们都表示尊重。”然后她又跟我说：“不是作为共产党员的爸爸给你们钱，你们在美国也买不了这些个房子。你自己的妈妈也是在共产党员的单位工作。你不回国的话，你妈妈要是哪一天得了老年痴呆症，谁去照顾她？”&lt;/p&gt;
-
-&lt;p&gt;岳父一直想打圆场，：“我们不能干涉他们的选择。”她儿子熙熙也觉得车上的气氛不对劲，一个劲地说：“中美两国不太一样。”可是，甘薇薇完全没有把他们说的尊重与边界听进去，继续讲述着中国可以说不、中国现在特别强大一类的论据。并且，她还以这些意识形态的论据来给我扣上汉奸、走狗、白眼狼的帽子。我感觉非常糟糕，有一种被冤枉之后想要反击的感觉。但是考虑到她正在开车，我决定闭嘴。可是，即便我不说话了，她也并没有要停的意思。&lt;/p&gt;
-
-&lt;p&gt;甘薇薇说因为甘萍萍和我在美国生活，导致她老公李旰提干申请都面临阻碍。李旰填写申请表时，需要填写国外是否有亲属。遇到这一项李旰都不知道怎么填。甘薇薇还说：“聂成，你如果来中国工作的话，可以靠李旰哥哥来华中科技大学谋个教职。而且李旰哥哥是共产党的一员，会有很多关系可以帮你拿到科研基金，让你在武汉的高校混得很好。”&lt;/p&gt;
-
-&lt;p&gt;甘薇薇继续讲述给她一家四口看病的那位老中医有多神，治好了各种疑难杂症。我知道中医话题也是个大坑，所以我也继续保持沉默。我也渐渐意识到甘薇薇并不想和我沟通交流，而是给我弄了个专场的批斗大会， 借此来输出她的观点。 意识到了这点之后，我拿出手机，开始跟我的其他亲人朋友们联系，告诉他们我接下来的行程安排，和大家约好相聚的时间地点。我这么做是有意转移自己的注意力， 让自己感觉好一些。我发现，手机上联系到的这些亲朋好友们都很高兴得知我回中国了，很愿意大家一起聚一聚，期盼着相聚的时刻能早一些到来。手机那些亲朋好友的热情让我感到了安慰。讽刺的是，现实中，我人在甘薇薇的车里，没有办法逃离这场批斗会。待我和亲友联系完回过神来， 甘薇薇还在批斗我。她讲话的语气就是语文课本里面讲的那种“对待敌人要像严冬一样残酷无情。”她说的话让我感觉我选择在美国工作很自私，不回中国工作就等同于是汉奸、卖国贼，根本不配来中国。&lt;/p&gt;
-
-&lt;p&gt;因为我一直保持沉默，她一个人说了半个多小时后也觉得没意思了。不知不觉车已经开到了老家公安县，大概还差个十分钟就能到岳母家里一起吃晚饭。车经过一家足疗店的时候，我跟甘薇薇说：“薇薇姐姐，要不你把我放下来去按摩，我就不去跟你们一块吃饭了，我刚才吃鸡蛋已经吃饱了。“然后她停车把我放下，她放我下车的时候说：“妹夫~，今天实在不好意思啊~话说多了，希望你不要介意。这些话我死之前总是要说一遍的。”我只是简单地回了一句“没关系”，就下车走了。看着她的黑色奔驰缓缓离开，我深深地吸了一口气。我哪里是吃饱了，是气饱了！虽然当时我老婆孩子，还有我妈都在岳母家等着我们一块儿吃晚饭，但是我觉得我必须得找个地方静一静。我就去了我常去的那家足疗店放松一会。&lt;/p&gt;
-
-&lt;p&gt;一个小时的足疗很快就结束了，按完之后我回去岳父家跟大家会合。我走进家门的时候看到甘薇薇和甘萍萍在客厅的桌边聊天。我太太见我进来，走近很关切地问我：“到底发生了什么？薇薇姐姐一到家就跟我和你妈道歉。”我只是打了个照面就直接走到卧房了。我感觉很窝火，就拿出手机退出了“中美一家人”这个微信群。接着，我走出卧房，到客厅去跟甘薇薇和甘萍萍说：“我已经退出家庭群了。”她们俩面面相觑，然后甘薇薇说：“怎么又退群了？”我回答说：“我这个人很懦弱。遇到疯狗了只能躲。”甘薇薇一听我骂她是疯狗，脸色一下就变了，气得拿起车钥匙就要出门。我当时也特别生气，跟太太甘萍萍说：“我今晚就不在这里睡了，我去我妈妈家睡一个晚上。”岳父家离我妈妈家大概走路就十分钟的距离。&lt;/p&gt;
-
-&lt;p&gt;第二天早上（8月5日）我冷静了些，我跟老婆打电话，她还是很好奇发生了些什么事情。她说昨天姐姐跟她道歉，她就问姐姐为什么要道歉。她说姐姐也没有告诉她具体的事情，薇薇姐姐只是跟她说“你把聂成护得像儿子，跟你说了怕你批评我。”我就在电话里大概地讲述了一下薇薇姐姐在车上说的那些话，我太太听到姐姐居然说了这么重的一些话，很诧异。老婆告诉我，甘薇薇昨晚去宾馆住了一晚，一大早就回来了。他们三人（甘薇薇，甘萍萍，岳父）已经就养老问题达成一致了：甘薇薇管妈妈，甘萍萍管爸爸。我说能商量清楚也好，免得大家在微信上说不清楚。挂掉电话，我感觉甘薇薇昨天对我的指责还没完事呢，于是我决定去岳父家说个清楚。&lt;/p&gt;
-
-&lt;p&gt;我到岳父家的时候，甘薇薇恰好不在。岳父因为刚做完眼睛手术，还不太舒服，躺在床上休息。甘萍萍站在床边陪他聊天。我到了后，也盘腿坐在岳父床边，跟他复盘昨天到底发生了什么。我们仨正聊着的时候，甘薇薇就回来了。甘薇薇走到房间门口看到了我， 她对着我说：“聂成，你还在生气啊？”我的火噌的一下就上来了，我说：“我当然生气了。今天我来就是要跟你说说为什么说你是疯狗。‘疯’是因为你不讲道理；‘狗’是因为你见人就咬。你在这个家里面拿捏你爸、你妈、你妹拿捏惯了是吧？他们都惯着你，我可不会惯着你！”&lt;/p&gt;
-
-&lt;p&gt;她反击说：“你被娇惯得更厉害吧？你自己要去做近视手术，就把孩子丢给甘萍萍。”我说：“我们俩夫妻协调着照顾小孩，关你什么事呢？我老婆去做美容、拍照片、会闺蜜的时候，也是把孩子交给我看管啊。你说我不配回中国，我可是有中国护照的人，我回不回中国还得由你限制吗？”她反问我道：“你有这些意见为什么昨天在车上不讲呢？”我坐着继续说：“那是因为你在开车啊。”老婆甘萍萍站在一旁表情挺紧张，但是并没有吭声，岳父也在床上没有发言。&lt;/p&gt;
-
-&lt;p&gt;甘薇薇有些激动地走近我，竖起右手的食指说：“聂成，昨天的话我只说了一遍，我死之前总会把这些话说出来的！”我说：“你讲一遍对我伤害也挺大！”她继续举着手指重复地说她只讲了一遍，死之前要说一遍。我想她重复“只讲了一遍”是想说我小心眼，讲了一遍我就生气。可笑的是她还自称是一名很受欢迎的心理咨询师，合格的咨询师难道不知道语言是有力量的，会给人带来温暖也能给人造成伤害吗？&lt;/p&gt;
-
-&lt;p&gt;之后的一些话因为记忆模糊有点记不清了，忘了她为什么会说“我无法改变你是迈克和乔丹的爸爸这个事实。”除了不怀好意与挑拨离间，我想不出甘薇薇为什么要用“丢”这个字来描述我和甘萍萍轮流带小孩这件事，也想不出甘薇薇笑话她妹妹说“你把聂成护得像儿子。”我不知道她是不是有一种幻觉：好像是我胁迫着甘萍萍必须要跟我生活在美国，而不是我太太自己的选择。所以甘薇薇觉得把我弄伤心了、说服了，她妹妹就会毅然决然地离开我，然后回到中国？&lt;/p&gt;
-
-&lt;p&gt;整个正面冲突的对话也就十来分钟，最后甘薇薇问我：“那我们这还有几天怎么相处呢？明天还有妹妹的生日聚会。”我说：“那我们就把彼此当空气啊。”&lt;/p&gt;
-
-&lt;p&gt;当天下午，甘薇薇带着他儿子熙熙起身回了武汉，没有参加甘萍萍的生日聚会。&lt;/p&gt;
-
-&lt;p&gt;8月6日甘萍萍生日聚会那天，几乎所有她父母两边的亲戚都来了。上次大家和甘萍萍见面还是6年前，大家都很想念我们一家，相聚的一整天，大家都有说有笑。吃完晚饭，有个亲戚把我拉到一边，神神秘秘地问我：“到底发生了什么？怎么甘薇薇没有来参加聚会？而且在她朋友圈发了些奇奇怪怪的东西？”我回答说：“甘薇薇和我之间有些争吵。”然后这个亲戚拿出他手机给我看甘薇薇当天发在朋友圈里面的两个帖子。这两个帖子的截图我也放在了后面。因为甘薇薇跟我2020年就已经不是微信好友，我看不到她的朋友圈，这两张截图是别人发给我的。&lt;/p&gt;
-
-&lt;p&gt;朋友圈里甘薇薇指责我说“中医是巫术”。但是我在微信群和她车上没有就中医讲过一句话。我也没有支持台湾独立，虽然我确实讲到过为什么存在所谓的台湾问题，讲到苏联支持中国共产党、美国支持国民党，然后内战中国民党输了，去了台湾，造成了现在的局面。我也只骂了她一个人是疯狗，并没有说她全家是狗家族。这不又是挑拨吗？甘薇薇打着心疼她父母的名义，对甘萍萍和我的生活进行道德绑架。甘薇薇说的我“离家出走”，实情就是我去我妈妈家里睡了一个晚上。甘薇薇说心疼她妹妹辛苦，但我不明白伤害妹夫对辛苦的妹妹有何帮助。甘薇薇说心疼爸妈，但她爸妈一旦跟她意见不一致就会受到不同程度的批斗。&lt;/p&gt;
-
-&lt;p&gt;甘薇薇这种打着爱的名义、道德绑架他人的伎俩已经对她妈、她爸、她妹三个人都用过了。从2010年年底甘萍萍和我结婚到现在的13年里，我远距离地观察了甘薇薇与各个家人大大小小的斗争过程。甘薇薇怪她妈妈过度参与甘薇薇的第一段婚姻，导致那段婚姻不幸福。甘薇薇怪她爸爸没有处理好夫妻关系、导致她自己对所有的男人都不信任，所以找不到好的男朋友、好的老公。甘薇薇也怪过她父母在她幼年的时候没有照顾她，而是把她丢给外公外婆去照顾。甘薇薇还怪过她父母没有像别人家的父母一样，给子女指明职业发展方向。 她说她父母只给了她一些臭钱。甘薇薇也怪她妹妹。理由是甘薇薇批斗她爸爸的时候，甘萍萍竟然没有跟她统一战线去批斗爸爸。 因为这个原因，疫情期间她在微信上拉黑了甘萍萍。甘薇薇很擅长拿捏家人，一哭二闹三上吊、拉黑绝交都是她常规炒作。正因如此，家里人都只能顺着她。&lt;/p&gt;
-
-&lt;p&gt;由于8月16日我们返美的飞机得从武汉起飞，我们提前两天就到了武汉。8月15日正好是甘薇薇的生日，甘萍萍说想带着麦克和乔丹去给她姐姐庆祝生日。我虽然和她姐姐闹了不愉快，但那是老婆的亲姐，我当然支持这个安排。只是，我说我就不去参加了，老婆也表示理解。15日下午，甘萍萍带着鲜花和蛋糕，领着两娃去了她姐姐家。甘薇薇不在家，姐夫李旰和他们两个小孩在家。姐夫李旰和甘萍萍聊了一会。四个小孩玩了一下午，直到甘萍萍离开，甘薇薇也没出现。&lt;/p&gt;
-
-&lt;p&gt;8月16日，我岳父、岳母、四阿姨（岳父的四妹）、我妈妈送我们一家四口从武汉天河机场起飞，完成了一个月的中国之行。&lt;/p&gt;
-
-&lt;h1 id=&quot;第三章冲突之后&quot;&gt;第三章：冲突之后&lt;/h1&gt;
-
-&lt;p&gt;因为甘薇薇要求岳父把养老的安排（即以后交由甘萍萍负责岳父养老事宜）写进遗嘱且必须要公证，所以岳父在九月份更新了遗嘱，把养老的安排写了进去。&lt;/p&gt;
-
-&lt;p&gt;家人和朋友们听到这个故事一般有如下几种反应：&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;“这是你老婆的亲姐？”是亲姐。但她也做了很多不像是亲姐的事情。甘薇薇和甘萍萍生日相差9天（姐姐大3岁），她们小时候都是差不多时间庆祝生日。有一年（具体的年份记不清了，估计是2015年左右）在达拉斯，甘薇薇给甘萍萍发过来一句语音消息说：“妹妹你快过生日了吧，祝你生日快乐！”甘萍萍听到这个消息的时候，我恰好在旁边，并且我也听出了是甘薇薇的声音。唯一的问题是当时是一月份左右，我当时也是瞪大了眼睛问甘萍萍：“这是亲姐？”&lt;/li&gt;
-  &lt;li&gt;“她是不是嫉妒你们？”说到嫉妒也不是没有可能。从她在群里面的咄咄逼人地要她父亲站队：是要中医还是要西医，是要她还是妹妹负责养老。我觉得岳父是一个理性的人：他从来没有反对过中医也没反对过西医。他觉得中医能够把病看好就看中医；西医能把病看好就看西医。&lt;/li&gt;
-  &lt;li&gt;“她是不是想争更多的财产？”应该不是。岳父已经把遗嘱写的很清楚，岳母、甘薇薇、甘萍萍每人三分之一。&lt;/li&gt;
-  &lt;li&gt;“她希望你们回国有亲戚在身边。”这么有敌意的对话能理解出这么深的善意，估计只有亲妈才能悟出来。时至今日，也确实只有亲妈（我岳母）持这种观点。&lt;/li&gt;
-  &lt;li&gt;“她受过高等教育吗？”受过，湖北美术学院的本科和硕士，曾经也是那里的讲师。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;岳母跟我说：“甘薇薇这么说不对，你还是原谅她。”我当时心里觉得特别诧异，岳母居然不批评她女儿、让她女儿来给我诚心道歉，而是让我这个被伤害的人去原谅她女儿。诧异之余，我也算是明白了甘薇薇为什么会如此飞扬跋扈，四十出头了都还有人惯着她。因为见识过甘薇薇批斗她爸妈还有甘萍萍的那股狠劲，所以我也不算太意外她对我这个姻亲关系讲话完全没有分寸。想起2005年的时候，我碰巧和甘萍萍外婆乘坐同一趟大巴车从武汉回老家公安县。那时家人们都知道我俩已经确立了恋爱关系。一路上我跟外婆并排而坐聊了很久。她外婆在甘萍萍和甘薇薇小的时候都照顾过她们，对她俩都了解。甘萍萍的外婆跟我说：“她们两姊妹中，甘萍萍更有良心些。”用普通话来讲就是甘萍萍更有同理心一些。现在想来，她老人家看得还挺准。&lt;/p&gt;
-
-&lt;p&gt;我很感谢我岳父、岳母、还有我太太。首先，在我跟甘薇薇吵架的时候，他们三人很理智地没有参与到其中。其次，对于岳母想劝我们和解，我也是能理解的，毕竟她相信一家人没有隔夜仇。&lt;/p&gt;
-
-&lt;p&gt;甘薇薇这种团结一批人打倒另一个人的做法，对我来说也并不陌生。不仅历史书上的政治斗争是这么进行的，我爷爷也是这么处理他和子女的关系的。从我记事起，我爷爷总是会在他的四个子女中树立一个反面典型，然后让其他三个子女批评他（她）。四个子女轮流坐庄，我伯伯（爸爸的哥哥）、我姑妈（爸爸的姐姐）、我爸、我姑姑（爸爸的妹妹）都在这个“阶级敌人”的位置上坐了不等的年份。按时间长短算来排序的话是我爸&amp;gt;伯伯&amp;gt;姑姑&amp;gt;姑妈。我非常不赞同爷爷这样联合其他子女来打击另一个子女的做法。但是我爷爷毕竟长我两辈，而且在我父亲去世之后，爷爷也在经济上资助了我完成学业。所以，当我爷爷跟我观点不一致要跟我上政治课时，我能忍着。现在，但是，同辈的甘薇薇要骂我是白眼狼，跟我上政治课的话，我才不会买账。&lt;/p&gt;
-
-&lt;p&gt;事后还得知甘薇薇说我是博士、教授，还这么没风度跟她吵架。看来甘薇薇字典里的“有风度”和我字典里的“傻缺”是一个意思，就是被咬了也不能还击，还得假装什么事情都没发生过。我想，这样的“风度”还是留给她自己好了。&lt;/p&gt;
-
-&lt;p&gt;甘薇薇这么斗我，我也不怕她，毕竟我不再像小孩子一般胆小怕事，也没有偶像包袱觉得“家丑不可外扬”。这些年看的书给了我很多智慧和勇气，对于这些负面人物的无端指责可以勇敢地说“不”。特别要感谢Tara Westover写的Educated这本书，中文版叫《你当像鸟飞往你的山》。这本书给了我和某些亲人断绝关系的勇气。我爷爷也曾经是这样一位在家庭内部拉帮结派批斗他人的人。爷爷的四个子女，会被他轮流树立为反面典型，然后，他联合其他三个子女批评这个典型。年年岁岁，家里鸡飞狗跳，永无宁日。记得在我读高二的时候，有一次爷爷给了我妈妈几张百元假钞，我因为不满跟他去讨说法。他当时很严厉地说我不知好歹、然后凶神恶煞地要我滚出他家。我站在他门口不知所措，他家的狗（名叫来宝）还在一直冲着我摇尾巴、想要我跟它一起玩。爷爷去世后，大家庭的关系融洽多了。这次回国和聂家人相聚时谈起这件由假钞引起的伤心事，我觉得爷爷对我太凶残，家人们都只是笑笑，然后开始讲述他们自己被以各种方式批斗的过程。听完后我的感觉是：我被爷爷赶出家门算是很轻的惩罚了。&lt;/p&gt;
-
-&lt;p&gt;不管你我生活在中国还是美国，不管在政治、中医、宗教的维度你我属于哪个阵营，我们都只是普通人。并不只是你或者我认同的方式就一定是对的。彼此的尊重与善意是最重要的。我暂不打算跟甘薇薇有任何接触。我觉得回国后有太多懂得尊重的亲人朋友要见面。在这一点上，我与甘薇薇倒是有共识，跟话不投机的人少花时间。&lt;/p&gt;
-
-&lt;p&gt;希望这个世界多一些爱的善意，而不只是爱的名义。&lt;/p&gt;
-
-&lt;h1 id=&quot;中美一家人微信群里的聊天记录&quot;&gt;“中美一家人”微信群里的聊天记录&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/gww2023_chat.JPG&quot; alt=&quot;聊天记录&quot; title=&quot;聊天记录&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;甘薇薇发的朋友圈之一&quot;&gt;甘薇薇发的朋友圈之一&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/gww2023_post1.JPG&quot; alt=&quot;第一条朋友圈&quot; title=&quot;第一条朋友圈&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;甘薇薇发的朋友圈之二&quot;&gt;甘薇薇发的朋友圈之二&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/gww2023_post2.JPG&quot; alt=&quot;第二条朋友圈&quot; title=&quot;第二条朋友圈&quot; /&gt;&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="People" /><summary type="html">一万个字看起来很累，你可以点击下面的按钮来收听全文半小时的内容。</summary></entry><entry xml:lang="en"><title type="html">My 2023 Annual Review</title><link href="http://localhost:4000/review2023/" rel="alternate" type="text/html" title="My 2023 Annual Review" /><published>2023-12-31T00:00:00-06:00</published><updated>2023-12-31T00:00:00-06:00</updated><id>http://localhost:4000/review2023</id><content type="html" xml:base="http://localhost:4000/review2023/">&lt;p&gt;Here is my annual review of 2023 to answer the following three questions:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;What went well this year?&lt;/li&gt;
-  &lt;li&gt;What didn’t go so well this year?&lt;/li&gt;
-  &lt;li&gt;What did I learn?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;1-what-went-well-this-year&quot;&gt;1. What Went Well This Year?&lt;/h1&gt;
-
-&lt;h2 id=&quot;families&quot;&gt;Families&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ping and I had our wedding ceremony Dec 31st, 2010. It’s hard to imagine that we now have been married for 13 years. We now have two lovely boys Michael and Jordan to live with us.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ping graduated with a PhD degree in Marketing, and she started her lecturer job in the marketing department at our school. Her office and mine are 20-step walk away, which means we can have lunch together whenever we can.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Michael has been doing well in school. My wife and I were worried that he might not adapt well due to skipping a grade. But he seems to be pretty accustomed to be around kids that are one year older than him.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Jordan is turning five in about a month. He impressed us all with his terrific memory. He can sing with mostly correct lyrics after listening to a song a few times. His favorite artists include PJ Masks, Taylor Swift, Jay Chou.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;work&quot;&gt;Work&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Tenure package submitted&lt;/strong&gt; I have submitted my tenure package this year. Hopefully, I will get the tenure promotion in 2024 spring semester.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;2 papers were accepted&lt;/strong&gt; I have two papers accepted for publication &lt;a href=&quot;https://chengnie.com/research/&quot;&gt;this year&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;8 submissions.&lt;/strong&gt; I had 8 submissions to journals this year, including some initial submissions and some revise-and-resubmit:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;JAIS: 3&lt;/li&gt;
-      &lt;li&gt;ISR: 2&lt;/li&gt;
-      &lt;li&gt;POM: 2&lt;/li&gt;
-      &lt;li&gt;DSS: 1&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;30 minutes daily challenge.&lt;/strong&gt; I spend at least 30 minutes per day on my research projects for 365 days. This is my second year of achieving this laughably small research goal.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Bootstrap Research Grants.&lt;/strong&gt; I was awarded $5K from Ivy College of Business for research support in the next year.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I read &lt;a href=&quot;https://www.goodreads.com/user_challenges/42571663&quot;&gt;46 books&lt;/a&gt; this year. Out of these, these are the five that I highly recommend:&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;/notes/the-las-vegas-madam&quot;&gt;&lt;em&gt;The Las Vegas Madam&lt;/em&gt; by Jami Rodman&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;/notes/red-roulette&quot;&gt;&lt;em&gt;Red Roulette&lt;/em&gt; by Desmond Shum&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;/notes/on-writing&quot;&gt;&lt;em&gt;On Writing&lt;/em&gt; by Stephen King&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;/notes/the-glass-castle&quot;&gt;&lt;em&gt;The Glass Castle&lt;/em&gt; by Jeannette Walls&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;/notes/getting-things-done&quot;&gt;&lt;em&gt;Getting Things Done&lt;/em&gt; by David Allen&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;travel&quot;&gt;Travel&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;China for a month in July-August.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We enjoyed the trip to China where we met our families and friends from China. It was the first trip for our younger son Jordan.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/2023_in_law.JPG&quot; alt=&quot;With in-laws&quot; title=&quot;With in-laws&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/2023_mom.JPG&quot; alt=&quot;With my dad-side relatives&quot; title=&quot;With my dad-side relatives&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/2023_friend.JPG&quot; alt=&quot;With my friends in Gong&apos;an&quot; title=&quot;With my friends in Gong&apos;an&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;running&quot;&gt;Running&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;I ran 1,783 miles this year, which is around 5 miles per day.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/2023run.png&quot; alt=&quot;2023 Run Summary&quot; title=&quot;2023 Run Summary&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;I Finished 1 Marathon: Boston Marathon in April.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/boston2023time.jpg&quot; alt=&quot;Boston Time&quot; title=&quot;Boston Time&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;I Finished the Rim2Rim2Rim in October, covering 48 miles in 17 hours. The resulting injury is why I missed the New York City Marathon in November.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/2023_r2r2r.jpg&quot; alt=&quot;r2r2r&quot; title=&quot;r2r2r&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/2023_grand_canyon.jpg&quot; alt=&quot;Grand Canyon&quot; title=&quot;Grand Canyon&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;health&quot;&gt;Health&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Eye surgery&lt;/strong&gt; I had SMILE, small incision lenticule extraction, surgery in Wuhan in July to correct my -4 vision in both eyes. So far, I have enjoyed the benefit of no glasses although there are some dry eye episodes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;piano-lessons&quot;&gt;Piano lessons&lt;/h2&gt;
-
-&lt;p&gt;It’s been three years since I started taking weekly piano lessons. I’ve started posting some songs on YouTube and Facebook now. Here is a video I recorded playing River Flows in You (by Yiruma).&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9js38iImCtE?si=WdReJXgp-X9UhBR2&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h1 id=&quot;2-what-didnt-go-so-well-this-year&quot;&gt;2. What Didn’t Go So Well This Year?&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;A big fight with my elder sister-in-law.&lt;/strong&gt; I will write about it and link to that post once it is ready. Here is the &lt;a href=&quot;https://chengnie.com/gww2023/&quot;&gt;post in Chinese&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;3-what-did-i-learn&quot;&gt;3. What Did I Learn?&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;I enjoy reading.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The more I read, the more I enjoy it. I would not imagine achieving the goal of reading one book a week, but now I am very close to it. I will try to achieve this one-book-a-week goal in 2024.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Talking to others helps.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Chatting with friends involves both listening attentively and sharing my thoughts, a process I find quite therapeutic and enjoyable. Additionally, I’ve noticed that I sleep better after having more conversations with my friends.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/files/pics/2023_12_lynn.jpg&quot; alt=&quot;With Cheng Family&quot; title=&quot;With Cheng Family&quot; /&gt;&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Annual Review" /><summary type="html">Here is my annual review of 2023 to answer the following three questions:</summary></entry></feed>
+&lt;p&gt;Maintaining a list of books to read and those I’ve read keeps me motivated. Participating in reading challenges since 2016, I’ve gradually increased my annual goal from 12 books in 2016 to &lt;a href=&quot;https://www.goodreads.com/user_challenges/47883724&quot;&gt;52 this year&lt;/a&gt;.&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Reading" /><summary type="html">TL;DR (Too long; Didn’t read) version: audiobook</summary></entry></feed>

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Never Split the Difference - by Chris Voss
 date: 2025-03-08
 permalink: /notes/never-split-the-difference

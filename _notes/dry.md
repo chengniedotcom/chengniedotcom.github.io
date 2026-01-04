@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dry - by Augusten Burroughs
 date: 2025-03-13
 permalink: /notes/dry

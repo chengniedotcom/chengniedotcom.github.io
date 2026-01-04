@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How to Know a Person - by David Brooks
 date: 2024-06-21
 permalink: /notes/how-to-know-a-person

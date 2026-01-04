@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Honest Truth About Dishonesty - by Dan Ariely
 date: 2022-05-02
 permalink: /notes/honest-truth

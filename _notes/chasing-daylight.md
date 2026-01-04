@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Chasing Daylight - by Eugene O'Kelly
 date: 2025-05-23
 permalink: /notes/chasing-daylight

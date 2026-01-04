@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Psychology of Money - by Morgan Housel
 date: 2023-06-19
 permalink: /notes/psychology-of-money

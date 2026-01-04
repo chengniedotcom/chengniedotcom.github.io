@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Lessons in Chemistry - by Bonnie Garmus
 date: 2023-11-16
 permalink: /notes/lessons-in-chemistry

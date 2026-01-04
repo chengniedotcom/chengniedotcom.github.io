@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Eat, pray, love - by Elizabeth Gilbert
 date: 2024-02-11
 permalink: /notes/eat-pray-love

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Is Everyone Hanging Out without Me - by Mindy Kaling
 date: 2025-01-19
 permalink: /notes/is-everyone-hanging-out-without-me

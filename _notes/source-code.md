@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Source Code - by Bill Gates
 date: 2025-02-22
 permalink: /notes/source-code

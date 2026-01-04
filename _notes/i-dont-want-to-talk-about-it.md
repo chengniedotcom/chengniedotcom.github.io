@@ -1,4 +1,5 @@
 ---
+layout: post
 title: I don't want to talk about it - by Terrence Real
 date: 2024-08-10
 permalink: /notes/i-dont-want-to-talk-about-it

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Worlds I See - by Fei-Fei Li
 date: 2024-10-03
 permalink: /notes/the-worlds-i-see

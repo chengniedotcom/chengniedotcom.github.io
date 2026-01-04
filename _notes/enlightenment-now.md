@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Enlightenment Now - by Steven Pinker
 date: 2023-09-20
 permalink: /notes/enlightenment-now

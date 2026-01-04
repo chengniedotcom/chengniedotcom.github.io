@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Nexus - by Yuval Noah Harari
 date: 2024-09-26
 permalink: /notes/nexus

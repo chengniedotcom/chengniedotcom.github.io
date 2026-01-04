@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Meditations For Mortals - by Oliver Burkeman
 date: 2025-05-31
 permalink: /notes/meditations-for-mortals
@@ -14,7 +15,7 @@ Read: 2025-05-31
 
 Recommend: 10/10
 
-The author Oliver Burkeman worte one of my favorite books: [Four Thousand Weeks](/notes/four-thousand-weeks). This new book is another gem.
+The author Oliver Burkeman wrote one of my favorite books: [Four Thousand Weeks](/notes/four-thousand-weeks). This new book is another gem.
 
 ## Notes
 

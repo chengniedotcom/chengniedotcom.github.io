@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Visual Studio Code for Python Programmers - by April Speight
 date: 2022-07-06
 permalink: /notes/visual-studio-code-for-python-programmers

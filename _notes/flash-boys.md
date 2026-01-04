@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Flash Boys - by Michael Lewis
 date: 2023-09-07
 permalink: /notes/flash-boys

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Wild - by Cheryl Strayed
 date: 2024-09-07
 permalink: /notes/wild

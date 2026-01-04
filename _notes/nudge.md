@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Nudge - by Richard H. Thaler and Cass R. Sunstein
 date: 2022-12-14
 permalink: /notes/nudge

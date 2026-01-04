@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Diary Of A Young Girl - by Anne Frank
 date: 2025-08-02
 permalink: /notes/the-diary-of-a-young-girl

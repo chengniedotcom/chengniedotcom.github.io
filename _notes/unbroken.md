@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Unbroken - by Laura Hillenbrand
 date: 2024-11-27
 permalink: /notes/unbroken

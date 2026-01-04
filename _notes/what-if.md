@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What If - by Randall Munroe
 date: 2024-10-13
 permalink: /notes/what-if
