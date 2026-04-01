@@ -73,15 +73,15 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-216089718-1
+    tracking_id          : G-GSFB3LNGY9
 
 
 # Site Author
 author:
   name             : "Cheng Nie"
-  avatar           : "cheng-nie-2023-12-08.jpg"
+  avatar           : "cheng-nie-2023-12-08-mugshot.jpg"
   # avatar           : "cheng-nie-large.jpg"
   # bio              : "Your biography for the left-hand sidebar"
   # location         : "Ames, Iowa"

@@ -6,11 +6,11 @@ author_profile: true
 
 # Journal Publications
 
-
-
-
 <!-- Use APA 7th edition format -->
 
+
+
+6\. Fang B, Nie C, Zheng Z (Eric) (forthcoming). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. _Journal of the Association for Information Systems_
 
 5\. Zhu T, Nie C, Jiang Z, Hu X (2024). [When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation.](https://doi.org/10.1016/j.dss.2024.114233) _Decision Support Systems_, (182), p. 114233
 
@@ -33,15 +33,13 @@ author_profile: true
 
 - Meng J, Li H, Nie C, Zhang C. Crime Dynamics of Home-Sharing: Disentangling Temporal Effects and Policy Interventions. Revising for the 2nd round review at _Decision Support Systems_
 
-- Fang B, Nie C, Zheng Z (Eric). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. Submitted for the 3rd round review at _Journal of the Association for Information Systems_
-
 - Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence. Revising for the 2nd round review at _Information Systems Research_
 
 
 # Work in Progress
 
 
-- Chen W, Nie C, Xie K, Li X. Dance with Algorithms: Impact of Algorithmic Buyers on Housing Affordability. 
+<!-- - Chen W, Nie C, Xie K, Li X. Dance with Algorithms: Impact of Algorithmic Buyers on Housing Affordability.  -->
 
 - Nie C, Zheng Z (Eric), Sarkar S . Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy. 
     

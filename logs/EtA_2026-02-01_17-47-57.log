@@ -1,0 +1,13 @@
+2026-02-01 17:47:57,813 - audiobook_generator.py:90 - run - INFO - Starting audiobook generation...
+2026-02-01 17:47:57,958 - audiobook_generator.py:175 - run - ERROR - Error during audiobook generation: No module named 'sentencex'
+Traceback (most recent call last):
+  File "/Users/chengnie/Dropbox/tools_installation/epub_to_audiobook/audiobook_generator/core/audiobook_generator.py", line 92, in run
+    tts_provider = get_tts_provider(self.config)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chengnie/Dropbox/tools_installation/epub_to_audiobook/audiobook_generator/tts_providers/base_tts_provider.py", line 43, in get_tts_provider
+    from audiobook_generator.tts_providers.azure_tts_provider import (
+  File "/Users/chengnie/Dropbox/tools_installation/epub_to_audiobook/audiobook_generator/tts_providers/azure_tts_provider.py", line 12, in <module>
+    from audiobook_generator.utils.utils import split_text, set_audio_tags, merge_audio_segments
+  File "/Users/chengnie/Dropbox/tools_installation/epub_to_audiobook/audiobook_generator/utils/utils.py", line 10, in <module>
+    from sentencex import segment
+ModuleNotFoundError: No module named 'sentencex'

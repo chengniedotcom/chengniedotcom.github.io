@@ -14,10 +14,10 @@ author_profile: true
 # Iowa State University, 2018–Now
 
 <!-- 2019 Spring to 2021 spring, only overall course rating, instead of instructor rating, is available. -->
-<!-- | MIS 5361: Business Analytics Foundation - Section 2 | Fall 2025 | 22 | 77 | 3.91 | 4.71 | -->
 
 | Course Number and Title | Semester | Enrollment | Response Rate(%) | Class GPA | Instructor Rating |
 |-------------------------|----------|------------|------------------|-----------|-------------------|
+| MIS 5360: Business Analytics Foundation - Section 2 | Fall 2025 | 23 | 77 | 3.87 | 4.88 |
 | MIS 3010: Introduction to MIS - Section IT | Summer 2025 | 12 | 42 | 3.78 | 4.84 |
 | MIS 5360: Business Analytics Foundation - Section 2 | Spring 2025 | 15 | 67 | 3.69 | 4.46 |
 | MIS 5360: Business Analytics Foundation - Section 1 | Spring 2025 | 21 | 29 | 3.94 | 4.46 |

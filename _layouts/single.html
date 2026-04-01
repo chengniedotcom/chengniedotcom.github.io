@@ -98,6 +98,10 @@ layout: default
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
         {% include page__taxonomy.html %}
+        {% assign encoded_url = page.url | prepend: site.url | uri_escape %}
+        <p class="page__meta" style="margin-top: 0.5em;">
+          <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={{ encoded_url }}&count_bg=%23888888&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true" alt="page views" style="vertical-align: middle;" />
+        </p>
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}

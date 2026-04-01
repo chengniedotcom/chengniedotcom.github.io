@@ -1,0 +1,10 @@
+2026-03-27 08:33:59,869 - audiobook_generator.py:90 - run - INFO - Starting audiobook generation...
+2026-03-27 08:33:59,870 - audiobook_generator.py:175 - run - ERROR - Error during audiobook generation: No module named 'ebooklib'
+Traceback (most recent call last):
+  File "/Users/chengnie/Dropbox/tools_installation/epub_to_audiobook/audiobook_generator/core/audiobook_generator.py", line 91, in run
+    book_parser = get_book_parser(self.config)
+  File "/Users/chengnie/Dropbox/tools_installation/epub_to_audiobook/audiobook_generator/book_parsers/base_book_parser.py", line 41, in get_book_parser
+    from audiobook_generator.book_parsers.epub_book_parser import EpubBookParser
+  File "/Users/chengnie/Dropbox/tools_installation/epub_to_audiobook/audiobook_generator/book_parsers/epub_book_parser.py", line 5, in <module>
+    import ebooklib
+ModuleNotFoundError: No module named 'ebooklib'

@@ -1,4 +1,269 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-01-04T17:48:56-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cheng Nie(聂成)</title><subtitle>The Website of Cheng Nie</subtitle><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><entry xml:lang="en"><title type="html">My 2025 Annual Review</title><link href="http://localhost:4000/review2025/" rel="alternate" type="text/html" title="My 2025 Annual Review" /><published>2026-01-04T00:00:00-06:00</published><updated>2026-01-04T00:00:00-06:00</updated><id>http://localhost:4000/review2025</id><content type="html" xml:base="http://localhost:4000/review2025/">&lt;p&gt;Here is my annual review of 2025 to answer the following three questions:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-28T20:25:12-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cheng Nie(聂成)</title><subtitle>The Website of Cheng Nie</subtitle><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><entry xml:lang="cn"><title type="html">我的 2025 年度回顾</title><link href="http://localhost:4000/cn/review2025/" rel="alternate" type="text/html" title="我的 2025 年度回顾" /><published>2026-01-04T00:00:00-06:00</published><updated>2026-01-04T00:00:00-06:00</updated><id>http://localhost:4000/cn/cn-review2025</id><content type="html" xml:base="http://localhost:4000/cn/review2025/">&lt;p&gt;以下是我对 2025 年的年度回顾，主要回答以下三个问题:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;今年有哪些地方做得好？&lt;/li&gt;
+  &lt;li&gt;今年有哪些地方做得不太好？&lt;/li&gt;
+  &lt;li&gt;我学到了什么？&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;1-今年有哪些地方做得好&quot;&gt;1. 今年有哪些地方做得好？&lt;/h1&gt;
+
+&lt;h2 id=&quot;工作&quot;&gt;工作&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;0 篇论文被接收，6 次投稿。&lt;/strong&gt; 我今年向期刊投稿 5 次、会议投稿 1 次，总计 6 次：&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;JMIS: 1&lt;/li&gt;
+      &lt;li&gt;DSS: 1&lt;/li&gt;
+      &lt;li&gt;JAIS: 2&lt;/li&gt;
+      &lt;li&gt;ISR: 1&lt;/li&gt;
+      &lt;li&gt;ICIS: 1&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bootstrap Research Grants。&lt;/strong&gt; 我从 Ivy College of Business 获得了 6000 美元的研究经费（2025 年 12 月），用于支持明年的研究。我将主要用它来提升我的 AI 技能并启动 AI 项目。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;阅读&quot;&gt;阅读&lt;/h2&gt;
+
+&lt;h2 id=&quot;今年读了-55-本书&quot;&gt;今年读了 55 本书&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_book_pages.png&quot; alt=&quot;55 本书&quot; title=&quot;55 本书&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;以下 8 本是我最想推荐的（附上我为每本书写的简短总结）：&lt;/p&gt;
+
+    &lt;p&gt;1. &lt;a href=&quot;/notes/know-my-name&quot;&gt;&lt;em&gt;Know My Name&lt;/em&gt; - by Chanel Miller&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;我钦佩她的勇气和她的写作能力。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;2. &lt;a href=&quot;/notes/wild-swans&quot;&gt;&lt;em&gt;Wild Swans&lt;/em&gt; - by Jung Chang&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;这本书被禁并不令人意外。作者张戎叙事深入。她的记述充分展示了独裁统治对人类社会的破坏性影响。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;3. &lt;a href=&quot;/notes/the-molecule-of-more&quot;&gt;&lt;em&gt;The Molecule Of More&lt;/em&gt; - by Daniel Z. Lieberman &amp;amp; Michael E. Long&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;这本书让我想起许多成功但不满足（不快乐）的人：科比·布莱恩特、埃隆·马斯克、史蒂夫·乔布斯、比尔·盖茨。它也提醒我要坚持每天冥想，这样我才能活在此时此地。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;4. &lt;a href=&quot;/notes/meditations-for-mortals&quot;&gt;&lt;em&gt;Meditations For Mortals&lt;/em&gt; - by Oliver Burkeman&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;作者 Oliver Burkeman 写了我最喜欢的书之一：&lt;a href=&quot;/notes/four-thousand-weeks&quot;&gt;Four Thousand Weeks&lt;/a&gt;。这本新书又是一部佳作。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;5. &lt;a href=&quot;/notes/never-finished&quot;&gt;&lt;em&gt;Never Finished&lt;/em&gt; - by David Goggins&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;我跑出了 2:38:02 的马拉松成绩，我为此感到非常自豪！这本书激励我追求更高的目标——我的下一个目标是 2:30。这是我在书中最喜欢的一句话：”世界需要医生、律师和教师，但我们也需要野蛮人来证明我们都能做到更多。”#neverfinished。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;6. &lt;a href=&quot;/notes/the-running-ground&quot;&gt;&lt;em&gt;The Running Ground&lt;/em&gt; - by Nicholas Thompson&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;这本回忆录对我的训练既有启发又有指导意义。我已经订购了甜菜汁，并将把书中提到的训练方式加入到我平时的训练中。为了提高速度，我打算每周两次针对最大摄氧量(VO2 Max)和乳酸阈值配速(Threshold)的训练。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;7. &lt;a href=&quot;/notes/we-did-ok-kid&quot;&gt;&lt;em&gt;We Did Ok Kid&lt;/em&gt; - by Anthony Hopkins&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;我被他富有音乐性的嗓音折服。我也很欣赏他阐述自己与酒精成瘾的斗争以及他通过戒酒互助会（Alcoholics Anonymous）康复的历程——这为他的故事增添了深刻的意义。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;他父亲对他生活的影响让我印象很深，这让我想起另一本书 &lt;a href=&quot;/notes/the-running-groud&quot;&gt;The Running Ground&lt;/a&gt; 中探讨的父子关系。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;他对自己演戏的执着让我想起科比·布莱恩特对篮球的态度：两人都是通过充分的准备和持续的努力来追求卓越表现。&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;8. &lt;a href=&quot;/notes/大江大海一九四九&quot;&gt;&lt;em&gt;大江大海一九四九&lt;/em&gt; - by 龙应台&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;作者以富有同情心的笔触记录了国共内战（1945-1949）：从她母亲的经历开始，延伸到人民解放军和国民党普通士兵的故事。&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;旅行&quot;&gt;旅行&lt;/h2&gt;
+
+&lt;p&gt;今年夏天，我们去了欧洲和中国旅行。&lt;/p&gt;
+
+&lt;h2 id=&quot;夏天在意大利罗马斗兽场外和我的学生一起&quot;&gt;夏天在意大利罗马斗兽场外和我的学生一起&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_rome_colosseum.JPEG&quot; alt=&quot;夏天在意大利罗马斗兽场外&quot; title=&quot;夏天在意大利罗马斗兽场外&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;夏天在意大利罗马斗兽场内&quot;&gt;夏天在意大利罗马斗兽场内&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_rome_colosseum_family.jpeg&quot; alt=&quot;夏天在意大利罗马斗兽场内&quot; title=&quot;夏天在意大利罗马斗兽场内&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;夏天在意大利摩德纳的帕加尼车厂&quot;&gt;夏天在意大利摩德纳的帕加尼车厂&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_modena_pagani.JPEG&quot; alt=&quot;夏天在意大利摩德纳的帕加尼&quot; title=&quot;夏天在意大利摩德纳的帕加尼&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;夏天在意大利庞贝古城&quot;&gt;夏天在意大利庞贝古城&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_pompeii.jpeg&quot; alt=&quot;夏天在意大利庞贝&quot; title=&quot;夏天在意大利庞贝&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;夏天坐游轮游长江&quot;&gt;夏天坐游轮游长江&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_cruise.JPEG&quot; alt=&quot;夏天在长江游轮上&quot; title=&quot;夏天在长江游轮上&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;夏天在中国重庆&quot;&gt;夏天在中国重庆&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_chongqing.JPG&quot; alt=&quot;夏天在中国重庆&quot; title=&quot;夏天在中国重庆&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;跑步&quot;&gt;跑步&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;我今年总共跑了 4328 公里，相当于每天大约 11.9 公里。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2025-年跑步总结&quot;&gt;2025 年跑步总结&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_run.jpg&quot; alt=&quot;2025 年跑步总结&quot; title=&quot;2025 年跑步总结&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;今年完成了 7 个全程马拉松：&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;最快时间：2:38:08&lt;/li&gt;
+      &lt;li&gt;平均时间：2:43:48&lt;/li&gt;
+      &lt;li&gt;标准差：2 分 55 秒&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;序号&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;地点&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;日期&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;时间&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;赛事&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;中国厦门&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2025年1月5日&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:38:08&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;厦门马拉松&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;堪萨斯州奥拉西&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2025年4月26日&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:44:35&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;佳明马拉松&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;南达科他州苏福尔斯&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2025年9月21日&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:45:50&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;苏福尔斯马拉松&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;伊利诺伊州芝加哥&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2025年10月12日&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:40:51&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;芝加哥马拉松&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;佐治亚州梅布尔顿&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2025年10月25日&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:44:40&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Silver Comet 马拉松&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;密苏里州堪萨斯城&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2025年11月16日&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:45:37&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Yeti Endurance 马拉松&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;阿拉巴马州亨茨维尔&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2025年12月14日&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:46:58&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Rocket City 马拉松&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;钢琴课&quot;&gt;钢琴课&lt;/h2&gt;
+
+&lt;p&gt;今年我学习了久石让作曲的两首歌：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Summer - 1999 年电影《菊次郎的夏天》主题曲&lt;/li&gt;
+  &lt;li&gt;Memory - 2008 年电影《入殓师》主题曲&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;1428&quot; height=&quot;803&quot; src=&quot;https://www.youtube.com/embed/AFTJipwTZOw&quot; title=&quot;Summer - Theme from the 1999 film “Kikujiro” 🎬 Composed by: Joe Hisaishi. Cover by: Cheng Nie&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;博客文章&quot;&gt;博客文章&lt;/h2&gt;
+
+&lt;p&gt;今年我写了 5 篇博客文章（3 篇英文，2 篇中文），现在分别放在英文和中文目录下。其中一些文章同时发布在我的微信公众号（爱学习的运动员）和我的个人网站（chengnie.com/blog）上。&lt;/p&gt;
+
+&lt;p&gt;英文文章：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/why-do-i-run/&quot;&gt;Why Do I Run?&lt;/a&gt; 二月&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/web2025/&quot;&gt;Modern Web Scraping with AI: A 1-Hour Tutorial&lt;/a&gt; 十月&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/chicago2025/&quot;&gt;Chicago Marathon 2025&lt;/a&gt; 十月&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;中文文章：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/cn/letter2003/&quot;&gt;那年的情书&lt;/a&gt;（2003 年的一封情书）一月&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/cn/chicago2025/&quot;&gt;2025 芝加哥马拉松&lt;/a&gt; 十月&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;2-今年有哪些地方做得不太好&quot;&gt;2. 今年有哪些地方做得不太好？&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;投稿目标未达成&lt;/strong&gt; 我的目标是在 2025 年投稿 12 次，但只完成了 6 次——只达到目标的一半。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;每天 30 分钟研究时间中断了。&lt;/strong&gt; 今年前七个月，我保持了每天至少花 30 分钟做研究的承诺，即使在意大利罗马教学期间也是如此。但在 8 月我在中国期间打破了这个纪录。多重干扰，加上即将到来的 MISQ 修改截止日期的压力，让我很难集中注意力。我发现自己睡前盯着笔记本电脑，却无法取得有意义的进展。这标志着我连续第四年的每日 30 分钟研究记录的结束。回到 Ames 后，我重新开始了每天至少 30 分钟的研究。从九月开始，我一直还保持稳定的进展，每天至少花 30 分钟做研究。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;晚睡习惯&lt;/strong&gt; 我的睡眠时间表严重影响我的工作效率。如果我晚上 11 点后才睡，我会在早上 7 点左右醒来。等我和孩子们一起吃早餐并去健身房时，已经过了早上 8 点。有时我会在那里待一整个上午。但是，如果我在晚上 10 点前睡，我可以在早上 5:30 醒来，并在健身房 6 点开门时到达。这样我可以完成锻炼并在上午 9 点到达办公室，保证我有充分的时间完成研究还有教学的工作。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;错过改稿的截止日期&lt;/strong&gt; 今年我错过了一个重要的改稿截止日期（MISQ）。我没有为修改论文分配足够的时间，再加上那段时间和家人一起旅行。我希望未来能更好地安排好工作，以在工作和生活之间达到更健康的平衡。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;3-我学到了什么&quot;&gt;3. 我学到了什么？&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;整合 AI&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;人工智能 （AI） 已成为我生活中的得力助手：从写作和阅读到编程，甚至个人的心理咨询。我想学习更多的 AI 技术，以进一步提高我的工作效率和幸福感。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;跑步的基本功&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;今年我读的几本有关跑步的书（包括上面提到的 &lt;em&gt;The Running Ground&lt;/em&gt; 和 &lt;em&gt;Never Finished&lt;/em&gt;）帮助我回归到跑步的基础。我开始完善我的训练方法。有了这种新的理解，我相信我可以在未来两年内实现在 2 小时 30 分钟内完成马拉松的目标。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;教学相长&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;我发现教别人是巩固自己理解的最有效方法。我计划通过会议演讲和其他平台分享更多关于跑步、写作和学术工作的知识。&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="年度回顾" /><summary type="html">以下是我对 2025 年的年度回顾，主要回答以下三个问题:</summary></entry><entry xml:lang="en"><title type="html">My 2025 Annual Review</title><link href="http://localhost:4000/review2025/" rel="alternate" type="text/html" title="My 2025 Annual Review" /><published>2026-01-04T00:00:00-06:00</published><updated>2026-01-04T00:00:00-06:00</updated><id>http://localhost:4000/review2025</id><content type="html" xml:base="http://localhost:4000/review2025/">&lt;p&gt;Here is my annual review of 2025 to answer the following three questions:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;What went well this year?&lt;/li&gt;
@@ -263,272 +528,7 @@
   &lt;li&gt;&lt;strong&gt;Learning Through Teaching&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I’ve discovered that teaching others is the most effective way to solidify my own understanding. Going forward, I plan to share more knowledge about running, writing, and my academic work through conference presentations and other platforms.&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Annual Review" /><summary type="html">Here is my annual review of 2025 to answer the following three questions:</summary></entry><entry xml:lang="cn"><title type="html">我的 2025 年度回顾</title><link href="http://localhost:4000/cn/review2025/" rel="alternate" type="text/html" title="我的 2025 年度回顾" /><published>2026-01-04T00:00:00-06:00</published><updated>2026-01-04T00:00:00-06:00</updated><id>http://localhost:4000/cn/cn-review2025</id><content type="html" xml:base="http://localhost:4000/cn/review2025/">&lt;p&gt;以下是我对 2025 年的年度回顾，主要回答以下三个问题:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;今年有哪些地方做得好？&lt;/li&gt;
-  &lt;li&gt;今年有哪些地方做得不太好？&lt;/li&gt;
-  &lt;li&gt;我学到了什么？&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;1-今年有哪些地方做得好&quot;&gt;1. 今年有哪些地方做得好？&lt;/h1&gt;
-
-&lt;h2 id=&quot;工作&quot;&gt;工作&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;0 篇论文被接收，6 次投稿。&lt;/strong&gt; 我今年向期刊投稿 5 次、会议投稿 1 次，总计 6 次：&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;JMIS: 1&lt;/li&gt;
-      &lt;li&gt;DSS: 1&lt;/li&gt;
-      &lt;li&gt;JAIS: 2&lt;/li&gt;
-      &lt;li&gt;ISR: 1&lt;/li&gt;
-      &lt;li&gt;ICIS: 1&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Bootstrap Research Grants。&lt;/strong&gt; 我从 Ivy College of Business 获得了 6000 美元的研究经费（2025 年 12 月），用于支持明年的研究。我将主要用它来提升我的 AI 技能并启动 AI 项目。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;阅读&quot;&gt;阅读&lt;/h2&gt;
-
-&lt;h2 id=&quot;今年读了-55-本书&quot;&gt;今年读了 55 本书&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/files/pics/2025_book_pages.png&quot; alt=&quot;55 本书&quot; title=&quot;55 本书&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;以下 8 本是我最想推荐的（附上我为每本书写的简短总结）：&lt;/p&gt;
-
-    &lt;p&gt;1. &lt;a href=&quot;/notes/know-my-name&quot;&gt;&lt;em&gt;Know My Name&lt;/em&gt; - by Chanel Miller&lt;/a&gt;&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;我钦佩她的勇气和她的写作能力。&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;2. &lt;a href=&quot;/notes/wild-swans&quot;&gt;&lt;em&gt;Wild Swans&lt;/em&gt; - by Jung Chang&lt;/a&gt;&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;这本书被禁并不令人意外。作者张戎叙事深入。她的记述充分展示了独裁统治对人类社会的破坏性影响。&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;3. &lt;a href=&quot;/notes/the-molecule-of-more&quot;&gt;&lt;em&gt;The Molecule Of More&lt;/em&gt; - by Daniel Z. Lieberman &amp;amp; Michael E. Long&lt;/a&gt;&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;这本书让我想起许多成功但不满足（不快乐）的人：科比·布莱恩特、埃隆·马斯克、史蒂夫·乔布斯、比尔·盖茨。它也提醒我要坚持每天冥想，这样我才能活在此时此地。&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;4. &lt;a href=&quot;/notes/meditations-for-mortals&quot;&gt;&lt;em&gt;Meditations For Mortals&lt;/em&gt; - by Oliver Burkeman&lt;/a&gt;&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;作者 Oliver Burkeman 写了我最喜欢的书之一：&lt;a href=&quot;/notes/four-thousand-weeks&quot;&gt;Four Thousand Weeks&lt;/a&gt;。这本新书又是一部佳作。&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;5. &lt;a href=&quot;/notes/never-finished&quot;&gt;&lt;em&gt;Never Finished&lt;/em&gt; - by David Goggins&lt;/a&gt;&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;我跑出了 2:38:02 的马拉松成绩，我为此感到非常自豪！这本书激励我追求更高的目标——我的下一个目标是 2:30。这是我在书中最喜欢的一句话：”世界需要医生、律师和教师，但我们也需要野蛮人来证明我们都能做到更多。”#neverfinished。&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;6. &lt;a href=&quot;/notes/the-running-ground&quot;&gt;&lt;em&gt;The Running Ground&lt;/em&gt; - by Nicholas Thompson&lt;/a&gt;&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;这本回忆录对我的训练既有启发又有指导意义。我已经订购了甜菜汁，并将把书中提到的训练方式加入到我平时的训练中。为了提高速度，我打算每周两次针对最大摄氧量(VO2 Max)和乳酸阈值配速(Threshold)的训练。&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;7. &lt;a href=&quot;/notes/we-did-ok-kid&quot;&gt;&lt;em&gt;We Did Ok Kid&lt;/em&gt; - by Anthony Hopkins&lt;/a&gt;&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;我被他富有音乐性的嗓音折服。我也很欣赏他阐述自己与酒精成瘾的斗争以及他通过戒酒互助会（Alcoholics Anonymous）康复的历程——这为他的故事增添了深刻的意义。&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;他父亲对他生活的影响让我印象很深，这让我想起另一本书 &lt;a href=&quot;/notes/the-running-groud&quot;&gt;The Running Ground&lt;/a&gt; 中探讨的父子关系。&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;他对自己演戏的执着让我想起科比·布莱恩特对篮球的态度：两人都是通过充分的准备和持续的努力来追求卓越表现。&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;8. &lt;a href=&quot;/notes/大江大海一九四九&quot;&gt;&lt;em&gt;大江大海一九四九&lt;/em&gt; - by 龙应台&lt;/a&gt;&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;作者以富有同情心的笔触记录了国共内战（1945-1949）：从她母亲的经历开始，延伸到人民解放军和国民党普通士兵的故事。&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;旅行&quot;&gt;旅行&lt;/h2&gt;
-
-&lt;p&gt;今年夏天，我们去了欧洲和中国旅行。&lt;/p&gt;
-
-&lt;h2 id=&quot;夏天在意大利罗马斗兽场外和我的学生一起&quot;&gt;夏天在意大利罗马斗兽场外和我的学生一起&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/files/pics/2025_rome_colosseum.JPEG&quot; alt=&quot;夏天在意大利罗马斗兽场外&quot; title=&quot;夏天在意大利罗马斗兽场外&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;夏天在意大利罗马斗兽场内&quot;&gt;夏天在意大利罗马斗兽场内&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/files/pics/2025_rome_colosseum_family.jpeg&quot; alt=&quot;夏天在意大利罗马斗兽场内&quot; title=&quot;夏天在意大利罗马斗兽场内&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;夏天在意大利摩德纳的帕加尼车厂&quot;&gt;夏天在意大利摩德纳的帕加尼车厂&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/files/pics/2025_modena_pagani.JPEG&quot; alt=&quot;夏天在意大利摩德纳的帕加尼&quot; title=&quot;夏天在意大利摩德纳的帕加尼&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;夏天在意大利庞贝古城&quot;&gt;夏天在意大利庞贝古城&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/files/pics/2025_pompeii.jpeg&quot; alt=&quot;夏天在意大利庞贝&quot; title=&quot;夏天在意大利庞贝&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;夏天坐游轮游长江&quot;&gt;夏天坐游轮游长江&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/files/pics/2025_cruise.JPEG&quot; alt=&quot;夏天在长江游轮上&quot; title=&quot;夏天在长江游轮上&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;夏天在中国重庆&quot;&gt;夏天在中国重庆&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/files/pics/2025_chongqing.JPG&quot; alt=&quot;夏天在中国重庆&quot; title=&quot;夏天在中国重庆&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;跑步&quot;&gt;跑步&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;我今年总共跑了 4328 公里，相当于每天大约 11.9 公里。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;2025-年跑步总结&quot;&gt;2025 年跑步总结&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/files/pics/2025_run.jpg&quot; alt=&quot;2025 年跑步总结&quot; title=&quot;2025 年跑步总结&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;今年完成了 7 个全程马拉松：&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;最快时间：2:38:08&lt;/li&gt;
-      &lt;li&gt;平均时间：2:43:48&lt;/li&gt;
-      &lt;li&gt;标准差：2 分 55 秒&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;序号&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;地点&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;日期&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;时间&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;赛事&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;中国厦门&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2025年1月5日&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2:38:08&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;厦门马拉松&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;堪萨斯州奥拉西&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2025年4月26日&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2:44:35&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;佳明马拉松&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;南达科他州苏福尔斯&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2025年9月21日&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2:45:50&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;苏福尔斯马拉松&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;伊利诺伊州芝加哥&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2025年10月12日&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2:40:51&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;芝加哥马拉松&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;佐治亚州梅布尔顿&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2025年10月25日&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2:44:40&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Silver Comet 马拉松&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;密苏里州堪萨斯城&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2025年11月16日&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2:45:37&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Yeti Endurance 马拉松&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;阿拉巴马州亨茨维尔&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2025年12月14日&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2:46:58&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Rocket City 马拉松&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;钢琴课&quot;&gt;钢琴课&lt;/h2&gt;
-
-&lt;p&gt;今年我学习了久石让作曲的两首歌：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Summer - 1999 年电影《菊次郎的夏天》主题曲&lt;/li&gt;
-  &lt;li&gt;Memory - 2008 年电影《入殓师》主题曲&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe width=&quot;1428&quot; height=&quot;803&quot; src=&quot;https://www.youtube.com/embed/AFTJipwTZOw&quot; title=&quot;Summer - Theme from the 1999 film “Kikujiro” 🎬 Composed by: Joe Hisaishi. Cover by: Cheng Nie&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;博客文章&quot;&gt;博客文章&lt;/h2&gt;
-
-&lt;p&gt;今年我写了 5 篇博客文章（3 篇英文，2 篇中文），现在分别放在英文和中文目录下。其中一些文章同时发布在我的微信公众号（爱学习的运动员）和我的个人网站（chengnie.com/blog）上。&lt;/p&gt;
-
-&lt;p&gt;英文文章：&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/why-do-i-run/&quot;&gt;Why Do I Run?&lt;/a&gt; 二月&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/web2025/&quot;&gt;Modern Web Scraping with AI: A 1-Hour Tutorial&lt;/a&gt; 十月&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/chicago2025/&quot;&gt;Chicago Marathon 2025&lt;/a&gt; 十月&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;中文文章：&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/cn/letter2003/&quot;&gt;那年的情书&lt;/a&gt;（2003 年的一封情书）一月&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chengnie.com/cn/chicago2025/&quot;&gt;2025 芝加哥马拉松&lt;/a&gt; 十月&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;2-今年有哪些地方做得不太好&quot;&gt;2. 今年有哪些地方做得不太好？&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;投稿目标未达成&lt;/strong&gt; 我的目标是在 2025 年投稿 12 次，但只完成了 6 次——只达到目标的一半。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;每天 30 分钟研究时间中断了。&lt;/strong&gt; 今年前七个月，我保持了每天至少花 30 分钟做研究的承诺，即使在意大利罗马教学期间也是如此。但在 8 月我在中国期间打破了这个记录。多重干扰，加上即将到来的 MISQ 修改截止日期的压力，让我很难集中注意力。我发现自己睡前盯着笔记本电脑，却无法取得有意义的进展。这标志着我连续第四年的每日 30 分钟研究记录的结束。回到 Ames 后，我重新开始了每天至少 30 分钟的研究。从九月开始，我一直还保持稳定的进展，每天至少花 30 分钟做研究。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;晚睡习惯&lt;/strong&gt; 我的睡眠时间表严重影响我的工作效率。如果我晚上 11 点后才睡，我会在早上 7 点左右醒来。等我和孩子们一起吃早餐并去健身房时，已经过了早上 8 点。有时我会在那里待一整个上午。但是，如果我在晚上 10 点前睡，我可以在早上 5:30 醒来，并在健身房 6 点开门时到达。这样我可以完成锻炼并在上午 9 点到达办公室，保证我有充分的时间完成研究还有教学的工作。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;错过改稿的截止日期&lt;/strong&gt; 今年我错过了一个重要的改稿截止日期（MISQ）。我没有为修改论文分配足够的时间，再加上那段时间和家人一起旅行。我希望未来能更好地安排好工作，以在工作和生活之间达到更健康的平衡。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;3-我学到了什么&quot;&gt;3. 我学到了什么？&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;整合 AI&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;人工智能 （AI） 已成为我生活中的得力助手：从写作和阅读到编程，甚至个人的心理咨询。我想学习更多的 AI 技术，以进一步提高我的工作效率和幸福感。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;跑步的基本功&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;今年我读的几本有关跑步的书（包括上面提到的 &lt;em&gt;The Running Ground&lt;/em&gt; 和 &lt;em&gt;Never Finished&lt;/em&gt;）帮助我回归到跑步的基础。我开始完善我的训练方法。有了这种新的理解，我相信我可以在未来两年内实现在 2 小时 30 分钟内完成马拉松的目标。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;教学相长&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;我发现教别人是巩固自己理解的最有效方法。我计划通过会议演讲和其他平台分享更多关于跑步、写作和学术工作的知识。&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="年度回顾" /><summary type="html">以下是我对 2025 年的年度回顾，主要回答以下三个问题:</summary></entry><entry xml:lang="en"><title type="html">Chicago Marathon 2025</title><link href="http://localhost:4000/chicago2025/" rel="alternate" type="text/html" title="Chicago Marathon 2025" /><published>2025-10-18T00:00:00-05:00</published><updated>2025-10-18T00:00:00-05:00</updated><id>http://localhost:4000/chicago2025</id><content type="html" xml:base="http://localhost:4000/chicago2025/">&lt;h1 id=&quot;chicago-marathon-2025-&quot;&gt;Chicago Marathon 2025 🏅&lt;/h1&gt;
+&lt;p&gt;I’ve discovered that teaching others is the most effective way to solidify my own understanding. Going forward, I plan to share more knowledge about running, writing, and my academic work through conference presentations and other platforms.&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Annual Review" /><summary type="html">Here is my annual review of 2025 to answer the following three questions:</summary></entry><entry xml:lang="en"><title type="html">Chicago Marathon 2025</title><link href="http://localhost:4000/chicago2025/" rel="alternate" type="text/html" title="Chicago Marathon 2025" /><published>2025-10-18T00:00:00-05:00</published><updated>2025-10-18T00:00:00-05:00</updated><id>http://localhost:4000/chicago2025</id><content type="html" xml:base="http://localhost:4000/chicago2025/">&lt;h1 id=&quot;chicago-marathon-2025-&quot;&gt;Chicago Marathon 2025 🏅&lt;/h1&gt;
 
 &lt;p&gt;On October 12, 2025, I completed the Chicago Marathon. The race tested not only my physical endurance but also my mental resilience and race strategy. Here are my reflections on what went well, what I can improve, and the memorable moments along the way.&lt;/p&gt;
 
@@ -1064,7 +1064,81 @@ Help me use Selenium WebDriver to scrape dynamic content that&apos;s not in the 
   &lt;li&gt;Explore advanced AI tools (Claude Code, Cursor, Windsurf, GPT-5, Gemini etc.)&lt;/li&gt;
   &lt;li&gt;Learn about headless browsers and browser automation&lt;/li&gt;
   &lt;li&gt;Practice on scraping-friendly websites&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="tools" /><summary type="html">Overview In this tutorial, we’ll explore how AI-powered tools like GitHub Copilot have revolutionized web scraping. Instead of manually writing complex parsing logic, we’ll leverage AI to help us quickly build robust scrapers that can collect, parse, and save data from websites.</summary></entry><entry xml:lang="en"><title type="html">Why Do I Run?</title><link href="http://localhost:4000/why-do-i-run/" rel="alternate" type="text/html" title="Why Do I Run?" /><published>2025-02-01T00:00:00-06:00</published><updated>2025-02-01T00:00:00-06:00</updated><id>http://localhost:4000/why-do-i-run</id><content type="html" xml:base="http://localhost:4000/why-do-i-run/">&lt;p&gt;I run for the dopamine rush and the health benefits.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="tools" /><summary type="html">Overview In this tutorial, we’ll explore how AI-powered tools like GitHub Copilot have revolutionized web scraping. Instead of manually writing complex parsing logic, we’ll leverage AI to help us quickly build robust scrapers that can collect, parse, and save data from websites.</summary></entry><entry xml:lang="cn"><title type="html">我为什么要跑步？</title><link href="http://localhost:4000/cn-why-do-i-run/" rel="alternate" type="text/html" title="我为什么要跑步？" /><published>2025-02-01T00:00:00-06:00</published><updated>2025-02-01T00:00:00-06:00</updated><id>http://localhost:4000/cn-why-do-i-run</id><content type="html" xml:base="http://localhost:4000/cn-why-do-i-run/">&lt;p&gt;为了多巴胺和健康。&lt;/p&gt;
+
+&lt;p&gt;多巴胺是一种在大脑中发挥作用的神经递质，它在调节情绪、记忆、奖赏和快感等多种心理功能中发挥关键作用。我们做很多事情都是为了多巴胺的刺激——食物、性、冒险等等。可是并非所有能诱发多巴胺的习惯都很健康。比如滥交、酒精、毒品和色情就会导致负面的效果。&lt;/p&gt;
+
+&lt;p&gt;运动的形式那么多，比如在健美，篮球，游泳，骑自行车中我为什么选择跑步？因为跑步需要的装备最少，而且几乎在任何地方都可以跑。曼德拉被关在牢里的近30年都在坚持原地跑。&lt;/p&gt;
+
+&lt;p&gt;2018年我写过一篇文章，详述了我如何从2017年初的每天5公里，在那年结束时跑了第一场马拉松。这里是那篇文章的链接：&lt;a href=&quot;https://mp.weixin.qq.com/s/LVXI8vCoxx3b1XmB7oaWYg&quot;&gt;从5千米到马拉松&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;我从2016年12月开始经常性地跑步，那时候我决定了延期一年博士毕业。因为预料到当年求职的压力，我便开始跑步了。当时我用苹果手表和耐克的跑步APP来跟踪我的运动轨迹，后来我换成了高驰手表。2017年经过四个月每天5公里的练习之后，我参加了达拉斯跑步俱乐部的5公里比赛，并在我的年龄组中获得了第三名。这是当时挂着奖牌后照的相。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/files/pics/2017_04_drc.jpeg&quot; alt=&quot;2017_04_DallasRunningClub&quot; title=&quot;2017_04_DallasRunningClub&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;跑步教会了我计划坚持和耐心&quot;&gt;跑步教会了我计划、坚持和耐心&lt;/h2&gt;
+
+&lt;p&gt;跑步教会了我计划、坚持和耐心（plan, persistence, and patience）。&lt;/p&gt;
+
+&lt;h3 id=&quot;计划-plan&quot;&gt;计划 (Plan)&lt;/h3&gt;
+
+&lt;p&gt;我的计划很简单：打破我的个人纪录。当我打算跑马拉松时，每天5公里就不太够了。《杰克·丹尼的跑步公式》（&lt;em&gt;Daniels’ Running Formula&lt;/em&gt;）这本书给我带来了很大启发。杰克·丹尼是一位跑步专家，而且威士忌当中也有一个很有名的杰克·丹尼牌。人们会开玩笑说我跑步的时候都在受杰克·丹尼的影响。他的”2Q”训练计划——每周两次高质量的跑步训练，例如周二15英里快速跑和周六25英里慢速长跑。剩下的五天，你可以自己决定跑步的里程和速度。&lt;/p&gt;
+
+&lt;h3 id=&quot;坚持-persistence&quot;&gt;坚持 (Persistence)&lt;/h3&gt;
+
+&lt;p&gt;要做成生活中的许多事情都需要付出持续的努力。我跑步的初衷也很简单：每天跑5公里。这个对自己的小小承诺让我每天的行程安排都以跑步开始，也让我理解了持续努力的价值。每天早上跑步，不仅可以确保我每天在锻炼，也让我活力充沛地开始新的一天。此外，每天做到这些小任务也教会了我有条不紊地做大任务的思路。比如，每天我也至少会花半小时来做研究工作。&lt;/p&gt;
+
+&lt;h3 id=&quot;耐心-patience&quot;&gt;耐心 (Patience)&lt;/h3&gt;
+
+&lt;p&gt;比赛是训练的一部分。并非每场比赛都会打破我的个人记录。当比赛结果没达到我的期望时，也是在慢慢磨练自己的耐心。我之前跑步时经常膝关节侧面疼痛。通过多次的理疗才让我明白这种疼痛是由于我的臀中肌太弱造成的。从此我每天都会做强化臀中肌的运动。此外，我的脚、脚踝、膝盖和背部也偶尔会有些疼痛。通过耐心地学习，我才发现了拉伸和力量训练的重要性，并把这些训练加入到我的日常训练中。&lt;/p&gt;
+
+&lt;p&gt;这些调整和不断学习的过程，帮助了我从许多的小伤大病中恢复过来，才得以不断提高我的跑步成绩。&lt;/p&gt;
+
+&lt;h2 id=&quot;常见问题&quot;&gt;常见问题&lt;/h2&gt;
+
+&lt;p&gt;很多人问我关于跑步的问题。这里是其中一些问题和答案。&lt;/p&gt;
+
+&lt;p&gt;1. 你用些什么设备？&lt;/p&gt;
+
+&lt;p&gt;目前（2025年2月1日），我用Brooks Adrenaline的鞋来训练，用Saucony Endorphin Elite来比赛。我穿43.5码（美式10码）的鞋。我一直使用的袜子是Injinji脚趾袜。表我用的高驰Coros Pace 2，POD 2，以及它家的手臂心率监测设备。还有我的苹果手表和无线耳机听有声书或音乐。&lt;/p&gt;
+
+&lt;p&gt;2. 跑步的时候在想什么？&lt;/p&gt;
+
+&lt;p&gt;一般是当天跑步的计划。一般我还会听有声书或播客。但是一小时之后，我一般会听音乐。&lt;/p&gt;
+
+&lt;p&gt;3. 为什么要跑马拉松？&lt;/p&gt;
+
+&lt;p&gt;马拉松让我对平时的跑步训练更有积极性。截止2025年2月1日，我参加过的马拉松比赛。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/files/pics/2025_02_01_marathons.png&quot; alt=&quot;2025_02_01_marathons&quot; title=&quot;2025_02_01_marathons&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;4. 跑步会不会损害你的膝盖？&lt;/p&gt;
+
+&lt;p&gt;这让我想起了和我的一个亲戚（B）的对话。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;&lt;strong&gt;B:&lt;/strong&gt; 跑步对你的膝盖不好。&lt;br /&gt;
+&lt;strong&gt;我:&lt;/strong&gt; 我知道。但是我能怎么办呢？&lt;br /&gt;
+&lt;strong&gt;B:&lt;/strong&gt; 游泳。游泳对你的膝盖更好。&lt;br /&gt;
+&lt;strong&gt;我:&lt;/strong&gt; 我知道。你游泳吗？&lt;br /&gt;
+&lt;strong&gt;B:&lt;/strong&gt; 不游。&lt;br /&gt;
+&lt;strong&gt;我:&lt;/strong&gt; 你跑步吗？&lt;br /&gt;
+&lt;strong&gt;B:&lt;/strong&gt; 不跑。&lt;br /&gt;
+&lt;strong&gt;我:&lt;/strong&gt; 你运动吗？&lt;br /&gt;
+&lt;strong&gt;B:&lt;/strong&gt; 不运动。&lt;br /&gt;&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;尽管跑步可能会给膝盖带来受伤的风险，但我们可以通过管理体重、控制训练强度、纠正跑步姿势来减少这种风险。从小目标开始，从伤病中学习，就可以逐渐地在长距离跑步中享受快乐。&lt;/p&gt;
+
+&lt;p&gt;5. 你是怎么找时间跑步的？我因为孩子、工作、生活都忙得要死。&lt;/p&gt;
+
+&lt;p&gt;你一周在娱乐上花了多少时间？抖音、小红书、看电视、打麻将、喝酒等等。你干这些事情的时间都可以用来跑步。很多名人都跑步，比如Alan Turing（图灵奖的那个图灵），哈佛大学的物理系教授Xi Yin，Bryan Cranston（绝命毒师里毒师的演员），张朝阳，Malcolm Gladwell（马尔科姆·格莱德威尔，写了很多畅销书），马克·扎克伯格（脸书创始人），村上春树，施一公，钟南山等等。&lt;/p&gt;
+
+&lt;p&gt;6. 你是如何坚持下来的？&lt;/p&gt;
+
+&lt;p&gt;我之所以能坚持是因为我定了个小目标。我想要每天跑5公里。依据你自己的身体状况，这个小目标可能是每天跑100米，也可能是每天跑10公里。报名参加马拉松比赛也让我有动力坚持跑下去。&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Running" /><summary type="html">为了多巴胺和健康。</summary></entry><entry xml:lang="en"><title type="html">Why Do I Run?</title><link href="http://localhost:4000/why-do-i-run/" rel="alternate" type="text/html" title="Why Do I Run?" /><published>2025-02-01T00:00:00-06:00</published><updated>2025-02-01T00:00:00-06:00</updated><id>http://localhost:4000/why-do-i-run</id><content type="html" xml:base="http://localhost:4000/why-do-i-run/">&lt;p&gt;I run for the dopamine rush and the health benefits.&lt;/p&gt;
 
 &lt;p&gt;We pursue many activities for the dopamine rush—food, sex, adventure, and more. Unfortunately, not all dopamine-inducing habits are healthy; some, like casual hookups, alcohol, drugs, and pornography, can lead to negative outcomes. That’s why I choose exercise for a healthier dopamine boost.&lt;/p&gt;
 
@@ -1426,156 +1500,66 @@ Help me use Selenium WebDriver to scrape dynamic content that&apos;s not in the 
 &lt;img src=&quot;/files/pics/letter2003_0006.png&quot; alt=&quot;&quot; /&gt;
 &lt;img src=&quot;/files/pics/letter2003_0007.png&quot; alt=&quot;&quot; /&gt;
 &lt;img src=&quot;/files/pics/letter2003_0008.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/files/pics/letter2003_0009.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="letter" /><summary type="html">2010年结婚照</summary></entry><entry xml:lang="en"><title type="html">My Mantra</title><link href="http://localhost:4000/mantra/" rel="alternate" type="text/html" title="My Mantra" /><published>2024-09-08T00:00:00-05:00</published><updated>2024-09-08T00:00:00-05:00</updated><id>http://localhost:4000/mantra</id><content type="html" xml:base="http://localhost:4000/mantra/">&lt;p&gt;It takes seven minutes to drive from my home to my office. During that time, I like to remind myself of how I can approach the day. I’ve gathered some quotes and written a few sentences as personal reminders. I recorded myself reading them and play the recording each day during my drive. It helps me stay focused on what’s important instead of getting caught up in distractions. You can listen to my recording by clicking on the blue button below.&lt;/p&gt;
+&lt;img src=&quot;/files/pics/letter2003_0009.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="letter" /><summary type="html">2010年结婚照</summary></entry><entry xml:lang="en"><title type="html">A Love Letter from 2003</title><link href="http://localhost:4000/letter2003/" rel="alternate" type="text/html" title="A Love Letter from 2003" /><published>2025-01-01T00:00:00-06:00</published><updated>2025-01-01T00:00:00-06:00</updated><id>http://localhost:4000/letter2003</id><content type="html" xml:base="http://localhost:4000/letter2003/">&lt;p&gt;&lt;img src=&quot;/files/pics/wedding_2010.png&quot; alt=&quot;Wedding Photo 2010&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;Wedding Photo, 2010&lt;/p&gt;
 
-&lt;head&gt;
-    &lt;title&gt;Play Button Example&lt;/title&gt;
-    &lt;style&gt;
-        #playButton {
-            background-color: #007BFF; /* Blue background */
-            border: none; /* No borders */
-            color: white; /* White text */
-            padding: 10px 15px; /* Some padding */
-            text-align: center; /* Centered text */
-            text-decoration: none; /* No underline */
-            display: inline-block; /* Inline block element */
-            font-size: 16px; /* Some font size */
-            margin: 4px 2px; /* Some margin */
-            cursor: pointer; /* Pointer/hand icon */
-            border-radius: 10px; /* Slightly rounded corners */
-        }
+&lt;p&gt;Before I knew it, we’ve been married for 14 years now—our wedding was on December 31, 2010. While visiting my hometown, I stumbled upon a love letter I wrote to Gan Pingping in 2003, when I had just started college. Back then, I was beginning my new life at Huazhong University of Science and Technology, while she was studying hard for her second attempt at the college entrance exam after not doing well the first time. This letter was filled with my longing for her and words of encouragement. Looking back now, every page was full of youthful innocence, yet here we are, having walked through so many years hand in hand.&lt;/p&gt;
 
-        #playButton:before {
-            content: &quot;▶&quot;; /* Unicode play symbol */
-            font-size: 20px; /* Larger icon size */
-        }
-    &lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;audio id=&quot;myAudio&quot;&gt;
-        &lt;source src=&quot;/files/audio/mantra.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-        Your browser does not support the audio element.
-    &lt;/audio&gt;
-    &lt;button id=&quot;playButton&quot; onclick=&quot;playAudio()&quot;&gt;Cheng&apos;s Mantra&lt;/button&gt;
-    &lt;script&gt;
-        function playAudio() {
-            var audio = document.getElementById(&quot;myAudio&quot;);
-            audio.play();
-        }
-    &lt;/script&gt;
-&lt;/body&gt;
+&lt;p&gt;While organizing this text, I’ve been listening to Maggie Chiang’s gentle song &lt;a href=&quot;https://www.youtube.com/watch?v=kipCne0kYkc&quot;&gt;“Love Letters from That Year.”&lt;/a&gt;. Here is the letter in English translation:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Anicca, Sankara, Aware, Equanimity, Act out of love.&lt;sup id=&quot;fnref:fn1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:fn1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; – &lt;em&gt;The Discourse Summaries&lt;/em&gt; by S.N. Goenka&lt;/li&gt;
-  &lt;li&gt;You are carrying in your mind the insane burden of a hundred things that you will or may have to do in the future instead of focusing your attention on the one thing that you can do now. — &lt;em&gt;The Power of Now&lt;/em&gt; by Eckhart Tolle&lt;/li&gt;
-  &lt;li&gt;Lack of time is lack of priority.&lt;/li&gt;
-  &lt;li&gt;Ask myself, &lt;strong&gt;Can I surpass myself from yesterday? Can I surpass someone facing similar problems now&lt;/strong&gt;. I am a competitive person, this line of thinking would help me stay motivated to choose the way I feel proud of myself.&lt;/li&gt;
-  &lt;li&gt;This run, even if it brings on heatstroke, will give me peace of mind tonight in that all-important ten minutes before I fall asleep. I now live for that ten minutes. I’m all about that ten minutes. I’ve been cheered by thousands, booed by thousands, but &lt;strong&gt;nothing feels as bad as the booing inside your own head during those ten minutes before you fall asleep&lt;/strong&gt;. — &lt;em&gt;Open&lt;/em&gt; by Andre Agassi&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;The entire internet is in a sense pornographic, a deliverer of a constant excitement that we have no innate capacity to resist&lt;/strong&gt;, a seducer that leads us down paths that for the most part do nothing to answer our real needs. — &lt;em&gt;How to think more about sex&lt;/em&gt; by Alain de Botton&lt;/li&gt;
-  &lt;li&gt;From this moment I am prepared to control whatever personality awakes in me each day. &lt;strong&gt;I will master my moods through positive action&lt;/strong&gt; and when I master my moods I will control my destiny. — &lt;em&gt;The Greatest Salesman in the World&lt;/em&gt; by Og Mandino&lt;/li&gt;
-  &lt;li&gt;Start the day with office door half open so that I know I need to focus instead of mindlessly do something that I feel embarrassed/regret about. An alternative is to &lt;strong&gt;make Internet and open office door hand-in-hand&lt;/strong&gt;; I’ll open the office door before I access Internet. I’ll disconnect before I close my office door.&lt;/li&gt;
-  &lt;li&gt;Schedule activities that I feel excited: Marathon, basketball, movies.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Unplug the Ethernet and schedule blocks to use Internet during the day: before l leaving my office for home.&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Remember about the story of two monks:&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;strong&gt;forgiveness and letting go.&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Focus on now so that I don’t have to regret in the future.&lt;/li&gt;
-  &lt;li&gt;When I have to digress, do something that I always want to do: read discrete choice. Read python book.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;I will get research lean by investing daily time into research. I will become better at doing research by doing more research. I will get better at saying no to temptations by saying no to temptations.&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Visualize how a 10-year older Cheng would guide current me. When we are not watched or listened, we feel less motivated.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;MAP: motivation, Ability, Prompt. Setup my environment (Prompt), mentally and physically, to improve my productivity.&lt;/strong&gt; – Fogg Behavior Model&lt;/li&gt;
-  &lt;li&gt;I can spend less time on youtube by fixing the time that I will use the Internet per day. The prompt of using youtube is very strong.&lt;/li&gt;
-  &lt;li&gt;Allow myself to rest instead of waiting for my body and mind to protest and procrastinate.&lt;/li&gt;
-  &lt;li&gt;When there is urge to digress, take a deep breath for 5 minutes and get back to the goals of now.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Start small, I did not go to YouTube/Porn to watch 5 hours, I just want to take a small peek. The same motivational trick works for research/work as well.&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;See YouTube, Porn, wechat, facebook, twitter as red lights to stop because they are my escape routine. I can replace them with healthy coping strategies: take a nap, meditate, take a walk. Reading other things might be a distraction as well.&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Be mindful about the tricks that my mind plays with me: my work is meaningless, let’s escape to porn/youtube/singing/racing etc. &lt;strong&gt;This is Resistance in the form of denial.&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Let go of the idea of being perfect. I need to start small and show up in working on my problems. Done is better than perfect.&lt;/li&gt;
-  &lt;li&gt;The reason why I want to digress is because I am tired, however, watching YouTube would only make it worse.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;I can try put phone aside (in the car) for better concentration during work in office&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Harmful behaviors like using porn cause pleasure chemicals to release in unnatural ways and at unhealthy levels. &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;It’s very similar to alcohol and tobacco addiction where we feel disgusted at the beginning. But we gradually get used to it and feeling need to use it.&lt;/li&gt;
-  &lt;li&gt;Addiction like porn are escape excuses for discomfort in life.&lt;/li&gt;
-  &lt;li&gt;Porn would hijack my reward system in the brain, which diminish my ability to enjoy regular things in life.&lt;/li&gt;
-  &lt;li&gt;The Latin root for “addiction” is dictator&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;From simply taking images/videos/words in through the eyes, the media acts as the porn drug’s distributor.&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;As porn becomes the solution to dealing with discomforts of life, it can actually become the cause of stress rather than a relief from it.&lt;/li&gt;
-  &lt;li&gt;Celebrate my own progress and imagine more about the rewarding life without porn&lt;/li&gt;
-  &lt;li&gt;In some sense, addiction is just one version of laziness/Resistance. I do need to fight all versions of laziness/Resistance together.&lt;/li&gt;
-  &lt;li&gt;Simply avoiding porn won’t cut it since the light source (passion of doing some meaningful things) is the solution to remove the darkness of porn completely.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Dear Pingping,&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:fn1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;These are my own summary of the Vipassana meditation. Anicca means change; Sankara means react, which is the source of our misery. &lt;a href=&quot;#fnref:fn1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Two Monks&lt;/p&gt;
+&lt;p&gt;Hello!&lt;/p&gt;
 
-      &lt;blockquote&gt;
-        &lt;p&gt;A senior monk and a junior monk were traveling together. At one point, they came to a river with a strong current. As the monks were preparing to cross the river, they saw a very young and beautiful woman also attempting to cross. The young woman asked if they could help her cross to the other side.&lt;/p&gt;
+&lt;p&gt;This is the first time I can remember writing to you through the post office. Maybe when you see the HUST envelope and the perhaps still-familiar handwriting, you’ll already know it’s from me.&lt;/p&gt;
 
-        &lt;p&gt;The two monks glanced at one another because they had taken vows not to touch a woman.&lt;/p&gt;
+&lt;p&gt;After the college entrance exam, when I heard you applied to Beijing Language and Culture University instead of Renmin University of China, I knew you probably didn’t do as well as you’d hoped. When the scores came out and I heard you didn’t get in, I was really heartbroken. After all, students struggle for over a decade just to receive an acceptance letter from a university they want. I can imagine how helpless and lost you felt watching others receive their acceptance letters one after another—you must have been blaming yourself for not working harder, for not making the most of your time, for putting too much energy into other things. In short, it must have been regret. I know you’re strong, but even the strongest person has the right to feel exhausted. This setback must have hurt you deeply. During summer vacation, I heard from your mom that you cried all day long. Actually, I really wanted to meet up and talk during that vacation. Do you remember the words you left on my door when you went to Teacher Zhang’s house for English tutoring the summer before ninth grade? “Cheng, 5222199, call me.” One day when I came home, I noticed those words seemed to have been traced over darker—maybe because I hadn’t lived there for over two years and my memory of them had faded. But I found a reason to ask you out, deceiving myself as I dialed that number, yet the line was always busy. I thought about it later and decided not to call. First, I was afraid talking to me would make you feel more inferior—I didn’t want to hurt you. Second, probably too many people were comforting you, all with sympathetic looks, but I know strong people don’t like others’ pity. Maybe it would be better for you to have some quiet time alone.&lt;/p&gt;
 
-        &lt;p&gt;Then, without a word, the older monk picked up the woman, carried her across the river, placed her gently on the other side, and carried on his journey.&lt;/p&gt;
+&lt;p&gt;When I got to college, facing a new environment and unfamiliar faces, I truly felt lonely from the bottom of my heart. Although I occasionally ran into former classmates, our conversations always stayed superficial. I didn’t have a single close friend I could confide in.&lt;/p&gt;
 
-        &lt;p&gt;The younger monk couldn’t believe what had just happened. After rejoining his companion, he was speechless, and an hour passed without a word between them.&lt;/p&gt;
+&lt;p&gt;Counting back, we’ve known each other for over nine years now. Remember when we were desk-mates in third grade? There’s something I remember very clearly: one day during class, you wrote in English “I love you” on a piece of paper and asked if I knew what it meant. I said, “I love you.” You smiled with your face turning red. Your smile made my heart race for a long, long time—it was nervousness, but more than that, it was happiness. Later, you said when you grew up you wanted to be a career woman, living alone. Looking back now, you were probably just joking, but at the time I was really unhappy, feeling like we would have to part when we grew up. I didn’t understand anything then; I just knew being separated from you would make me very sad. There was also that time when Lu Juan invited us to see some magic show. Actually, whenever I recall elementary school life, this is always the first thing that comes to mind. I remember saying I liked you, and also said I kind of liked Lu Juan—I only said that about her because I didn’t want her to feel left out or hurt her self-esteem. You compared me with Tan Zhong and then eliminated Tan Zhong because he was too fake, choosing me instead. When I heard you say you liked me, I was so incredibly happy—no other feeling has ever surpassed it since. Remember on the way back when you reached out your hand and said, “let’s walk together”? I refused, saying I was afraid someone might see us. It wasn’t that I didn’t like you—I was just too introverted and shy, too embarrassed. But thinking about it later, I really regretted it. Back then, a song by Qi Qin’s sister, whose name I’ve forgotten, was popular—”Holding Hands” [2024 note: It was sung by Su Rui, not Qi Qin’s sister Qi Yu. The link to the song is here: https://www.youtube.com/watch?v=wJNHRweW5WE]. The more I listened to it, the more I regretted, and every time I heard that song, I would think of that moment.&lt;/p&gt;
 
-        &lt;p&gt;Two more hours passed, then three, finally the younger monk could contain himself no longer, and blurted out “As monks, we are not permitted a woman, how could you then carry that woman on your shoulders?”&lt;/p&gt;
+&lt;p&gt;During summer vacation, I moved back and while sorting through things, I happened to find New Year’s cards from seventh grade. Back in seventh grade, I was afraid my parents would discover them, so I hid all these things in my school bag. But one day they found them anyway and grilled me for a long time. I wouldn’t say a word, just stared at them. They later hid these things somewhere, but must have forgotten about them. It wasn’t until this summer that I finally unearthed them. Reading your subtle writing again, I remembered so many things. Whether speaking or writing letters, you never said things like “I like you,” which worried me a lot back then. Remember you started calling me “little brother” since elementary school? So I was always worried something like those TV dramas would happen: when both kids grew up, A confesses to B, but B refuses saying, “I only see you as a younger/older sibling.” I don’t know if I thought too much or was too afraid of losing you. Remember when I got second place in our grade in eighth grade and stepped onto what had always been your territory? You said in front of your classmates, “Everyone in our class suddenly knows who you are now!” Your face was beaming with smiles, as if showing off to your classmates. At that moment, I felt happiness—truly. The happiness of making people around you proud of you. But the day before my parents were fighting over who would attend the parent-teacher meeting, tragedy struck. You already know this. Mom tried hard not to let this cast a shadow on my heart, so she wanted to give me double the love to make up for the missing father’s love. Actually, my mind was blank at the time, but unexpectedly, the comfort from relatives and friends and the way people looked at me made me feel different from my peers, and inferiority took root in my heart. From then on, I always felt inferior to others yet wanted to be better than them. So I never trusted anyone and was always suspicious, afraid someone would get ahead of me. In short, I became like a hedgehog, constantly guarding against others, not letting anyone get close, closing myself off. In ninth grade, you and I were assigned to the same class and became desk-mates again. Remember on the first day of school, not afraid of being laughed at, you found me at the classroom door and said we should help each other and work hard together? Though I agreed verbally, I didn’t take it seriously because I wanted to be better than you, and with my withdrawn personality developed from inferiority, I didn’t trust anyone, including you. Maybe it was the pressure from my father’s death and my mother’s love, maybe I was too inferior, maybe too selfish—maybe all of these. Anyway, I used the wrong method to convert pressure into motivation. Honestly, in ninth grade I really hated you, hated you with every fiber of my being. Because I thought your existence was affecting my studies. But looking back now, I was so immature, and your counterattack was completely justified. After all, I struck first, and people’s patience has limits—your necessary retaliation when needed was instinctive self-defense. Now I really think I was so foolish back then. Did closing myself off and trying to affect others really bring me good grades? Can one’s happiness only be built on others’ suffering? Of course not—my failure in the high school entrance exam proved that this mindset and behavior had serious fundamental flaws. Looking at the blessing on the card you gave me, I really wanted to cry. Being desk-mates in fifth grade brought our hearts together, while being desk-mates this time forcefully pulled two hearts apart, even farther than two strangers’ hearts.&lt;/p&gt;
 
-        &lt;p&gt;The older monk looked at him and replied, “Brother, I set her down on the other side of the river, why are you still carrying her?”&lt;/p&gt;
-      &lt;/blockquote&gt;
-      &lt;p&gt;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Many of the ideas about porn come from the book &lt;em&gt;Fortify A Step Toward Recovery&lt;/em&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Productivity" /><summary type="html">It takes seven minutes to drive from my home to my office. During that time, I like to remind myself of how I can approach the day. I’ve gathered some quotes and written a few sentences as personal reminders. I recorded myself reading them and play the recording each day during my drive. It helps me stay focused on what’s important instead of getting caught up in distractions. You can listen to my recording by clicking on the blue button below.</summary></entry><entry xml:lang="en"><title type="html">How Do I Read?</title><link href="http://localhost:4000/how-do-i-read/" rel="alternate" type="text/html" title="How Do I Read?" /><published>2024-08-30T00:00:00-05:00</published><updated>2024-08-30T00:00:00-05:00</updated><id>http://localhost:4000/how-do-i-read</id><content type="html" xml:base="http://localhost:4000/how-do-i-read/">&lt;p&gt;TL;DR (Too long; Didn’t read) version: audiobook&lt;/p&gt;
+&lt;p&gt;Even in tenth grade, I still couldn’t break free from this vicious cycle of thinking. Though I entered the honors class with good grades, that flawed thinking pattern could still exert its effect, plunging me into life’s lowest point. That way of thinking always seemed to create conflicts in my mind, which really troubled me. As if to escape the troubles, I started giving up on studying because I thought studying brought me pain. At noon, in the evening, and even after evening self-study, you could see me running on the basketball court. Actually my basketball skills were terrible; I just didn’t want to study and chose this way to escape. But escape only gave the pain more room to grow. Terrible grades and the accompanying social pressure made it hard for me to breathe. In both exams of tenth grade’s first semester, I ranked below 40th. When Mom saw her only hope about to be shattered, she was heartbroken. From her eyes, I read helplessness. She wanted to scold me but was afraid I couldn’t take any more pressure. Seeing Mom sad made me sad too. But sadness aside, I still blamed my failure on external circumstances. So Mom’s sadness and my failure were like a sharp blade cutting fiercely across water. In the mid-term exam of tenth grade’s second semester, I got a record-breaking 72nd place. Out of 74 students in the class, third from last—for someone as self-respecting as me, you can probably imagine what that meant. After a long period of calming down, I resolved to study hard. Whenever I wanted to slack off, I would remind myself: I am third from last. Mom also hired our physics teacher at the time to tutor me, 30 yuan per hour. Yes, Mom never cut corners when it came to spending money on me. I really didn’t want to go, but my terrible grades took away my right to choose. During that half semester, I didn’t play a single game of basketball, didn’t even attend Physical Education class. After a period of effort, I finally ranked 19th.&lt;/p&gt;
 
-&lt;p&gt;No matter what I’m doing–driving, running, or watching my kids at the playground–I am usually listening to an audiobook. This habit allows me to multitask efficiently, ensuring that I am always learning, even when I am on the move.&lt;/p&gt;
+&lt;p&gt;But after achieving this small success, I seemed to be trapped in that vicious cycle again. My thinking was full of contradictions; I was indecisive in everything, and that feeling was extremely painful. During that time, my relationship with Mom was very bad. She always wanted to help me, but back then I always thought she was restricting me, and in inappropriate ways. My favorite phrase for complaining about Mom then was “good intentions with bad outcomes.” I remember shortly before the mid-term exam, I went to find you once because I knew you no longer trusted me and was worried you wouldn’t pay attention to me. But I finally mustered the courage to find you. My legs kept shaking after the first sentence I said to you. When I was confused, lost, and full of doubt about the world, I chose you as the person to confide in. I had only one thought at the time: perhaps only you could pull me out of the abyss of my thinking. I can’t remember what we talked about anymore; I only remember feeling like a weight had been lifted. After going home, I dialed 5222199 many times just wanting to say “thank you.” But no one ever answered. Honestly, after we talked, I was still the same. So the enlightenment was false; the happiness from talking with you was real. Before the exam, you stood at the classroom door holding a stack of books and said to me, “Good luck to you.” But luck isn’t everything—I bombed the exam again.&lt;/p&gt;
 
-&lt;h1 id=&quot;why-do-i-read&quot;&gt;Why do I read?&lt;/h1&gt;
+&lt;p&gt;It was from this fall that I truly realized my failure in school was due to myself, not due to other circumstances.&lt;/p&gt;
 
-&lt;p&gt;Reading for me is about growth and learning—whether it’s personal development like running faster, professional skills like writting better research papers, or understanding others better.&lt;/p&gt;
+&lt;p&gt;TODO: updated until here&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Yang_Jiang&quot;&gt;Yang Jiang&lt;/a&gt; once wrote: “Your problem is worrying too much, but reading too little.” I aim to never fall into that trap of reading too little.&lt;/p&gt;
+&lt;p&gt;Before the New Year, I moved to an apartment close to our high school—it was Mom’s idea. This move did save me a lot of time. We lived on the 2nd floor, and the window of my sleeping room faced a balcony with many trees outside. I don’t know when it started, but I developed a habit: when studying late into the night and feeling tired, I would climb out to the balcony to clear my mind and think. I didn’t use the door because I was afraid Mom would discover me. Maybe it was the tranquil environment that nurtured me. My heart could always return to peace before climbing back in. On the balcony, I always liked to think about psychological issues and was sure my ups and downs were caused by my mentality and personality. So I gradually learned to counsel myself. Thinking about how to face setbacks and difficulties, how to defeat inner demons, how to become a complete person. Making study plans for the future, sometimes secretly making resolutions. The balcony was small, but my thinking space was infinitely vast. Once by chance, I saw an article in &lt;em&gt;Reader&lt;/em&gt; magazine called “Unleashing the Potential of the Mind.” Actually, the whole article just wanted to say: believe in yourself, constantly give yourself psychological suggestions: I will definitely succeed. Whenever I felt confused and wanted to relax, I would take out this article and read it, then close my eyes and think, and motivation would return to my body. Tenth grade might have been the awakening of my psychological awareness, but I think my mentality really matured in twelfth grade. Through continuous practice and thinking, I also gradually recognized the article’s limitations. During my constant thinking and exploration, I summarized my own motto: Fate wants to toy with me; effort is the only way to defeat fate. Whenever I faced setbacks, failure, or temptation, this sentence would always help me step out of the shadows toward the light.&lt;/p&gt;
 
-&lt;h1 id=&quot;what-do-i-read&quot;&gt;What do I read?&lt;/h1&gt;
+&lt;p&gt;In twelfth grade, I often promised myself: no matter what happened, I couldn’t be distracted, must never forget these years of humiliation. After evening self-study ended, I habitually wrote for a while before leaving. But one day when I went out, I saw you walking with a boy wearing glasses—obviously not just ordinary friends. My always-sensitive self immediately had my heart racing, but that was all because I really couldn’t forget my promise. After that, I saw you together with him more and more, even seeing him by your side almost every time I saw you. Honestly, I really wished that person was me. But the promise was like the headband in &lt;em&gt;A Chinese Odyssey&lt;/em&gt; [a famous Hong Kong movie], forcing me to spend every minute on studying, not allowing me to let my mind wander. The first few times felt uncomfortable, but after seeing it so much, I wasn’t as nervous anymore, and my mind would still review the vocabulary, phrases, and problem-solving techniques I’d learned that day.&lt;/p&gt;
 
-&lt;p&gt;There are a few sources I use to find the next read.&lt;/p&gt;
+&lt;p&gt;My grades in twelfth grade had stabilized but weren’t outstanding, so whenever Chen Cailin [the grade director at the time] talked about excellent students, my name was never mentioned. When he named people from your class, it was always “Gao Xiaohong, Yi Chang’an, Gan Pingping.” At those moments, I had a subtle feeling that I couldn’t quite describe. Because under the headband’s strong pressure, it didn’t linger in my mind for long. When you asked me to write in your yearbook, I really wanted to write a long paragraph and attach a photo of myself. Maybe because I saw that Yi Chang’an had written on the first page, or maybe because I didn’t want to spend too much time, I didn’t do any of that. And when I saw you and Yi Chang’an walking together as a couple, I really wanted to find a girlfriend to accompany me and let you see, just like in many TV dramas. Just to prove: I can be fine without you. But these beautiful temptations ultimately couldn’t overcome my promise.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gatesnotes.com/Books&quot;&gt;Bill Gates&lt;/a&gt; wrote about the books he read from time to time. I had read many great books follwoing his recommendations including &lt;a href=&quot;https://www.gatesnotes.com/Project-Hail-Mary&quot;&gt;Project Hail Mary&lt;/a&gt; and &lt;a href=&quot;https://www.gatesnotes.com/Educated&quot;&gt;Educated&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/choiceawards/best-books-2023&quot;&gt;Goodreads choice Award&lt;/a&gt;. According to the website, it is the “only major book awards decided by readers”. I have voted for a few books before. My favorite category is &lt;em&gt;Memoir &amp;amp; Autobiography&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Peer Recommendations. For example, I have interviewed my &lt;a href=&quot;https://chengnie.com/highschool2020/&quot;&gt;high-school&lt;/a&gt; and &lt;a href=&quot;https://chengnie.com/hust2023/&quot;&gt;undergraduate&lt;/a&gt; classmates and ask them what books they recommended.&lt;/li&gt;
-  &lt;li&gt;Douban’s Yearly List. Similar to Goodreads, Douban provides &lt;a href=&quot;https://book.douban.com/annual/2023/&quot;&gt;a curated list of Chinese books&lt;/a&gt; across various catogoris.&lt;/li&gt;
-  &lt;li&gt;Inter-book References. Sometimes one book leads to another, creating a chain of learning and discovery. I found &lt;a href=&quot;https://www.chengnie.com/notes/i-dont-want-to-talk-about-it&quot;&gt;I don’t want to talk about it&lt;/a&gt; from another book &lt;a href=&quot;https://www.chengnie.com/notes/outlive&quot;&gt;outlive&lt;/a&gt;.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Remember when several of our ninth-grade classmates went to Teacher Xia’s place? We didn’t meet him, so we went skating. That day I held your hand for the first time, but I didn’t hold it tight. So when someone suddenly skated in front of us, I let go and never had the courage to hold your hand again. It wasn’t that I didn’t like you—I just felt that after ninth grade, you had started to dislike me. Of course, this was my fault for not cherishing what we had. I didn’t have the courage to get close to you, maybe because of lack of confidence, but more likely because of self-awareness. When listening to love songs, I always like to replace the female protagonist with you, and I become the male protagonist. Because I feel that almost every song has at least a line or two that could express our relationship or some of my thoughts. Actually, since we became desk-mates in elementary school, I’ve really liked you. What does liking someone for so long mean? That might be love. Actually, I don’t understand what love is either; I just feel happy being with you. When I first quoted that classic line from &lt;em&gt;A Chinese Odyssey&lt;/em&gt;—”Once upon a time…”—it was just for fun. But now that line seems to have become my story. If you have time, listen to Zheng Jun’s song “Cinderella.” I really want to sing that song just for you. Regarding this love, I don’t necessarily need you to respond; I just want you to know. Because I’ve been holding these words in my heart for so long. I also know you and Yi Chang’an get along well. I don’t want to appear as an unsavory character between you two. You have your own choices to make. But as long as you’re happy, I’ll be satisfied.&lt;/p&gt;
 
-&lt;h1 id=&quot;how-do-i-read&quot;&gt;How do I read?&lt;/h1&gt;
+&lt;p&gt;Thinking back to those days before the college entrance exam, I controlled myself, basically didn’t get distracted, and spent almost all my time on studying. Those days were really tedious and boring, truly bitter. But looking back now, all I taste is sweetness. I really have to thank my mom. Whether I succeeded or failed, she always stood behind me despite her pain, supporting me, encouraging me. She guided me step by step onto the right track.&lt;/p&gt;
 
-&lt;p&gt;Stephen King wrote in his memior &lt;a href=&quot;https://chengnie.com/notes/on-writing&quot;&gt;On Writing&lt;/a&gt;: “Waiting rooms were made for books”–a sentiment that applies well to audiobooks. Here’s how I my workflow of reading:&lt;/p&gt;
+&lt;p&gt;Actually, I’m quite grateful for ninth grade now. Though we developed a rift and my grades went downhill, that time was like the stagnant pool Wen Yiduo described—thoroughly rotten. But precisely because of that time, my problems were exposed, giving me a more complete understanding of myself, which provided a good reference system for later “turning over a new leaf.” It was also during that time that I had to find a factor to replace interest to continue studying hard. I found it—self-discipline. If the motivation for studying in ninth grade came from interest, then after tenth grade, the motivation came from self-discipline. Self-discipline freed me from demanding too much of external circumstances; studying became an automatic behavior.&lt;/p&gt;
 
-&lt;h2 id=&quot;listening-to-the-audiobook&quot;&gt;Listening to the audiobook&lt;/h2&gt;
+&lt;p&gt;We all live in new dormitories now. All freshmen live in Yunyuan Apartments on the East Campus, four people per room. Computer desk below, bed above. The food here suits my taste pretty well. Military training is tiring, so I can eat 3 liang [150g] of rice per meal. Military training is hard—we have to get up at 6 AM with only a bit over an hour of rest at noon. After dinner, there’s only about 10 minutes before the evening activities start. Things like freshman orientation, welcome parties, academician lectures, psychological counseling, watching movies. We can’t get back to our dorm until nearly 10 PM, but lights out is at 10:30. After lights out, we can only use desk lamps, and there are no holidays for 20 consecutive days (from the 10th to the 29th). The 29th is a day off; we report back on the 4th. Because of the university anniversary celebration, freshmen must attend, so I won’t come home for National Day—I’ll come back during Chinese New Year instead.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Apps&lt;/strong&gt;: I rely on Audible, YouTube (using tools like &lt;a href=&quot;https://github.com/yt-dlp/yt-dlp&quot;&gt;yt-dlp&lt;/a&gt; to download the audio files), and Himalaya for my listening needs. For local files, the Castro App lets me play audio directly from my Apple Watch without needing my iPhone.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Devices&lt;/strong&gt;: My iPhone, Mac, iPad, and Apple Watch, paired with AirPods Pro, make an efficient setup for listening anywhere, anytime.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Starting over, the pressure must be considerable, but I believe you’re strong enough to turn pressure into motivation. Please don’t be self-doubting like I used to be. It’s never too late to mend. I also hope you won’t be sad anymore because fate won’t stop toying with you just because you’re sad. Only effort is an effective counterattack against fate. I know you won’t forgive yourself just because everyone acknowledges you didn’t do well on the exam, but don’t put too much pressure on yourself either. I hope you can use this failure as an opportunity for growth, working hard to become stronger. I sincerely hope you can achieve your dream of getting into Renmin University of China. Or perhaps you’ve set even higher goals—I hope you can achieve those too.&lt;/p&gt;
 
-&lt;h2 id=&quot;taking-notes&quot;&gt;Taking notes&lt;/h2&gt;
+&lt;p&gt;I know you’re very busy. Even if you don’t write back, I won’t blame you. I originally wanted to call you—5999158, I haven’t remembered wrong, have I? But I was afraid that once the call connected, I wouldn’t be able to say anything. Some of what I’ve said, just knowing is enough—don’t think too much about it. If this letter affects your studies, I would feel very guilty.&lt;/p&gt;
 
-&lt;p&gt;I prefer eBooks for a simple reason: note-taking and revisiting content are easier. Here’s my process:&lt;/p&gt;
+&lt;p&gt;Our dorm has a phone installed: 027-87433512. My UC [instant messaging] is 41937936. QQ is 83978599. Both UC and QQ nicknames are “Star Trek One.” Oh right, I also have email: niecheng12@yahoo.com.cn. Mailing address: 430074, Yunyuan Apartments, Building 22, Room 503, Huazhong University of Science and Technology. If you write back, please include your contact information too!&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Apps&lt;/strong&gt;: I use Calibre and Kindle for eBook reading and note-taking.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Voice Memos and Reminders&lt;/strong&gt;: When running or driving, I use voice memos on my Apple Watch or iPhone to record thoughts and reminders for later review.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Cheng&lt;/p&gt;
 
-&lt;h2 id=&quot;publishing-notes&quot;&gt;Publishing notes&lt;/h2&gt;
+&lt;p&gt;September 25, 2003, evening&lt;/p&gt;
 
-&lt;p&gt;I publish &lt;a href=&quot;https://chengnie.com/notes&quot;&gt;my notes online&lt;/a&gt; to stay motivated and keep a handy reference for myself. It also allows me to share insights, like memorable quotes from books like &lt;a href=&quot;https://chengnie.com/notes/four-thousand-weeks#:~:text=The%20average%20human,gloriously%20possible%20instead&quot;&gt;this one about time management #123&lt;/a&gt;. I have not cleaned the notes from many books that I read before 2021, yet.&lt;/p&gt;
-
-&lt;h2 id=&quot;keepng-lists&quot;&gt;Keepng lists&lt;/h2&gt;
-
-&lt;p&gt;Maintaining a list of books to read and those I’ve read keeps me motivated. Participating in reading challenges since 2016, I’ve gradually increased my annual goal from 12 books in 2016 to &lt;a href=&quot;https://www.goodreads.com/user_challenges/47883724&quot;&gt;52 this year&lt;/a&gt;.&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="Reading" /><summary type="html">TL;DR (Too long; Didn’t read) version: audiobook</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/files/pics/letter2003_0000.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/files/pics/letter2003_0001.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/files/pics/letter2003_0002.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/files/pics/letter2003_0003.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/files/pics/letter2003_0004.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/files/pics/letter2003_0005.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/files/pics/letter2003_0006.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/files/pics/letter2003_0007.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/files/pics/letter2003_0008.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/files/pics/letter2003_0009.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Cheng Nie</name><email>cheng@chengnie.com</email></author><category term="letter" /><summary type="html">Wedding Photo, 2010</summary></entry></feed>

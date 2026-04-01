@@ -32,6 +32,8 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
     <!-- 3. Replace the href link with my summary links like /notes/乡土中国, so that the click would lead to my notes. 
     4. To add text and adjust the width of the book title, run notes_add_text.py -->
 
+2. just run python notes_add_filters.py to update the data attributes.
+
 
 ## Update Marathon map
 
