@@ -7,16 +7,13 @@ author_profile: false
 
 Click on each book cover for my tiny summary and detailed notes (highlights) for each book.
 
-<div class="filter-buttons">
-  <button class="filter-btn active" data-filter="all">All</button>
-  <button class="filter-btn" data-filter="recommended">Highly Recommended (9+)</button>
-  <button class="filter-btn" data-filter="2025">2025</button>
-  <button class="filter-btn" data-filter="2024">2024</button>
-  <button class="filter-btn" data-filter="2023">2023</button>
-  <button class="filter-btn" data-filter="2022">2022</button>
-  <button class="filter-btn" data-filter="older">2021 & Earlier</button>
+<div class="filter-container">
+  <select class="filter-dropdown" id="yearFilter">
+    <option value="all">All</option>
+    <option value="recommended">Highly Recommended (9+)</option>
+  </select>
+  <span class="book-count"></span>
 </div>
-<p class="book-count"></p>
 
 <!-- # 2022 -->
 
@@ -33,37 +30,30 @@ It highlighted the potential reasons for the failure of many companies, suggesti
  -->
 
 <style type="text/css" media="screen">
-.filter-buttons {
+.filter-container {
     margin: 20px 0;
     display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
+    align-items: center;
+    gap: 12px;
 }
 
-.filter-btn {
-    padding: 8px 16px;
+.filter-dropdown {
+    padding: 8px 12px;
     border: 1px solid #ccc;
-    background: #f5f5f5;
-    border-radius: 20px;
-    cursor: pointer;
+    border-radius: 6px;
     font-size: 14px;
-    transition: all 0.2s ease;
+    background: #f5f5f5;
+    cursor: pointer;
+    min-width: 200px;
 }
 
-.filter-btn:hover {
-    background: #e0e0e0;
-}
-
-.filter-btn.active {
-    background: #333;
-    color: white;
-    border-color: #333;
+.filter-dropdown:hover {
+    border-color: #999;
 }
 
 .book-count {
     color: #666;
     font-size: 14px;
-    margin-bottom: 10px;
 }
 
 .gr_grid_container {
@@ -86,6 +76,21 @@ It highlighted the potential reasons for the failure of many companies, suggesti
 }
 </style>
   <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a href="/notes/the-chinese-in-america" rel="nofollow" style="color: black; font-size: 10px;" title="The Chinese in America: A Narrative History"><img alt="The Chinese in America: A Narrative History" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348122464l/503633._SX98_.jpg"/> The Chinese in America</a></div>
+    <div class="gr_grid_book_container" data-year="2026" data-rating="8"><a href="/notes/房思琪的初恋乐园" rel="nofollow" style="color: black; font-size: 10px;" title="房思琪的初恋乐园"><img alt="房思琪的初恋乐园" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518328510l/38481792._SX98_.jpg"/> 房思琪的初恋乐园</a></div>
+    <div class="gr_grid_book_container" data-year="2026" data-rating="10"><a href="/notes/陆犯焉识" rel="nofollow" style="color: black; font-size: 10px;" title="陆犯焉识"><img alt="陆犯焉识" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384804044l/18661400._SX98_.jpg"/> 陆犯焉识</a></div>
+    <div class="gr_grid_book_container" data-year="2026" data-rating="10"><a href="/notes/things-in-nature-merely-grow" rel="nofollow" style="color: black; font-size: 10px;" title="Things in Nature Merely Grow"><img alt="Things in Nature Merely Grow" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740593371l/221164555._SX98_.jpg"/> Things in Nature Merely Grow</a></div>
+    <div class="gr_grid_book_container" data-year="2026" data-rating="6"><a href="/notes/dont-believe-everything-you-think" rel="nofollow" style="color: black; font-size: 10px;" title="Don't Believe Everything You Think"><img alt="Don't Believe Everything You Think" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648738209l/60726415._SX98_.jpg"/> Don't Believe Everything You Think</a></div>
+    <div class="gr_grid_book_container" data-year="2026" data-rating="8"><a href="/notes/要有光" rel="nofollow" style="color: black; font-size: 10px;" title="要有光"><img alt="要有光" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1758730901l/242026987._SX98_.jpg"/> 要有光</a></div>
+    <div class="gr_grid_book_container" data-year="2026" data-rating="8"><a href="/notes/the-book-of-sheen" rel="nofollow" style="color: black; font-size: 10px;" title="The Book of Sheen"><img alt="The Book of Sheen" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1750430361l/234538753._SX98_.jpg"/> The Book of Sheen</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/九诗心暗夜里的文学启明" rel="nofollow" style="color: black; font-size: 10px;" title="九诗心：暗夜里的文学启明"><img alt="九诗心：暗夜里的文学启明" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1736542080l/222156713._SX98_.jpg"/> 九诗心：暗夜里的文学启明</a></div>
+    <div class="gr_grid_book_container" data-year="2026" data-rating="10"><a href="/notes/在难搞的日子笑出声来" rel="nofollow" style="color: black; font-size: 10px;" title="在难搞的日子笑出声来"><img alt="在难搞的日子笑出声来" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392336232l/20806072._SX98_.jpg"/> 在难搞的日子笑出声来</a></div>
+    <div class="gr_grid_book_container" data-year="2026" data-rating="10"><a href="/notes/the-house-of-my-mother" rel="nofollow" style="color: black; font-size: 10px;" title="The House of My Mother: A Daughter's Quest for Freedom"><img alt="The House of My Mother: A Daughter's Quest for Freedom" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728843692l/214151420._SX98_.jpg"/> The House of My Mother</a></div>
+    <div class="gr_grid_book_container" data-year="2026" data-rating="3"><a href="/notes/everything-is-tuberculosis" rel="nofollow" style="color: black; font-size: 10px;" title="Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection"><img alt="Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729825992l/220341389._SX98_.jpg"/> Everything Is Tuberculosis</a></div>
+    <div class="gr_grid_book_container"><a href="/notes/improve-your-sight-reading-piano-grade-1" rel="nofollow" style="color: black; font-size: 10px;" title="Improve Your Sight-Reading! Piano Grade 1"><img alt="Improve Your Sight-Reading! Piano Grade 1" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507561389l/36381401._SX98_.jpg"/> Improve Your Sight-Reading! Piano Grade 1</a></div>
+    <div class="gr_grid_book_container" data-year="2026" data-rating="10"><a href="/notes/sociopath" rel="nofollow" style="color: black; font-size: 10px;" title="Sociopath"><img alt="Sociopath" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710615468l/176443093._SX98_.jpg"/> Sociopath</a></div>
+    <div class="gr_grid_book_container" data-year="2026" data-rating="10"><a href="/notes/shot-ready" rel="nofollow" style="color: black; font-size: 10px;" title="Shot Ready"><img alt="Shot Ready" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1743130663l/223964727._SX98_.jpg"/> Shot Ready</a></div>
+    <div class="gr_grid_book_container" data-year="2026" data-rating="8"><a href="/notes/beautiful-country" rel="nofollow" style="color: black; font-size: 10px;" title="Beautiful Country"><img alt="Beautiful Country" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614681640l/56461570._SX98_.jpg"/> Beautiful Country</a></div>
     <div class="gr_grid_book_container" data-year="2025" data-rating="6"><a href="/notes/private-revolutions" rel="nofollow" style="color: black; font-size: 10px;" title="Private Revolutions: Four Women Face China's New Social Order"><img alt="Private Revolutions: Four Women Face China's New Social Order" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711403676l/200158232._SX98_.jpg"/> Private Revolutions</a></div>
     <div class="gr_grid_book_container" data-year="2025" data-rating="8"><a href="/notes/hands-on-large-language-models" rel="nofollow" style="color: black; font-size: 10px;" title="Hands-On Large Language Models: Language Understanding and Generation"><img alt="Hands-On Large Language Models: Language Understanding and Generation" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718922029l/210408850._SX98_.jpg"/> Hands-On Large Language Models</a></div>
     <div class="gr_grid_book_container" data-year="2025" data-rating="10"><a href="/notes/大江大海一九四九" rel="nofollow" style="color: black; font-size: 10px;" title="大江大海：一九四九"><img alt="大江大海：一九四九" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1253724411l/6902548._SX98_.jpg"/> 大江大海：一九四九</a></div>
@@ -119,7 +124,7 @@ It highlighted the potential reasons for the failure of many companies, suggesti
     <div class="gr_grid_book_container" data-year="2025" data-rating="10"><a href="/notes/the-autobiography-of-malcolm-x" rel="nofollow" style="color: black; font-size: 10px;" title="The Autobiography of Malcolm X"><img alt="The Autobiography of Malcolm X" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434682864l/92057._SX98_.jpg"/> The Autobiography of Malcolm X</a></div>
     <div class="gr_grid_book_container" data-year="2025" data-rating="10"><a href="/notes/the-next-day" rel="nofollow" style="color: black; font-size: 10px;" title="The Next Day: Transitions, Change, and Moving Forward"><img alt="The Next Day: Transitions, Change, and Moving Forward" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742912722l/215700930._SX98_.jpg"/> The Next Day</a></div>
     <div class="gr_grid_book_container" data-year="2025" data-rating="8"><a href="/notes/the-third-gilmore-girl" rel="nofollow" style="color: black; font-size: 10px;" title="The Third Gilmore Girl"><img alt="The Third Gilmore Girl" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708360130l/207298106._SX98_.jpg"/> The Third Gilmore Girl</a></div>
-    <div class="gr_grid_book_container" data-year="2025" data-rating="6"><a href="/notes/身后无遗物" rel="nofollow" style="color: black; font-size: 10px;" title="身后无遗物"><img alt="身后无遗物" border="0" src="/files/pics/cover_身后无遗物.jpg" width="98" height="147"/> 身后无遗物</a></div>
+    <div class="gr_grid_book_container" data-year="2025" data-rating="6"><a href="/notes/身后无遗物" rel="nofollow" style="color: black; font-size: 10px;" title="身后无遗物"><img alt="身后无遗物" border="0" src="/files/pics/cover_shenhou_wu_yiwu.jpg" width="98" height="147"/> 身后无遗物</a></div>
     <div class="gr_grid_book_container" data-year="2025" data-rating="8"><a href="/notes/mamas-boy" rel="nofollow" style="color: black; font-size: 10px;" title="Mama's Boy: A Story from Our Americas"><img alt="Mama's Boy: A Story from Our Americas" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549556942i/40915201._SX98_.jpg"/> Mama's Boy</a></div>
     <div class="gr_grid_book_container" data-year="2025" data-rating="10"><a href="/notes/the-molecule-of-more" rel="nofollow" style="color: black; font-size: 10px;" title="The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and Will Determine the Fate of the Human Race"><img alt="The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and Will Determine the Fate of the Human Race" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715631200l/38728977._SX98_.jpg"/> The Molecule of More</a></div>
     <div class="gr_grid_book_container" data-year="2025" data-rating="6"><a href="/notes/我用中文做了场梦" rel="nofollow" style="color: black; font-size: 10px;" title="我用中文做了场梦"><img alt="我用中文做了场梦" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720693359l/216363638._SX98_.jpg"/> 我用中文做了场梦</a></div>
@@ -127,7 +132,7 @@ It highlighted the potential reasons for the failure of many companies, suggesti
     <div class="gr_grid_book_container" data-year="2025" data-rating="10"><a href="/notes/dry" rel="nofollow" style="color: black; font-size: 10px;" title="Dry"><img alt="Dry" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442601868l/32370._SX98_.jpg"/> Dry</a></div>
     <div class="gr_grid_book_container" data-year="2025" data-rating="8"><a href="/notes/never-split-the-difference" rel="nofollow" style="color: black; font-size: 10px;" title="Never Split the Difference: Negotiating as if Your Life Depended on It"><img alt="Never Split the Difference: Negotiating as if Your Life Depended on It" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680014152l/123857637._SX98_.jpg"/> Never Split the Difference</a></div>
     <div class="gr_grid_book_container" data-year="2025" data-rating="8"><a href="/notes/我的母亲做保洁" rel="nofollow" style="color: black; font-size: 10px;" title="我的母亲做保洁"><img alt="我的母亲做保洁" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700447467i/202416511._SX98_.jpg"/> 我的母亲做保洁</a></div>
-    <div class="gr_grid_book_container" data-year="2025" data-rating="10"><a href="/notes/抑郁的力量" rel="nofollow" style="color: black; font-size: 10px;" title="抑郁的力量"><img alt="抑郁的力量" border="0" src="/files/pics/cover_抑郁的力量.jpg" width="98" height="147"/> 抑郁的力量</a></div>
+    <div class="gr_grid_book_container" data-year="2025" data-rating="10"><a href="/notes/抑郁的力量" rel="nofollow" style="color: black; font-size: 10px;" title="抑郁的力量"><img alt="抑郁的力量" border="0" src="/files/pics/cover_yiyu_de_liliang.jpg" width="98" height="147"/> 抑郁的力量</a></div>
     <div class="gr_grid_book_container" data-year="2025" data-rating="10"><a href="/notes/世上为什么要有图书馆" rel="nofollow" style="color: black; font-size: 10px;" title="世上为什么要有图书馆"><img alt="世上为什么要有图书馆" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704607915l/204353687._SX98_.jpg"/> 世上为什么要有图书馆</a></div>
     <div class="gr_grid_book_container" data-year="2025" data-rating="8"><a href="/notes/source-code" rel="nofollow" style="color: black; font-size: 10px;" title="Source Code: My Beginnings"><img alt="Source Code: My Beginnings" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719004398l/213034913._SX98_.jpg"/> Source Code</a></div>
     <div class="gr_grid_book_container" data-year="2025" data-rating="10"><a href="/notes/wild-swans" rel="nofollow" style="color: black; font-size: 10px;" title="Wild Swans: Three Daughters of China"><img alt="Wild Swans: Three Daughters of China" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440643710l/1848._SX98_.jpg"/> Wild Wwans</a></div>
@@ -390,9 +395,32 @@ It highlighted the potential reasons for the failure of many companies, suggesti
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    const filterButtons = document.querySelectorAll('.filter-btn');
+    const dropdown = document.getElementById('yearFilter');
     const books = document.querySelectorAll('.gr_grid_book_container');
     const bookCount = document.querySelector('.book-count');
+
+    // Dynamically populate year options from book data attributes
+    const years = new Set();
+    books.forEach(book => {
+        const year = book.dataset.year;
+        if (year) years.add(year);
+    });
+    const sortedYears = Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+    const olderYears = sortedYears.filter(y => parseInt(y) <= 2021);
+    const recentYears = sortedYears.filter(y => parseInt(y) > 2021);
+
+    recentYears.forEach(year => {
+        const option = document.createElement('option');
+        option.value = year;
+        option.textContent = year;
+        dropdown.appendChild(option);
+    });
+    if (olderYears.length > 0) {
+        const option = document.createElement('option');
+        option.value = 'older';
+        option.textContent = '2021 & Earlier';
+        dropdown.appendChild(option);
+    }
 
     function updateCount(visible) {
         bookCount.textContent = `Showing ${visible} book${visible !== 1 ? 's' : ''}`;
@@ -427,12 +455,8 @@ document.addEventListener('DOMContentLoaded', function() {
         updateCount(visibleCount);
     }
 
-    filterButtons.forEach(btn => {
-        btn.addEventListener('click', function() {
-            filterButtons.forEach(b => b.classList.remove('active'));
-            this.classList.add('active');
-            filterBooks(this.dataset.filter);
-        });
+    dropdown.addEventListener('change', function() {
+        filterBooks(this.value);
     });
 
     // Initialize with all books shown

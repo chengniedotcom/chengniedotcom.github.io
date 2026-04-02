@@ -4,8 +4,7 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 
 ## Check to-update items
 
-1. Tracked in Apple Reminders. 
-2. Keep changes in UPDATES.md
+1. Keep changes in CHANGELOG.md and TASKS.md
 
 ## Update Research
 
@@ -26,13 +25,13 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 1. Retrieve books I read in this [link](https://www.goodreads.com/user/edit?format=html&tab=widgets#_=_). Select "Date Read" and "desc" to pick the most recently read books. For an older book, retrieve it from the local _notes_processed.html file. When adding a read book, remember to "Edit Activity" to 1) give the start and end time; 2) add this to my read list. 
     
     1. In case it does not work, I can manually edit a link:  a) the book link shows when I visit the book in goodreads; b) The picture link shows when I click on the book cover and open the cover picture in a new tab.
-    2. Paste the html section to notes_add_text.py and use only the books I haven't added yet. 
+    <!-- 2. Paste the html section to notes_add_text.py and use only the books I haven't added yet.  -->
     3. For books not in goodreads, I can use "抑郁的力量" as a template. I need to download the cover pictures myself. 
     <!-- 4. Paste the output back to _pages/notes.md -->
     <!-- 3. Replace the href link with my summary links like /notes/乡土中国, so that the click would lead to my notes. 
     4. To add text and adjust the width of the book title, run notes_add_text.py -->
 
-2. just run python notes_add_filters.py to update the data attributes.
+2. just run python notes_add_text_filters.py to update the data attributes.
 
 
 ## Update Marathon map

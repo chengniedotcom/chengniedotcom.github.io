@@ -2,7 +2,7 @@
 layout: post
 title: 美国华人史 - by 张纯如
 date: 2026-03-17
-permalink: /notes/美国华人史
+permalink: /notes/the-chinese-in-america
 author_profile: false
 tags:
     - notes
