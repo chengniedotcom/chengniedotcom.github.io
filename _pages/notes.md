@@ -7,11 +7,7 @@ author_profile: false
 
 Click on each book cover for my tiny summary and detailed notes (highlights) for each book.
 
-<div class="filter-container">
-  <select class="filter-dropdown" id="yearFilter">
-    <option value="all">All</option>
-    <option value="recommended">Highly Recommended (9+)</option>
-  </select>
+<div class="filter-container" id="yearFilter">
   <span class="book-count"></span>
 </div>
 
@@ -33,22 +29,31 @@ It highlighted the potential reasons for the failure of many companies, suggesti
 .filter-container {
     margin: 20px 0;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
-    gap: 12px;
+    gap: 8px;
 }
 
-.filter-dropdown {
-    padding: 8px 12px;
+.filter-btn {
+    padding: 6px 14px;
     border: 1px solid #ccc;
-    border-radius: 6px;
+    border-radius: 20px;
     font-size: 14px;
     background: #f5f5f5;
     cursor: pointer;
-    min-width: 200px;
+    white-space: nowrap;
+    transition: all 0.15s ease;
 }
 
-.filter-dropdown:hover {
+.filter-btn:hover {
     border-color: #999;
+    background: #eee;
+}
+
+.filter-btn.active {
+    background: #494e52;
+    color: #fff;
+    border-color: #494e52;
 }
 
 .book-count {
@@ -395,45 +400,50 @@ It highlighted the potential reasons for the failure of many companies, suggesti
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    const dropdown = document.getElementById('yearFilter');
-    const books = document.querySelectorAll('.gr_grid_book_container');
-    const bookCount = document.querySelector('.book-count');
+    var container = document.getElementById('yearFilter');
+    var books = document.querySelectorAll('.gr_grid_book_container');
+    var bookCount = document.querySelector('.book-count');
 
-    // Dynamically populate year options from book data attributes
-    const years = new Set();
-    books.forEach(book => {
-        const year = book.dataset.year;
-        if (year) years.add(year);
-    });
-    const sortedYears = Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
-    const olderYears = sortedYears.filter(y => parseInt(y) <= 2021);
-    const recentYears = sortedYears.filter(y => parseInt(y) > 2021);
+    // Collect years from book data attributes
+    var yearSet = {};
+    for (var i = 0; i < books.length; i++) {
+        var y = books[i].getAttribute('data-year');
+        if (y) yearSet[y] = true;
+    }
+    var allYears = Object.keys(yearSet).sort(function(a, b) { return parseInt(b) - parseInt(a); });
+    var recentYears = allYears.filter(function(y) { return parseInt(y) > 2021; });
+    var hasOlder = allYears.some(function(y) { return parseInt(y) <= 2021; });
 
-    recentYears.forEach(year => {
-        const option = document.createElement('option');
-        option.value = year;
-        option.textContent = year;
-        dropdown.appendChild(option);
-    });
-    if (olderYears.length > 0) {
-        const option = document.createElement('option');
-        option.value = 'older';
-        option.textContent = '2021 & Earlier';
-        dropdown.appendChild(option);
+    // Build filter buttons
+    var filters = [{value: 'all', label: 'All'}];
+    filters.push({value: 'recommended', label: '★ 9+'});
+    for (var j = 0; j < recentYears.length; j++) {
+        filters.push({value: recentYears[j], label: recentYears[j]});
+    }
+    if (hasOlder) {
+        filters.push({value: 'older', label: '≤ 2021'});
+    }
+
+    var btns = [];
+    for (var k = 0; k < filters.length; k++) {
+        var btn = document.createElement('button');
+        btn.className = 'filter-btn';
+        btn.setAttribute('data-filter', filters[k].value);
+        btn.textContent = filters[k].label;
+        container.insertBefore(btn, bookCount);
+        btns.push(btn);
     }
 
     function updateCount(visible) {
-        bookCount.textContent = `Showing ${visible} book${visible !== 1 ? 's' : ''}`;
+        bookCount.textContent = 'Showing ' + visible + ' book' + (visible !== 1 ? 's' : '');
     }
 
     function filterBooks(filter) {
-        let visibleCount = 0;
-
-        books.forEach(book => {
-            const year = book.dataset.year;
-            const rating = parseInt(book.dataset.rating) || 0;
-            let show = false;
-
+        var visibleCount = 0;
+        for (var i = 0; i < books.length; i++) {
+            var year = books[i].getAttribute('data-year');
+            var rating = parseInt(books[i].getAttribute('data-rating')) || 0;
+            var show = false;
             if (filter === 'all') {
                 show = true;
             } else if (filter === 'recommended') {
@@ -443,23 +453,34 @@ document.addEventListener('DOMContentLoaded', function() {
             } else {
                 show = year === filter;
             }
-
             if (show) {
-                book.classList.remove('hidden');
+                books[i].className = books[i].className.replace(' hidden', '');
                 visibleCount++;
             } else {
-                book.classList.add('hidden');
+                if (books[i].className.indexOf('hidden') === -1) {
+                    books[i].className += ' hidden';
+                }
             }
-        });
-
+        }
         updateCount(visibleCount);
     }
 
-    dropdown.addEventListener('change', function() {
-        filterBooks(this.value);
-    });
+    function setActive(activeBtn) {
+        for (var i = 0; i < btns.length; i++) {
+            btns[i].className = 'filter-btn';
+        }
+        activeBtn.className = 'filter-btn active';
+    }
 
-    // Initialize with all books shown
+    for (var m = 0; m < btns.length; m++) {
+        btns[m].addEventListener('click', function() {
+            setActive(this);
+            filterBooks(this.getAttribute('data-filter'));
+        });
+    }
+
+    // Initialize
+    setActive(btns[0]);
     filterBooks('all');
 });
 </script>
