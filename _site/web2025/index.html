@@ -1,0 +1,1042 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+
+<meta charset="utf-8">
+
+
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Modern Web Scraping with AI: A 1-Hour Tutorial - Cheng Nie(聂成)</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en-US">
+<meta property="og:site_name" content="Cheng Nie(聂成)">
+<meta property="og:title" content="Modern Web Scraping with AI: A 1-Hour Tutorial">
+
+
+  <link rel="canonical" href="https://www.chengnie.com/web2025/">
+  <meta property="og:url" content="https://www.chengnie.com/web2025/">
+
+
+
+  <meta property="og:description" content="OverviewIn this tutorial, we’ll explore how AI-powered tools like GitHub Copilot have revolutionized web scraping. Instead of manually writing complex parsing logic, we’ll leverage AI to help us quickly build robust scrapers that can collect, parse, and save data from websites.">
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2025-10-06T00:00:00-05:00">
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Cheng Nie (聂成)",
+      "url" : "https://www.chengnie.com",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="https://www.chengnie.com/feed.xml" type="application/atom+xml" rel="alternate" title="Cheng Nie(聂成) Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="https://www.chengnie.com/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    
+
+<!-- start custom head snippets -->
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.chengnie.com/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.chengnie.com/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.chengnie.com/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.chengnie.com/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.chengnie.com/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.chengnie.com/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.chengnie.com/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.chengnie.com/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.chengnie.com/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
+<link rel="icon" type="image/png" href="https://www.chengnie.com/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
+<link rel="icon" type="image/png" href="https://www.chengnie.com/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
+<link rel="icon" type="image/png" href="https://www.chengnie.com/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
+<link rel="icon" type="image/png" href="https://www.chengnie.com/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
+<link rel="manifest" href="https://www.chengnie.com/images/manifest.json?v=M44lzPylqQ">
+<link rel="mask-icon" href="https://www.chengnie.com/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="https://www.chengnie.com/images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="https://www.chengnie.com/images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="https://www.chengnie.com/assets/css/academicons.css"/>
+
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://www.chengnie.com/">Cheng Nie(聂成)</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://www.chengnie.com/blog/">Blog</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://www.chengnie.com/notes/">Notes</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+
+  
+    
+
+
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a href="https://www.chengnie.com/" itemprop="item"><span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        <li class="current">Modern Web Scraping with AI: A 1-Hour Tutorial</li>
+      
+    
+  </ol>
+</nav>
+  
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="sidebar sticky">
+  
+
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    
+    	<img src="https://www.chengnie.com/images/cheng-nie-2023-12-08-mugshot.jpg" class="author__avatar" alt="Cheng Nie">
+    
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">Cheng Nie</h3>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Contact</button>
+    <ul class="author__urls social-icons">
+      
+      
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <a href="https://www.ivybusiness.iastate.edu/directory/chengnie/">Iowa State University</a></li>
+      
+      
+      
+        <!-- <li><a href="mailto:cheng@chengnie.com"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li> -->
+        <li><a
+          href="&#x6D;&#97;&#x69;&#x6C;&#116;&#111;:&#x63;h&#x65;&#110;&#103;&#x40;&#x63;h&#x65;&#110;&#103;&#110;&#x69;&#101;&#x2E;&#x63;&#111;&#x6D;"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email: &#x63;h&#x65;&#110;&#103;&#x40;&#x63;h&#x65;&#110;&#103;&#110;&#x69;&#101;&#x2E;&#x63;&#111;&#x6D;
+        </a></li>
+      
+      
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        <li><a href="https://chengnie.com/blog/"><i class="fab fa-fw fa-blogger" aria-hidden="true"></i> Blog</a></li>
+      
+      
+        <li><a href="https://chengnie.com/notes/"><i class="fas fa-fw fa-sticky-note" aria-hidden="true"></i> Notes</a></li>
+      
+      
+      
+      
+      
+      
+        <li><a href="http://orcid.org/0000-0002-0407-7975"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+      
+      
+      
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Modern Web Scraping with AI: A 1-Hour Tutorial">
+    <meta itemprop="description" content="OverviewIn this tutorial, we’ll explore how AI-powered tools like GitHub Copilot have revolutionized web scraping. Instead of manually writing complex parsing logic, we’ll leverage AI to help us quickly build robust scrapers that can collect, parse, and save data from websites.">
+    <meta itemprop="datePublished" content="October 06, 2025">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">Modern Web Scraping with AI: A 1-Hour Tutorial
+</h1>
+          
+        
+        
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2025-10-06T00:00:00-05:00">October 06, 2025</time></p>
+        
+        
+             
+        
+    
+        </header>
+      
+
+      
+        
+
+        
+        
+        
+          
+        
+          
+            
+            
+            
+          
+        
+          
+        
+          
+            
+            
+            
+          
+        
+          
+        
+          
+        
+          
+            
+            
+            
+          
+        
+          
+        
+          
+        
+          
+            
+            
+            
+          
+        
+          
+        
+          
+            
+            
+            
+          
+        
+          
+        
+          
+            
+            
+            
+          
+        
+          
+        
+          
+            
+            
+            
+          
+        
+          
+        
+          
+            
+            
+            
+          
+        
+          
+        
+          
+            
+            
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            
+            
+            
+          
+        
+          
+            
+            
+            
+          
+        
+          
+        
+          
+            
+            
+            
+          
+        
+
+        
+        
+      
+
+      <section class="page__content" itemprop="text">
+        <h2 id="overview">Overview</h2>
+<p>In this tutorial, we’ll explore how AI-powered tools like GitHub Copilot have revolutionized web scraping. Instead of manually writing complex parsing logic, we’ll leverage AI to help us quickly build robust scrapers that can collect, parse, and save data from websites.</p>
+
+<p><strong>What you’ll learn:</strong></p>
+<ul>
+  <li>Setting up GitHub Copilot with VS Code</li>
+  <li>Using AI prompts to generate web scraping code</li>
+  <li>Extracting data from a real website</li>
+  <li>Handling common challenges (rate limiting, blocking)</li>
+  <li>Ethics and best practices</li>
+</ul>
+
+<p><strong>Prerequisites:</strong></p>
+<ul>
+  <li>Basic Python knowledge</li>
+  <li>VS Code installed</li>
+  <li>GitHub account</li>
+</ul>
+
+<hr />
+
+<h2 id="1-setup-github-copilot--vs-code-10-minutes">1. Setup: GitHub Copilot + VS Code (10 minutes)</h2>
+
+<h3 id="install-vs-code">Install VS Code</h3>
+<p>If you don’t have VS Code installed:</p>
+<ul>
+  <li>Download from: <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></li>
+  <li>Install the Python extension: <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python">https://marketplace.visualstudio.com/items?itemName=ms-python.python</a></li>
+</ul>
+
+<h3 id="setup-github-copilot">Setup GitHub Copilot</h3>
+<ol>
+  <li><strong>Subscribe to GitHub Copilot:</strong>
+    <ul>
+      <li>Visit: <a href="https://github.com/features/copilot">https://github.com/features/copilot</a></li>
+      <li>Get free access if you’re a student/teacher: <a href="https://education.github.com/pack">https://education.github.com/pack</a></li>
+    </ul>
+  </li>
+  <li><strong>Install GitHub Copilot Extension:</strong>
+    <ul>
+      <li>Open VS Code</li>
+      <li>Go to Extensions (Ctrl+Shift+X). Mac users need to replace Ctrl with Cmd for the shortcuts in this document.</li>
+      <li>Search for “GitHub Copilot”</li>
+      <li>Install the official extension by GitHub</li>
+      <li>Install “GitHub Copilot Chat” as well</li>
+    </ul>
+  </li>
+  <li><strong>Authenticate:</strong>
+    <ul>
+      <li>Press Ctrl+Shift+P and type “GitHub Copilot: Sign In”</li>
+      <li>Follow the authentication flow</li>
+      <li>In VS Code, open Copilot Chat with Ctrl+Shift+I</li>
+    </ul>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="2-project-setup-5-minutes">2. Project Setup (5 minutes)</h2>
+
+<h3 id="create-project-structure">Create Project Structure</h3>
+<p><strong>Step 1: Create a new folder for your project</strong></p>
+<ul>
+  <li>Create a new folder called <code class="language-plaintext highlighter-rouge">tutorial</code> on your desktop or preferred location</li>
+  <li>Open this folder in VS Code (File → Open Folder)</li>
+</ul>
+
+<p><strong>Step 2: Set up Python virtual environment</strong>
+A virtual environment creates an isolated Python workspace that prevents package conflicts between different projects and keeps your system Python installation clean.</p>
+
+<ul>
+  <li>Open the VS Code terminal (Terminal → New Terminal)</li>
+  <li><strong>For Mac/Linux users:</strong> Run these commands one by one:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python <span class="nt">-m</span> venv crawl
+<span class="nb">source </span>crawl/bin/activate
+</code></pre></div>    </div>
+  </li>
+  <li><strong>For Windows users:</strong> Run these commands one by one:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python <span class="nt">-m</span> venv crawl
+crawl<span class="se">\S</span>cripts<span class="se">\a</span>ctivate
+</code></pre></div>    </div>
+  </li>
+  <li>You should see <code class="language-plaintext highlighter-rouge">(crawl)</code> appear at the beginning of your terminal prompt, indicating the virtual environment is active</li>
+</ul>
+
+<h3 id="ai-prompt-for-dependencies">AI Prompt for Dependencies</h3>
+<p><strong>Prompt:</strong></p>
+<ul>
+  <li>Select the “Agent” mode</li>
+  <li>Pick the model you want to use. I use the latest Claude.</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>I'm building a web scraper in Python virtual environment crawl.
+What packages should I install for modern web scraping?
+I want to scrape HTML, handle JavaScript-rendered pages, save to CSV,
+and be respectful with rate limiting.
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="3-target-website-selection-5-minutes">3. Target Website Selection (5 minutes)</h2>
+
+<p>For this tutorial, we’ll scrape <strong>Books to Scrape</strong> (<a href="https://books.toscrape.com/">https://books.toscrape.com/</a>), a website specifically designed for scraping practice.</p>
+
+<p><strong>Why this website?</strong></p>
+<ul>
+  <li>✅ Legal and ethical to scrape</li>
+  <li>✅ No authentication required</li>
+  <li>✅ Structured data (titles, prices, ratings)</li>
+  <li>✅ Multiple pages for pagination practice</li>
+  <li>✅ No aggressive blocking</li>
+</ul>
+
+<p><strong>Alternative websites:</strong></p>
+<ul>
+  <li>Quotes to Scrape: <a href="http://quotes.toscrape.com/">http://quotes.toscrape.com/</a></li>
+</ul>
+
+<hr />
+
+<h2 id="4-building-the-scraper-with-ai-25-minutes">4. Building the Scraper with AI (25 minutes)</h2>
+
+<h3 id="step-1-basic-page-fetching">Step 1: Basic Page Fetching</h3>
+<p><strong>Prompt:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Write a Python code book.py to fetch the HTML content from "https://books.toscrape.com/".
+Include proper error handling and user agent headers to be respectful.
+</code></pre></div></div>
+
+<p><strong>Expected code structure:</strong></p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">requests</span>
+<span class="kn">from</span> <span class="nn">bs4</span> <span class="kn">import</span> <span class="n">BeautifulSoup</span>
+<span class="kn">import</span> <span class="nn">time</span>
+<span class="kn">import</span> <span class="nn">csv</span>
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="n">pd</span>
+
+<span class="k">def</span> <span class="nf">fetch_page</span><span class="p">(</span><span class="n">url</span><span class="p">):</span>
+    <span class="n">headers</span> <span class="o">=</span> <span class="p">{</span>
+        <span class="s">'User-Agent'</span><span class="p">:</span> <span class="s">'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'</span>
+    <span class="p">}</span>
+
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">headers</span><span class="o">=</span><span class="n">headers</span><span class="p">)</span>
+        <span class="n">response</span><span class="p">.</span><span class="n">raise_for_status</span><span class="p">()</span>
+        <span class="k">return</span> <span class="n">response</span><span class="p">.</span><span class="n">text</span>
+    <span class="k">except</span> <span class="n">requests</span><span class="p">.</span><span class="n">RequestException</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+        <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"Error fetching </span><span class="si">{</span><span class="n">url</span><span class="si">}</span><span class="s">: </span><span class="si">{</span><span class="n">e</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+        <span class="k">return</span> <span class="bp">None</span>
+</code></pre></div></div>
+
+<h3 id="step-2-parse-book-data">Step 2: Parse Book Data</h3>
+<p><strong>Prompt:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Parse the HTML from books.toscrape.com to extract book information.
+I need: title, price, rating (stars), and availability.
+Use BeautifulSoup and return a list of dictionaries.
+</code></pre></div></div>
+
+<h3 id="step-3-handle-pagination">Step 3: Handle Pagination</h3>
+<p><strong>Prompt:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Modify the scraper to handle pagination on books.toscrape.com.
+The site has "Next" buttons to navigate through pages.
+Scrape all books from all pages and combine the results.
+Use a timer to show how long the program takes to finish.
+Save the scraped book data to a CSV file with proper column headers.
+</code></pre></div></div>
+
+<h3 id="complete-example-structure">Complete Example Structure:</h3>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">parse_book_data</span><span class="p">(</span><span class="n">html</span><span class="p">):</span>
+    <span class="c1"># AI will generate BeautifulSoup parsing logic
+</span>    <span class="k">pass</span>
+
+<span class="k">def</span> <span class="nf">scrape_all_books</span><span class="p">():</span>
+    <span class="c1"># AI will generate pagination handling
+</span>    <span class="k">pass</span>
+
+<span class="k">def</span> <span class="nf">save_to_csv</span><span class="p">(</span><span class="n">books_data</span><span class="p">,</span> <span class="n">filename</span><span class="o">=</span><span class="s">'books.csv'</span><span class="p">):</span>
+    <span class="c1"># AI will generate CSV saving logic
+</span>    <span class="k">pass</span>
+
+<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">"__main__"</span><span class="p">:</span>
+    <span class="n">books</span> <span class="o">=</span> <span class="n">scrape_all_books</span><span class="p">()</span>
+    <span class="n">save_to_csv</span><span class="p">(</span><span class="n">books</span><span class="p">)</span>
+    <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"Scraped </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">books</span><span class="p">)</span><span class="si">}</span><span class="s"> books successfully!"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="5-improving-the-code-with-ai-10-minutes">5. Improving the Code with AI (10 minutes)</h2>
+
+<h3 id="data-types-in-csv">Data types in CSV</h3>
+<p><strong>Prompt:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>When saving the CSV file, make sure to change the price and rating to numeric values,
+and use 1 for being available and 0 for out of stock.
+Make sure to fetch all pages and all books.
+</code></pre></div></div>
+
+<h3 id="performance-optimization">Performance Optimization</h3>
+<p><strong>Prompt:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Optimize my web scraper for better performance.
+Add concurrent requests using threading or async programming while maintaining rate limits.
+</code></pre></div></div>
+
+<h3 id="documentation">Documentation</h3>
+<p><strong>Prompt:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Create a README.MD to explain the project.
+</code></pre></div></div>
+
+<h3 id="handling-rate-limiting">Handling Rate Limiting</h3>
+<p><strong>Prompt:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Add rate limiting to my web scraper to be respectful to the server.
+Add random delays between requests and implement exponential backoff for failed requests.
+</code></pre></div></div>
+
+<h3 id="bypassing-basic-blocks">Bypassing Basic Blocks</h3>
+<p><strong>Prompt:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>My scraper is getting blocked.
+Help me add rotation of user agents, session handling, and proxy support
+to make it more robust against basic anti-bot measures.
+</code></pre></div></div>
+
+<h3 id="adding-robust-error-handling">Adding Robust Error Handling</h3>
+<p><strong>Prompt:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Improve error handling in my scraper.
+Add logging, retry logic for network failures, and graceful handling of parsing errors.
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="6-ethics-and-legal-considerations-5-minutes">6. Ethics and Legal Considerations (5 minutes)</h2>
+
+<h3 id="the-golden-rules">The Golden Rules</h3>
+<ol>
+  <li><strong>Always check robots.txt</strong> first: <code class="language-plaintext highlighter-rouge">website.com/robots.txt</code></li>
+  <li><strong>Respect rate limits</strong> - don’t overwhelm servers</li>
+  <li><strong>Read Terms of Service</strong> - some sites prohibit scraping</li>
+  <li><strong>Don’t scrape personal/private data</strong> without permission</li>
+  <li><strong>Use official APIs</strong> when available</li>
+</ol>
+
+<h3 id="prompt-for-ethics-check">Prompt for Ethics Check:</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>I want to scrape [website]. Help me check if this is ethical and legal.
+What should I look for in their robots.txt and terms of service?
+</code></pre></div></div>
+
+<h3 id="good-practices">Good Practices:</h3>
+<ul>
+  <li>✅ Start with small-scale testing</li>
+  <li>✅ Cache responses to avoid re-scraping</li>
+  <li>✅ Identify yourself with proper User-Agent</li>
+  <li>✅ Use official APIs when available</li>
+  <li>❌ Don’t scrape copyrighted content for commercial use</li>
+  <li>❌ Don’t ignore robots.txt directives</li>
+  <li>❌ Don’t overwhelm servers with rapid requests</li>
+</ul>
+
+<hr />
+
+<h2 id="7-troubleshooting-common-issues">7. Troubleshooting Common Issues</h2>
+
+<h3 id="problem-403-forbidden-or-429-too-many-requests">Problem: “403 Forbidden” or “429 Too Many Requests”</h3>
+<p><strong>Prompt:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>My scraper is getting 403/429 errors.
+Help me implement proper rate limiting, user agent rotation,
+and session management to handle this respectfully.
+</code></pre></div></div>
+
+<h3 id="problem-javascript-rendered-content">Problem: JavaScript-Rendered Content</h3>
+<p><strong>Prompt:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The website loads content with JavaScript.
+Help me use Selenium WebDriver to scrape dynamic content that's not in the initial HTML.
+</code></pre></div></div>
+
+<h3 id="problem-captchas-or-complex-anti-bot">Problem: CAPTCHAs or Complex Anti-Bot</h3>
+<p><strong>Ethical Response:</strong></p>
+<ul>
+  <li>Don’t try to bypass CAPTCHAs</li>
+  <li>Look for official APIs instead</li>
+  <li>Contact the website owner for permission</li>
+</ul>
+
+<hr />
+
+<h2 id="8-hands-on-exercise-remaining-time">8. Hands-On Exercise (Remaining Time)</h2>
+
+<h3 id="your-turn">Your Turn!</h3>
+
+<p>Create some prompt to analyze the csv file of books using jupyter notebooks.</p>
+
+<p>What if I do want to save the pictures of the books?</p>
+
+<p>Pick one of these websites and use AI to help you build a scraper:</p>
+
+<ol>
+  <li><strong>Quotes to Scrape</strong>: <a href="http://quotes.toscrape.com/">http://quotes.toscrape.com/</a>
+    <ul>
+      <li>Extract: quote text, author, tags</li>
+    </ul>
+  </li>
+  <li><strong>Hacker News</strong>: <a href="https://news.ycombinator.com/">https://news.ycombinator.com/</a>
+    <ul>
+      <li>Extract: story titles, scores, comment counts</li>
+    </ul>
+  </li>
+  <li><strong>Wikipedia Recent Changes</strong>: <a href="https://en.wikipedia.org/wiki/Special:RecentChanges">https://en.wikipedia.org/wiki/Special:RecentChanges</a>
+    <ul>
+      <li>Extract: page titles, edit summaries, timestamps</li>
+    </ul>
+  </li>
+</ol>
+
+<p><strong>Prompting Strategy:</strong></p>
+<ol>
+  <li>Start with: “Help me scrape [website] to extract [specific data]”</li>
+  <li>Ask for improvements: “Make this more robust against errors”</li>
+  <li>Add features: “Add data cleaning and validation”</li>
+  <li>Optimize: “How can I make this faster while being respectful?”</li>
+</ol>
+
+<hr />
+
+<h2 id="key-takeaways">Key Takeaways</h2>
+
+<ol>
+  <li><strong>AI accelerates development</strong> - What used to take hours now takes minutes</li>
+  <li><strong>Start with clear prompts</strong> - Be specific about what you want to extract</li>
+  <li><strong>Iterate and improve</strong> - Use AI to continuously enhance your code</li>
+  <li><strong>Ethics first</strong> - Always scrape responsibly and legally</li>
+  <li><strong>APIs are usually better</strong> - When available, use official APIs instead</li>
+</ol>
+
+<h3 id="resources-for-continued-learning">Resources for Continued Learning</h3>
+<ul>
+  <li><strong>Hands-On Large Language Models</strong>: <a href="https://a.co/d/bK30tce">https://a.co/d/bK30tce</a></li>
+  <li><strong>Github Copilot Tutorial</strong>: <a href="https://www.youtube.com/watch?v=SJqGYwRq0uc">https://www.youtube.com/watch?v=SJqGYwRq0uc</a></li>
+  <li><strong>Claude Code</strong>: <a href="https://www.claude.com/product/claude-code">https://www.claude.com/product/claude-code</a></li>
+</ul>
+
+<hr />
+
+<h2 id="next-steps">Next Steps</h2>
+<ul>
+  <li>Explore advanced AI tools (Claude Code, Cursor, Windsurf, GPT-5, Gemini etc.)</li>
+  <li>Learn about headless browsers and browser automation</li>
+  <li>Practice on scraping-friendly websites</li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="https://www.chengnie.com/tags/#tools" class="page__taxonomy-item" rel="tag">tools</a>
+    
+    </span>
+  </p>
+
+
+
+
+      </footer>
+
+      
+
+<section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?text=https://www.chengnie.com/web2025/" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.chengnie.com/web2025/" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.chengnie.com/web2025/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+      
+
+
+  <nav class="pagination">
+    
+      <a href="https://www.chengnie.com/why-do-i-run/" class="pagination--pager" title="Why Do I Run?
+">Previous</a>
+    
+    
+      <a href="https://www.chengnie.com/cn/chicago2025/" class="pagination--pager" title="2025 芝加哥马拉松
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      
+        <h4 class="page__related-title">You May Also Enjoy</h4>
+      
+      <div class="grid__wrapper">
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://www.chengnie.com/review2025/" rel="permalink">My 2025 Annual Review
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2026-01-04T00:00:00-06:00">January 04, 2026</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Here is my annual review of 2025 to answer the following three questions:</p>
+
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://www.chengnie.com/cn/review2025/" rel="permalink">我的 2025 年度回顾
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2026-01-04T00:00:00-06:00">January 04, 2026</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>以下是我对 2025 年的年度回顾，主要回答以下三个问题:</p>
+
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://www.chengnie.com/chicago2025/" rel="permalink">Chicago Marathon 2025
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2025-10-18T00:00:00-05:00">October 18, 2025</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><h1 id="chicago-marathon-2025-">Chicago Marathon 2025 🏅</h1>
+
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://www.chengnie.com/cn/chicago2025/" rel="permalink">2025 芝加哥马拉松
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2025-10-18T00:00:00-05:00">October 18, 2025</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><h1 id="2025-芝加哥马拉松-">2025 芝加哥马拉松 🏅</h1>
+
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+</div>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+<!-- <a href="/sitemap/">Sitemap</a> -->
+<!-- end custom footer snippets -->
+
+        <!--  -->
+Last Updated: 2026-05-08
+
+<!-- <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+    
+    
+    
+    <li><a href="https://www.chengnie.com/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div> -->
+
+<!-- <div class="page__footer-copyright">&copy; 2026 Cheng Nie (聂成). Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div> -->
+
+      </footer>
+    </div>
+
+    <script src="https://www.chengnie.com/assets/js/main.min.js"></script>
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GSFB3LNGY9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GSFB3LNGY9');
+</script>
+
+
+
+
+
+
+  </body>
+</html>
+
