@@ -66,12 +66,8 @@ It highlighted the potential reasons for the failure of many companies, suggesti
 }
 
 .gr_grid_book_container {
-    /* customize book cover container div here */
     float: left;
     width: 108px;
-    height: 190px;
-    /* width: 147px;
-    height: 240px; */
     padding: 0px 0px;
     overflow: hidden;
 }
@@ -87,6 +83,9 @@ It highlighted the potential reasons for the failure of many companies, suggesti
 
 .gr_grid_book_container img {
     display: block;
+    width: 100%;
+    height: 145px;
+    object-fit: cover;
 }
 </style>
   <div class="gr_grid_container">

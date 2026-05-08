@@ -240,14 +240,17 @@ REQUIRED_CSS_RULES = """\
 
 .gr_grid_book_container img {
     display: block;
+    width: 100%;
+    height: 145px;
+    object-fit: cover;
 }"""
 
 def ensure_css(notes_md_path):
-    """Ensure display:block rules are present so wrapped titles render tightly."""
+    """Ensure CSS rules are present for tight title wrapping and aligned title baseline."""
     with open(notes_md_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    if '.gr_grid_book_container img' in content and 'display: block' in content:
+    if 'object-fit: cover' in content and 'display: block' in content:
         return False  # already present
 
     # Insert before closing </style>
