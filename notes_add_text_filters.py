@@ -232,6 +232,31 @@ def update_data_attributes(notes_md_path, metadata):
     return True
 
 
+REQUIRED_CSS_RULES = """\
+.gr_grid_book_container a {
+    display: block;
+    line-height: 1.2;
+}
+
+.gr_grid_book_container img {
+    display: block;
+}"""
+
+def ensure_css(notes_md_path):
+    """Ensure display:block rules are present so wrapped titles render tightly."""
+    with open(notes_md_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    if '.gr_grid_book_container img' in content and 'display: block' in content:
+        return False  # already present
+
+    # Insert before closing </style>
+    updated = content.replace('</style>', REQUIRED_CSS_RULES + '\n</style>', 1)
+    with open(notes_md_path, 'w', encoding='utf-8') as f:
+        f.write(updated)
+    return True
+
+
 def find_missing_notes(notes_dir, existing_slugs):
     """Find _notes/ files that are not included in notes.md."""
     missing = []
@@ -317,6 +342,13 @@ def main():
             print(f"  ! {filename} ({title})")
     else:
         print("\nAll note files are included in notes.md!")
+
+    # Step 6: Ensure display:block CSS is present for tight title wrapping
+    print("\n--- Checking CSS ---")
+    if ensure_css(notes_md_path):
+        print("Added missing display:block CSS rules to notes.md.")
+    else:
+        print("CSS rules already present.")
 
     print("\n" + "=" * 60)
     print("DONE!")
