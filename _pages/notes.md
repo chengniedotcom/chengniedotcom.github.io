@@ -81,7 +81,12 @@ It highlighted the potential reasons for the failure of many companies, suggesti
 }
 
 .gr_grid_book_container a {
-    line-height: 1.0;
+    display: block;
+    line-height: 1.2;
+}
+
+.gr_grid_book_container img {
+    display: block;
 }
 </style>
   <div class="gr_grid_container">
