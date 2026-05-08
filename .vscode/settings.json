@@ -1,4 +1,5 @@
 {
     "restructuredtext.confPath": "",
     "esbonio.sphinx.confDir": ""
+    "vim.useSystemClipboard": true
 }

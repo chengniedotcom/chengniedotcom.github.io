@@ -31,7 +31,7 @@ author_profile: true
 
 # Journal Papers Under Review
 
-- Meng J, Li H, Nie C, Zhang C. Crime Dynamics of Home-Sharing: Disentangling Temporal Effects and Policy Interventions. Submitted for the 2nd round review at _Decision Support Systems_
+- Meng J, Li H, Nie C, Zhang C. Crime Dynamics of Home-Sharing: Disentangling Temporal Effects and Policy Interventions. Revising for the 3rd round review at _Decision Support Systems_
 
 - Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence. Submitted for the 2nd round review at _Information Systems Research_
 

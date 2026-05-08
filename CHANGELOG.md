@@ -1,26 +1,51 @@
+
+2026_05_08
+==========
+
+TODO: 1) add Abott world majors visualization and score; 2) Use filter to display race visualization; 3) Show different years. 
+
+add 2 marathons. 
+
+/notes/闲话中国人
+/notes/女皇武则天
+/notes/中国人的智慧
+/notes/品人录
+- /notes/读城记
+- /notes/中国的男人和女人
+- /notes/who-gets-in-and-why
+
+x Update txt2md code
+  x sometimes the output is empty
+  x add the /notes/ link to the top of CHANGELOG.md
+- Filter not showing in the notes page
+- Add the pacer to marathon list and my google docs sheets. 
+
 ## Someday maybe
 x Add a sort function based on ranking in the book notes page
 x Add the views count of different blog posts.
   > how to add a pageview count like in https://www.behind-the-enemy-lines.com/2026/03/taste-is-not-enough-reality-or-bust.html or for individual pages in the github pages?
   x setup hits.seeyoufarm.com
-- selfish-gene.md went through a few lines
+TODO selfish-gene.md went through a few lines
 x disable showing the research and teaching tab since they are in front page
-- Add social media tab
-- 申请weibo 还有X账号
-- link run.chengnie.com to cnie.us
-- Upload and use Panos' idea to let github web, claude web take over
+TODO Add social media tab
+TODO 申请weibo 还有X账号
+TODO link run.chengnie.com to cnie.us
+TODO Upload and use Panos' idea to let github web, claude web take over
 - ```Can you check the directory to see if the file names are correct. I used UPDATES.md as changelog. Can you suggest which file names I should change?```
 - ```Can you suggest where I keep track of my prompts?```
 - ```Compare my edited version with the origianl version and compile and update my writing style as a skill file```
 - link check, picture check throughout the website. 
-- Remove you may also enjoy section at the end. 
+TODO Remove you may also enjoy section at the end. 
 - Beautify the mobile site. 
 
 # 2026
 
 ## Next
 
+
+
 TODO- get a Chinese version toggle
+
 - Remame files for usual pattern: CHANGELOG instead of update. Ask Claude
 - load with Claude Web
 - Streamline some other process (like loading notes and checking consistency)
@@ -140,9 +165,9 @@ Can you tranlsate shot-ready.md to Chinese for me? and Place the translated vers
 
 ultrathink
 ```
-TODO: 身后无遗物 身后无遗物 cover not showing properly
+身后无遗物 身后无遗物 cover not showing properly
 TODO: add voice narration for some notes like this one: https://staycuriousmetabolism.substack.com/p/the-carb-loading-myth-is-finally?utm_source=podcast-email%2Csubstack&publication_id=2682303&post_id=182588963&utm_campaign=email-play-on-substack&utm_medium=email&r=fhcuy&triedRedirect=true
-TODO: Home/ Cn/记一次吵架, click on cn is problematic
+Home/ Cn/记一次吵架, click on cn is problematic
 TODO: maybe add a toggle to switch between English and Chinese for notes that have both versions.
 ```
 
