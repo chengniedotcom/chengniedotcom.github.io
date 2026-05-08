@@ -16,63 +16,44 @@ from bs4 import BeautifulSoup
 # =============================================================================
 # PASTE YOUR GOODREADS WIDGET HTML HERE
 # =============================================================================
-html = '''
-      <style type="text/css" media="screen">
-        .gr_grid_container {
-          /* customize grid container div here. eg: width: 500px; */
-        }
-
-        .gr_grid_book_container {
-          /* customize book cover container div here */
-          float: left;
-          width: 39px;
-          height: 60px;
-          padding: 0px 0px;
-          overflow: hidden;
-        }
-      </style>
-      <div id="gr_grid_widget_1775095372">
-        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
-            <h2>
-      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/52165206-cheng-nie?shelf=read&utm_medium=api&utm_source=grid_widget">Cheng's bookshelf: read</a>
-    </h2>
-  <div class="gr_grid_container">
-    <div class="gr_grid_book_container"><a title="The Chinese in America: A Narrative History" rel="nofollow" href="https://www.goodreads.com/book/show/503633.The_Chinese_in_America"><img alt="The Chinese in America: A Narrative History" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348122464l/503633._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="房思琪的初恋乐园" rel="nofollow" href="https://www.goodreads.com/book/show/38481792"><img alt="房思琪的初恋乐园" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518328510l/38481792._SX50_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="陆犯焉识" rel="nofollow" href="https://www.goodreads.com/book/show/18661400"><img alt="陆犯焉识" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384804044l/18661400._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Things in Nature Merely Grow" rel="nofollow" href="https://www.goodreads.com/book/show/221164555-things-in-nature-merely-grow"><img alt="Things in Nature Merely Grow" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740593371l/221164555._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Don't Believe Everything You Think" rel="nofollow" href="https://www.goodreads.com/book/show/60726415-don-t-believe-everything-you-think"><img alt="Don't Believe Everything You Think" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648738209l/60726415._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="要有光" rel="nofollow" href="https://www.goodreads.com/book/show/242026987"><img alt="要有光" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1758730901l/242026987._SX50_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="The Book of Sheen" rel="nofollow" href="https://www.goodreads.com/book/show/234538753-the-book-of-sheen"><img alt="The Book of Sheen" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1750430361l/234538753._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="九诗心：暗夜里的文学启明" rel="nofollow" href="https://www.goodreads.com/book/show/222156713"><img alt="九诗心：暗夜里的文学启明" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1736542080l/222156713._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="在难搞的日子笑出声来" rel="nofollow" href="https://www.goodreads.com/book/show/20806072"><img alt="在难搞的日子笑出声来" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392336232l/20806072._SX50_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="The House of My Mother: A Daughter's Quest for Freedom" rel="nofollow" href="https://www.goodreads.com/book/show/214151420-the-house-of-my-mother"><img alt="The House of My Mother: A Daughter's Quest for Freedom" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728843692l/214151420._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection" rel="nofollow" href="https://www.goodreads.com/book/show/220341389-everything-is-tuberculosis"><img alt="Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729825992l/220341389._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Improve Your Sight-Reading! Piano Grade 1" rel="nofollow" href="https://www.goodreads.com/book/show/36381401-improve-your-sight-reading-piano-grade-1"><img alt="Improve Your Sight-Reading! Piano Grade 1" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507561389l/36381401._SX50_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Sociopath" rel="nofollow" href="https://www.goodreads.com/book/show/176443093-sociopath"><img alt="Sociopath" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710615468l/176443093._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Shot Ready" rel="nofollow" href="https://www.goodreads.com/book/show/223964727-shot-ready"><img alt="Shot Ready" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1743130663l/223964727._SX50_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Beautiful Country" rel="nofollow" href="https://www.goodreads.com/book/show/56461570-beautiful-country"><img alt="Beautiful Country" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614681640l/56461570._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Private Revolutions: Four Women Face China's New Social Order" rel="nofollow" href="https://www.goodreads.com/book/show/200158232-private-revolutions"><img alt="Private Revolutions: Four Women Face China's New Social Order" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711403676l/200158232._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Hands-On Large Language Models: Language Understanding and Generation" rel="nofollow" href="https://www.goodreads.com/book/show/210408850-hands-on-large-language-models"><img alt="Hands-On Large Language Models: Language Understanding and Generation" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718922029l/210408850._SX50_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="大江大海：一九四九" rel="nofollow" href="https://www.goodreads.com/book/show/6902548"><img alt="大江大海：一九四九" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1253724411l/6902548._SX50_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="The Last Black Unicorn" rel="nofollow" href="https://www.goodreads.com/book/show/34974310-the-last-black-unicorn"><img alt="The Last Black Unicorn" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508059685l/34974310._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Grief Is for People" rel="nofollow" href="https://www.goodreads.com/book/show/127282631-grief-is-for-people"><img alt="Grief Is for People" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689777641l/127282631._SX50_.jpg" /></a></div>
-    <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/52165206-cheng-nie">Cheng Nie's favorite books »</a>
-  <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Cheng, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
-  </div>
-
-      </div>
-      <script src="https://www.goodreads.com/review/grid_widget/52165206.Cheng's%20bookshelf:%20read?cover_size=small&hide_link=&hide_title=&num_books=20&order=d&shelf=read&sort=date_read&widget_id=1775095372" type="text/javascript" charset="utf-8"></script>
-
+html = r'''
+<div class="gr_grid_book_container"><a title="女皇武则天 (易中天中华史 15) (Chinese Edition)" rel="nofollow" href="https://www.goodreads.com/review/show/8583987693?utm_medium=api&amp;utm_source=grid_widget"><img alt="女皇武则天 (易中天中华史 15)" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460222272l/29863519._SX50_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="中国人的智慧(2018全新修订版) (易中天品读中国系列 5) (Chinese Edition)" rel="nofollow" href="https://www.goodreads.com/review/show/8584022143?utm_medium=api&amp;utm_source=grid_widget"><img alt="中国人的智慧(2018全新修订版) (易中天品读中国系列 5)" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514859762l/37793326._SX50_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="品人录(2018全新修订版) (易中天品读中国系列 1) (Chinese Edition)" rel="nofollow" href="https://www.goodreads.com/review/show/8584024294?utm_medium=api&amp;utm_source=grid_widget"><img alt="品人录(2018全新修订版) (易中天品读中国系列 1)" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515658328l/37909371._SX50_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="读城记(2018全新修订版) (易中天品读中国系列 4) (Chinese Edition)" rel="nofollow" href="https://www.goodreads.com/review/show/8578832518?utm_medium=api&amp;utm_source=grid_widget"><img alt="读城记(2018全新修订版) (易中天品读中国系列 4)" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513982234l/37655662._SX50_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="闲话中国人" rel="nofollow" href="https://www.goodreads.com/review/show/8538251335?utm_medium=api&amp;utm_source=grid_widget"><img alt="闲话中国人" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334593508l/13604589._SX50_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="中国的男人和女人(2018全新修订版) (易中天品读中国系列 3) (Chinese Edition)" rel="nofollow" href="https://www.goodreads.com/review/show/8524922345?utm_medium=api&amp;utm_source=grid_widget"><img alt="中国的男人和女人(2018全新修订版) (易中天品读中国系列 3)" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521095166l/39286428._SX50_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="Deep Learning for Finance: Creating Machine &amp; Deep Learning Models for Trading in Python" rel="nofollow" href="https://www.goodreads.com/review/show/8519657105?utm_medium=api&amp;utm_source=grid_widget"><img alt="Deep Learning for Finance: Creating Machine &amp; Deep Learning Models for Trading in Python" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704753765l/205055204._SX50_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="Who Gets In and Why: A Year Inside College Admissions" rel="nofollow" href="https://www.goodreads.com/review/show/8256330391?utm_medium=api&amp;utm_source=grid_widget"><img alt="Who Gets In and Why: A Year Inside College Admissions" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585295138l/52765755._SY75_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="Generative AI for Business: Frameworks, Techniques, and Governance" rel="nofollow" href="https://www.goodreads.com/review/show/8509705612?utm_medium=api&amp;utm_source=grid_widget"><img alt="Generative AI for Business: Frameworks, Techniques, and Governance" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1761633446l/243271538._SX50_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="The Chinese in America: A Narrative History" rel="nofollow" href="https://www.goodreads.com/review/show/8048327667?utm_medium=api&amp;utm_source=grid_widget"><img alt="The Chinese in America: A Narrative History" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348122464l/503633._SY75_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="Fear and Trembling" rel="nofollow" href="https://www.goodreads.com/review/show/8382379263?utm_medium=api&amp;utm_source=grid_widget"><img alt="Fear and Trembling" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309286516l/24965._SY75_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="房思琪的初恋乐园" rel="nofollow" href="https://www.goodreads.com/review/show/8285903384?utm_medium=api&amp;utm_source=grid_widget"><img alt="房思琪的初恋乐园" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518328510l/38481792._SX50_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="陆犯焉识" rel="nofollow" href="https://www.goodreads.com/review/show/8285907219?utm_medium=api&amp;utm_source=grid_widget"><img alt="陆犯焉识" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384804044l/18661400._SY75_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="Things in Nature Merely Grow" rel="nofollow" href="https://www.goodreads.com/review/show/8387764260?utm_medium=api&amp;utm_source=grid_widget"><img alt="Things in Nature Merely Grow" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740593371l/221164555._SY75_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="Dear Friend, from My Life I Write to You in Your Life" rel="nofollow" href="https://www.goodreads.com/review/show/8585335883?utm_medium=api&amp;utm_source=grid_widget"><img alt="Dear Friend, from My Life I Write to You in Your Life" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471277778l/30211990._SX50_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="Don't Believe Everything You Think" rel="nofollow" href="https://www.goodreads.com/review/show/8324929139?utm_medium=api&amp;utm_source=grid_widget"><img alt="Don't Believe Everything You Think" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648738209l/60726415._SY75_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="要有光" rel="nofollow" href="https://www.goodreads.com/review/show/8227317183?utm_medium=api&amp;utm_source=grid_widget"><img alt="要有光" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1758730901l/242026987._SX50_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="The Book of Sheen" rel="nofollow" href="https://www.goodreads.com/review/show/8181820260?utm_medium=api&amp;utm_source=grid_widget"><img alt="The Book of Sheen" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1750430361l/234538753._SY75_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="九诗心：暗夜里的文学启明" rel="nofollow" href="https://www.goodreads.com/review/show/8227321135?utm_medium=api&amp;utm_source=grid_widget"><img alt="九诗心：暗夜里的文学启明" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1736542080l/222156713._SY75_.jpg" /><\/a><\/div>
+    <div class="gr_grid_book_container"><a title="在难搞的日子笑出声来" rel="nofollow" href="https://www.goodreads.com/review/show/8235479591?utm_medium=api&amp;utm_source=grid_widget"><img alt="在难搞的日子笑出声来" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392336232l/20806072._SX50_.jpg" /><\/a><\/div>
+    <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/52165206-cheng-nie">Cheng Nie's favorite books &raquo;<\/a>
+  <noscript><br/>Share <a rel="nofollow" href="/">book reviews<\/a> and ratings with Cheng, and even join a <a rel="nofollow" href="/group">book club<\/a> on Goodreads.<\/noscript>
+  <\/div>
 
 '''
 # =============================================================================
 
 
+def get_short_title(title):
+    """Return the title up to the first subtitle separator (colon, comma, parens, brackets, or spaced hyphen)."""
+    return re.split(r'[:(,\[]|\s+-\s+', title)[0].strip()
+
+
 def get_slug_from_title(title):
     """Generate URL slug from book title."""
-    title_before_colon = title.split(':')[0].strip() if ':' in title else title.strip()
-    slug = re.sub(r'[^\w\s-]', '', title_before_colon.lower())
+    title_core = get_short_title(title)
+    slug = re.sub(r'[^\w\s-]', '', title_core.lower())
     slug = re.sub(r'\s+', '-', slug)
     return slug
 
@@ -92,6 +73,9 @@ def parse_and_format_html(html, existing_slugs):
     """Parse Goodreads HTML and format for notes.md, skipping existing books."""
     if not html.strip():
         return '', [], []
+
+    # Fix JavaScript-style escaped closing tags (e.g. <\/a> → </a>)
+    html = html.replace('\\/', '/')
 
     pattern = re.compile(r'_(SX|SY)\d+_.jpg')
     soup = BeautifulSoup(html, 'html.parser')
@@ -113,7 +97,7 @@ def parse_and_format_html(html, existing_slugs):
             continue
 
         new_books.append(title_original)
-        title_before_colon = title_original.split(':')[0].strip() if ':' in title_original else title_original.strip()
+        title_before_colon = get_short_title(title_original)
 
         a_tag['href'] = f"/notes/{slug}"
         a_tag['style'] = 'color: black; font-size: 10px;'
@@ -325,6 +309,7 @@ def main():
 
     # Step 5: Find notes files not in notes.md
     print("\n--- Checking for missing notes ---")
+    existing_slugs = get_existing_slugs(notes_md_path)
     missing_notes = find_missing_notes(notes_dir, existing_slugs)
     if missing_notes:
         print(f"\nFound {len(missing_notes)} note files NOT in notes.md:")

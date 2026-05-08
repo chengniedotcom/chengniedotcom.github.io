@@ -5,10 +5,333 @@ permalink: /marathon
 author_profile: true
 ---
 
+<!-- GENERATED CONTENT START -->
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+
+<h2 style="margin-top: 40px;">Abbott World Marathon Majors</h2>
+<p>My finish times at the Abbott World Marathon Majors, in race order. Orange bar = PR.</p>
+
+<div style="max-width: 660px; margin-bottom: 40px;">
+  <canvas id="majorsChart"></canvas>
+</div>
+
+<script>
+(function() {
+  var majors = [
+    {
+        "label": [
+            "Chicago",
+            "2019"
+        ],
+        "time": "2:55:02"
+    },
+    {
+        "label": [
+            "Boston",
+            "2021"
+        ],
+        "time": "2:46:56"
+    },
+    {
+        "label": [
+            "Boston",
+            "2023"
+        ],
+        "time": "2:59:38"
+    },
+    {
+        "label": [
+            "Tokyo",
+            "2024"
+        ],
+        "time": "3:20:00"
+    },
+    {
+        "label": [
+            "Berlin",
+            "2024"
+        ],
+        "time": "2:52:20"
+    },
+    {
+        "label": [
+            "New York City",
+            "2024"
+        ],
+        "time": "2:50:32"
+    },
+    {
+        "label": [
+            "Chicago",
+            "2025"
+        ],
+        "time": "2:40:51"
+    },
+    {
+        "label": [
+            "London",
+            "2026"
+        ],
+        "time": "2:42:32"
+    }
+];
+
+  function toMin(t) {
+    var p = t.split(':').map(Number);
+    return p[0] * 60 + p[1] + p[2] / 60;
+  }
+  function toHMS(min) {
+    var h = Math.floor(min / 60);
+    var m = Math.floor(min % 60);
+    return h + ':' + String(m).padStart(2, '0');
+  }
+
+  var mins = majors.map(function(d) { return toMin(d.time); });
+  var best = Math.min.apply(null, mins);
+  var colors = mins.map(function(m) { return m === best ? '#e07b39' : '#4a7fa5'; });
+
+  new Chart(document.getElementById('majorsChart'), {
+    type: 'bar',
+    data: {
+      labels: majors.map(function(d) { return d.label; }),
+      datasets: [{ data: mins, backgroundColor: colors, borderRadius: 4 }]
+    },
+    options: {
+      plugins: {
+        legend: { display: false },
+        tooltip: { callbacks: { label: function(ctx) { return '  ' + majors[ctx.dataIndex].time; } } }
+      },
+      scales: {
+        y: {
+          min: 155,
+          ticks: { callback: function(val) { return toHMS(val); }, stepSize: 5 },
+          title: { display: true, text: 'Finish time (h:mm)' }
+        }
+      }
+    }
+  });
+})();
+</script>
+
+<h2 style="margin-top: 40px;">All Marathons</h2>
+<p>Finish times for all 23 marathons. Orange dots = Abbott World Majors.</p>
+
+<div style="max-width: 800px; margin-bottom: 40px;">
+  <canvas id="allRacesChart"></canvas>
+</div>
+
+<script>
+(function() {
+  var races = [
+    {
+        "label": "Allen '17'",
+        "time": "3:17:06",
+        "isMajor": false,
+        "event": "New Year's Double"
+    },
+    {
+        "label": "Irving '18'",
+        "time": "3:03:02",
+        "isMajor": false,
+        "event": "Irving Marathon"
+    },
+    {
+        "label": "Des Moines '18'",
+        "time": "2:59:46",
+        "isMajor": false,
+        "event": "Des Moines Marathon"
+    },
+    {
+        "label": "Chicago '19'",
+        "time": "2:55:02",
+        "isMajor": true,
+        "event": "Chicago Marathon"
+    },
+    {
+        "label": "Shenandoah '20'",
+        "time": "3:04:03",
+        "isMajor": false,
+        "event": "Wabash Trace Nature Trail Marathon"
+    },
+    {
+        "label": "Boston '21'",
+        "time": "2:46:56",
+        "isMajor": true,
+        "event": "Boston Marathon"
+    },
+    {
+        "label": "Duluth '22'",
+        "time": "2:55:50",
+        "isMajor": false,
+        "event": "Grandma's Marathon"
+    },
+    {
+        "label": "Omaha '22'",
+        "time": "2:57:45",
+        "isMajor": false,
+        "event": "Heartland Marathon"
+    },
+    {
+        "label": "Maui '23'",
+        "time": "3:56:54",
+        "isMajor": false,
+        "event": "Maui Oceanfront Marathon"
+    },
+    {
+        "label": "Boston '23'",
+        "time": "2:59:38",
+        "isMajor": true,
+        "event": "Boston Marathon"
+    },
+    {
+        "label": "Tokyo '24'",
+        "time": "3:20:00",
+        "isMajor": true,
+        "event": "Tokyo Marathon"
+    },
+    {
+        "label": "Manitowoc '24'",
+        "time": "3:02:39",
+        "isMajor": false,
+        "event": "Maritime Marathon"
+    },
+    {
+        "label": "Berlin '24'",
+        "time": "2:52:20",
+        "isMajor": true,
+        "event": "Berlin Marathon"
+    },
+    {
+        "label": "New York City '24'",
+        "time": "2:50:32",
+        "isMajor": true,
+        "event": "New York City Marathon"
+    },
+    {
+        "label": "Xiamen '25'",
+        "time": "2:38:08",
+        "isMajor": false,
+        "event": "Xiamen Marathon"
+    },
+    {
+        "label": "Olathe '25'",
+        "time": "2:44:35",
+        "isMajor": false,
+        "event": "Garmin Marathon"
+    },
+    {
+        "label": "Sioux Falls '25'",
+        "time": "2:45:50",
+        "isMajor": false,
+        "event": "Sioux Falls Marathon"
+    },
+    {
+        "label": "Chicago '25'",
+        "time": "2:40:51",
+        "isMajor": true,
+        "event": "Chicago Marathon"
+    },
+    {
+        "label": "Mableton '25'",
+        "time": "2:44:40",
+        "isMajor": false,
+        "event": "Silver Comet Marathon"
+    },
+    {
+        "label": "Kansas City '25'",
+        "time": "2:45:37",
+        "isMajor": false,
+        "event": "Yeti Endurance Marathon"
+    },
+    {
+        "label": "Huntsville '25'",
+        "time": "2:46:58",
+        "isMajor": false,
+        "event": "Rocket City Marathon"
+    },
+    {
+        "label": "Des Moines '26'",
+        "time": "2:59:11",
+        "isMajor": false,
+        "event": "St Patty's Marathon (3-hour pacer)"
+    },
+    {
+        "label": "London '26'",
+        "time": "2:42:32",
+        "isMajor": true,
+        "event": "London Marahon"
+    }
+];
+
+  function toMin(t) {
+    var p = t.split(':').map(Number);
+    return p[0] * 60 + p[1] + p[2] / 60;
+  }
+  function toHMS(min) {
+    var h = Math.floor(min / 60);
+    var m = Math.floor(min % 60);
+    var s = Math.round((min % 1) * 60);
+    return h + ':' + String(m).padStart(2, '0') + ':' + String(s).padStart(2, '0');
+  }
+
+  var mins = races.map(function(d) { return toMin(d.time); });
+  var pointColors = races.map(function(d) { return d.isMajor ? '#e07b39' : '#4a7fa5'; });
+  var pointRadius = races.map(function(d) { return d.isMajor ? 7 : 5; });
+
+  new Chart(document.getElementById('allRacesChart'), {
+    type: 'line',
+    data: {
+      labels: races.map(function(d) { return d.label; }),
+      datasets: [{
+        data: mins,
+        borderColor: '#aac4dc',
+        borderWidth: 1.5,
+        pointBackgroundColor: pointColors,
+        pointRadius: pointRadius,
+        pointHoverRadius: 9,
+        tension: 0.2,
+        fill: false,
+      }]
+    },
+    options: {
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            title: function(items) { return races[items[0].dataIndex].event; },
+            label: function(ctx) { return '  ' + races[ctx.dataIndex].time; }
+          }
+        }
+      },
+      scales: {
+        x: { ticks: { maxRotation: 45, font: { size: 11 } } },
+        y: {
+          ticks: {
+            callback: function(val) {
+              var h = Math.floor(val / 60);
+              var m = Math.floor(val % 60);
+              return h + ':' + String(m).padStart(2, '0');
+            }
+          },
+          title: { display: true, text: 'Finish time (h:mm)' }
+        }
+      }
+    }
+  });
+})();
+</script>
+
 <h2 style="margin-top: 40px;">USA States Progress</h2>
 <p>Progress toward completing a marathon in all 50 USA states.</p>
 
 <iframe src="/marathon/us-states-map.html" height="700" width="850" style="border:none;"></iframe>
+
+<h2 style="margin-top: 40px;">A map of all the places I have run a full Marathon.</h2>
+
+    <iframe src="/marathon/map.html" height="700" width="850" style="border:none;"></iframe>
+
+<h2 style="margin-top: 40px;">The full Marathon list</h2>
 
 <table style="width:80%">
     <thead>
@@ -20,6 +343,20 @@ author_profile: true
             <td>Event</td>
         </tr>
     </thead>
+    <tr>
+        <td>23</td>
+        <td>London, UK</td>
+        <td>    Apr 26, 2026</td>
+        <td>2:42:32</td>
+        <td>London Marahon</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>Des Moines, IA</td>
+        <td>Mar 14, 2026</td>
+        <td>2:59:11</td>
+        <td>St Patty's Marathon (3-hour pacer)</td>
+    </tr>
     <tr>
         <td>21</td>
         <td>Huntsville, AL</td>
@@ -168,9 +505,3 @@ author_profile: true
         <td>New Year's Double</td>
     </tr>
 </table>
-
-    <p>A map of all the places I have run a full Marathon. </p>
-
-    <iframe src="/marathon/map.html" height="700" width="850" style="border:none;"></iframe>
-
-    

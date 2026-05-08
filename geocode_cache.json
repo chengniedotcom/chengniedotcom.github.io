@@ -1,0 +1,102 @@
+{
+  "London, UK": {
+    "latitude": 51.5074456,
+    "longitude": -0.1277653,
+    "address": "Greater London, England, United Kingdom"
+  },
+  "Des Moines, IA": {
+    "latitude": 41.5868654,
+    "longitude": -93.6249494,
+    "address": "Des Moines, Polk County, Iowa, United States"
+  },
+  "Huntsville, AL": {
+    "latitude": 34.729847,
+    "longitude": -86.5859011,
+    "address": "Huntsville, Madison County, Alabama, United States"
+  },
+  "Kansas City, MO": {
+    "latitude": 39.100105,
+    "longitude": -94.5781416,
+    "address": "Kansas City, Jackson County, Missouri, United States"
+  },
+  "Mableton, GA": {
+    "latitude": 33.8188333,
+    "longitude": -84.5822632,
+    "address": "Mableton, Cobb County, Georgia, United States"
+  },
+  "Chicago, IL": {
+    "latitude": 41.8755616,
+    "longitude": -87.6244212,
+    "address": "Chicago, South Chicago Township, Cook County, Illinois, United States"
+  },
+  "Sioux Falls, SD": {
+    "latitude": 43.5476008,
+    "longitude": -96.7293629,
+    "address": "Sioux Falls, Sioux Falls Township, Minnehaha County, South Dakota, United States"
+  },
+  "Olathe, KS": {
+    "latitude": 38.8838856,
+    "longitude": -94.81887,
+    "address": "Olathe, Johnson County, Kansas, United States"
+  },
+  "Xiamen, China": {
+    "latitude": 24.5438732,
+    "longitude": 118.0768065,
+    "address": "\u53a6\u95e8\u5e02, \u798f\u5efa\u7701, \u4e2d\u56fd"
+  },
+  "New York City, NY": {
+    "latitude": 40.7127281,
+    "longitude": -74.0060152,
+    "address": "New York, United States"
+  },
+  "Berlin, Germany": {
+    "latitude": 52.5173885,
+    "longitude": 13.3951309,
+    "address": "Berlin, Deutschland"
+  },
+  "Manitowoc, WI": {
+    "latitude": 44.0998341,
+    "longitude": -87.827992,
+    "address": "Manitowoc County, Wisconsin, United States"
+  },
+  "Tokyo, Japan": {
+    "latitude": 35.6768601,
+    "longitude": 139.7638947,
+    "address": "\u6771\u4eac\u90fd, \u65e5\u672c"
+  },
+  "Boston, MA": {
+    "latitude": 42.3588336,
+    "longitude": -71.0578303,
+    "address": "Boston, Suffolk County, Massachusetts, United States"
+  },
+  "Maui, HI": {
+    "latitude": 20.8029568,
+    "longitude": -156.3106833,
+    "address": "Maui, Maui County, Hawaii, United States"
+  },
+  "Omaha, NE": {
+    "latitude": 41.2587459,
+    "longitude": -95.9383758,
+    "address": "Omaha, Douglas County, Nebraska, United States"
+  },
+  "Duluth, MN": {
+    "latitude": 46.7838287,
+    "longitude": -92.1052679,
+    "address": "Duluth, Saint Louis County, Minnesota, United States"
+  },
+  "Shenandoah, IA": {
+    "latitude": 40.7655468,
+    "longitude": -95.3723535,
+    "address": "Shenandoah, Page County, Iowa, United States"
+  },
+  "Irving, TX": {
+    "latitude": 32.8295183,
+    "longitude": -96.9442177,
+    "address": "Irving, Dallas County, Texas, United States"
+  },
+  "Allen, TX": {
+    "latitude": 33.1031744,
+    "longitude": -96.6705503,
+    "address": "Allen, Collin County, Texas, United States"
+  }
+}
