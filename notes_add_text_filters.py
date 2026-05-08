@@ -233,6 +233,17 @@ def update_data_attributes(notes_md_path, metadata):
 
 
 REQUIRED_CSS_RULES = """\
+.gr_grid_container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.gr_grid_book_container {
+    width: 108px;
+    overflow: hidden;
+}
+
 .gr_grid_book_container a {
     display: block;
     line-height: 1.2;
@@ -246,11 +257,11 @@ REQUIRED_CSS_RULES = """\
 }"""
 
 def ensure_css(notes_md_path):
-    """Ensure CSS rules are present for tight title wrapping and aligned title baseline."""
+    """Ensure CSS rules are present for flex layout, gaps, and aligned title baseline."""
     with open(notes_md_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    if 'object-fit: cover' in content and 'display: block' in content:
+    if 'display: flex' in content and 'object-fit: cover' in content:
         return False  # already present
 
     # Insert before closing </style>

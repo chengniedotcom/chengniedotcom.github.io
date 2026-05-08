@@ -62,13 +62,13 @@ It highlighted the potential reasons for the failure of many companies, suggesti
 }
 
 .gr_grid_container {
-    /* customize grid container div here. eg: width: 500px; */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
 }
 
 .gr_grid_book_container {
-    float: left;
     width: 108px;
-    padding: 0px 0px;
     overflow: hidden;
 }
 
