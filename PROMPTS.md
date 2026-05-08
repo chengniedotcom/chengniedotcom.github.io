@@ -25,6 +25,17 @@
 
 > commit the changes for all files and push to repository
 
+> Study the first row of books in https://chengnie.com/notes/. Deep Learning for Finance has a big gap between the first line of Deep Learning for and the second row for Finance. Can you make these two lines close to each other for all books that need to wrap the text for long titles
+
+>  is it possible to keep the title text to be on the same horizontal line for the same row of books? I know the cover  
+  might have different height when we restrict them to be the same width. Please keep css and the python file updated   
+  as well.
+
+> how come there are some empty spaces in the notes page. And I want maybe a small gap between books so that not all    
+  books are connected to each other 
+
+> what happened to the filters for different years and ratings in previous versions in the notes page.  
+
 2026_04_01
 ----------
 
