@@ -8,6 +8,14 @@ author_profile: false
 Click on each book cover for my tiny summary and detailed notes (highlights) for each book.
 
 <div class="filter-container" id="yearFilter">
+  <button class="filter-btn active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="recommended">★ 9+</button>
+  <button class="filter-btn" data-filter="2026">2026</button>
+  <button class="filter-btn" data-filter="2025">2025</button>
+  <button class="filter-btn" data-filter="2024">2024</button>
+  <button class="filter-btn" data-filter="2023">2023</button>
+  <button class="filter-btn" data-filter="2022">2022</button>
+  <button class="filter-btn" data-filter="older">≤ 2021</button>
   <span class="book-count"></span>
 </div>
 
@@ -420,39 +428,9 @@ It highlighted the potential reasons for the failure of many companies, suggesti
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    var container = document.getElementById('yearFilter');
     var books = document.querySelectorAll('.gr_grid_book_container');
     var bookCount = document.querySelector('.book-count');
-
-    // Collect years from book data attributes
-    var yearSet = {};
-    for (var i = 0; i < books.length; i++) {
-        var y = books[i].getAttribute('data-year');
-        if (y) yearSet[y] = true;
-    }
-    var allYears = Object.keys(yearSet).sort(function(a, b) { return parseInt(b) - parseInt(a); });
-    var recentYears = allYears.filter(function(y) { return parseInt(y) > 2021; });
-    var hasOlder = allYears.some(function(y) { return parseInt(y) <= 2021; });
-
-    // Build filter buttons
-    var filters = [{value: 'all', label: 'All'}];
-    filters.push({value: 'recommended', label: '★ 9+'});
-    for (var j = 0; j < recentYears.length; j++) {
-        filters.push({value: recentYears[j], label: recentYears[j]});
-    }
-    if (hasOlder) {
-        filters.push({value: 'older', label: '≤ 2021'});
-    }
-
-    var btns = [];
-    for (var k = 0; k < filters.length; k++) {
-        var btn = document.createElement('button');
-        btn.className = 'filter-btn';
-        btn.setAttribute('data-filter', filters[k].value);
-        btn.textContent = filters[k].label;
-        container.insertBefore(btn, bookCount);
-        btns.push(btn);
-    }
+    var btns = document.querySelectorAll('.filter-btn');
 
     function updateCount(visible) {
         bookCount.textContent = 'Showing ' + visible + ' book' + (visible !== 1 ? 's' : '');
@@ -499,8 +477,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Initialize
-    setActive(btns[0]);
     filterBooks('all');
 });
 </script>
