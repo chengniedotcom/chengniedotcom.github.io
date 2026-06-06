@@ -1,2 +1,15 @@
 _site/
 .DS_Store
+
+# Local tooling / editor config
+.bundle/
+.vimrc
+
+# Logs
+logs/
+
+# Scratch / backup files
+back.*
+main.py
+test.js
+_pages/test.py
