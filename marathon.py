@@ -301,10 +301,10 @@ def generate_content(marathon_entries):
 """
 
 
-# Template for marathon/us-states-map.html. Realistic state geometry is loaded
-# at view time from the us-atlas TopoJSON (CDN) and drawn with D3 / Albers-USA;
-# we only inject the completed-states data, abbreviations, and progress counters.
-# Tokens: __DATA__, __ABBR__, __COUNT__, __TOTAL__, __PERCENT__.
+# Template for marathon/us-states-map.html. Fully self-contained / offline:
+# real Albers-USA state outlines are baked in from us_states_geo.json at build
+# time, so the page needs no CDN and makes no runtime network request. Tokens:
+# __STATE_PATHS__, __STATE_LABELS__, __DATA__, __COUNT__, __TOTAL__, __PERCENT__.
 _US_STATES_TEMPLATE = """<!DOCTYPE html>
 <html><head><meta charset="UTF-8"><title>USA Marathon States Progress</title>
 <style>
@@ -337,7 +337,12 @@ _US_STATES_TEMPLATE = """<!DOCTYPE html>
             <defs><linearGradient id="blueGrad" x1="0" y1="0" x2="0" y2="1">
                 <stop offset="0%" stop-color="#5a9be8"/><stop offset="100%" stop-color="#2c63ad"/>
             </linearGradient></defs>
-            <g id="states"></g><g id="labels"></g>
+            <g id="states">
+__STATE_PATHS__
+            </g>
+            <g id="labels">
+__STATE_LABELS__
+            </g>
         </svg>
         <div class="stats"><strong>__COUNT__ of __TOTAL__ states</strong> &mdash; __PERCENT__% complete
             <div class="progress-bar"><div class="progress-fill" style="width:__PERCENT__%"></div></div>
@@ -350,26 +355,8 @@ _US_STATES_TEMPLATE = """<!DOCTYPE html>
             <div id="modalDetails" class="modal-details"></div>
         </div>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
-    <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
     <script>
         const DATA = __DATA__;
-        const ABBR = __ABBR__;
-        const done = new Set(Object.keys(DATA));
-        const svg = d3.select('#map'), path = d3.geoPath();
-        d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json').then(us => {
-            const fc = topojson.feature(us, us.objects.states);
-            path.projection(d3.geoAlbersUsa().fitSize([960, 600], fc));
-            d3.select('#states').selectAll('path').data(fc.features).join('path')
-                .attr('d', path)
-                .attr('class', d => 'state ' + (done.has(d.properties.name) ? 'completed' : 'remaining'))
-                .on('click', (e, d) => showState(d.properties.name))
-                .append('title').text(d => done.has(d.properties.name) ? d.properties.name + ' ✓' : d.properties.name);
-            d3.select('#labels').selectAll('text').data(fc.features).join('text')
-                .attr('class', d => 'lbl ' + (done.has(d.properties.name) ? '' : 'dim'))
-                .attr('transform', d => { const c = path.centroid(d); return `translate(${c[0]},${c[1]+3})`; })
-                .text(d => ABBR[d.properties.name] || '');
-        });
         const modal = document.getElementById('stateModal');
         const closeBtn = document.querySelector('.close');
         function showState(name) {
@@ -385,6 +372,9 @@ _US_STATES_TEMPLATE = """<!DOCTYPE html>
             }
             modal.style.display = 'block';
         }
+        document.querySelectorAll('.state').forEach(s => {
+            s.addEventListener('click', () => showState(s.getAttribute('data-state')));
+        });
         closeBtn.addEventListener('click', () => modal.style.display = 'none');
         window.addEventListener('click', e => { if (e.target === modal) modal.style.display = 'none'; });
     </script>
@@ -423,16 +413,43 @@ def completed_states(marathon_entries):
 
 
 def generate_us_states_map(marathon_entries):
-    """Regenerate marathon/us-states-map.html from the marathon entries."""
+    """Regenerate marathon/us-states-map.html (fully self-contained / offline).
+
+    Real Albers-USA state outlines are read from us_states_geo.json (baked once
+    from the us-atlas TopoJSON) and inlined as SVG, so the page works with no
+    network access. Only the completed states, labels, and counters vary.
+    """
     states = completed_states(marathon_entries)
     done = len(states)
     total = 50
     percentage = round(done / total * 100)
     abbr = {full: ab for ab, full in STATE_ABBREV.items()}
 
+    with open('us_states_geo.json') as f:
+        geo = json.load(f)
+
+    paths, labels = [], []
+    for name in sorted(geo):
+        g = geo[name]
+        completed = name in states
+        cls = 'completed' if completed else 'remaining'
+        title = f"{name} ✓" if completed else name
+        paths.append(
+            f'                <path d="{g["d"]}" class="state {cls}" '
+            f'data-state="{name}"><title>{title}</title></path>'
+        )
+        ab = abbr.get(name)
+        if ab:
+            dim = '' if completed else ' dim'
+            labels.append(
+                f'                <text x="{g["cx"]}" y="{round(g["cy"] + 3, 1)}" '
+                f'class="lbl{dim}">{ab}</text>'
+            )
+
     html = _US_STATES_TEMPLATE
+    html = html.replace('__STATE_PATHS__', '\n'.join(paths))
+    html = html.replace('__STATE_LABELS__', '\n'.join(labels))
     html = html.replace('__DATA__', json.dumps(states, indent=2))
-    html = html.replace('__ABBR__', json.dumps(abbr))
     html = html.replace('__COUNT__', str(done))
     html = html.replace('__TOTAL__', str(total))
     html = html.replace('__PERCENT__', str(percentage))
