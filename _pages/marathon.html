@@ -115,7 +115,7 @@ author_profile: true
 </script>
 
 <h2 style="margin-top: 40px;">All Marathons</h2>
-<p>Finish times for all 23 marathons. Orange dots = Abbott World Majors.</p>
+<p>Finish times for all 24 marathons. Orange dots = Abbott World Majors.</p>
 
 <div style="max-width: 800px; margin-bottom: 40px;">
   <canvas id="allRacesChart"></canvas>
@@ -261,6 +261,12 @@ author_profile: true
         "time": "2:42:32",
         "isMajor": true,
         "event": "London Marahon"
+    },
+    {
+        "label": "Fargo '26'",
+        "time": "3:29:45",
+        "isMajor": false,
+        "event": "Fargo Marahon"
     }
 ];
 
@@ -322,15 +328,6 @@ author_profile: true
 })();
 </script>
 
-<h2 style="margin-top: 40px;">USA States Progress</h2>
-<p>Progress toward completing a marathon in all 50 USA states.</p>
-
-<iframe src="/marathon/us-states-map.html" height="700" width="850" style="border:none;"></iframe>
-
-<h2 style="margin-top: 40px;">A map of all the places I have run a full Marathon.</h2>
-
-    <iframe src="/marathon/map.html" height="700" width="850" style="border:none;"></iframe>
-
 <h2 style="margin-top: 40px;">The full Marathon list</h2>
 
 <table style="width:80%">
@@ -343,6 +340,13 @@ author_profile: true
             <td>Event</td>
         </tr>
     </thead>
+    <tr>
+        <td>24</td>
+        <td>Fargo, ND</td>
+        <td>    May 30, 2026</td>
+        <td>3:29:45</td>
+        <td>Fargo Marahon</td>
+    </tr>
     <tr>
         <td>23</td>
         <td>London, UK</td>
@@ -505,3 +509,13 @@ author_profile: true
         <td>New Year's Double</td>
     </tr>
 </table>
+
+<h2 style="margin-top: 40px;">A map of all the places I have run a full Marathon.</h2>
+
+    <iframe src="/marathon/map.html" height="700" width="850" style="border:none;"></iframe>
+
+<h2 style="margin-top: 40px;">USA States Progress</h2>
+<p>Marathons completed in 15 of 50 US states. Click a blue state for race details.</p>
+
+    <iframe src="/marathon/us-states-map.html" height="640" width="980" style="border:none; max-width:100%;"></iframe>
+
