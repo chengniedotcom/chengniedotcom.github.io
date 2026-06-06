@@ -18,6 +18,27 @@ MAJOR_LOCATIONS = {
     'Berlin, Germany', 'Chicago, IL', 'New York City, NY',
 }
 
+# Map the 2-letter abbreviation found in a TSV location ("City, XX") to the full
+# state name used by the USA States Progress map. Foreign races (London, UK /
+# Xiamen, China / ...) have no entry here and are simply ignored.
+STATE_ABBREV = {
+    'AL': 'Alabama', 'AK': 'Alaska', 'AZ': 'Arizona', 'AR': 'Arkansas',
+    'CA': 'California', 'CO': 'Colorado', 'CT': 'Connecticut', 'DE': 'Delaware',
+    'FL': 'Florida', 'GA': 'Georgia', 'HI': 'Hawaii', 'ID': 'Idaho',
+    'IL': 'Illinois', 'IN': 'Indiana', 'IA': 'Iowa', 'KS': 'Kansas',
+    'KY': 'Kentucky', 'LA': 'Louisiana', 'ME': 'Maine', 'MD': 'Maryland',
+    'MA': 'Massachusetts', 'MI': 'Michigan', 'MN': 'Minnesota',
+    'MS': 'Mississippi', 'MO': 'Missouri', 'MT': 'Montana', 'NE': 'Nebraska',
+    'NV': 'Nevada', 'NH': 'New Hampshire', 'NJ': 'New Jersey',
+    'NM': 'New Mexico', 'NY': 'New York', 'NC': 'North Carolina',
+    'ND': 'North Dakota', 'OH': 'Ohio', 'OK': 'Oklahoma', 'OR': 'Oregon',
+    'PA': 'Pennsylvania', 'RI': 'Rhode Island', 'SC': 'South Carolina',
+    'SD': 'South Dakota', 'TN': 'Tennessee', 'TX': 'Texas', 'UT': 'Utah',
+    'VT': 'Vermont', 'VA': 'Virginia', 'WA': 'Washington',
+    'WV': 'West Virginia', 'WI': 'Wisconsin', 'WY': 'Wyoming',
+}
+
+
 def load_cache():
     if os.path.exists(CACHE_FILE):
         with open(CACHE_FILE, 'r') as f:
@@ -129,6 +150,9 @@ def generate_content(marathon_entries):
         <td>{evt}</td>
     </tr>""")
     table_rows = '\n'.join(rows)
+
+    # ── USA States Progress summary ─────────────────────────────────────────
+    n_states = len(completed_states(marathon_entries))
 
     return f"""
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
@@ -269,7 +293,171 @@ def generate_content(marathon_entries):
 
     <iframe src="/marathon/map.html" height="700" width="850" style="border:none;"></iframe>
 
+<h2 style="margin-top: 40px;">USA States Progress</h2>
+<p>Marathons completed in {n_states} of 50 US states. Click a blue state for race details.</p>
+
+    <iframe src="/marathon/us-states-map.html" height="640" width="980" style="border:none; max-width:100%;"></iframe>
+
 """
+
+
+# Template for marathon/us-states-map.html. Fully self-contained / offline:
+# real Albers-USA state outlines are baked in from us_states_geo.json at build
+# time, so the page needs no CDN and makes no runtime network request. Tokens:
+# __STATE_PATHS__, __STATE_LABELS__, __DATA__, __COUNT__, __TOTAL__, __PERCENT__.
+_US_STATES_TEMPLATE = """<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>USA Marathon States Progress</title>
+<style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; margin: 0; background: #fff; }
+        #map-container { width: 960px; height: 600px; margin: 0 auto; position: relative; background: radial-gradient(ellipse at 50% 40%, #eaf2fb 0%, #d6e6f5 60%, #c3d8ee 100%); border-radius: 10px; overflow: hidden; }
+        .state { stroke: #ffffff; stroke-width: 0.8; transition: fill 0.2s ease; cursor: pointer; }
+        .state.completed { fill: url(#blueGrad); }
+        .state.remaining { fill: #eef1f5; }
+        .state.completed:hover { fill: #1f4e8c; }
+        .state.remaining:hover { fill: #e0e5ec; }
+        #states { filter: drop-shadow(0 3px 4px rgba(40,70,120,0.25)); }
+        .lbl { font-size: 9.5px; font-weight: 600; fill: #fff; text-anchor: middle; pointer-events: none; }
+        .lbl.dim { fill: #9aa7b6; }
+        .stats { position: absolute; bottom: 18px; left: 18px; background: rgba(255,255,255,0.96); border-radius: 10px; padding: 12px 16px; font-size: 13px; color: #333; box-shadow: 0 2px 10px rgba(0,0,0,0.15); width: 230px; }
+        .stats strong { font-size: 15px; color: #1f4e8c; }
+        .progress-bar { width: 100%; height: 12px; background: #e8e8e8; border-radius: 6px; margin-top: 8px; overflow: hidden; }
+        .progress-fill { height: 100%; border-radius: 6px; width: 0%; background: linear-gradient(90deg, #4a90e2, #1f4e8c); transition: width 0.9s ease; }
+        .modal { display: none; position: fixed; z-index: 1000; inset: 0; background: rgba(0,0,0,0.5); }
+        .modal-content { background: #fff; margin: 12% auto; padding: 22px; border-radius: 10px; width: 440px; max-width: 90%; }
+        .modal-header { font-size: 19px; font-weight: 700; margin-bottom: 14px; }
+        .close { float: right; font-size: 26px; font-weight: bold; color: #aaa; cursor: pointer; line-height: 1; }
+        .close:hover { color: #333; }
+        .marathon-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+        .marathon-table th, .marathon-table td { padding: 8px; text-align: left; border-bottom: 1px solid #eee; }
+        .marathon-table th { background: #f8f9fa; }
+        .marathon-table td { color: #555; }
+</style></head><body>
+    <div id="map-container">
+        <svg id="map" viewBox="0 0 960 600">
+            <defs><linearGradient id="blueGrad" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stop-color="#5a9be8"/><stop offset="100%" stop-color="#2c63ad"/>
+            </linearGradient></defs>
+            <g id="states">
+__STATE_PATHS__
+            </g>
+            <g id="labels">
+__STATE_LABELS__
+            </g>
+        </svg>
+        <div class="stats"><strong>__COUNT__ of __TOTAL__ states</strong> &mdash; __PERCENT__% complete
+            <div class="progress-bar"><div class="progress-fill" style="width:__PERCENT__%"></div></div>
+        </div>
+    </div>
+    <div id="stateModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="modalHeader" class="modal-header"></div>
+            <div id="modalDetails" class="modal-details"></div>
+        </div>
+    </div>
+    <script>
+        const DATA = __DATA__;
+        const modal = document.getElementById('stateModal');
+        const closeBtn = document.querySelector('.close');
+        function showState(name) {
+            const races = DATA[name];
+            document.getElementById('modalHeader').textContent = name;
+            if (races) {
+                let h = '<table class="marathon-table"><thead><tr><th>Date</th><th>Location</th><th>Time</th><th>Event</th></tr></thead><tbody>';
+                races.forEach(r => { h += `<tr><td>${r.date}</td><td>${r.location}</td><td>${r.time}</td><td>${r.event}</td></tr>`; });
+                h += '</tbody></table>';
+                document.getElementById('modalDetails').innerHTML = h;
+            } else {
+                document.getElementById('modalDetails').innerHTML = '<div style="margin-top:10px"><strong>Status:</strong> Not completed yet<br><br><em>A future marathon opportunity!</em></div>';
+            }
+            modal.style.display = 'block';
+        }
+        document.querySelectorAll('.state').forEach(s => {
+            s.addEventListener('click', () => showState(s.getAttribute('data-state')));
+        });
+        closeBtn.addEventListener('click', () => modal.style.display = 'none');
+        window.addEventListener('click', e => { if (e.target === modal) modal.style.display = 'none'; });
+    </script>
+</body></html>"""
+
+
+def extract_state(location):
+    """Return the full US state name for a TSV location, or None if foreign.
+
+    Locations look like "City, XX" (state abbreviation). The main loop rewrites
+    ", CA" to " California" for geocoding, so handle that spelled-out case too.
+    """
+    location = location.strip()
+    if location.endswith(' California'):
+        return 'California'
+    if ',' in location:
+        tail = location.rsplit(',', 1)[1].strip()
+        return STATE_ABBREV.get(tail)
+    return None
+
+
+def completed_states(marathon_entries):
+    """Map full state name -> list of race dicts (newest first), US states only."""
+    states = {}
+    for loc, date, t, evt in marathon_entries:
+        state = extract_state(loc)
+        if state is None:
+            continue
+        states.setdefault(state, []).append({
+            'location': loc.strip(),
+            'date': date.strip(),
+            'time': t.strip(),
+            'event': evt.strip(),
+        })
+    return states
+
+
+def generate_us_states_map(marathon_entries):
+    """Regenerate marathon/us-states-map.html (fully self-contained / offline).
+
+    Real Albers-USA state outlines are read from us_states_geo.json (baked once
+    from the us-atlas TopoJSON) and inlined as SVG, so the page works with no
+    network access. Only the completed states, labels, and counters vary.
+    """
+    states = completed_states(marathon_entries)
+    done = len(states)
+    total = 50
+    percentage = round(done / total * 100)
+    abbr = {full: ab for ab, full in STATE_ABBREV.items()}
+
+    with open('us_states_geo.json') as f:
+        geo = json.load(f)
+
+    paths, labels = [], []
+    for name in sorted(geo):
+        g = geo[name]
+        completed = name in states
+        cls = 'completed' if completed else 'remaining'
+        title = f"{name} ✓" if completed else name
+        paths.append(
+            f'                <path d="{g["d"]}" class="state {cls}" '
+            f'data-state="{name}"><title>{title}</title></path>'
+        )
+        ab = abbr.get(name)
+        if ab:
+            dim = '' if completed else ' dim'
+            labels.append(
+                f'                <text x="{g["cx"]}" y="{round(g["cy"] + 3, 1)}" '
+                f'class="lbl{dim}">{ab}</text>'
+            )
+
+    html = _US_STATES_TEMPLATE
+    html = html.replace('__STATE_PATHS__', '\n'.join(paths))
+    html = html.replace('__STATE_LABELS__', '\n'.join(labels))
+    html = html.replace('__DATA__', json.dumps(states, indent=2))
+    html = html.replace('__COUNT__', str(done))
+    html = html.replace('__TOTAL__', str(total))
+    html = html.replace('__PERCENT__', str(percentage))
+
+    out_path = os.path.join('marathon', 'us-states-map.html')
+    with open(out_path, 'w') as f:
+        f.write(html)
+    print(f"Successfully updated {out_path}: {done} of {total} states completed.")
 
 
 def update_marathon_html():
@@ -292,4 +480,5 @@ def update_marathon_html():
 
     print(f"Successfully updated {html_file_path} with {len(marathon_entries)} marathon entries.")
 
+generate_us_states_map(marathon_entries)
 update_marathon_html()

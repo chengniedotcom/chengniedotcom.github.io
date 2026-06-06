@@ -1,3 +1,8 @@
+/notes/赶时间的人
+/notes/大话方言
+/notes/artificial-intelligence
+/notes/for-the-love-of-the-grind
+/notes/heartburn
 
 2026_05_08
 ==========

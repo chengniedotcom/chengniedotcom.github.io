@@ -13,6 +13,8 @@ It's based on [Academic pages](https://github.com/academicpages/academicpages.gi
 3. Update ORCID
 4. Google Scholar
 5. Iowa State Page through PRR
+6. [News of Ivy Online](https://docs.google.com/forms/d/e/1FAIpQLSdcHe3Kl5z3h8xpGP40IEC2CP6AaUPfSTumEoWy12hvNUsxWg/viewform)
+    > Template: Cheng Nie, Associate Professor of Information Systems and Business Analytics, along with co-authors Jiana Meng (ISU), He Li (Clemson), and Chen Zhang (ISU), had their paper 'Crime Dynamics of Home-Sharing: Disentangling Temporal Effects and Policy Interventions' accepted for publication in the Journal of Decision Support Systems. 
 
 
 ## Update teaching

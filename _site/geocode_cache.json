@@ -98,5 +98,10 @@
     "latitude": 33.1031744,
     "longitude": -96.6705503,
     "address": "Allen, Collin County, Texas, United States"
+  },
+  "Fargo, ND": {
+    "latitude": 46.877229,
+    "longitude": -96.789821,
+    "address": "Fargo, Cass County, North Dakota, United States"
   }
 }

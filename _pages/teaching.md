@@ -17,6 +17,8 @@ author_profile: true
 
 | Course Number and Title | Semester | Enrollment | Response Rate(%) | Class GPA | Instructor Rating |
 |-------------------------|----------|------------|------------------|-----------|-------------------|
+| MIS 5360: Business Analytics Foundation - Section 2 | Spring 2026 | 7 | 100 | 3.86 | 5.00 |
+| MIS 5360: Business Analytics Foundation - Section 1 | Spring 2026 | 11 | 82 | 3.92 | 5.00 |
 | MIS 5360: Business Analytics Foundation - Section 2 | Fall 2025 | 23 | 77 | 3.87 | 4.88 |
 | MIS 3010: Introduction to MIS - Section IT | Summer 2025 | 12 | 42 | 3.78 | 4.84 |
 | MIS 5360: Business Analytics Foundation - Section 2 | Spring 2025 | 15 | 67 | 3.69 | 4.46 |

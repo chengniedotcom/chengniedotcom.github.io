@@ -8,7 +8,7 @@ author_profile: true
 
 <!-- Use APA 7th edition format -->
 
-
+7\. Meng J, Li H, Nie C, Zhang C (forthcoming). Crime Dynamics of Home-Sharing: Disentangling Temporal Effects and Policy Interventions. _Decision Support Systems_
 
 6\. Fang B, Nie C, Zheng Z (Eric) (forthcoming). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. _Journal of the Association for Information Systems_
 
@@ -31,16 +31,13 @@ author_profile: true
 
 # Journal Papers Under Review
 
-- Meng J, Li H, Nie C, Zhang C. Crime Dynamics of Home-Sharing: Disentangling Temporal Effects and Policy Interventions. Revising for the 3rd round review at _Decision Support Systems_
-
-- Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence. Submitted for the 2nd round review at _Information Systems Research_
+- Yang M, Ji Y, Mookerjee V, Nie C. Oblivious Quality Competition: Model and Evidence. Revising for the 3rd round review at _Information Systems Research_
 
 
 # Work in Progress
 
+- Nie C, Zheng Z (Eric), Sarkar S . Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy. 
 
 - Chen W, Nie C, Xie K, Li X. Dance with Algorithms: Impact of Algorithmic Buyers on Housing Affordability. 
-
-- Nie C, Zheng Z (Eric), Sarkar S . Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy. 
     
 

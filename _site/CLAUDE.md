@@ -42,20 +42,32 @@ git push origin master
 ### Navigation
 Site navigation defined in `_data/navigation.yml`. Currently active: Blog, Notes. Research and Teaching are accessible via the front page but removed from the nav bar.
 
+## Python Environment
+
+Python is managed with [uv](https://docs.astral.sh/uv/). Dependencies are in `pyproject.toml` and locked in `uv.lock`.
+
+```bash
+# Sync/install Python dependencies
+uv sync
+
+# Run any Python script
+uv run python script.py
+```
+
 ## Helper Scripts
 
 ### `marathon.py`
-Updates marathon tracking. Reads from `marathon.tsv` (location, date, time, event format), geocodes locations, generates `marathon/map.html`, and updates `_pages/marathon.html` table.
+Updates marathon tracking. Reads from `marathon.tsv` (location, date, time, event format), geocodes locations, generates `marathon/map.html` (world map) and `marathon/us-states-map.html` (USA States Progress, completed states derived from the state abbreviation in each location, US states only), and rewrites the generated portion of `_pages/marathon.html` (charts, table, and the world-map + states-map iframes).
 
 ```bash
-python marathon.py
+uv run python marathon.py
 ```
 
-### `notes_add_text.py`
+### `notes_add_text_filters.py`
 Processes Goodreads HTML widget output. Paste HTML into the `html` variable at top of file, then run to update `_pages/notes.md` with formatted book cover grid entries.
 
 ```bash
-python notes_add_text.py
+uv run python notes_add_text_filters.py
 ```
 
 ## Content Conventions

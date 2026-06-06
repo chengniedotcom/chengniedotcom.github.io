@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Fargo, ND |     May 30, 2026 | 3:29:45 | Fargo Marahon",
+    46.877229,
+    -96.789821
+  ],
+  [
     "London, UK |     Apr 26, 2026 | 2:42:32 | London Marahon",
     51.5074456,
     -0.1277653

@@ -1,3 +1,11 @@
+2026_06_06
+----------
+
+> can you make sure that when I run marathon.py, the USA States Progress is also updated in the marathon.html?
+> The USA progress map look ugly, can you give me a few options that look more realistic like a map of various states? I want to select the best
+> Update and push the changes to main. 
+
+
 2026_05_07
 ----------
 > Update txt2md.py so that add the /notes/ link to the top of @~/Dropbox/public/chengniedotcom.github.io/CHANGELOG.md
