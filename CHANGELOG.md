@@ -1,8 +1,23 @@
+2026_07_06
+==========
+/notes/unstoppable
+/notes/the-tell
+/notes/我是寨子里长大的女孩
+/notes/人生有我掌控
+/notes/a-guide-to-the-good-life
+/notes/no-bad-parts
+
+2026_06_06
+==========
 /notes/赶时间的人
 /notes/大话方言
 /notes/artificial-intelligence
 /notes/for-the-love-of-the-grind
 /notes/heartburn
+
+Fargo Marathon
+Update the USA map
+Update 2026 spring teaching evaluation
 
 2026_05_08
 ==========

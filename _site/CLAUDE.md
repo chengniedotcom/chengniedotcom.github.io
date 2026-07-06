@@ -59,6 +59,8 @@ uv run python script.py
 ### `marathon.py`
 Updates marathon tracking. Reads from `marathon.tsv` (location, date, time, event format), geocodes locations, generates `marathon/map.html` (world map) and `marathon/us-states-map.html` (USA States Progress, completed states derived from the state abbreviation in each location, US states only), and rewrites the generated portion of `_pages/marathon.html` (charts, table, and the world-map + states-map iframes).
 
+The states map is **fully self-contained / offline**: real Albers-USA state outlines are baked into `us_states_geo.json` (generated once from the [us-atlas](https://github.com/topojson/us-atlas) TopoJSON) and inlined as SVG, so the page makes no CDN/network request. `marathon.py` reads `us_states_geo.json` at build time; regenerate that file only if the underlying geometry ever needs to change.
+
 ```bash
 uv run python marathon.py
 ```

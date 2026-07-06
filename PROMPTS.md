@@ -1,3 +1,8 @@
+2026_07_06
+----------
+
+> 人生有我掌控 is not in goodreads. Can you update this book into the notes page and make sure: 1) the cover image is included: I've already download it to cover_人生有我掌控.png 2) You can use the template from another book 抑郁的力量 to do it; 3) make sure the filter and count include this manually added book as well. 4) insert in the order following the top of the file at @CHANGELOG.md. 
+
 2026_06_06
 ----------
 
