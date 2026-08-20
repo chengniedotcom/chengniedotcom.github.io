@@ -17,11 +17,9 @@ from bs4 import BeautifulSoup
 # PASTE YOUR GOODREADS WIDGET HTML HERE
 # =============================================================================
 html = r'''
-    <div class="gr_grid_book_container"><a title="Unstoppable: My Life So Far" rel="nofollow" href="https://www.goodreads.com/book/show/34884398-unstoppable"><img alt="Unstoppable: My Life So Far" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492559582l/34884398._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="The Tell: A Memoir" rel="nofollow" href="https://www.goodreads.com/book/show/214537759-the-tell"><img alt="The Tell: A Memoir" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741879955l/214537759._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="我是寨子里长大的女孩" rel="nofollow" href="https://www.goodreads.com/book/show/241334172"><img alt="我是寨子里长大的女孩" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757251976l/241334172._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="A Guide to the Good Life: The Ancient Art of Stoic Joy" rel="nofollow" href="https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life"><img alt="A Guide to the Good Life: The Ancient Art of Stoic Joy" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547348819l/5617966._SX50_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="No Bad Parts: Healing Trauma & Restoring Wholeness with the Internal Family Systems Model" rel="nofollow" href="https://www.goodreads.com/book/show/55384168-no-bad-parts"><img alt="No Bad Parts: Healing Trauma & Restoring Wholeness with the Internal Family Systems Model" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620695382l/55384168._SX50_.jpg" /></a></div>
+
+    <div class="gr_grid_book_container"><a title="Dear Girls: Intimate Tales, Untold Secrets, & Advice for Living Your Best Life" rel="nofollow" href="https://www.goodreads.com/book/show/44600621-dear-girls"><img alt="Dear Girls: Intimate Tales, Untold Secrets, & Advice for Living Your Best Life" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553635552l/44600621._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Undisputed Truth" rel="nofollow" href="https://www.goodreads.com/book/show/16158559-undisputed-truth"><img alt="Undisputed Truth" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378708010l/16158559._SX50_.jpg" /></a></div>
 '''
 # =============================================================================
 

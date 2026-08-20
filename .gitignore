@@ -13,3 +13,4 @@ back.*
 main.py
 test.js
 _pages/test.py
+*.swp

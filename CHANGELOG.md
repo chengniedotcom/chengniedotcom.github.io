@@ -1,3 +1,14 @@
+2026_08_19
+==========
+/notes/making-a-scene
+/notes/人生不怕从头再来
+/notes/dear-girls
+/notes/free-will
+/notes/the-right-to-oblivion
+/notes/undisputed-truth
+/notes/we-were-dreamers
+/notes/the-ride-of-a-lifetime
+
 2026_07_06
 ==========
 /notes/unstoppable
