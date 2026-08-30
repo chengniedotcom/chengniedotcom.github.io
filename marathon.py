@@ -16,6 +16,7 @@ CACHE_FILE = 'geocode_cache.json'
 MAJOR_LOCATIONS = {
     'Boston, MA', 'Tokyo, Japan', 'London, UK',
     'Berlin, Germany', 'Chicago, IL', 'New York City, NY',
+    'Sydney, Australia', 'Cape Town, South Africa', 'Shanghai, China',
 }
 
 # Map the 2-letter abbreviation found in a TSV location ("City, XX") to the full

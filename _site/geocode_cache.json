@@ -103,5 +103,10 @@
     "latitude": 46.877229,
     "longitude": -96.789821,
     "address": "Fargo, Cass County, North Dakota, United States"
+  },
+  "Sydney, Australia": {
+    "latitude": -33.8698439,
+    "longitude": 151.2082848,
+    "address": "Sydney, New South Wales, Australia"
   }
 }

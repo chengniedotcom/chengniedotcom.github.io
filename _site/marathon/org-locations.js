@@ -1,11 +1,16 @@
 var addressPoints = [
   [
-    "Fargo, ND |     May 30, 2026 | 3:29:45 | Fargo Marahon",
+    "Sydney, Australia |     Aug 30, 2026 | 2:40:11 | Sydney Marathon",
+    -33.8698439,
+    151.2082848
+  ],
+  [
+    "Fargo, ND |     May 30, 2026 | 3:29:45 | Fargo Marathon",
     46.877229,
     -96.789821
   ],
   [
-    "London, UK |     Apr 26, 2026 | 2:42:32 | London Marahon",
+    "London, UK |     Apr 26, 2026 | 2:42:32 | London Marathon",
     51.5074456,
     -0.1277653
   ],

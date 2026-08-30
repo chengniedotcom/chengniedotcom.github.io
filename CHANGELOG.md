@@ -1,3 +1,7 @@
+2026_08_30
+==========
+/notes/how-to-american
+
 2026_08_19
 ==========
 /notes/making-a-scene

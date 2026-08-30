@@ -18,8 +18,7 @@ from bs4 import BeautifulSoup
 # =============================================================================
 html = r'''
 
-    <div class="gr_grid_book_container"><a title="Dear Girls: Intimate Tales, Untold Secrets, & Advice for Living Your Best Life" rel="nofollow" href="https://www.goodreads.com/book/show/44600621-dear-girls"><img alt="Dear Girls: Intimate Tales, Untold Secrets, & Advice for Living Your Best Life" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553635552l/44600621._SY75_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Undisputed Truth" rel="nofollow" href="https://www.goodreads.com/book/show/16158559-undisputed-truth"><img alt="Undisputed Truth" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378708010l/16158559._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="How to American: An Immigrant's Guide to Disappointing Your Parents" rel="nofollow" href="https://www.goodreads.com/book/show/35959613-how-to-american"><img alt="How to American: An Immigrant's Guide to Disappointing Your Parents" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517784874l/35959613._SY75_.jpg" /></a></div>
 '''
 # =============================================================================
 

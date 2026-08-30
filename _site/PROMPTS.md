@@ -1,3 +1,18 @@
+2026_08_30
+----------
+
+> python3 marathon.py -> ModuleNotFoundError: No module named 'getorg'
+
+> correct the typo
+
+> uv python notes_add_text_filters.py -> error: unrecognized subcommand
+
+> the map did not update in this section for Sydney "Abbott World Marathon Majors"
+
+> incldue cape town and Shanghai in the majors list as well
+
+> Update and push the changes to main. 
+
 2026_08_19
 ----------
 
