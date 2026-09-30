@@ -1,0 +1,50 @@
+#!/bin/sh
+# Re-render images/cv/*.png whenever files/CV_Nie.pdf is part of this commit.
+#
+# Enable once per machine:   git config core.hooksPath .githooks
+# Skip for one commit:       git commit --no-verify
+
+set -e
+
+PDF="files/CV_Nie.pdf"
+
+# Only act when the CV PDF is actually staged (added, copied, modified, renamed).
+if ! git diff --cached --name-only --diff-filter=ACMR | grep -qx "$PDF"; then
+  exit 0
+fi
+
+echo "[pre-commit] $PDF changed, re-rendering..."
+
+if ! command -v pdftoppm >/dev/null 2>&1; then
+  echo "[pre-commit] error: pdftoppm not found. Install poppler:  brew install poppler" >&2
+  echo "[pre-commit] (or commit with --no-verify and re-render later)" >&2
+  exit 1
+fi
+
+if ! command -v uv >/dev/null 2>&1; then
+  echo "[pre-commit] error: uv not found. See https://docs.astral.sh/uv/" >&2
+  exit 1
+fi
+
+# Render against the staged PDF, not the working-tree copy, so the committed
+# images always match the committed PDF even with unstaged edits present.
+TMP="$(mktemp -d)"
+trap 'rm -rf "$TMP"' EXIT
+mkdir -p "$TMP/files"
+git show ":$PDF" > "$TMP/files/CV_Nie.pdf"
+
+STASHED=""
+if ! git diff --quiet -- "$PDF"; then
+  cp "$PDF" "$TMP/worktree_copy.pdf"
+  cp "$TMP/files/CV_Nie.pdf" "$PDF"
+  STASHED=1
+fi
+
+uv run python cv_render.py
+
+if [ -n "$STASHED" ]; then
+  cp "$TMP/worktree_copy.pdf" "$PDF"
+fi
+
+git add images/cv/ _pages/cv.md
+echo "[pre-commit] staged $(ls images/cv/ | tr '\n' ' ')"

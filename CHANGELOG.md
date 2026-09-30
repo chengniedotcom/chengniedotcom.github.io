@@ -1,3 +1,4 @@
+/notes/撒哈拉的故事
 2026_08_30
 ==========
 /notes/how-to-american

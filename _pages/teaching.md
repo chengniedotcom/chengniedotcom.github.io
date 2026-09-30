@@ -17,12 +17,14 @@ author_profile: true
 
 | Course Number and Title | Semester | Enrollment | Response Rate(%) | Class GPA | Instructor Rating |
 |-------------------------|----------|------------|------------------|-----------|-------------------|
+| MIS 6300: Empirical Research in MIS | Fall 2026 | 5 | in-progress |  |  |
+| MIS 5360: Business Analytics Foundation - Section 2 | Fall 2026 | 24 | in-progress |  |  |
 | MIS 5360: Business Analytics Foundation - Section 2 | Spring 2026 | 7 | 100 | 3.86 | 5.00 |
 | MIS 5360: Business Analytics Foundation - Section 1 | Spring 2026 | 11 | 82 | 3.92 | 5.00 |
 | MIS 5360: Business Analytics Foundation - Section 2 | Fall 2025 | 23 | 77 | 3.87 | 4.88 |
-| MIS 3010: Introduction to MIS - Section IT | Summer 2025 | 12 | 42 | 3.78 | 4.84 |
-| MIS 5360: Business Analytics Foundation - Section 2 | Spring 2025 | 15 | 67 | 3.69 | 4.46 |
-| MIS 5360: Business Analytics Foundation - Section 1 | Spring 2025 | 21 | 29 | 3.94 | 4.46 |
+| MIS 3010: Introduction to MIS - Section IT | Summer 2025 | 12 | 42 | 3.78 | 5.00 |
+| MIS 5360: Business Analytics Foundation - Section 2 | Spring 2025 | 15 | 67 | 3.69 | 4.70 |
+| MIS 5360: Business Analytics Foundation - Section 1 | Spring 2025 | 21 | 29 | 3.94 | 4.33 |
 | MIS 5360: Business Analytics Foundation - Section 4 | Fall 2024 | 14 | 50 | 3.91 | 4.71 |
 | MIS 536: Business Analytics Foundation - Section 1 | Spring 2024 | 32 | 31 | 3.84 | 4.4 |
 | MIS 301: Introduction to MIS - Section C | Spring 2024 | 59 | 76 | 3.11 | 4.24 |
@@ -41,8 +43,8 @@ author_profile: true
 | MIS 301: Introduction to MIS - Section J | Spring 2020 | 45 | 33 | 3.73 | 4.20 |
 | MIS 301: Introduction to MIS - Section M | Spring 2020 | 69 | 52 | 3.73 | 4.09 |
 | MIS 301: Introduction to MIS - Section E | Spring 2019 | 56 | 66 | 3.91 | 4.43 |
-| MIS 532: Advanced Business Program Development | Fall 2018 | 3 | 67 | 4.00 | 5.00 |
-| MIS 301: Introduction to MIS- Section M | Fall 2018 | 71 | 65 | 3.93 | 4.02 |
+| MIS 532: Advanced Business Program Development - Section B| Fall 2018 | 3 | 67 | 4.00 | 5.00 |
+| MIS 301: Introduction to MIS - Section M | Fall 2018 | 71 | 65 | 3.93 | 4.02 |
 
 # University of Texas at Dallas, 2012–2018
 

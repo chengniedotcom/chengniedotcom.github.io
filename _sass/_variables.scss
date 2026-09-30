@@ -13,8 +13,12 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$times-new-roman            : "Times New Roman", Times, serif;
+$system-sans                : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif                      : $times-new-roman;
+// Site-wide font: nav, sidebar, buttons etc. use $sans-serif directly, so it points
+// at Times New Roman too. Set back to $system-sans to restore the original look.
+$sans-serif                 : $times-new-roman;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */

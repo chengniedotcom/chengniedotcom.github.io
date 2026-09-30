@@ -8,11 +8,11 @@ author_profile: true
 
 <!-- Use APA 7th edition format -->
 
-7\. Meng J, Li H, Nie C, Zhang C (forthcoming). Crime Dynamics of Home-Sharing: Disentangling Temporal Effects and Policy Interventions. _Decision Support Systems_
+7\. Meng J, Li H, Nie C, Zhang C (2026). [Crime Dynamics of Home-Sharing: Disentangling Temporal Effects and Policy Interventions.](https://doi.org/10.1016/j.dss.2026.114701) _Decision Support Systems_, (208), p. 114701.
 
-6\. Fang B, Nie C, Zheng Z (Eric) (forthcoming). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. _Journal of the Association for Information Systems_
+6\. Fang B, Nie C, Zheng Z (Eric) (2026). Does Blockchain Prevent Speculation? Evidence from an NFT Platform. _Journal of the Association for Information Systems_.
 
-5\. Zhu T, Nie C, Jiang Z, Hu X (2024). [When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation.](https://doi.org/10.1016/j.dss.2024.114233) _Decision Support Systems_, (182), p. 114233
+5\. Zhu T, Nie C, Jiang Z, Hu X (2024). [When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation.](https://doi.org/10.1016/j.dss.2024.114233) _Decision Support Systems_, (182), p. 114233.
 
 4\. Nie C, Zheng Z (Eric), Sarkar S (2024). [Firm Competitive Structure and Consumer Reaction in Search Advertising.](https://doi.org/10.17705/1jais.00835) _Journal of the Association for Information Systems_, (25:2), 442–462.
 
@@ -21,7 +21,7 @@ author_profile: true
 <!-- 10.17705/1jais.00835 -->
 
 
-3\. Jiang Z, Rai A, Sun H, Nie C, Hu Y (2024). [How Online Information Influences Offline Transactions: Insights from Digital Real Estate Platforms.](https://doi.org/10.1287/isre.2020.0658) _Information Systems Research_, (35:3), 1324–1343.
+3\. Jiang Z, Rai A, Sun H, Nie C, Hu Y (2024). [How Does Online Information Influence Offline Transactions? Insights from Digital Real Estate Platforms](https://doi.org/10.1287/isre.2020.0658) _Information Systems Research_, (35:3), 1324–1343.
 
 2\. Nie C, Zheng Z (Eric), Sarkar S (2022). [Competing with the Sharing Economy: Incumbents’ Reaction on Review Manipulation.](https://doi.org/10.25300/MISQ/2022/15666) _MIS Quarterly_, (46:3), 1573–1602. 
 <!-- [![PDF](https://img.shields.io/badge/PDF-green.svg)](/files/review_manipulation.pdf) [![Video](https://img.shields.io/badge/Video-orange.svg)](https://youtu.be/4LRscKwr4Fw) -->
@@ -36,8 +36,11 @@ author_profile: true
 
 # Work in Progress
 
-- Nie C, Zheng Z (Eric), Sarkar S . Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy. 
+- Nie C, Zheng Z (Eric), Sarkar S. Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy. 
 
 - Chen W, Nie C, Xie K, Li X. Dance with Algorithms: Impact of Algorithmic Buyers on Housing Affordability. 
     
 
+# Journal Editorial Boards
+
+- Associate Editor: Decision Support Systems, March 2026 – Now
