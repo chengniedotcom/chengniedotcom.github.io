@@ -1,0 +1,553 @@
+% \documentclass{article}
+\documentclass[paper=letter,fontsize=10pt]{scrartcl} % KOMA-article class
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath,amsfonts,amsthm}     % Math packages
+\usepackage{graphicx}                    % Enable pdflatex
+\usepackage[svgnames]{xcolor}            % Colors by their 'svgnames'
+\usepackage{geometry}
+% \usepackage{epstopdf}
+	%\textheight=700px                    % Saving trees ;-)
+%\usepackage{url}
+\usepackage[colorlinks=true,
+linkcolor=black,
+urlcolor=black]{hyperref}
+\usepackage{float}
+\usepackage{etaremune} % reverse enumerate
+\usepackage{enumerate}
+\usepackage[colorlinks=true,
+linkcolor=black,
+urlcolor=black]{hyperref}
+\usepackage{float}
+\usepackage{etaremune} % reverse enumerate
+\usepackage{enumerate}
+
+% \usepackage{wrapfig}
+% \usepackage{attachfile}
+\usepackage{textcomp}
+\usepackage{fontawesome}
+\usepackage{newtxtext,newtxmath} % Times
+% \usepackage{fourier}
+\usepackage[T1]{fontenc}
+\usepackage{soul} % \ul will make underline work properly spanning multiple lines
+\usepackage{lastpage}
+\pagenumbering{arabic}
+% \pagestyle{empty}           % No pagenumbers/headers/footers
+
+
+\frenchspacing              % Better looking spacings after periods
+
+%\addtolength{\voffset}{-40pt}
+%\addtolength{\textheight}{20pt}
+
+\setlength\topmargin{0pt}
+\addtolength\topmargin{-\headheight}
+\addtolength\topmargin{-\headsep}
+\setlength\oddsidemargin{0pt}
+\setlength\textwidth{\paperwidth}
+\addtolength\textwidth{-2in}
+\setlength\textheight{\paperheight}
+%\addtolength\textheight{-3in}
+\addtolength\textheight{-2in}
+\usepackage{layout}
+\usepackage{anyfontsize}
+\usepackage{bold-extra}
+
+%%% Custom sectioning}{sectsty package)
+%%% ------------------------------------------------------------
+\usepackage{sectsty}
+
+\sectionfont{%			            % Change font of \section command
+	% \Large \usefont{T1}{put}{m}{n}%		% bch-b-n: Utopia-Bold font
+	% \fontsize{15}{16} \usefont{T1}{LinuxBiolinumT-OsF}{b}{sc}%		% bch-b-n: Utopia-Bold font
+	\fontsize{14}{16} \usefont{T1}{\rmdefault}{m}{sc}%		% bch-b-n: Utopia-Bold font
+	\sectionrule{0pt}{0pt}{-5pt}{0.5pt}}
+\addtokomafont{disposition}{\rmfamily} % KOMA headings in Times, not sans
+
+%%% Macros
+%%% ------------------------------------------------------------
+\newlength{\spacebox}
+\settowidth{\spacebox}{8888888888}			% Box to align text
+\newcommand{\sepspace}{\vspace*{1em}}		% Vertical space macro
+
+\newcommand{\MyName}[1]{ % Name
+		\LARGE \usefont{T1}{\rmdefault}{m}{sc} #1 % LinuxBiolinumT-OsF
+		\par \normalsize \fontshape{sc}}
+
+
+
+\newcommand{\MySlogan}[1]{ % Slogan}{optional)
+		\small \usefont{T1}{lmtt}{m}{n}\hfill #1
+		\par \normalsize \normalfont}
+
+\newcommand{\NewPart}[2]{\section*{{#1} #2}}
+
+\newcommand{\PersonalEntry}[2]{
+		\noindent\hangindent=2em\hangafter=0 % Indentation
+		\parbox{\spacebox}{        % Box to align text
+		\textit{#1}}		       % Entry name}{birth, address, etc.)
+		\hspace{1.5em} #2 \par}    % Entry value
+
+\newcommand{\SkillsEntry}[2]{      % Same as \PersonalEntry
+		\noindent\hangindent=2em\hangafter=0 % Indentation
+		\parbox{\spacebox}{        % Box to align text
+		\textit{#1}}			   % Entry name}{birth, address, etc.)
+		\hspace{1.5em} #2 \par}    % Entry value
+
+\newcommand{\EducationEntry}[4]{
+		\noindent \textbf{#1} \hfill      % Study
+		\colorbox{White}{%
+			\parbox{6em}{%
+			\hfill\color{Black}#2}} \par  % Duration
+		\noindent \textit{#3} \par        % School
+		\noindent\hangindent=2em\hangafter=0 \small #4 % Description
+		\normalsize \par}
+
+
+\newcommand{\WorkEntry}[5]{				  % Same as \EducationEntry
+		\noindent \textbf{#1} \hfill      % Jobname
+		\colorbox{White}{%
+			\parbox{6em}{%
+			\hfill\color{Black}#2}} \par  % Duration
+		\noindent \textit{#3,} #4 \par              % Company
+		\noindent\hangindent=2em\hangafter=0 \small #5 % Description
+		\normalsize \par}
+
+% \newcommand{\PaperEntry}[7]{
+% 		\noindent #1, ``\href{#7}{#2}", \textit{#3} \textbf{#4}, #5 (#6).}
+\newcommand{\PaperEntry}[6]{
+		\noindent #1 (#2) ``\href{#6}{#3},'' \textit{\ul{#4}}, #5.}
+
+\newcommand{\ReviewEntry}[5]{
+		\noindent #1 (#2) ``#3,'' \textit{\ul{#4}}, #5.}
+
+\newcommand{\WPEntry}[5]{
+        \noindent #1 (#2) ``#3,'' \textit{\ul{#4}}. #5}
+
+\newcommand{\ConfEntry}[6]{
+		\noindent #1 (#2) ``#3,'' \textit{#4}, #5. \textcolor{blue}{#6}}
+
+\newcommand{\BookEntry}[4]{
+		\noindent #1, ``\href{#3}{#4},'' \textit{#3}.}
+
+\newcommand{\FundingEntry}[5]{
+        \noindent #1, ``#2,'' \$#3 (#4, #5).}
+
+\newcommand{\TalkEntry}[3]{
+		\noindent #1, #2 #3}
+
+\newcommand{\ThesisEntry}[4]{
+		\noindent #1 -- #2, #3,  \textit{#4}}
+
+\newcommand{\CourseEntry}[4]{
+		\noindent \item{#1: \ul{#2} #3 #4}}
+
+\newcommand{\Nie}{\underline{Cheng Nie}}
+% \newcommand{\Nie}{\textbf{Nie C}}
+% \newcommand{\Nie}{Nie C}
+
+
+
+
+\begin{document}
+
+%\layout
+
+% you can upload a photo and include it here...
+% \begin{wrapfigure}{l}{0.5\textwidth}
+% 	\vspace*{-2em}
+% 		\includegraphics[width=0.2\textwidth]{Kevin.JPG}
+% \end{wrapfigure}
+\begin{flushright}
+\MyName{Cheng Nie}
+\end{flushright}
+\MySlogan{\vspace{-0.5in}
+\href{https://www.chengnie.com}{\faHandPointerO~chengnie.com}\\
+\vspace{0.1in}
+\begin{flushright}~\\\faMapMarker~3222 Gerdin Business Building, 2167 Union Drive, Ames, IA 50011 \\
+\href{mailto:cheng@chengnie.com}{\faEnvelope~cheng@chengnie.com}~$\cdot$~\faPhone~(515)294-2476\\
+% \href{mailto:cheng@chengnie.com}{\faEnvelope~cheng@chengnie.com}~$\cdot$~\href{https://www.linkedin.com/in/chengnie/}{\faLinkedinSquare~chengnie}~$\cdot$~\faPhone~(515)294-2476\\
+\end{flushright}}
+
+
+%%% Work experience
+%%% ------------------------------------------------------------
+\NewPart{Employment}{}
+
+\EducationEntry{Associate Professor of Management Information Systems}{2024--Now}{}{}
+
+\EducationEntry{Assistant Professor of Management Information Systems}{2018--2024}{Ivy College of Business, Iowa State University, Ames, IA, USA}{}
+
+% \EducationEntry{Instructor, Research Assistant, and Teaching Assistant}{2012--2016}{Jindal School of Management, University of Texas at Dallas}{}
+
+% \EducationEntry{Research Assistant}{2010--2012}{Smeal College of Business, Pennsylvania State University}{}
+
+%%% Education
+%%% ------------------------------------------------------------
+\NewPart{Education}{}
+
+\EducationEntry{Ph.D. in Management Science }{2012--2018}{Jindal School of Management, University of Texas at Dallas, Richardson, TX, USA}{}
+% \vspace{6px}
+
+\EducationEntry{Master of Science in Supply Chain and Information Systems}{2010--2012}{Smeal College of Business, The Pennsylvania State University, State College, PA, USA}{}
+% \vspace{6px}
+
+\EducationEntry{Master of Engineering in Computer Science}{2007--2010}{Institute of Automation, Chinese Academy of Sciences, Beijing, China}{}
+% \vspace{6px}
+
+\EducationEntry{Bachelor of Engineering in Electronics and Information Engineering}{2003--2007}{Huazhong University of Science and Technology, Wuhan, China}{}
+% \vspace{6px}
+
+% \newpage
+
+% %%% Journal Papers
+% %%% ------------------------------------------------------------
+% \NewPart{Premier Journal Publications}{}
+% %{\href{https://scholar.google.com/citations?user=VwQmUFQAAAAJ}{[Google Scholar]}}
+%
+% \begin{enumerate}
+% \end{enumerate}
+
+
+%%% Journal Publications
+%%% ------------------------------------------------------------
+
+\NewPart{Journal Publications}{}
+% \begin{enumerate}
+\begin{etaremune}
+
+
+\item \ReviewEntry{Jiana Meng, He Li, \Nie, Chen Zhang}{2026}{Crime Dynamics of Home-Sharing: Disentangling Temporal Effects and Policy Interventions}{Decision Support Systems}{(208), p. 114701}{} 
+
+\item \ReviewEntry{Bin Fang, \Nie, Zhiqiang Zheng}{2026}{Does Blockchain Prevent Speculation? Evidence from an NFT Platform}{\protect\newline Journal of the Association for Information Systems}{forthcoming}{}
+
+\item \ReviewEntry{Tao Zhu, \Nie, Zhengrui Jiang, Xiangpei Hu}{2024}{When Do Consumers Buy during Online Promotions? A Theoretical and Empirical Investigation}{\protect\newline Decision Support Systems}{(182), p. 114233}{}
+
+\item \ReviewEntry{\Nie, Zhiqiang Zheng, Sumit Sarkar}{2024}{Firm Competitive Structure and Consumer Reaction in Search Advertising}{\protect\newline Journal of the Association for Information Systems}{(25:2), 442–462}{}
+
+\item \ReviewEntry{Zhengrui Jiang, Arun Rai, Hua Sun, \Nie, Yuheng Hu}{2024}{How Does Online Information Influence Offline Transactions? Insights from Digital Real Estate Platforms}{\protect\newline Information Systems Research}{(35:3), 1324–1343}{}
+
+\item \ReviewEntry{\Nie, Zhiqiang Zheng, Sumit Sarkar}{2022}{Competing with the Sharing Economy: Incumbents' Reaction on Review Manipulation}{\protect\newline MIS Quarterly}{(46:3), 1573–1602}{}
+
+\item \ReviewEntry{\Nie, Zhiqiang Zheng, Sumit Sarkar}{2021}{A Strategic Group Analysis of Competitor Behavior in Search Advertising}{\protect\newline Journal of the Association for Information Systems}{(22:6), 1659–1685}{}
+
+% \end{enumerate}
+\end{etaremune}
+
+%%% Papers Under Review
+%%% ------------------------------------------------------------
+
+\NewPart{Papers Under Review}{}
+\begin{etaremune}
+% \begin{enumerate}
+
+\item \WPEntry{Mingwen Yang, Yonghua Ji, Vijay Mookerjee, \Nie}{2026}{Oblivious Quality Competition: Model and Evidence}{\protect\newline Information Systems Research}{Revising for the 3rd round review}{} 
+
+
+\end{etaremune}
+
+% \end{enumerate}
+
+
+%%% Working Papers with drafts
+%%% ------------------------------------------------------------
+
+\NewPart{Working Papers}{}
+
+% \begin{enumerate}
+\begin{etaremune}
+
+
+\item \WPEntry{Wei Chen, \Nie, Karen Xie, Xinxin Li}{2026}{Dance with Algorithms: Impact of Algorithmic Buyers on Housing Affordability}{}{}{}
+
+\item \WPEntry{\Nie, Zhiqiang Zheng, Sumit Sarkar}{2026}{Reputation Management Strategies in the Hotel Industry Before and After the Growth of the Sharing Economy}{}{}{} 
+
+
+% \item \WPEntry{\Nie, Zhiqiang Zheng, Sumit Sarkar}{2024}{How Does Online Review Manipulation Influence Sales? Evidence from the Hotel Industry}{\protect\newline Target: Information Systems Research}{}{}
+
+
+\end{etaremune}
+% \end{enumerate}
+
+% \newpage
+%%% Conference Papers
+%%% ------------------------------------------------------------
+
+\NewPart{Conference Papers}{}
+\begin{etaremune}
+
+\item \ConfEntry{Mingwen Yang, Yonghua Ji, \Nie, Vijay Mookerjee}{2024}{Stay in Your Comfort Zone: Mean Field Game Analysis of Quality Competition}{Production and Operations Management Society Annual Conference (POMS)}{Minneapolis, MN, USA}{}
+
+\item \ConfEntry{Wei Chen, \Nie, Karen Xie, Xinxin Li}{2023}{Impact of Algorithmic Buyers on Housing Affordability}{Conference on Information Systems and Technology (CIST)}{Phoenix, AZ, USA}{}
+
+\item \ConfEntry{\Nie, Zhiqiang Zheng, Sumit Sarkar}{2019}{Firm Competition and Consumer Reaction in Search Advertising: A Strategic Group Perspective}{Symposium on Statistical Challenges in E-Commerce Research (SCECR) 2019}{Hong Kong, China}{}
+
+\item \ConfEntry{\Nie, Zhiqiang Zheng, Sumit Sarkar}{2018}{How Does Online Review Manipulation Influence Sales? Evidence from the Hotel Industry}{Workshop on Information Technology and Systems (WITS)}{Santa Clara, CA, USA}{}
+
+\item \ConfEntry{\Nie, Zhiqiang Zheng, Sumit Sarkar}{2018}{Competing with the Sharing Economy: Strategies for Manipulating Consumer Opinions}{Production and Operations Management Society Annual Conference (POMS)}{Houston, TX, USA}{}
+
+\item \ConfEntry{\Nie, Zhiqiang Zheng, Sumit Sarkar}{2017}{Hotel Strategies to Influence Sales: Incumbents Reaction to Competition from Airbnb}{INFORMS Annual Meeting}{Houston, TX, USA}{}
+
+\item \ConfEntry{\Nie, Zhiqiang Zheng, Sumit Sarkar}{2017}{Competing with the Sharing Economy: Strategies for Manipulating Consumer Opinions}{INFORMS Conference on Information Systems and Technology (CIST)}{Houston, TX, USA}{}
+
+\item \ConfEntry{\Nie, Zhiqiang Zheng, Sumit Sarkar}{2016}{Manipulating Consumer Opinion: Incumbents Reaction to Competition from the Sharing Economy}{Workshop on Information Technology and Systems (WITS)}{Dublin, Ireland}{\protect\newline Nominated for the Best Paper Award}
+
+\item \ConfEntry{Zhiqiang Zheng, Sumit Sarkar, \Nie}{2014}{How do Strategic Groups Impact Consumer Behavior in Sponsored Search Advertising?}{Workshop on Information Technology and Systems (WITS)}{Auckland, New Zealand}{}
+
+\item \ConfEntry{\Nie, Daniel Zeng, Xiaolong Zheng, Fei-Yue Wang, Huimin Zhao}{2010}{Modeling Open Source Software Bugs with Complex Networks}{IEEE International Conference on Service Operations and Logistics (SOLI)}{Qingdao, Shandong, China}{}
+
+% \item \ConfEntry{\Nie, Daniel Zeng, Xiaolong Zheng, James Ma, Fei-Yue Wang}{2010}{Insights into the Bugs of Open-source Software}{Chinese Conference on Social Computing (CCSC)}{Beijing, China}{}
+
+\end{etaremune}
+
+
+% %%% Talks
+% %%% ------------------------------------------------------------
+
+% \NewPart{Invited Talks}{}
+% \begin{itemize}
+
+% \item \TalkEntry{University of Pittsburgh}{11/2017}{}
+% \item \TalkEntry{University of Arizona}{11/2017}{}
+% \item \TalkEntry{Northern Illinois University}{10/2017}{}
+% \item \TalkEntry{Iowa State University}{09/2017}{}
+% \item \TalkEntry{Iowa State University}{04/2015}{}
+
+% \end{itemize}
+
+
+% %%% Services
+% %%% ------------------------------------------------------------
+
+% \NewPart{Services}{}
+
+% \noindent\textit{Journal Reviewer}
+
+% \begin{itemize}
+
+% \item 2023 Management Science
+% \item 2018—2023 Information Systems Research
+% \item 2018—2022 MIS Quarterly
+% \item 2022 Decision Support Systems
+% \item 2018—2022 Production and Operations Management
+% \item 2017—2018 Information and Management
+% \item 2017 Electronic Commerce Research and Applications
+% \item 2017 Journal of Modelling in Management
+% \item 2015 Knowledge and Information Systems
+% \item 2014 Pacific Asia Journal of the Association for Information Systems
+
+% \end{itemize}
+
+% \noindent\textit{Conference Organizations}
+
+% \begin{itemize}
+
+% \item 2022 Web Chair, Workshop on Information Technology and Systems
+% \item 2022 Program Chair, Conference on Information Systems and Technology
+% \item 2018 Session Chair, INFORMS E-Business General Session
+
+% \end{itemize}
+
+
+% \noindent\textit{Conference Reviewer}
+
+% \begin{itemize}
+
+% \item 2018—2023 International Conference on Information Systems (ICIS)
+% \item 2015—2023 INFORMS Conference on Information Systems and Technology (CIST)
+% \item 2022 Hawaii International Conference on System Sciences (HICSS)
+% \item 2018—2021 Americas Conference on Information Systems (AMCIS)
+% \item 2017 International Conference on Web Services
+% \item 2014 Workshop on Information Technology and Systems (WITS)
+% \item 2014 Pacific Asia Conference on Information Systems (PACIS)
+
+% \end{itemize}
+
+% \noindent\textit{Iowa State University Services}
+
+% \begin{itemize}
+
+% \item 2018 Business Learning Teams, Member
+% \item 2022—2023 Assessment of Learning Committee, Member
+% \item 2019—2023 Ivy Speaker Committee, Member
+% \item 2020—2023 MIS 301 Course Coordinator
+
+% \end{itemize}
+
+%\newpage
+
+
+
+%%% Editorial and Professional Service
+%%% ------------------------------------------------------------
+\NewPart{Editorial and Professional Service}{}
+
+\noindent\textit{Editorial Position}
+\begin{itemize}
+\item 2026--Now \hspace{0.3em} Associate Editor, \textit{Decision Support Systems}
+\end{itemize}
+
+\noindent\textit{Journal Reviewer}
+\begin{itemize}
+\item MIS Quarterly (2018--2020, 2022--2026)
+\item Information Systems Research (2018, 2022--2026)
+\item Journal of the Association for Information Systems (2023--2026)
+\item Management Science (2023)
+\item Production and Operations Management (2018, 2021--2022)
+\item Journal of Operations Management (2024)
+\item Decision Support Systems (2022--2026)
+\item Information and Management (2017--2018, 2023--2025)
+\item ACM Transactions on Management Information Systems (2019--2020)
+\item Journal of the Association for Information Science and Technology (2020)
+% \item Electronic Markets (2026)
+% \item Information Technology and Management (2024)
+% \item Electronic Commerce Research and Applications (2017--2018)
+% \item Knowledge and Information Systems (2015)
+% \item Journal of Modelling in Management (2017)
+% \item Pacific Asia Journal of the Association for Information Systems (2014)
+\end{itemize}
+
+\noindent\textit{Conference Organization}
+\begin{itemize}
+\item 2023 \hspace{0.3em} Program Co-Chair, Big XII+ MIS Research Symposium
+\item 2022 \hspace{0.3em} Program Co-Chair, Conference on Information Systems and Technology (CIST)
+\item 2022 \hspace{0.3em} Web Chair, Workshop on Information Technology and Systems (WITS)
+\item 2018 \hspace{0.3em} Session Chair, INFORMS E-Business General Session
+\end{itemize}
+
+\noindent\textit{Conference Reviewer}
+\begin{itemize}
+\item 2016--2026 \hspace{0.3em} International Conference on Information Systems (ICIS)
+\item 2015, 2020--2026 \hspace{0.3em} Conference on Information Systems and Technology (CIST)
+\item 2018, 2021--2022 \hspace{0.3em} Americas Conference on Information Systems (AMCIS)
+\item 2024 \hspace{0.3em} China Summer Workshop on Information Management (CSWIM)
+\item 2022 \hspace{0.3em} Hawaii International Conference on System Sciences (HICSS)
+\item 2019 \hspace{0.3em} European Conference on Information Systems (ECIS)
+\item 2017 \hspace{0.3em} International Conference on Web Services (ICWS)
+\item 2014 \hspace{0.3em} Workshop on Information Technology and Systems (WITS)
+\item 2014 \hspace{0.3em} Pacific Asia Conference on Information Systems (PACIS)
+\end{itemize}
+
+
+%%% Advising
+%%% ------------------------------------------------------------
+
+\NewPart{Doctoral and Graduate Advising}{}
+\begin{itemize}
+\item Committee Member, Ph.D. (in progress): Maryamosadat Mofidian, Hua Zhong, Zhenpeng He, Yuting Yang
+\item Committee Member, Ph.D. (completed): Jiana Meng (2026), Chengzhe Liu (2026), Tiangong Su (2026), Xiaorui Qu (2023), Chinju Paul (2022)
+\item Committee Member, M.S. (completed): Yusi Li (2021)
+\end{itemize}
+
+%%% University Service
+%%% ------------------------------------------------------------
+
+\NewPart{University Service}{}
+\begin{itemize}
+\item 2025--Now \hspace{0.3em} Faculty Senate, Iowa State University 
+\item 2025--Now \hspace{0.3em} Faculty Executive Committee, Iowa State University 
+\item 2019--Now \hspace{0.3em} Ivy Eminent Speaker Committee
+\item 2020--2024 \hspace{0.3em} Course Coordinator, Introduction to MIS (college core course)
+\item 2019, 2023 \hspace{0.3em} Invited Speaker, ISBA Business Analytics Symposium, Des Moines, IA
+\item 2022 \hspace{0.3em} Assessment of Learning Committee, Ivy College of Business
+\item 2021 \hspace{0.3em} ISBA Faculty Search Committee
+\item 2019--2021 \hspace{0.3em} ISBA Scholarship Committee
+\item 2018 \hspace{0.3em} Business Learning Teams Committee, Ivy College of Business
+\end{itemize}
+
+%%% Awards and Grants
+%%% ------------------------------------------------------------
+
+\NewPart{Awards \& Grants}{}
+\begin{itemize}
+\item 2022--2026 \hspace{0.3em} Research Bootstrap Grants, Ivy College of Business (\$16,000)
+\item 2019--2026 \hspace{0.3em} Ivy College of Business Mini Grants (\$8,250)
+\item 2022--2025 \hspace{0.3em} Research Incentives Award, Iowa State University (\$50,000 and four course release)
+\item 2019--2023 \hspace{0.3em} ISBA Department Research Awards (\$2,000)
+\item 2021 \hspace{0.3em} Teacher of the Month, Ivy College of Business
+\item 2016 \hspace{0.3em} Best Paper Award Nomination, Workshop on Information Technology and Systems
+\item 2015 \hspace{0.3em} Best Student Teacher Award Nomination, Jindal School of Management
+\item 2014 \hspace{0.3em} Ph.D. Research Small Grant, University of Texas at Dallas
+\item 2011 \hspace{0.3em} Smeal Endowment Fund Scholarship, Smeal College of Business
+\item 2010 \hspace{0.3em} Enhancement Funds, Smeal College of Business
+\item 2008 \hspace{0.3em} Outstanding Student Leader, Chinese Academy of Sciences
+\end{itemize}
+
+%%% Teaching Evaluations
+%%% ------------------------------------------------------------
+
+\NewPart{Teaching Evaluations}{}
+\noindent\textit{Iowa State University}
+\begin{itemize}
+\item[]
+\vspace{-18pt}
+% \CourseEntry{2025 Summer}{MIS301-Section C}{Introduction to Management Information Systems.}{4.24/5.0}
+\CourseEntry{2026 Fall}{MIS6300}{Empirical Research in MIS (doctoral seminar).}{In progress}
+\CourseEntry{2026 Fall}{MIS5360-Section 2}{Business Analytics Foundation.}{In progress}
+\CourseEntry{2026 Spring}{MIS5360-Section 2}{Business Analytics Foundation.}{5.0/5.0}
+\CourseEntry{2026 Spring}{MIS5360-Section 1}{Business Analytics Foundation.}{5.0/5.0}
+\CourseEntry{2025 Fall}{MIS5360-Section 2}{Business Analytics Foundation.}{4.88/5.0}
+\CourseEntry{2025 Summer}{MIS3010-Section IT}{Introduction to Management Information Systems.}{5.0/5.0}
+\CourseEntry{2025 Spring}{MIS5360-Section 2}{Business Analytics Foundation.}{4.70/5.0}
+\CourseEntry{2025 Spring}{MIS5360-Section 1}{Business Analytics Foundation.}{4.33/5.0}
+\CourseEntry{2024 Fall}{MIS5360-Section 4}{Business Analytics Foundation.}{4.71/5.0}
+\CourseEntry{2024 Spring}{MIS536-Section 1}{Business Analytics Foundation.}{4.4/5.0}
+\CourseEntry{2024 Spring}{MIS301-Section C}{Introduction to Management Information Systems.}{4.24/5.0}
+\CourseEntry{2023 Fall}{MIS301-Section G}{Introduction to Management Information Systems.}{4.27/5.0}
+\CourseEntry{2023 Spring}{MIS301-Section C}{Introduction to Management Information Systems.}{4.00/5.0}
+\CourseEntry{2022 Fall}{MIS301-Section F}{Introduction to Management Information Systems.}{3.91/5.0}
+\CourseEntry{2022 Fall}{MIS301-Section G}{Introduction to Management Information Systems.}{3.92/5.0}
+\CourseEntry{2022 Spring}{MIS301-Section C}{Introduction to Management Information Systems.}{4.57/5.0}
+\CourseEntry{2022 Spring}{MIS301-Section G}{Introduction to Management Information Systems.}{4.53/5.0}
+\CourseEntry{2021 Fall}{MIS301-Section C}{Introduction to Management Information Systems.}{4.32/5.0}
+\CourseEntry{2021 Fall}{MIS301-Section G}{Introduction to Management Information Systems.}{4.32/5.0}
+\CourseEntry{2021 Spring}{MIS301-Section G}{Introduction to Management Information Systems.}{4.00/5.0}
+\CourseEntry{2021 Spring}{MIS301-Section L}{Introduction to Management Information Systems.}{4.00/5.0}
+\CourseEntry{2020 Fall}{MIS301-Section A}{Introduction to Management Information Systems.}{3.68/5.0}
+\CourseEntry{2020 Fall}{MIS301-Section B}{Introduction to Management Information Systems.}{3.93/5.0}
+\CourseEntry{2020 Spring}{MIS301-Section J}{Introduction to Management Information Systems.}{4.20/5.0}
+\CourseEntry{2020 Spring}{MIS301-Section M}{Introduction to Management Information Systems.}{4.09/5.0}
+\CourseEntry{2019 Spring}{MIS301-Section E}{Introduction to Management Information Systems.}{4.43/5.0}
+\CourseEntry{2018 Fall}{MIS532-Section B}{Advanced Business Program Development.}{5.0/5.0}
+\CourseEntry{2018 Fall}{MIS301-Section M}{Introduction to Management Information Systems.}{4.02/5.0}
+
+
+\end{itemize}
+
+\vspace{6pt}
+
+\noindent\textit{University of Texas at Dallas}
+
+\begin{itemize}
+\vspace{-18pt}
+\item[]
+\CourseEntry{2017 Summer}{ITSS3211}{Introduction to Programming.}{4.83/5.0}
+\CourseEntry{2017 Spring}{ITSS3300}{Introduction to Management Information Systems.}{4.79/5.0}
+\CourseEntry{2016 Fall}{ITSS3211}{Introduction to Programming.}{4.75/5.0}
+\CourseEntry{2015 Spring}{MIS3300}{Introduction to Management Information Systems.}{4.79/5.0}
+
+\end{itemize}
+
+% %%% Awards
+% %%% ------------------------------------------------------------
+
+% \NewPart{Awards \& Grants}{}
+% \begin{itemize}
+
+% \item 2022–2023 Research Bootstrap Grants, Iowa State University
+% \item 2022–2023 Research Incentives Awards, Iowa State University
+% \item 2019–2023 Ivy College of Business Mini Grant, Iowa State University
+% \item 2014 PhD Research Small Grants, University of Texas at Dallas % \item 2011 The Smeal Endowment Fund Scholarship, the Smeal College of Business
+% \item 2010 The Enhancement Funds, the Smeal College of Business
+% \item 2008 Outstanding Student Leader, Chinese Academy of Sciences
+% % \item 2008 Excellent Student, Chinese Academy of Sciences
+
+% \end{itemize}
+
+
+
+\vspace{36pt}
+{\centering \faCalendarCheckO~\today \par}
+
+
+\end{document}
