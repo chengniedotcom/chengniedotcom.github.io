@@ -9,7 +9,7 @@ tags:
 ---
 
 
-I've adapted this post from [Professor Brad N Greenwood](http://www.fixedeffects.com/for-students/) with his verbal permission at CIST conference in 2022.
+I've adapted this post from [Professor Brad N Greenwood](https://www.fixedeffects.com/for-students/) with his verbal permission at CIST conference in 2022.
 
 
 # For Students

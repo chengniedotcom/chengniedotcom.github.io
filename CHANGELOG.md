@@ -1,3 +1,14 @@
+2026_10_01
+==========
+Site cleanup from to_improve.md audit:
+- Excluded internal files (CLAUDE.md, PROMPTS.md, TASKS.md, scripts, ...) from the build
+- Removed duplicate _pages copy of web2025 post; removed Academic Pages sample publications/talks/portfolio/teaching and demo pages
+- /cn/ now redirects to /cn/blog/ (removed two duplicate /cn/ pages and duplicate /teaching/)
+- Shrunk images 202 MB -> 26 MB (new image_optimize.py); PNG scans converted to JPEG
+- og_image, real site description, Google Scholar link, https links
+- lang="zh-CN" on Chinese posts and book notes
+- Stopped tracking _site/
+
 /notes/撒哈拉的故事
 2026_08_30
 ==========

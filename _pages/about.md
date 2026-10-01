@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "Cheng Nie — Associate Professor of Information Systems at Iowa State University. Research on digital platforms, sharing economy and blockchain; blog on reading and marathons."
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,8 +14,6 @@ I am an Associate Professor in the department of Information Systems and Busines
 
 In my spare time, I enjoy reading books and running marathons. My fastest time in a full marathon was [2:46:56](https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF144A69&lang=EN_CAP&event=R&event_main_group=runner&pidp=start&search%5Bname%5D=Nie&search%5Bfirstname%5D=Cheng&search_event=R#) in the 2021 Boston Marathon. I updated my personal best time to [2:38:08](/files/pics/xiamen_marathon_time.jpg) in the 2025 Xiamen Marathon. [See a map of all the places I've run a Marathon!](/marathon).
 
-
-<!-- <p style="text-decoration:underline;"><a href="/marathonmap">See a map of all the places I've run a Marathon!</a></p> -->
 
 <div style="background-color: #f0f0f0; padding: 0px; border-radius: 5px;" markdown="1">
 

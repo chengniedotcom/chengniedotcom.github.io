@@ -8,4 +8,5 @@ dependencies = [
     "beautifulsoup4>=4.14.3",
     "geopy>=2.4.1",
     "getorg>=0.3.1",
+    "pillow>=12.3.0",
 ]

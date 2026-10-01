@@ -32,7 +32,6 @@ git push origin master
 - `_posts/` - Blog posts organized by language: `en/` and `cn/` subdirectories
 - `_notes/` - Book notes/summaries (mostly Chinese titles as markdown files)
 - `_pages/` - Static pages (research.md, notes.md, marathon.html, etc.)
-- `_teaching/`, `_publications/`, `_portfolio/`, `_talks/` - Academic content collections
 
 ### Key Pages
 - `_pages/notes.md` - Book notes grid with Goodreads-style covers
@@ -89,6 +88,15 @@ git add files/CV_Nie.pdf && git commit -m "Update CV"
 The hook needs `git config core.hooksPath .githooks` once per machine. Bypass with
 `git commit --no-verify`.
 
+### `image_optimize.py`
+Shrinks images over 500 KB in `files/pics/` and `images/`: the profile photo to 400 px wide, other
+JPEGs in place to at most 1600 px (quality 80), and PNGs converted to `.jpg` with every link in the
+source rewritten. Re-run after adding new photos (`--dry-run` lists what would change).
+
+```bash
+uv run python image_optimize.py
+```
+
 ### `notes_add_text_filters.py`
 Processes Goodreads HTML widget output. Paste HTML into the `html` variable at top of file, then run to update `_pages/notes.md` with formatted book cover grid entries.
 
@@ -110,14 +118,17 @@ When creating Chinese translations of English posts:
 - Filename is URL slug (e.g., `看见.md` → `/notes/看见`)
 - Remove `$` characters to prevent LaTeX interpretation
 
+### Build exclusions
+Internal files (CLAUDE.md, PROMPTS.md, TASKS.md, scripts, etc.) are listed under `exclude:` in
+`_config.yml` so they aren't published. Add any new top-level notes/scripts there too.
+
 ## Analytics
 
 - **Google Analytics 4** (GA4) via `_includes/analytics-providers/google.html` with measurement ID in `_config.yml`
-- **Page view badges** via hits.seeyoufarm.com, embedded in `_layouts/single.html` footer
 
 ## File Locations
 
-- Site builds to `_site/` (git-ignored for local, committed on some branches)
+- Site builds to `_site/` (git-ignored, not tracked; GitHub Pages builds from source)
 - Images in `images/`
 - Downloadable files in `files/`
 - SCSS styles in `_sass/`

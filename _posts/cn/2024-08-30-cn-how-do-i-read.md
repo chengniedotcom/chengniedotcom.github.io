@@ -51,4 +51,4 @@ tags:
 
 我有两个书单：一个待读、一个已读。这两根清单能给我持续阅读的动力。自2016年以来，我每年都会设立阅读目标，我的年度目标从2016年的12本书逐渐增加到[今年的52本](https://www.goodreads.com/user_challenges/47883724)。
 
-![Goodreads阅读挑战](/files/pics/how_do_i_read_goodreads.png "Goodreads阅读挑战")
+![Goodreads阅读挑战](/files/pics/how_do_i_read_goodreads.jpg "Goodreads阅读挑战")
