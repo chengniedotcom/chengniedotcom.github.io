@@ -12,7 +12,7 @@ redirect_from:
 
 I am an Associate Professor in the department of Information Systems and Business Analytics at the Ivy College of Business, Iowa State University. I earned my PhD in Management Science (with concentration in Information Systems) at the University of Texas at Dallas. My research interests include Digital Platforms, Sharing Economy, Online Reputation, and Blockchain.
 
-In my spare time, I enjoy reading books and running marathons. My fastest time in a full marathon was [2:46:56](https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF144A69&lang=EN_CAP&event=R&event_main_group=runner&pidp=start&search%5Bname%5D=Nie&search%5Bfirstname%5D=Cheng&search_event=R#) in the 2021 Boston Marathon. I updated my personal best time to [2:38:08](/files/pics/xiamen_marathon_time.jpg) in the 2025 Xiamen Marathon. [See a map of all the places I've run a Marathon!](/marathon).
+In my spare time, I enjoy reading books and running marathons. My fastest time in a full marathon is [2:36:29](https://results.chicagomarathon.com/2026/?content=detail&fpid=search&pid=search&idp=2EFG96382D4DCA&lang=EN_CAP&event=MAR&event_main_group=runner&search%5Bname%5D=nie&search%5Bfirstname%5D=cheng&search_event=MAR) in the [2026 Chicago Marathon](/chicago2026/). [See a map of all the places I've run a Marathon!](/marathon).
 
 
 <div style="background-color: #f0f0f0; padding: 0px; border-radius: 5px;" markdown="1">

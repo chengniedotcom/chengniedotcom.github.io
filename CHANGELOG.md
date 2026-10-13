@@ -1,3 +1,9 @@
+2026_10_13
+==========
+/chicago2026 and /cn/chicago2026 (Chicago Marathon 2026: new PR 2:36:29, top-10 Chinese runners table + top-100 CSV)
+- Added Chicago 2026 to marathon.tsv and regenerated the marathon page
+- About page: personal best updated to 2:36:29
+
 2026_10_01
 ==========
 Site cleanup from to_improve.md audit:
