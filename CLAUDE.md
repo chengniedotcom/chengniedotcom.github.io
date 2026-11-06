@@ -100,6 +100,8 @@ uv run python image_optimize.py
 ### `notes_add_text_filters.py`
 Processes Goodreads HTML widget output. Paste HTML into the `html` variable at top of file, then run to update `_pages/notes.md` with formatted book cover grid entries.
 
+Books without exported highlights get a stub `_notes/<slug>.md` automatically (dated today, author/rating/summary left as `TODO`). The script's final output lists every note still containing `TODO`; fill those in and re-run so the rating reaches the grid. It also warns when a note's `permalink` doesn't match its filename, which breaks the grid link.
+
 ```bash
 uv run python notes_add_text_filters.py
 ```

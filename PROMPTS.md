@@ -1,6 +1,10 @@
 2026_11_04
 ----------
 > Are there errors that you can correct before update and push the changes to main? Ask me before you make changes and push. 
+> ❯ Some of the book notes like improve sight reading, there are no highlights exported to a markdown file. For these, I had to duplicate a file like
+  and deep-learning-for-finance.md by just adding the information there. Can you streamline the process for me. For example, I think we can find
+  such books when running note_add_text_filters.py and fill in most of the information with correct file name and remind me in the output I need to
+  manuualy change something. Also, fix the issue for the sight reading book by creating a markdown file following the template md file.
 
 2026_10_13
 ----------

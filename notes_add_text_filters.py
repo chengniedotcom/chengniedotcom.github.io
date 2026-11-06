@@ -3,12 +3,15 @@
 Combined script to:
 1. Parse Goodreads widget HTML and add new books to notes.md
 2. Skip books that already exist in notes.md
-3. Update all book divs with data-year and data-rating attributes from _notes/ files
+3. Create a stub _notes/ file for any linked book without one (no exported highlights)
+4. Update all book divs with data-year and data-rating attributes from _notes/ files
 """
 
+import html as html_lib
 import os
 import re
 import urllib.parse
+from datetime import date
 from pathlib import Path
 from bs4 import BeautifulSoup
 
@@ -292,6 +295,73 @@ def ensure_css(notes_md_path):
     return True
 
 
+TODO_MARKER = 'TODO'
+
+STUB_TEMPLATE = """\
+---
+layout: post
+title: {title} - by {todo}
+date: {today}
+permalink: /notes/{slug}
+author_profile: false
+tags:
+  - notes
+---
+
+## *{title}* - by {todo}
+
+Read: {today}
+
+Recommend: {todo}/10
+
+{todo}: a few sentences about the book.
+"""
+
+
+def create_stub_notes(notes_md_path, notes_dir):
+    """Create a stub note for every book linked in notes.md that has no _notes/ file.
+
+    Books without exported highlights would otherwise link to a missing page and
+    get no data-year/data-rating. The stub uses today's date; the author, rating
+    and summary are left as TODO markers for manual editing.
+    """
+    with open(notes_md_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    created = []
+    for href, title in re.findall(r'href="/notes/([^"]+)"[^>]*title="([^"]*)"', content):
+        slug = urllib.parse.unquote(href)
+        note_path = notes_dir / f'{slug}.md'
+        if note_path.exists():
+            continue
+        short_title = get_short_title(html_lib.unescape(title))
+        note_path.write_text(
+            STUB_TEMPLATE.format(title=short_title, slug=slug,
+                                 today=date.today().isoformat(), todo=TODO_MARKER),
+            encoding='utf-8',
+        )
+        created.append(note_path.name)
+
+    return created
+
+
+def find_todo_notes(notes_dir):
+    """Find _notes/ files that still contain TODO markers from a stub."""
+    return sorted(f.name for f in notes_dir.glob('*.md')
+                  if TODO_MARKER in f.read_text(encoding='utf-8'))
+
+
+def find_permalink_mismatches(notes_dir):
+    """Find _notes/ files whose permalink is not /notes/<filename>, which breaks the grid link."""
+    mismatches = []
+    for note_file in notes_dir.glob('*.md'):
+        content = note_file.read_text(encoding='utf-8')
+        match = re.search(r'^permalink:\s*(.+)$', content, re.MULTILINE)
+        if match and match.group(1).strip() != f'/notes/{note_file.stem}':
+            mismatches.append((note_file.name, match.group(1).strip()))
+    return mismatches
+
+
 def find_missing_notes(notes_dir, existing_slugs):
     """Find _notes/ files that are not included in notes.md."""
     missing = []
@@ -344,7 +414,17 @@ def main():
     else:
         print("\nNo HTML provided - skipping book addition step.")
 
-    # Step 3: Extract metadata from _notes/ files
+    # Step 3: Create stub notes for linked books that have no _notes/ file
+    print("\n--- Creating stub notes for books without highlights ---")
+    created_stubs = create_stub_notes(notes_md_path, notes_dir)
+    if created_stubs:
+        print(f"\nCreated {len(created_stubs)} stub notes (dated today):")
+        for filename in created_stubs:
+            print(f"  + _notes/{filename}")
+    else:
+        print("\nEvery linked book already has a note file.")
+
+    # Step 4: Extract metadata from _notes/ files
     print("\n--- Updating data attributes ---")
     metadata = extract_metadata_from_notes(notes_dir)
     print(f"Found metadata for {len(metadata)} note files")
@@ -378,6 +458,13 @@ def main():
     else:
         print("\nAll note files are included in notes.md!")
 
+    mismatches = find_permalink_mismatches(notes_dir)
+    if mismatches:
+        print(f"\nFound {len(mismatches)} notes whose permalink does not match the filename"
+              " (the grid link will be broken):")
+        for filename, permalink in sorted(mismatches):
+            print(f"  ! {filename}: permalink is {permalink}")
+
     # Step 6: Ensure display:block CSS is present for tight title wrapping
     print("\n--- Checking CSS ---")
     if ensure_css(notes_md_path):
@@ -395,6 +482,15 @@ def main():
     print("\n" + "=" * 60)
     print("DONE!")
     print("=" * 60)
+
+    todo_notes = find_todo_notes(notes_dir)
+    if todo_notes:
+        print(f"\nACTION NEEDED: {len(todo_notes)} notes still have {TODO_MARKER} markers.")
+        print("Fill in the author, the Recommend: X/10 rating and a short summary,")
+        print("fix the date if you did not finish the book today, then re-run this script")
+        print("so the rating shows up in the grid:")
+        for filename in todo_notes:
+            print(f"  * _notes/{filename}")
 
 
 if __name__ == '__main__':
