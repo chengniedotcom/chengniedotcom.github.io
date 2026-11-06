@@ -108,5 +108,10 @@
     "latitude": -33.8698439,
     "longitude": 151.2082848,
     "address": "Sydney, New South Wales, Australia"
+  },
+  "San Jose, California": {
+    "latitude": 37.3361663,
+    "longitude": -121.890591,
+    "address": "San Jose, Santa Clara County, California, United States"
   }
 }

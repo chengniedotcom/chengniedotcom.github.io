@@ -1,3 +1,16 @@
+2026_11_04
+==========
+/marathon: ZombieRunner Halloween Marathon (San Jose, CA, Oct 31, 2026, 2:43:18), 27th marathon, 16th US state
+/notes/遥远的向日葵地
+/notes/fresh-off-the-boat
+/notes/少年凯歌
+/notes/棋王树王孩子王
+/notes/病隙碎笔
+/notes/我与地坛
+/notes/the-blank-slate
+/notes/beyond-training
+/notes/撒哈拉的故事
+
 2026_10_13
 ==========
 /chicago2026 and /cn/chicago2026 (Chicago Marathon 2026: new PR 2:36:29, top-10 Chinese runners table + top-100 CSV)
@@ -15,7 +28,6 @@ Site cleanup from to_improve.md audit:
 - lang="zh-CN" on Chinese posts and book notes
 - Stopped tracking _site/
 
-/notes/撒哈拉的故事
 2026_08_30
 ==========
 /notes/how-to-american

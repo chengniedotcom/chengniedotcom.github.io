@@ -1,3 +1,7 @@
+2026_11_04
+----------
+> Are there errors that you can correct before update and push the changes to main? Ask me before you make changes and push. 
+
 2026_10_13
 ----------
 > I have my notes of my marathon racing in Notion: 2026_10_11_ChicagoMarathon. I want you to mimic my voice to write an English blog post and a Chinese blog post at the correct spot. I had my old notes in 2025_10_12_ChicagoMarathon in Notion as well and the corresponding blog posts for the 2025 marathon in 2025-10-18-chicago2025.md and 2025-10-18-cn-chicago2025.md. You can use some of the photos in Notion, more importantly, emphisize what I have learned from that Marathon and what I can improve for the next. 

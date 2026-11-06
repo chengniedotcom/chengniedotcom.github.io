@@ -17,8 +17,15 @@ from bs4 import BeautifulSoup
 # PASTE YOUR GOODREADS WIDGET HTML HERE
 # =============================================================================
 html = r'''
-
-    <div class="gr_grid_book_container"><a title="How to American: An Immigrant's Guide to Disappointing Your Parents" rel="nofollow" href="https://www.goodreads.com/book/show/35959613-how-to-american"><img alt="How to American: An Immigrant's Guide to Disappointing Your Parents" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517784874l/35959613._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="遥远的向日葵地" rel="nofollow" href="https://www.goodreads.com/book/show/38208028"><img alt="遥远的向日葵地" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516957136l/38208028._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Fresh Off the Boat" rel="nofollow" href="https://www.goodreads.com/book/show/15792558-fresh-off-the-boat"><img alt="Fresh Off the Boat" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349367756l/15792558._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="棋王·树王·孩子王" rel="nofollow" href="https://www.goodreads.com/book/show/51635116"><img alt="棋王·树王·孩子王" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582517645l/51635116._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="少年凯歌" rel="nofollow" href="https://www.goodreads.com/book/show/53362210"><img alt="少年凯歌" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589126453l/53362210._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="病隙碎笔" rel="nofollow" href="https://www.goodreads.com/book/show/19309775"><img alt="病隙碎笔" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386593387l/19309775._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="我与地坛" rel="nofollow" href="https://www.goodreads.com/book/show/18048869"><img alt="我与地坛" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484362812l/18048869._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Blank Slate: The Modern Denial of Human Nature" rel="nofollow" href="https://www.goodreads.com/book/show/5752.The_Blank_Slate"><img alt="The Blank Slate: The Modern Denial of Human Nature" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925462l/5752._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Beyond Training: Mastering Endurance, Health & Life" rel="nofollow" href="https://www.goodreads.com/book/show/18596602-beyond-training"><img alt="Beyond Training: Mastering Endurance, Health & Life" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386921141l/18596602._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="撒哈拉的故事" rel="nofollow" href="https://www.goodreads.com/book/show/1207884._"><img alt="撒哈拉的故事" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336307076l/1207884._SX50_.jpg" /></a></div>
 '''
 # =============================================================================
 

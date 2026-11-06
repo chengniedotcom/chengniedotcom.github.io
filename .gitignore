@@ -14,3 +14,7 @@ main.py
 test.js
 _pages/test.py
 *.swp
+
+# Local-only files
+.ruby-version
+to_improve.md
