@@ -1,3 +1,12 @@
+2026_11_07
+==========
+/shot-ready and /cn/shot-ready (Shot Ready by Stephen Curry, book review EN + CN)
+/undisputed-truth and /cn/undisputed-truth (Undisputed Truth by Mike Tyson, book review EN + CN)
+/notes/稻草人手记
+/notes/人生的智慧
+/notes/100个人生遗愿
+- Sidebar: author avatar stays square and fills the column (capped at 175px)
+
 2026_11_04
 ==========
 /marathon: ZombieRunner Halloween Marathon (San Jose, CA, Oct 31, 2026, 2:43:18), 27th marathon, 16th US state

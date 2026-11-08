@@ -5,6 +5,7 @@
   and deep-learning-for-finance.md by just adding the information there. Can you streamline the process for me. For example, I think we can find
   such books when running note_add_text_filters.py and fill in most of the information with correct file name and remind me in the output I need to
   manuualy change something. Also, fix the issue for the sight reading book by creating a markdown file following the template md file.
+> I've updated the sight reading book detail. Push changes to github after update.
 
 2026_10_13
 ----------
